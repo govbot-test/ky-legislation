@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HR4",
+  "title": "A RESOLUTION adopting the Rules of Procedure for the 2026 Regular Session of the House of Representatives.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "General Assembly"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Adopt the Rules of Procedure for the 2026 Regular Session of the House of Representatives."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hr4"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Burke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Burke\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hr4/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hr4.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1538"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

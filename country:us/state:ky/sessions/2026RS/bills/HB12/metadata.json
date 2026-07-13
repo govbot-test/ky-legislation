@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB12",
+  "title": "AN ACT relating to privacy for members of the General Assembly.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Actions",
+    "Civil Procedure",
+    "General Assembly",
+    "Local Mandate",
+    "Public Records And Reports",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 61.7991 to add current members of the General Assembly and their immediate family members to the definition of \"covered person\"; authorize standing for a civil action for injunctive or declaratory relief for unauthorized disclosure; provide that the removal of information does not apply to required disclosures under KRS Chapter 6 or 61."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb12"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Burke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Burke\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb12/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb12/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb12.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "164"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

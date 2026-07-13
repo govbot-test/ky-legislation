@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB11",
+  "title": "AN ACT relating to independent school districts.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boards And Commissions",
+    "Bonds, Public",
+    "Cities",
+    "County Clerks",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Education, Vocational",
+    "Elections And Voting",
+    "Local Government",
+    "Property",
+    "Public Buildings And Grounds",
+    "Redistricting",
+    "State Agencies",
+    "Taxation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 160 to establish a process for the creation of new independent school districts from a persistently underperforming school district; define terms; establish the process for a local legislative body where a persistently underperforming school district is located to place the question of creating new independent districts and local boards of education on the ballot; specify the requirements for the questions and the board of education provisional election; establish the initial terms of office for the interim board of education; establish the transition of authorities from the originating district board of education to the boards of both the altered originating district and the new independent district; require the Kentucky Department of Education to calculate assets and liabilities of the originating district for division to the new independent districts; authorize the originating district to maintain control and use of assets until the scheduled transfer to the new independent districts and authorize the continued payments of debts; establish a negotiation process between the originating district and the new independent districts to resolve the division of the originating district's assets and liabilities; establish a deadline for the negotiation to conclude; provide a process for resolution of disagreements; establish a deadline for the transfer of all assets and debts; authorize the originating district to continue to assess and collect taxes for all districts until the close of the tax year in which the new independent districts are fully operational; provide for the distribution of collected taxes during the transition period; require the county judge/executive to call the newly elected interim boards of new independent districts to meet; allow the interim board to request assistance from the Kentucky Department of Education; establish the transition process for new independent districts to become fully functional; allow the interim board to submit a waiver request for a statute or administrative regulation to the Kentucky Board of Education; authorize the interim board to enter into service contracts with another school district during the transition; establish a process for the interim board to vote to terminate the establishment of the new independent district due to financial nonviability during the transition; establish the transition from an interim board to a fully functional board of the new independent district; require the continued collection of taxes restricted to the payment of debt or interest; waive the requirement for school-based decision making for the first year of operations of the new independent district; require the interim board of the new independent district to develop a transition plan and establish the requirements of the plan; create a new section of KRS Chapter 157, relating to state formula funding calculations, to establish a projection model for the first year of full operations of the new independent district and the altered originating district."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb11"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Bauman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Bauman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb11/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb11.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "944"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

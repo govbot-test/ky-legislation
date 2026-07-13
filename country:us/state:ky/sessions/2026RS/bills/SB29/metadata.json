@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB29",
+  "title": "AN ACT relating to solid waste management facilities.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Counties",
+    "Environment And Conservation",
+    "Fees",
+    "Local Government",
+    "Special Districts",
+    "Waste Management"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 109 to prohibit the imposition of fees or permitting requirements on a solid waste management facility that is handling solid waste that was generated outside of the county or waste management district where the solid waste management facility is located, by the county or waste management district where solid waste was generated."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb29"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "G. Elkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Elkins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb29/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb29.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1427"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

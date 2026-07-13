@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB15",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to Medicaid expansion.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Federal Laws And Regulations",
+    "Local Mandate",
+    "Medicaid",
+    "Public Health",
+    "Secretary Of State"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Propose to create a new section of the Constitution of Kentucky to enshrine Medicaid expansion coverage; direct the Secretary of State to advertise the proposed constitutional amendment prior to a general election vote; provide ballot language; submit to voters for ratification or rejection."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb15"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Burke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Burke\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb15/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb15/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb15.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1441"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

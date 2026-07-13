@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB14",
+  "title": "AN ACT relating to paid maternity leave for state employees.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Labor And Industry",
+    "Legislative Research Commission",
+    "Personnel And Employment",
+    "State Agencies",
+    "State Employees",
+    "Women"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 61 to define \"full-time position\" and \"qualifying employee\"; permit a qualifying employee paid leave of absence of up to 30 days for the birth of a child; require leave of more than 1 child during a singular pregnancy to be taken concurrently; require the employee to use the leave within one year of the child's birth; require the employee to use the leave as a continuous 30-day block or as a 20-day block with the remainder to be used intermittently as full days; require the employee to request advance approval before using the leave; require the employee to use the paid leave before other types of accrued leave; require compliance with the Family and Medical Leave Act; specify that any other type of leave not specified does not qualify for paid maternity leave; prohibit an employee from converting the unused balance of paid maternity leave to other types of paid leave, benefits, or compensation; require any administrative regulation in conflict with this Act to be amended, withdrawn, or repealed within 90 days of the effective date of the Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb14"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Deneen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Deneen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb14/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb14.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "182"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

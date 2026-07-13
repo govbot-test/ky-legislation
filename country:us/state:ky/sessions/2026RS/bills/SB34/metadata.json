@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB34",
+  "title": "AN ACT relating to the transfer of property upon death.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children And Minors",
+    "Civil Actions",
+    "Civil Procedure",
+    "County Clerks",
+    "Courts, District",
+    "Deaths",
+    "Deeds And Conveyances",
+    "Federal Laws And Regulations",
+    "Fiduciaries",
+    "Medicaid",
+    "Motor Vehicles",
+    "Property",
+    "Real Estate",
+    "Short Titles And Popular Names",
+    "State Agencies",
+    "Taxation, Inheritance And Estate",
+    "Taxation, Property",
+    "Uniform Laws",
+    "Wills, Trusts, And Estates"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 391 to establish the Kentucky Uniform Real Property Transfer on Death Act to codify provisions for the creation, administration, modification, termination, and validity of transfer on death deeds; define terms; specify that a transfer on death deed is not an inter vivos transfer and that the transfer occurs at the time of the transferor's death; specify that the transferor retains the power to revoke a transfer on death deed; establish that a transfer on death deed is nontestamentary; establish requirements for a transfer on death deed and specify the process of recording a transfer on death deed; specify that a transfer on death deed is effective without acceptance by the beneficiary during the transferor's lifetime; establish provisions for the revocation of a transfer on death deed by instrument or act; establish the effect of a transfer on death deed during the transferor's life; allow a beneficiary to disclaim the property interest in the deed; establish a form for creating at transfer on death deed; establish a form for revocation of a transfer on death deed; require the Department of Revenue to provide the established forms; specify the applicability of KRS Chapter 391; conform to federal requirements related to electronic signatures and records; amend KRS 64.012 to provide the recording fee for a transfer on death deed or revocation; require the Department of Medicaid Services to prescribe and provide a form requiring information related to any Medicaid lien; provide that Sections 1 to 14 of this Act may be cited as the Uniform Real Property Transfer on Death Act; Amend KRS 381.280, 382.110, 382.135, 391.360, 392.020, 392.070, and 403.190 to conform; create a new section of KRS Chapter 186A to define terms; establish requirements for a transfer of a vehicle's title to a named beneficiary upon the death of the owner; direct the Transportation Cabinet to develop a form for transfer; amend KRS 395.455 to dispense with administration of an estate and transfer property under certain circumstances relating to minors and payment of preferred claims."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb34"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Rawlings",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Rawlings\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb34/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb34.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "24"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

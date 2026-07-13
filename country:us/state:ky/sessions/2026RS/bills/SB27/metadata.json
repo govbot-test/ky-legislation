@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB27",
+  "title": "AN ACT relating to cremation of dead bodies.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cemeteries And Burials",
+    "Coroners",
+    "Counties",
+    "Deaths",
+    "Local Government",
+    "Local Mandate",
+    "Religion"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 72.450 to allow a coroner who is in possession of an unclaimed dead body to have the body buried or cremated; direct that the decision between burial or cremation be made by the governmental entity bearing the expense; require a coroner to be consulted before a government entity decides if an unclaimed dead body is required to be buried or cremated; establish that if Jewish descent is known, that the Chabad of the Bluegrass, or any successor entity, be contacted by the appropriate government entity to inquire if the Chabad of the Bluegrass wants to pay for the burial expense, or if known to be a member of a religious community, the appropriate government entity contact any such religious community that has expressed, in writing, a willingness to the local county coroner that it will pay for, or otherwise provide, the burial expense of the community's members.\n ."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb27"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "G. Elkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Elkins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb27/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb27/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb27.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1272"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

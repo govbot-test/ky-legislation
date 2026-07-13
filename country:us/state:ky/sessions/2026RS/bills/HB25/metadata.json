@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB25",
+  "title": "AN ACT relating to coverage for scalp cooling systems used in connection with chemotherapy treatment for breast cancer.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of Subtitle 17A of KRS Chapter 304 to define terms; require health plans to provide coverage for scalp cooling systems used in connection with chemotherapy treatment for breast cancer; suspend the coverage requirement's application to qualified health plans if the state would be required to make cost defrayal payments; amend KRS 304.17A-099 to conform; amend KRS 304.17C-125, 164.2871, and 18A.225  to require limited health service benefit plans, self-insured employer plans provided by the governing board of a state postsecondary education institution, and the state employee health plan to comply with the coverage requirement for scalp cooling systems; provide that certain provisions apply to health plans issued or renewed on or after January 1, 2027; EFFECTIVE, in part, January 1, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb25"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Burke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Burke\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb25/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb25/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb25.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1069"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

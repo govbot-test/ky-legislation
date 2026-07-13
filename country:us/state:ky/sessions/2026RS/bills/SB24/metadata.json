@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB24",
+  "title": "AN ACT relating to traffic control signal monitoring systems.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts",
+    "Highways, Streets, And Bridges",
+    "Motor Vehicles",
+    "Traffic Safety",
+    "Transportation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 189 to define \"agency,\" \"owner,\" \"recorded images,\" and \"traffic control signal monitoring system\"; establish a civil penalty of $50 if a motor vehicle is recorded failing to obey the instructions of a traffic control device; set forth forms and procedures; outline defenses for citations for failing to obey a traffic control device; mandate that the Transportation Cabinet shall suspend the registration of the motor vehicle when a person refuses to pay the civil penalty and does not appear to contest the citation; mandate that civil penalties shall not result in points against the driving record of the operator of the motor vehicle in violation; amend KRS 189.231 and 189.990 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb24"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. Thomas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Thomas\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb24/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb24.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1319"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}

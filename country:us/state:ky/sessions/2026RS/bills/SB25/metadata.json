@@ -1,0 +1,155 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB25",
+  "title": "AN ACT relating to geoengineering.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Environment And Conservation",
+    "Notices",
+    "Pollution",
+    "Public Safety"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 512 to define terms; make criminal atmospheric pollution a Class D felony; require that a person found guilty of criminal atmospheric pollution pay a civil penalty of not less than $500,000 in addition to all other penalties authorized by law; provide that each day that a person engages in criminal atmospheric pollution constitutes a separate offense; empower all peace officers of the Commonwealth to enforce the prohibition on criminal atmospheric pollution; require an arresting officer to issue a notice to any federal agency that approved the action that those activities cannot be lawfully carried out in the Commonwealth."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb25"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Rawlings",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Rawlings\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Funke Frommeyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Funke Frommeyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Elkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Elkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Madon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Madon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Mays Bledsoe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Mays Bledsoe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Reed",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Reed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Tichenor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Tichenor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb25/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb25.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "18"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:43Z"
+  }
+}
