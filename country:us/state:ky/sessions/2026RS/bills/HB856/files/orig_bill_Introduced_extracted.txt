@@ -1,0 +1,179 @@
+Title: 1 AN ACT relating to data centers.
+Official Title: 1 AN ACT relating to data centers.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 486
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF SUBCHAPTER 10 OF KRS CHAPTER
+4 224 IS CREATED TO READ AS FOLLOWS:
+5 (1) As used in this section, "data center" means:
+6 (a) A qualified data center project that has been approved for a certificate of
+7 exemption under KRS 139.499; or
+8 (b) A centralized facility that:
+9 1. Is used primarily or exclusively for electronic information services,
+10 including but not limited to the management, storage, processing, and
+11 dissemination of electronic data and information through the use of
+12 computer systems, servers, networking equipment, and related
+13 components;
+14 2. Has electrical load that is either fixed, portable, or distributable,
+15 including but not limited to structures that are not affixed to the
+16 ground or are easily removed from a location;
+17 3. Has an expected or actual peak of real-time energy demand of fifteen
+18 (15) megawatts or greater; and
+19 4. Has an expected or actual monthly load factor of sixty percent (60%)
+20 or greater.
+21 (2) A data center shall not commence operations unless it has the approval from the
+22 cabinet pursuant to the requirements of this section.
+23 (3) (a) To obtain approval from the cabinet to begin operations, an owner of a data
+24 center shall submit a water feasibility study to the cabinet to determine if
+25 there is an adequate supply of water for the data center's proposed use and
+26 to estimate the impact of the use on existing wells, groundwater, and
+27 surface waters in the vicinity.
+Page 1 of 3
+XXXX 3/3/2026 1:53 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 486
+1 (b) A water feasibility study shall not be approved by the cabinet unless the
+2 study demonstrates that the anticipated water supply yield is adequate for
+3 the project and that the proposed water withdrawals and discharges will not
+4 endanger or adversely affect the quantity or quality of groundwater supplies
+5 or surface waters in the vicinity.
+6 (c) The water feasibility study shall include the following information:
+7 1. The projected water demands of the data center;
+8 2. The source of water to be used;
+9 3. A description of how water will be used, including the amount or
+10 portion of water to be used for each purpose, including but not limited
+11 to cooling, humidity control, fire suppression, and domestic usage;
+12 4. The long-term safe yield of the water source;
+13 5. A description of the amount or portion of water withdrawn that will be
+14 recycled or discharged and by what means;
+15 6. A geologic map of the area with a radius of at least one (1) mile from
+16 the site;
+17 7. The location of all existing and proposed wells within one thousand
+18 (1,000) feet of the property boundary, with a notation of the capacity
+19 of all high-yield wells;
+20 8. The location of all surface waters, including perennial and
+21 intermittent streams, rivers, lakes, reservoirs, ponds, wetlands, springs,
+22 natural seeps, and estuaries, within one thousand (1,000) feet of the
+23 data center's property boundary;
+24 9. A determination of the effects of the proposed water supply system on
+25 the quantity and quality of water in nearby wells, surface waters, and
+26 the groundwater table;
+27 10. A statement of the qualifications and the signature of all persons
+Page 2 of 3
+XXXX 3/3/2026 1:53 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 486
+1 preparing the study; and
+2 11. Any other information that the cabinet may require.
+3 (4) All data centers shall submit to the cabinet an annual water usage report, the
+4 required contents of which shall be determined by the cabinet and set forth in
+5 administrative regulations promulgated pursuant to KRS Chapter 13A by the
+6 cabinet on or before December 1, 2026. A data center shall submit its annual
+7 water usage report pursuant to the following schedule:
+8 (a) A data center which has already commenced operations before the effective
+9 date of this Act shall submit its report to the cabinet by July 1, 2027, and
+10 each July 1 thereafter; and
+11 (b) A data center which commences operation after the effective date of this Act
+12 shall submit its report by July 1 of the year following its initial water
+13 feasibility study approval, and each July 1 thereafter.
+14 (5) The cabinet may promulgate administrative regulations in accordance with KRS
+15 Chapter 13A to give effect to the requirements of this section.
+Page 3 of 3
+XXXX 3/3/2026 1:53 PM Jacketed
+[DELETED:   2  J A B S 2 ( A ( A e ( A 1 I u p o e f e i s i d c s s n e a r c 2 H e l t i e f p o d i b n l t s t a n a t t g 3 H ( 4 H o ( A c ( ( T c t t e t i o t u o e w g a s]
+[DELETED:   2  J ( A w f s s n b a b t c u t s t e o ( T 1 T 2 T 3 A d o h w w b u i t a o p t 4 T 5 A r 6 A t 7 T ( o 8 T l o a s w i p a i n d 9 A t t 1 A s o t q a t s o a p]
+[DELETED:   2  J p 1 A ( A r a r p p t K C 1 b t c w ( A d e ( A s s i r b J 1 o t y f i i w f ( T C]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 486
+1 AN ACT relating to data centers.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF SUBCHAPTER 10 OF KRS CHAPTER
+4 224 IS CREATED TO READ AS FOLLOWS:
+5 (1) As used in this section, "data center" means:
+6 (a) A qualified data center project that has been approved for a certificate of
+7 exemption under KRS 139.499; or
+8 (b) A centralized facility that:
+9 1. Is used primarily or exclusively for electronic information services,
+10 including but not limited to the management, storage, processing, and
+11 dissemination of electronic data and information through the use of
+12 computer systems, servers, networking equipment, and related
+13 components;
+14 2. Has electrical load that is either fixed, portable, or distributable,
+15 including but not limited to structures that are not affixed to the
+16 ground or are easily removed from a location;
+17 3. Has an expected or actual peak of real-time energy demand of fifteen
+18 (15) megawatts or greater; and
+19 4. Has an expected or actual monthly load factor of sixty percent (60%)
+20 or greater.
+21 (2) A data center shall not commence operations unless it has the approval from the
+22 cabinet pursuant to the requirements of this section.
+23 (3) (a) To obtain approval from the cabinet to begin operations, an owner of a data
+24 center shall submit a water feasibility study to the cabinet to determine if
+25 there is an adequate supply of water for the data center's proposed use and
+26 to estimate the impact of the use on existing wells, groundwater, and
+27 surface waters in the vicinity.
+Page 1 of 3
+XXXX 3/3/2026 1:53 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 486
+1 (b) A water feasibility study shall not be approved by the cabinet unless the
+2 study demonstrates that the anticipated water supply yield is adequate for
+3 the project and that the proposed water withdrawals and discharges will not
+4 endanger or adversely affect the quantity or quality of groundwater supplies
+5 or surface waters in the vicinity.
+6 (c) The water feasibility study shall include the following information:
+7 1. The projected water demands of the data center;
+8 2. The source of water to be used;
+9 3. A description of how water will be used, including the amount or
+10 portion of water to be used for each purpose, including but not limited
+11 to cooling, humidity control, fire suppression, and domestic usage;
+12 4. The long-term safe yield of the water source;
+13 5. A description of the amount or portion of water withdrawn that will be
+14 recycled or discharged and by what means;
+15 6. A geologic map of the area with a radius of at least one (1) mile from
+16 the site;
+17 7. The location of all existing and proposed wells within one thousand
+18 (1,000) feet of the property boundary, with a notation of the capacity
+19 of all high-yield wells;
+20 8. The location of all surface waters, including perennial and
+21 intermittent streams, rivers, lakes, reservoirs, ponds, wetlands, springs,
+22 natural seeps, and estuaries, within one thousand (1,000) feet of the
+23 data center's property boundary;
+24 9. A determination of the effects of the proposed water supply system on
+25 the quantity and quality of water in nearby wells, surface waters, and
+26 the groundwater table;
+27 10. A statement of the qualifications and the signature of all persons
+Page 2 of 3
+XXXX 3/3/2026 1:53 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 486
+1 preparing the study; and
+2 11. Any other information that the cabinet may require.
+3 (4) All data centers shall submit to the cabinet an annual water usage report, the
+4 required contents of which shall be determined by the cabinet and set forth in
+5 administrative regulations promulgated pursuant to KRS Chapter 13A by the
+6 cabinet on or before December 1, 2026. A data center shall submit its annual
+7 water usage report pursuant to the following schedule:
+8 (a) A data center which has already commenced operations before the effective
+9 date of this Act shall submit its report to the cabinet by July 1, 2027, and
+10 each July 1 thereafter; and
+11 (b) A data center which commences operation after the effective date of this Act
+12 shall submit its report by July 1 of the year following its initial water
+13 feasibility study approval, and each July 1 thereafter.
+14 (5) The cabinet may promulgate administrative regulations in accordance with KRS
+15 Chapter 13A to give effect to the requirements of this section.
+Page 3 of 3
+XXXX 3/3/2026 1:53 PM Jacketed
+
+[DELETED:   2  J A B S 2 ( A ( A e ( A 1 I u p o e f e i s i d c s s n e a r c 2 H e l t i e f p o d i b n l t s t a n a t t g 3 H ( 4 H o ( A c ( ( T c t t e t i o t u o e w g a s]
+[DELETED:   2  J ( A w f s s n b a b t c u t s t e o ( T 1 T 2 T 3 A d o h w w b u i t a o p t 4 T 5 A r 6 A t 7 T ( o 8 T l o a s w i p a i n d 9 A t t 1 A s o t q a t s o a p]
+[DELETED:   2  J p 1 A ( A r a r p p t K C 1 b t c w ( A d e ( A s s i r b J 1 o t y f i i w f ( T C]

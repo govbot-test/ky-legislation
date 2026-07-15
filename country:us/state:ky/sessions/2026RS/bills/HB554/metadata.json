@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ky"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-15T13:54:55Z"
+    "logs_latest_update": "2026-07-15T13:54:55Z",
+    "text_extraction_latest_update": "2026-07-15T18:40:31.888897Z"
   }
 }
