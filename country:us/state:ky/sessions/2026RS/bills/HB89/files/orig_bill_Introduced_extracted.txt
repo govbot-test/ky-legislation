@@ -1,0 +1,1142 @@
+Title: 1 AN ACT relating to medical imaging and radiation therapy licensure.
+Official Title: 1 AN ACT relating to medical imaging and radiation therapy licensure.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 1178
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 311B.020 is amended to read as follows:
+4 As used in this chapter, unless the context clearly requires otherwise:
+5 (1) "Accredited educational program" means a program that is approved by a national
+6 organization acceptable to the board to provide education in medical imaging or
+7 radiation therapy;
+8 (2) "Actively employed" means an individual who is appropriately credentialed and
+9 currently employed as an advanced imaging professional, medical imaging
+10 technologist, radiation therapist, an educator or administrator in any of these
+11 disciplines, or a limited X-ray machine operator;
+12 (3) "Advanced imaging professional" means an individual who is credentialed by a
+13 national[nationally recognized certification] organization that is recognized by the
+14 board;
+15 (4) "Authorized user" means a physician, dentist, or podiatrist identified on a
+16 radioactive materials license that authorizes the medical use of radioactive materials
+17 if the license was issued by:
+18 (a) The Cabinet for Health and Family Services;
+19 (b) The United States Nuclear Regulatory Commission; or
+20 (c) Another United States Nuclear Regulatory Commission agreement state;
+21 (5) "Board" means the Kentucky Board of Medical Imaging and Radiation Therapy;
+22 (6) ["Credentialed" means someone who is certified and registered by an appropriate
+23 national organization that is recognized by the board;
+24 (7) ]"Continuing education" means a learning activity that is planned, organized, and
+25 administered to enhance the professional knowledge and skills of a licensed
+26 individual of medical imaging or radiation therapy to provide services for patients,
+27 the public, or the medical profession;
+Page 1 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 (7) "Credentialed" means someone who is certified and registered by an appropriate
+2 national organization that is recognized by the board;
+3 (8) "Diagnostic medical sonographer" means an individual who is authorized to
+4 utilize nonionizing, high-frequency sound waves with specialized equipment to
+5 generate images for diagnostic purposes;
+6 (9) "Ionizing radiation":
+7 (a) Means alpha particles, beta particles, gamma rays, X-rays, neutrons, high-
+8 speed electrons, high-speed protons, or other particles capable of producing
+9 ions; and
+10 (b) Does not include nonionizing radiation;
+11 (10) "Licensed practitioner" or "licensed practitioner of the healing arts" means a person
+12 licensed in Kentucky to practice medicine, osteopathy, dentistry, chiropractic,
+13 podiatry, or veterinary medicine;
+14 (11)[(9)] "Limited X-ray machine operator" means an individual who performs limited
+15 radiographic procedures that shall not include contrast studies, fluoroscopy,
+16 magnetic resonance imaging, diagnostic medical sonography, nuclear medicine,
+17 or radiation therapy procedures;
+18 (12) "Magnetic resonance imaging technologist" means an individual who is
+19 authorized to perform medical imaging that utilizes radiofrequency transmission
+20 within a high-strength magnetic field for diagnostic or therapeutic purposes;
+21 (13)[(10)] "Medical imaging technologist":
+22 (a) 1. Means an individual who has completed an accredited educational
+23 program in radiography, nuclear medicine, or other imaging modality
+24 recognized by the board and who is licensed and granted privileges
+25 under this chapter[. An individual licensed as a medical imaging
+26 technologist or a limited X-ray machine operator shall be employed to
+27 perform medical imaging at a facility where contrast studies,
+Page 2 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 fluoroscopy, nuclear medicine, or radiation therapy procedures are
+2 performed, but a limited X-ray machine operator may only perform
+3 limited diagnostic radiography]; and
+4 2. Does not include a limited X-ray machine operator; and
+5 (b) Shall only administer contrast media and other medications when a licensed
+6 practitioner of the healing arts or an advanced practice registered nurse is
+7 immediately available in person to ensure proper diagnosis and treatment of
+8 adverse events;
+9 (14)[(11)] "National organization" means:
+10 (a) The American Society of Radiologic Technologists;
+11 (b) The Nuclear Medicine Technology Certification Board;
+12 (c) The American Registry of Radiologic Technologists;
+13 (d) The Society of Nuclear Medicine and Molecular Imaging[Technologist
+14 Section];
+15 (e) The Joint Review Committee on Education in Radiologic Technology;
+16 (f) The Joint Review Committee on Educational Programs in Nuclear Medicine
+17 Technology;
+18 (g) The American College of Radiology;[ or]
+19 (h) American Registry for Diagnostic Medical Sonography;
+20 (i) The Joint Review Committee on Education in Diagnostic Medical
+21 Sonography;
+22 (j) Society of Diagnostic Medical Sonography;
+23 (k) American Institute of Ultrasound in Medicine;
+24 (l) Cardiovascular Credentialing International;
+25 (m) American Registry of Magnetic Resonance Imaging Technologists; or
+26 (n) Another national organization recognized by the board;
+27 (15) "Nonionizing radiation" includes radiation such as radiofrequency or
+Page 3 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 microwaves, visible, infrared, or ultraviolet light or ultrasound;
+2 (16)[(12)] "Nuclear medicine technologist" means an individual who is authorized to
+3 prepare and administer radiopharmaceuticals, pharmaceuticals, and radionuclides
+4 under the direction of an authorized user to perform nuclear medicine procedures
+5 for diagnostic and therapeutic purposes;
+6 (17)[(13)] "Post-primary certification" means an individual who has primary
+7 certification and has been awarded post-primary certification by a national
+8 organization that has been recognized by the board;
+9 (18)[(14)] "Primary certification" means an individual who has successfully completed a
+10 formal educational program and certification in radiography, nuclear medicine,
+11 radiation therapy, or other modality recognized by the board;
+12 (19)[(15)] "Radiation therapist" means an individual who:
+13 (a) Has completed an accredited educational program in radiation therapy;
+14 (b) Is licensed by the board;[ and]
+15 (c) Is authorized to utilize ionizing radiation-generating equipment and sources of
+16 radiation for the planning, localization, and delivery of therapeutic procedures
+17 on human beings; and
+18 (d) Shall only administer contrast media and other medications when a licensed
+19 practitioner of the healing arts or an advanced practice registered nurse is
+20 immediately available in person to ensure proper diagnosis and treatment of
+21 adverse events; and
+22 (20)[(16)] "Radiographer" means an individual who is authorized to use ionizing
+23 radiation-generating equipment to perform a comprehensive scope of diagnostic
+24 imaging procedures and is responsible for the operation of radiation-generating
+25 equipment, protecting the patient and staff from unnecessary radiation, and
+26 selecting the appropriate exposure to produce diagnostic images with the lowest
+27 reasonable exposure.
+Page 4 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 Section 2. KRS 311B.030 is amended to read as follows:
+2 (1) The Kentucky Board of[for] Medical Imaging and Radiation Therapy is hereby
+3 created to promote, preserve, and protect the public health, safety, and welfare of
+4 the citizens of the Commonwealth of Kentucky by regulating and licensing
+5 individuals who use ionizing or nonionizing radiation as advanced imaging
+6 professionals, medical imaging technologists, radiographers, radiation therapists,
+7 nuclear medicine technologists, magnetic resonance imaging technologists,
+8 diagnostic medical sonographers, limited X-ray machine operators, or any
+9 combination of professions licensed under this chapter. The board shall consist of
+10 eleven (11)[nine (9)] members appointed by the Governor, with the following
+11 qualifications:
+12 (a) Two (2) members shall be licensed radiographers whose primary work
+13 responsibilities are related to general diagnostic radiography;
+14 (b) Two (2) members shall be licensed radiographers with a post-primary
+15 certification and whose primary work responsibilities are related to that post-
+16 primary certification;
+17 (c) One (1) member shall be a licensed nuclear medicine technologist;
+18 (d) One (1) member shall be a licensed radiation therapist;
+19 (e) One (1) member shall be a licensed limited X-ray machine operator;
+20 (f) One (1) member shall be a licensed medical imaging technologist or therapist
+21 who serves as an educator in an accredited program or as an administrator in a
+22 medical imaging or radiation therapy department;[ and]
+23 (g) One (1) member shall be a licensed diagnostic medical sonographer whose
+24 primary work responsibilities are related to diagnostic medical sonography;
+25 (h) One (1) member shall be a licensed magnetic resonance imaging
+26 technologist; and
+27 (i) One (1) member shall be an at-large individual[ at-large] from the general
+Page 5 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 public with no family or business relation to health care but with an interest in
+2 the rights of consumers of health services.
+3 (2) All board members, except the at-large member, shall have at least five (5) years of
+4 experience in their respective areas of certification or licensure and shall maintain
+5 active registry or certification and Kentucky licensure in medical imaging or
+6 radiation therapy during the term as a board member. Each board member shall be a
+7 resident of Kentucky or actively employed in medical imaging or radiation therapy
+8 in Kentucky, and shall be in good standing with the board.
+9 (3) (a) By May 1 of years in which terms expire, nominations of individuals for
+10 appointment to the board shall be submitted to the Governor and may be made
+11 by citizens of the Commonwealth of Kentucky through the Kentucky Society
+12 of Radiologic Technologists, the Kentucky Society of Nuclear Medicine
+13 Technologists, the board, or other professional imaging or radiation therapy
+14 organizations that are recognized by the board.
+15 (b) No two (2) board members shall be residents of the same county.
+16 (c) A minimum of two (2) names per appointment shall be submitted to the
+17 Governor.
+18 (4) The Governor shall make each appointment by September 1 for terms beginning
+19 November 1 of that same year. The initial terms of appointment shall be staggered
+20 with five (5) members appointed for four (4) years and four (4) members appointed
+21 for two (2) years. Thereafter, members shall be appointed to the board for terms of
+22 four (4) years, expiring on October 31 of the fourth year. A board member may
+23 serve two (2) consecutive appointments. After a second consecutive appointment,
+24 that individual may not be reappointed until at least one (1) full year has passed.
+25 Section 3. KRS 311B.050 is amended to read as follows:
+26 The board shall:
+27 (1) Administer and enforce this chapter. The board alone shall have this authority;
+Page 6 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 (2) Have the authority to recognize and enforce the current rules and administrative
+2 regulations, practice standards, scopes of practice, and ethical standards of the
+3 recognized national organizations and certifying bodies for technologists and
+4 therapists regulated under this chapter;
+5 (3) Have the authority to issue advisory opinions or declaratory rulings dealing with
+6 the practice of medical imaging and radiation therapy;
+7 (4) Promulgate administrative regulations in accordance with KRS Chapter 13A to
+8 administer and enforce this chapter;
+9 (5)[(3)] Issue and renew the licenses of duly qualified applicants, following
+10 procedures established by the board through the promulgation of administrative
+11 regulations;
+12 (6)[(4)] Determine and enforce continuing education requirements and establish
+13 guidelines for approval of continuing education;
+14 (7)[(5)] Approve accredited educational programs of imaging or radiation therapy and
+15 monitor compliance with the educational standards established by the individual
+16 disciplines, as recognized by the board;
+17 (8)[(6)] Designate funds for scholarships, program development, or continued
+18 education;
+19 (9)[(7)] Investigate suspected or alleged violations of this chapter, conduct hearings
+20 and record minutes, resolve the allegations, and, if appropriate, impose sanctions or
+21 penalties; and
+22 (10)[(8)] Submit an annual report to the Governor and the Legislative Research
+23 Commission that provides information concerning the board's work regarding
+24 licensure of professionals under this chapter and that lists all hearings conducted by
+25 the board and the decisions rendered.
+26 Section 4. KRS 311B.090 is amended to read as follows:
+27 (1) A[No] person shall not engage or attempt to engage in the operation of radiation-
+Page 7 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 producing equipment or the administration of ionizing or nonionizing radiation for
+2 the purpose of medical imaging or radiation therapy in Kentucky unless licensed in
+3 accordance with[ the provisions of] this chapter.
+4 (2) This chapter shall not apply to any individual licensed in the Commonwealth of
+5 Kentucky as a licensed practitioner of the healing arts, any student enrolled in an
+6 approved educational program in medical imaging technology or radiation therapy
+7 while completing the clinical requirements of the educational program, or any
+8 employee of the federal government engaged in the performance of official duties
+9 within the state.
+10 (3) Misuse of regulated credentials shall result in disciplinary action by the board in
+11 addition to possible action by the credentialing agency.
+12 (4) [Nothing in ]This chapter and[or in] the administrative regulations promulgated by
+13 the board pursuant to this chapter shall not be interpreted to:
+14 (a) Limit or restrict a licensed health care practitioner,[ or] provider, or
+15 professional from engaging in the full scope of practice authorized by the
+16 license for that person's profession, training, or services; or
+17 (b) Prohibit any person from utilizing:
+18 1. Ultrasounds for therapeutic purposes; or
+19 2. Nonmedical ultrasounds for entertainment purposes, or keepsake
+20 ultrasounds that are generated without a medical indication to view or
+21 record images of a fetus.
+22 Section 5. KRS 311B.100 is amended to read as follows:
+23 (1) The following individuals are required to apply for and receive a license from the
+24 Commonwealth of Kentucky before performance of any procedures utilizing
+25 ionizing or nonionizing radiation for either medical imaging or radiation therapy:
+26 (a) Advanced imaging professionals;
+27 (b) Medical imaging technologists;
+Page 8 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 (c) Radiographers;
+2 (d) Radiation therapists;
+3 (e) Nuclear medicine technologists;[ and]
+4 (f) Magnetic resonance imaging technologists, except as provided in subsection
+5 (4) of this section;
+6 (g) Diagnostic medical sonographers, except as provided in subsection (4) of
+7 this section; and
+8 (h) Limited X-ray machine operators.
+9 (2) Qualifications for the above categories shall be established by the board through the
+10 promulgation of administrative regulations in accordance with KRS Chapter 13A.
+11 The board may also identify other specialties or categories of duties consistent with
+12 this chapter through the promulgation of administrative regulations in accordance
+13 with KRS Chapter 13A.
+14 (3) An applicant for licensure under subsection (1)(a) to (g)[(e)] of this section who did
+15 not graduate from an accredited educational program, is licensed or certified in
+16 another jurisdiction with requirements and privileges comparable to Kentucky's,
+17 and has:
+18 (a) Graduated from a postsecondary institution in a course of study focusing on
+19 one (1) of the licensing categories listed in subsection (1) of this section;
+20 (b) Passed a certifying examination from a national organization demonstrating
+21 competence in his or her subject matter area;
+22 (c) An active valid license or certificate and has not been professionally
+23 disciplined or reprimanded by any credentialing jurisdiction or national
+24 organization; and
+25 (d) Provided the board with evidence of:
+26 1. At least five (5) years of experience as an advanced imaging
+27 professional; and
+Page 9 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 2. Maintenance of continuing education requirements during his or her
+2 period of licensure or certification;
+3 shall, upon application and payment of an application fee to the board, be granted
+4 licensure by the board in his or her category, unless the board can show cause for
+5 denial under KRS 311B.150[(4)].
+6 (4) The board shall promulgate administrative regulations in accordance with KRS
+7 Chapter 13A to permit a magnetic resonance imaging technologist or a diagnostic
+8 medical sonographer who is not credentialed by a national organization
+9 recognized by the board to apply and obtain a license before January 1, 2028.
+10 Additional credentialing shall not be required for those who obtain a license
+11 before January 1, 2028.
+12 (5) On or after January 1, 2028, all magnetic resonance imaging technologists and
+13 diagnostic medical sonographers shall be:
+14 (a) Credentialed by a national organization recognized by the board to qualify
+15 for initial licensure or licensure reinstatement; and
+16 (b) Licensed before performing any procedures utilizing ionizing or
+17 nonionizing radiation for either medical imaging or radiation therapy as
+18 required under subsection (1) of this section.
+19 Section 6. KRS 311B.110 is amended to read as follows:
+20 (1) An applicant for licensure as an advanced imaging professional, medical imaging
+21 technologist, radiographer, radiation therapist, nuclear medicine technologist,
+22 magnetic resonance imaging technologist, diagnostic medical sonographer, or
+23 limited X-ray machine operator shall file an application in a format prescribed by
+24 the board.
+25 (2) The board shall require a national and state criminal background check for each
+26 applicant seeking to be licensed by the board under this chapter. The criminal
+27 background check shall be by means of a fingerprint check by the Department of
+Page 10 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 Kentucky State Police, or an equivalent state police body in the applicant's home
+2 state, and the Federal Bureau of Investigation, pursuant to the following:
+3 (a) The applicant shall provide his or her complete and legible fingerprints to
+4 the Department of Kentucky State Police, or an equivalent state police body
+5 in the applicant's home state, for submission to the Federal Bureau of
+6 Investigation after a state criminal background check is conducted;
+7 (b) The results of the national and state criminal background check shall be
+8 sent to the board for the screening of applicants;
+9 (c) The board is prohibited from releasing any criminal history record
+10 information to any private entity or other licensing board, or authorizing
+11 receipt of such information by any private entity or other licensing board;
+12 and
+13 (d) Any fee charged by the Department of Kentucky State Police or for the
+14 Federal Bureau of Investigation shall be an amount no greater than the
+15 actual cost of processing the request and conducting the background check.
+16 The board may charge this fee to the applicant.
+17 (3) Licensees shall display or have available an original current license at any place of
+18 employment. It shall be unlawful for any person to display a license in an effort to
+19 misrepresent his or her qualifications. An individual who no longer meets the
+20 licensure requirements shall not display a license nor purport to have the
+21 qualifications.
+22 (4)[(3)] Licensees shall meet continuing education requirements.
+23 (5)[(4)] Licenses shall be renewed or reinstated in accordance with the requirements
+24 set out by the board.
+25 (6)[(5)] Licenses may be placed on inactive status for those who are not actively
+26 employed[, as defined by this chapter]. To reactivate an inactive license, the
+27 applicant shall submit a new application and required fee and meet all requirements
+Page 11 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 for reactivation.
+2 (7)[(6)] The requirements of this section shall be established by the board through the
+3 promulgation of administrative regulations in accordance with KRS Chapter 13A.
+4 Section 7. KRS 311B.120 is amended to read as follows:
+5 The board shall, through the promulgation of administrative regulations in accordance
+6 with KRS Chapter 13A, set appropriate fees and penalties for:
+7 (1) The application process;
+8 (2) Verification of qualifications;
+9 (3) Issuance and renewal of licenses for advanced imaging professionals, medical
+10 imaging technologists, radiographers, radiation therapists, nuclear medicine
+11 technologists, magnetic resonance imaging technologists, diagnostic medical
+12 sonographers, and limited X-ray machine operators;
+13 (4) [Duplicate licenses;
+14 (5) Home study courses for limited X-ray machine operators;
+15 (6) ]Late renewals or reinstatements;
+16 (5)[(7)] Violations;
+17 (6)[(8)] Payments[Checks] issued on accounts with insufficient funds; and
+18 (7)[(9)] Any other actions as deemed appropriate by the board.
+19 Section 8. KRS 311B.150 is amended to read as follows:
+20 It shall be unlawful for any person to:
+21 (1) Claim to be a licensee or perform medical imaging or therapeutic procedures unless
+22 licensed under this chapter or otherwise exempt from the requirements of this
+23 chapter;
+24 (2) Manipulate equipment that produces ionizing or nonionizing radiation or
+25 administer radiopharmaceuticals unless licensed under this chapter or otherwise
+26 exempt from the requirements of this chapter;
+27 (3) [Knowingly ]Employ an advanced imaging professional, medical imaging
+Page 12 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 technologist, radiographer, radiation therapist, nuclear medicine technologist,
+2 magnetic resonance imaging technologist, diagnostic medical sonographer, or
+3 limited X-ray machine operator unless that individual is licensed under[ the
+4 provisions of] this chapter or otherwise exempt from the requirements of this
+5 chapter; or
+6 (4) Be an advanced imaging professional, medical imaging technologist, radiographer,
+7 radiation therapist, nuclear medicine technologist, magnetic resonance imaging
+8 technologist, diagnostic medical sonographer, limited X-ray machine operator,
+9 employer of one (1) of these individuals, or any other person who, having
+10 knowledge of a situation listed in paragraphs (a) to (k)[(j)] of this subsection,
+11 refrains from reporting to the board a licensee who:
+12 (a) Has been convicted of any felony or a misdemeanor involving drugs, alcohol,
+13 fraud, deceit, falsification of records, a breach of trust, physical harm or
+14 endangerment to others, or dishonesty under the laws of any state or of the
+15 United States;
+16 (b) Is suspected of fraud or deceit in procuring or attempting to procure a license
+17 or credential to practice in his or her discipline;
+18 (c) Is suspected of negligently or willfully acting in a manner inconsistent with
+19 professional practice relative to his or her discipline;
+20 (d) Is suspected of being unfit or incompetent to practice by reason of negligence
+21 or other causes, including but not limited to being unable to practice with
+22 reasonable skill or safety;
+23 (e) Has a license or credential to practice medical imaging or radiation therapy
+24 denied, suspended, revoked, or otherwise disciplined in another jurisdiction
+25 on grounds sufficient to cause a license or credential to be denied, suspended,
+26 revoked, or otherwise disciplined in this Commonwealth;
+27 (f) Is practicing medical imaging or radiation therapy, as it pertains to this
+Page 13 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 chapter, without a current valid[active] license or valid temporary license
+2 issued by the board;
+3 (g) Is suspected of aiding or abetting unlicensed practice under this chapter;
+4 (h) Is suspected of misusing or misappropriating any drugs placed in the
+5 licensee's custody to be administered to or used by others;
+6 (i)[(h)] Is suspected of falsely or negligently making incorrect entries or failing
+7 to make essential entries on essential records;
+8 (j)[(i)] Is suspected of abusing controlled substances, prescription medications,
+9 illegal substances, or alcohol; or
+10 (k)[(j)] Is suspected of violating any provision of this chapter.
+11 Section 9. KRS 311B.160 is amended to read as follows:
+12 (1) Any person who fails to comply with any provision of this chapter, any
+13 administrative regulation promulgated under this chapter, or any valid order of
+14 the board shall be fined a reasonable amount as determined by the board through
+15 the promulgation of administrative regulations in accordance with KRS Chapter
+16 13A. Each day of violation or noncompliance shall constitute a separate offense.
+17 (2) The board shall assess a civil penalty against an individual or licensee who
+18 performs diagnostic or therapeutic procedures without a valid license or aids or
+19 abets unlicensed or unlawful practice.
+20 (3) Prior to assessing a civil penalty, the board shall confirm a violation by any of the
+21 following:
+22 (a) Observing the violation;
+23 (b) Obtaining records, documents, or other physical evidence;
+24 (c) Obtaining statements that confirm the existence of the violation from either
+25 the employer or the employee; or
+26 (d) Obtaining statements that corroborate the allegation that a violation has
+27 occurred from a third party, such as a patient or coworker.
+Page 14 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 (4) A civil penalty shall be assessed against an individual who performs diagnostic or
+2 therapeutic procedures without a valid license as follows:
+3 (a) Failure to apply for an initial license by an individual who is fully qualified
+4 for licensure at the time of the violation shall be assessed a civil penalty plus
+5 the license application fee;
+6 (b) Failure to apply for renewal by an individual who would be eligible for
+7 renewal of a license but would not currently qualify due to insufficient
+8 continuing education at the time of the violation shall be assessed a civil
+9 penalty plus the license renewal fee;
+10 (c) Performance of a diagnostic or therapeutic procedure requiring licensure
+11 by an individual who is not qualified for a license at the time of the violation
+12 shall be assessed a civil penalty; and
+13 (d) Civil penalties for repeating the offenses specified in paragraphs (a) to (c) of
+14 this subsection shall be doubled. Each day of violation shall constitute a
+15 separate repeat offense.
+16 (5) A civil penalty, double the amount assessed against an individual under
+17 subsection (4) of this section, shall also be assessed against the employer of the
+18 individual.
+19 (6) Any person who violates any provision of this chapter shall be guilty of a Class A
+20 misdemeanor punishable by imprisonment for no more than six (6) months, or by
+21 a fine not exceeding one thousand dollars ($1,000), or by both.
+22 (7) When any person other than a professional holding a valid license under this
+23 chapter has engaged in any act or practice that violates any provision of this
+24 chapter, the Franklin Circuit Court, on application of the board, may issue an
+25 injunction or other appropriate order restraining such conduct.
+26 (8) The board may deny, revoke, or suspend the license of an individual who:
+27 (a)[(1)] Has engaged in conduct relating to his or her profession that is likely to
+Page 15 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 deceive, defraud, or harm the public, which shall include violation of KRS
+2 304.39-215 and conduct that is subject to the penalties under KRS 304.99-
+3 060(4) or (5);
+4 (b)[(2)] Has a substance use disorder that impairs the individual's ability to
+5 perform his or her duties;
+6 (c)[(3)] Develops a physical or mental disability or other condition that makes
+7 continued practice or performance of his or her duties potentially dangerous to
+8 patients or the public;
+9 (d)[(4)] Performs procedures under or represents as valid to any person a
+10 license:
+11 1.[(a)] That is invalid or not issued by the board;
+12 2.[(b)] Containing unauthorized alterations; or
+13 3.[(c)] Containing changes that are inconsistent with board records
+14 regarding its issuance;
+15 (e)[(5)] Has been convicted of a crime that is a felony under the laws of this
+16 state or convicted of a felony in a federal court, unless the individual has had
+17 all civil rights restored, if in accordance with KRS Chapter 335B;
+18 (f)[(6)] Exhibits significant or repeated failure in the performance of
+19 professional duties; or
+20 (g)[(7)] Fails to comply with any administrative regulation of the board.
+21 Section 10. KRS 311.727 is amended to read as follows:
+22 (1) As used in this section:
+23 (a) "Auscultate[Ascultate]" means to examine by listening for sounds made by
+24 internal organs of the fetus, specifically for a fetal heartbeat, utilizing an
+25 ultrasound transducer or a fetal heart rate monitor;
+26 (b) "Obstetric ultrasound" or "ultrasound" means the use of ultrasonic waves for
+27 diagnostic[ or therapeutic] purposes, specifically to monitor a developing
+Page 16 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 fetus; and
+2 (c) "Qualified technician" means a medical imaging technologist licensed under
+3 KRS Chapter 311B,[as defined in KRS 311B.020 who is certified in
+4 obstetrics and gynecology by the American Registry for Diagnostic Medical
+5 Sonography] or a nurse midwife or advance practice nurse practitioner in
+6 obstetrics with certification in obstetrical ultrasonography.
+7 (2) Prior to a woman giving informed consent to having any part of an abortion
+8 performed, the physician who is to perform the abortion or a qualified technician to
+9 whom the responsibility has been delegated by the physician shall:
+10 (a) Perform an obstetric ultrasound on the pregnant woman;
+11 (b) Provide a simultaneous explanation of what the ultrasound is depicting, which
+12 shall include the presence and location of the unborn child within the uterus
+13 and the number of unborn children depicted and also, if the ultrasound image
+14 indicates that fetal demise has occurred, inform the woman of that fact;
+15 (c) Display the ultrasound images so that the pregnant woman may view the
+16 images;
+17 (d) Auscultate[Ascultate] the fetal heartbeat of the unborn child so that the
+18 pregnant woman may hear the heartbeat if the heartbeat is audible;
+19 (e) Provide a medical description of the ultrasound images, which shall include
+20 the dimensions of the embryo or fetus and the presence of external members
+21 and internal organs, if present and viewable; and
+22 (f) Retain in the woman's medical record a signed certification from the pregnant
+23 woman that she has been presented with the information required to be
+24 provided under paragraphs (c) and (d) of this subsection and has viewed the
+25 ultrasound images, listened to the heartbeat if the heartbeat is audible, or
+26 declined to do so. The signed certification shall be on a form prescribed by the
+27 cabinet.
+Page 17 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1178
+1 (3) When the ultrasound images and heartbeat sounds are provided to and reviewed
+2 with the pregnant woman,[ nothing in] this section shall not be construed to prevent
+3 the pregnant woman from averting her eyes from the ultrasound images or
+4 requesting the volume of the heartbeat be reduced or turned off if the heartbeat is
+5 audible.[ Neither] The physician, the qualified technician, and[nor] the pregnant
+6 woman shall not be subject to any penalty if the pregnant woman refuses to look at
+7 the displayed ultrasound images or to listen to the heartbeat if the heartbeat is
+8 audible.
+9 (4) The requirements of this section shall be in addition to any requirement contained
+10 in KRS 311.725 or any other section of KRS 311.710 to 311.820.
+11 (5) [The provisions of ]This section shall not apply in the case of a medical emergency
+12 or medical necessity. If a medical emergency or medical necessity compels the
+13 performance or inducement of an abortion, the physician who will perform or
+14 induce the abortion, prior to its performance or inducement if possible, shall inform
+15 the pregnant woman of the medical indications supporting the physician's judgment
+16 that an immediate abortion is necessary. Any physician who performs or induces an
+17 abortion without the prior satisfaction of the requirements of this section because of
+18 a medical emergency or medical necessity shall enter the reasons for the conclusion
+19 that a medical emergency or medical necessity exists in the medical record of the
+20 pregnant woman.
+21 Section 11. The following KRS sections are repealed:
+22 311B.080 Board to recognize and enforce national standards.
+23 311B.180 Civil penalties.
+24 311B.190 Penalties to be determined by board.
+Page 18 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+[DELETED:   2  J A B S A ( " o t r ( " e m a i w i a c a c e a a a i p m i t r t a e o a i a o t d ( " i p m a i w i c b a n b ( " u m a p d o p i o a r i ( T ( T ( A ( " ( [ n ( ] a t e t p k a s o a l i t]
+[DELETED:   2  J ( " n ( " m s m a i w i a t u n h s w w s e t g ( " ( M s i ( D ( " l i K t p m o d c p ( " r p t s n i c s f m o ( " r i t m a i w i a w ( " ( 1 M a i w h c a a e p i r n o m r b t b a w i l a g p u t c A i l a a m i t p m i a a f w c s]
+[DELETED:   2  J f n m o r t p a p b a l X m o m o p l 2 D ( S p i a ( " ( T ( T ( T ( T S o N M a M I S ( T ( T T ( T ( A ( T J R C o E i D M S ( S ( A ( C ( A ( A ( " r i r s a r o]
+[DELETED:   2  J m ( " m t m a i w i a t p a a r p a r u f ( " c m a i w h p c a h b a p c b a n o ( " f e p a c i r n m r ( " ( H ( I ( I r o ( S p i a ( " m a i w i a t u i r e t p a c s o d i p a i r f t o o r e p t p a s f u r a s t a e t p d i w t l r]
+[DELETED:   2  J S ( T K B o M I a R T i h c t c o t C o K b r a l i w u i o n r a a i p m i t r r t n m t m r i t d m s l X m o o a c e ( ( m a b t G w t f q ( T ( m s b l r w p w r ( T ( m s b l r w a p c p ( O ( O ( O ( O w m ( O p ( O ( m s b a l m r i t ( O]
+[DELETED:   2  J p t ( A e a r o c a K l i m i o r r i ( ( B M 1 o y i w t e n o i f a b o R T t K S o N M T o ( N ( A m o t ( n p a s b s t t G ( T N w f f s t S T ( A]
+[DELETED:   2  J ( H r r n o a c b f t a t ( H t ( P a r i a w K C 1 t a ( I a r t l o d q a f p e b t b t t p o a r ( D a e c e r a e g ( A m c w t e s e b t i d ( D f f s p d o c e ( I a p ( S a a r t t G a t L R C t p i c t b w r l t S ( A]
+[DELETED:   2  J p t a ( T K a w e w ( M a ( [ t ( L o r a l h c p o p o p f e i t f s o a b t l ( P 1 U 2 N u f e p o k u r S ( T C o K b p o a p u i ( A ( M]
+[DELETED:   2  J ( R ( R ( N ( M ( ( D t ( L ( Q p T t w ( A n g f a a e p i l o c i a j w r a p c t K a ( G o ( P c ( A a v l o c a h n b p d o r b a c j o n o ( P 1 A l f ( y o e a a a i p]
+[DELETED:   2  J 2 M o c e r d h o h p  s l d ( T C m s w i n c b a n o r A c s n b r f t w o a l b ( O d ( C f ( L b p a p u i o n r f e m i o r t a r S ( A t r r t n m t m r i t d m s o l t ( T a b]
+[DELETED:   2  J K s ( T t i t a h s f s t t F B o I ( T s ( T b i p f r a c h r i r a ( A f c b t D o K S P o f t F a T ( L e m h o h q A i w n l m t l r s n d a l n p t h t q ( L ( L s ( L m b p o i s f t w a n a e a d b t c T r a i l t a]
+[DELETED:   2  J f ( T p S T w ( T ( V ( I a r o l f a i p m i t r r t n m t m r i t d m s ( [ ( H ( ] ( V ( P ( A S I ( C l u t c o o e f t r o t c ( M e t p i o n r o a r u l u t c o o e ( [ ] a a i p m i]
+[DELETED:   2  J t r r t n m t m r i t d m s o l X m o u t i i l u t p o t c o o e f t r o t c ( B r t n m t m r i t d m s l X m o e o o ( o t i o a o p w h k o a s l i p ( t ( o t s r ( H f d f o r a b o t p h o e U ( I o ( I p ( I o o c i b n l t b u t p w r ( H d o r ( I p m i o r t a i p t t]
+[DELETED:   2  J c w a c v l o v t l i ( I ( I s o m o m a d p i t l ( I t ( I i ( I S ( A p w f t c w a p o t c a a t t 1 ( T b s a a c p a a i o l w p a ( P f ( O ( O ( O t ( O s t c t a t a v h o]
+[DELETED:   2  J ( A t ( F f t ( F t a f r b a i w w b e f r o a l b w n c q d t i c p ( P b s ( C t s s b d E d o s c a s ( A c p d t a a a a i u s i ( A m a ( W c h e i a a o p t v a p o t c i ( T ( H]
+[DELETED:   2  J d 3 0 ( H a s u d t i t i a t p ( D c p ( P p u o r a v t a p a l 1 T 2 C 3 C c t a i w b r r ( H s a ( E s o r f i t p o p ( F S ( A ( " i o o t f s f a f h u a u ( " d o t p s t m a d]
+[DELETED:   2  J f ( " K C 3 d i K 3 w i c i o S o a n m o a p n p i o ( P t a w g i c t h a p o a a p w ( P ( P s a i ( D t u i s t t p w m v t i ( A t f h o t u c s t t p ( P t a ( R w t s h b p w t i r t b p u i l t t h i t h i a o d c]
+[DELETED:   2  J ( W a r w t p w f a h e f t u i o r a T p t q t a t p w t d u i o t l t t h i t h i a ( T i ( [ o m n I a m e o m n c t p o i o a a t p w w p o i t t a a t p S 3 3 3]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 1178
+1 AN ACT relating to medical imaging and radiation therapy licensure.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 311B.020 is amended to read as follows:
+4 As used in this chapter, unless the context clearly requires otherwise:
+5 (1) "Accredited educational program" means a program that is approved by a national
+6 organization acceptable to the board to provide education in medical imaging or
+7 radiation therapy;
+8 (2) "Actively employed" means an individual who is appropriately credentialed and
+9 currently employed as an advanced imaging professional, medical imaging
+10 technologist, radiation therapist, an educator or administrator in any of these
+11 disciplines, or a limited X-ray machine operator;
+12 (3) "Advanced imaging professional" means an individual who is credentialed by a
+13 national[nationally recognized certification] organization that is recognized by the
+14 board;
+15 (4) "Authorized user" means a physician, dentist, or podiatrist identified on a
+16 radioactive materials license that authorizes the medical use of radioactive materials
+17 if the license was issued by:
+18 (a) The Cabinet for Health and Family Services;
+19 (b) The United States Nuclear Regulatory Commission; or
+20 (c) Another United States Nuclear Regulatory Commission agreement state;
+21 (5) "Board" means the Kentucky Board of Medical Imaging and Radiation Therapy;
+22 (6) ["Credentialed" means someone who is certified and registered by an appropriate
+23 national organization that is recognized by the board;
+24 (7) ]"Continuing education" means a learning activity that is planned, organized, and
+25 administered to enhance the professional knowledge and skills of a licensed
+26 individual of medical imaging or radiation therapy to provide services for patients,
+27 the public, or the medical profession;
+Page 1 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 (7) "Credentialed" means someone who is certified and registered by an appropriate
+2 national organization that is recognized by the board;
+3 (8) "Diagnostic medical sonographer" means an individual who is authorized to
+4 utilize nonionizing, high-frequency sound waves with specialized equipment to
+5 generate images for diagnostic purposes;
+6 (9) "Ionizing radiation":
+7 (a) Means alpha particles, beta particles, gamma rays, X-rays, neutrons, high-
+8 speed electrons, high-speed protons, or other particles capable of producing
+9 ions; and
+10 (b) Does not include nonionizing radiation;
+11 (10) "Licensed practitioner" or "licensed practitioner of the healing arts" means a person
+12 licensed in Kentucky to practice medicine, osteopathy, dentistry, chiropractic,
+13 podiatry, or veterinary medicine;
+14 (11)[(9)] "Limited X-ray machine operator" means an individual who performs limited
+15 radiographic procedures that shall not include contrast studies, fluoroscopy,
+16 magnetic resonance imaging, diagnostic medical sonography, nuclear medicine,
+17 or radiation therapy procedures;
+18 (12) "Magnetic resonance imaging technologist" means an individual who is
+19 authorized to perform medical imaging that utilizes radiofrequency transmission
+20 within a high-strength magnetic field for diagnostic or therapeutic purposes;
+21 (13)[(10)] "Medical imaging technologist":
+22 (a) 1. Means an individual who has completed an accredited educational
+23 program in radiography, nuclear medicine, or other imaging modality
+24 recognized by the board and who is licensed and granted privileges
+25 under this chapter[. An individual licensed as a medical imaging
+26 technologist or a limited X-ray machine operator shall be employed to
+27 perform medical imaging at a facility where contrast studies,
+Page 2 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 fluoroscopy, nuclear medicine, or radiation therapy procedures are
+2 performed, but a limited X-ray machine operator may only perform
+3 limited diagnostic radiography]; and
+4 2. Does not include a limited X-ray machine operator; and
+5 (b) Shall only administer contrast media and other medications when a licensed
+6 practitioner of the healing arts or an advanced practice registered nurse is
+7 immediately available in person to ensure proper diagnosis and treatment of
+8 adverse events;
+9 (14)[(11)] "National organization" means:
+10 (a) The American Society of Radiologic Technologists;
+11 (b) The Nuclear Medicine Technology Certification Board;
+12 (c) The American Registry of Radiologic Technologists;
+13 (d) The Society of Nuclear Medicine and Molecular Imaging[Technologist
+14 Section];
+15 (e) The Joint Review Committee on Education in Radiologic Technology;
+16 (f) The Joint Review Committee on Educational Programs in Nuclear Medicine
+17 Technology;
+18 (g) The American College of Radiology;[ or]
+19 (h) American Registry for Diagnostic Medical Sonography;
+20 (i) The Joint Review Committee on Education in Diagnostic Medical
+21 Sonography;
+22 (j) Society of Diagnostic Medical Sonography;
+23 (k) American Institute of Ultrasound in Medicine;
+24 (l) Cardiovascular Credentialing International;
+25 (m) American Registry of Magnetic Resonance Imaging Technologists; or
+26 (n) Another national organization recognized by the board;
+27 (15) "Nonionizing radiation" includes radiation such as radiofrequency or
+Page 3 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 microwaves, visible, infrared, or ultraviolet light or ultrasound;
+2 (16)[(12)] "Nuclear medicine technologist" means an individual who is authorized to
+3 prepare and administer radiopharmaceuticals, pharmaceuticals, and radionuclides
+4 under the direction of an authorized user to perform nuclear medicine procedures
+5 for diagnostic and therapeutic purposes;
+6 (17)[(13)] "Post-primary certification" means an individual who has primary
+7 certification and has been awarded post-primary certification by a national
+8 organization that has been recognized by the board;
+9 (18)[(14)] "Primary certification" means an individual who has successfully completed a
+10 formal educational program and certification in radiography, nuclear medicine,
+11 radiation therapy, or other modality recognized by the board;
+12 (19)[(15)] "Radiation therapist" means an individual who:
+13 (a) Has completed an accredited educational program in radiation therapy;
+14 (b) Is licensed by the board;[ and]
+15 (c) Is authorized to utilize ionizing radiation-generating equipment and sources of
+16 radiation for the planning, localization, and delivery of therapeutic procedures
+17 on human beings; and
+18 (d) Shall only administer contrast media and other medications when a licensed
+19 practitioner of the healing arts or an advanced practice registered nurse is
+20 immediately available in person to ensure proper diagnosis and treatment of
+21 adverse events; and
+22 (20)[(16)] "Radiographer" means an individual who is authorized to use ionizing
+23 radiation-generating equipment to perform a comprehensive scope of diagnostic
+24 imaging procedures and is responsible for the operation of radiation-generating
+25 equipment, protecting the patient and staff from unnecessary radiation, and
+26 selecting the appropriate exposure to produce diagnostic images with the lowest
+27 reasonable exposure.
+Page 4 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 Section 2. KRS 311B.030 is amended to read as follows:
+2 (1) The Kentucky Board of[for] Medical Imaging and Radiation Therapy is hereby
+3 created to promote, preserve, and protect the public health, safety, and welfare of
+4 the citizens of the Commonwealth of Kentucky by regulating and licensing
+5 individuals who use ionizing or nonionizing radiation as advanced imaging
+6 professionals, medical imaging technologists, radiographers, radiation therapists,
+7 nuclear medicine technologists, magnetic resonance imaging technologists,
+8 diagnostic medical sonographers, limited X-ray machine operators, or any
+9 combination of professions licensed under this chapter. The board shall consist of
+10 eleven (11)[nine (9)] members appointed by the Governor, with the following
+11 qualifications:
+12 (a) Two (2) members shall be licensed radiographers whose primary work
+13 responsibilities are related to general diagnostic radiography;
+14 (b) Two (2) members shall be licensed radiographers with a post-primary
+15 certification and whose primary work responsibilities are related to that post-
+16 primary certification;
+17 (c) One (1) member shall be a licensed nuclear medicine technologist;
+18 (d) One (1) member shall be a licensed radiation therapist;
+19 (e) One (1) member shall be a licensed limited X-ray machine operator;
+20 (f) One (1) member shall be a licensed medical imaging technologist or therapist
+21 who serves as an educator in an accredited program or as an administrator in a
+22 medical imaging or radiation therapy department;[ and]
+23 (g) One (1) member shall be a licensed diagnostic medical sonographer whose
+24 primary work responsibilities are related to diagnostic medical sonography;
+25 (h) One (1) member shall be a licensed magnetic resonance imaging
+26 technologist; and
+27 (i) One (1) member shall be an at-large individual[ at-large] from the general
+Page 5 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 public with no family or business relation to health care but with an interest in
+2 the rights of consumers of health services.
+3 (2) All board members, except the at-large member, shall have at least five (5) years of
+4 experience in their respective areas of certification or licensure and shall maintain
+5 active registry or certification and Kentucky licensure in medical imaging or
+6 radiation therapy during the term as a board member. Each board member shall be a
+7 resident of Kentucky or actively employed in medical imaging or radiation therapy
+8 in Kentucky, and shall be in good standing with the board.
+9 (3) (a) By May 1 of years in which terms expire, nominations of individuals for
+10 appointment to the board shall be submitted to the Governor and may be made
+11 by citizens of the Commonwealth of Kentucky through the Kentucky Society
+12 of Radiologic Technologists, the Kentucky Society of Nuclear Medicine
+13 Technologists, the board, or other professional imaging or radiation therapy
+14 organizations that are recognized by the board.
+15 (b) No two (2) board members shall be residents of the same county.
+16 (c) A minimum of two (2) names per appointment shall be submitted to the
+17 Governor.
+18 (4) The Governor shall make each appointment by September 1 for terms beginning
+19 November 1 of that same year. The initial terms of appointment shall be staggered
+20 with five (5) members appointed for four (4) years and four (4) members appointed
+21 for two (2) years. Thereafter, members shall be appointed to the board for terms of
+22 four (4) years, expiring on October 31 of the fourth year. A board member may
+23 serve two (2) consecutive appointments. After a second consecutive appointment,
+24 that individual may not be reappointed until at least one (1) full year has passed.
+25 Section 3. KRS 311B.050 is amended to read as follows:
+26 The board shall:
+27 (1) Administer and enforce this chapter. The board alone shall have this authority;
+Page 6 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 (2) Have the authority to recognize and enforce the current rules and administrative
+2 regulations, practice standards, scopes of practice, and ethical standards of the
+3 recognized national organizations and certifying bodies for technologists and
+4 therapists regulated under this chapter;
+5 (3) Have the authority to issue advisory opinions or declaratory rulings dealing with
+6 the practice of medical imaging and radiation therapy;
+7 (4) Promulgate administrative regulations in accordance with KRS Chapter 13A to
+8 administer and enforce this chapter;
+9 (5)[(3)] Issue and renew the licenses of duly qualified applicants, following
+10 procedures established by the board through the promulgation of administrative
+11 regulations;
+12 (6)[(4)] Determine and enforce continuing education requirements and establish
+13 guidelines for approval of continuing education;
+14 (7)[(5)] Approve accredited educational programs of imaging or radiation therapy and
+15 monitor compliance with the educational standards established by the individual
+16 disciplines, as recognized by the board;
+17 (8)[(6)] Designate funds for scholarships, program development, or continued
+18 education;
+19 (9)[(7)] Investigate suspected or alleged violations of this chapter, conduct hearings
+20 and record minutes, resolve the allegations, and, if appropriate, impose sanctions or
+21 penalties; and
+22 (10)[(8)] Submit an annual report to the Governor and the Legislative Research
+23 Commission that provides information concerning the board's work regarding
+24 licensure of professionals under this chapter and that lists all hearings conducted by
+25 the board and the decisions rendered.
+26 Section 4. KRS 311B.090 is amended to read as follows:
+27 (1) A[No] person shall not engage or attempt to engage in the operation of radiation-
+Page 7 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 producing equipment or the administration of ionizing or nonionizing radiation for
+2 the purpose of medical imaging or radiation therapy in Kentucky unless licensed in
+3 accordance with[ the provisions of] this chapter.
+4 (2) This chapter shall not apply to any individual licensed in the Commonwealth of
+5 Kentucky as a licensed practitioner of the healing arts, any student enrolled in an
+6 approved educational program in medical imaging technology or radiation therapy
+7 while completing the clinical requirements of the educational program, or any
+8 employee of the federal government engaged in the performance of official duties
+9 within the state.
+10 (3) Misuse of regulated credentials shall result in disciplinary action by the board in
+11 addition to possible action by the credentialing agency.
+12 (4) [Nothing in ]This chapter and[or in] the administrative regulations promulgated by
+13 the board pursuant to this chapter shall not be interpreted to:
+14 (a) Limit or restrict a licensed health care practitioner,[ or] provider, or
+15 professional from engaging in the full scope of practice authorized by the
+16 license for that person's profession, training, or services; or
+17 (b) Prohibit any person from utilizing:
+18 1. Ultrasounds for therapeutic purposes; or
+19 2. Nonmedical ultrasounds for entertainment purposes, or keepsake
+20 ultrasounds that are generated without a medical indication to view or
+21 record images of a fetus.
+22 Section 5. KRS 311B.100 is amended to read as follows:
+23 (1) The following individuals are required to apply for and receive a license from the
+24 Commonwealth of Kentucky before performance of any procedures utilizing
+25 ionizing or nonionizing radiation for either medical imaging or radiation therapy:
+26 (a) Advanced imaging professionals;
+27 (b) Medical imaging technologists;
+Page 8 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 (c) Radiographers;
+2 (d) Radiation therapists;
+3 (e) Nuclear medicine technologists;[ and]
+4 (f) Magnetic resonance imaging technologists, except as provided in subsection
+5 (4) of this section;
+6 (g) Diagnostic medical sonographers, except as provided in subsection (4) of
+7 this section; and
+8 (h) Limited X-ray machine operators.
+9 (2) Qualifications for the above categories shall be established by the board through the
+10 promulgation of administrative regulations in accordance with KRS Chapter 13A.
+11 The board may also identify other specialties or categories of duties consistent with
+12 this chapter through the promulgation of administrative regulations in accordance
+13 with KRS Chapter 13A.
+14 (3) An applicant for licensure under subsection (1)(a) to (g)[(e)] of this section who did
+15 not graduate from an accredited educational program, is licensed or certified in
+16 another jurisdiction with requirements and privileges comparable to Kentucky's,
+17 and has:
+18 (a) Graduated from a postsecondary institution in a course of study focusing on
+19 one (1) of the licensing categories listed in subsection (1) of this section;
+20 (b) Passed a certifying examination from a national organization demonstrating
+21 competence in his or her subject matter area;
+22 (c) An active valid license or certificate and has not been professionally
+23 disciplined or reprimanded by any credentialing jurisdiction or national
+24 organization; and
+25 (d) Provided the board with evidence of:
+26 1. At least five (5) years of experience as an advanced imaging
+27 professional; and
+Page 9 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 2. Maintenance of continuing education requirements during his or her
+2 period of licensure or certification;
+3 shall, upon application and payment of an application fee to the board, be granted
+4 licensure by the board in his or her category, unless the board can show cause for
+5 denial under KRS 311B.150[(4)].
+6 (4) The board shall promulgate administrative regulations in accordance with KRS
+7 Chapter 13A to permit a magnetic resonance imaging technologist or a diagnostic
+8 medical sonographer who is not credentialed by a national organization
+9 recognized by the board to apply and obtain a license before January 1, 2028.
+10 Additional credentialing shall not be required for those who obtain a license
+11 before January 1, 2028.
+12 (5) On or after January 1, 2028, all magnetic resonance imaging technologists and
+13 diagnostic medical sonographers shall be:
+14 (a) Credentialed by a national organization recognized by the board to qualify
+15 for initial licensure or licensure reinstatement; and
+16 (b) Licensed before performing any procedures utilizing ionizing or
+17 nonionizing radiation for either medical imaging or radiation therapy as
+18 required under subsection (1) of this section.
+19 Section 6. KRS 311B.110 is amended to read as follows:
+20 (1) An applicant for licensure as an advanced imaging professional, medical imaging
+21 technologist, radiographer, radiation therapist, nuclear medicine technologist,
+22 magnetic resonance imaging technologist, diagnostic medical sonographer, or
+23 limited X-ray machine operator shall file an application in a format prescribed by
+24 the board.
+25 (2) The board shall require a national and state criminal background check for each
+26 applicant seeking to be licensed by the board under this chapter. The criminal
+27 background check shall be by means of a fingerprint check by the Department of
+Page 10 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 Kentucky State Police, or an equivalent state police body in the applicant's home
+2 state, and the Federal Bureau of Investigation, pursuant to the following:
+3 (a) The applicant shall provide his or her complete and legible fingerprints to
+4 the Department of Kentucky State Police, or an equivalent state police body
+5 in the applicant's home state, for submission to the Federal Bureau of
+6 Investigation after a state criminal background check is conducted;
+7 (b) The results of the national and state criminal background check shall be
+8 sent to the board for the screening of applicants;
+9 (c) The board is prohibited from releasing any criminal history record
+10 information to any private entity or other licensing board, or authorizing
+11 receipt of such information by any private entity or other licensing board;
+12 and
+13 (d) Any fee charged by the Department of Kentucky State Police or for the
+14 Federal Bureau of Investigation shall be an amount no greater than the
+15 actual cost of processing the request and conducting the background check.
+16 The board may charge this fee to the applicant.
+17 (3) Licensees shall display or have available an original current license at any place of
+18 employment. It shall be unlawful for any person to display a license in an effort to
+19 misrepresent his or her qualifications. An individual who no longer meets the
+20 licensure requirements shall not display a license nor purport to have the
+21 qualifications.
+22 (4)[(3)] Licensees shall meet continuing education requirements.
+23 (5)[(4)] Licenses shall be renewed or reinstated in accordance with the requirements
+24 set out by the board.
+25 (6)[(5)] Licenses may be placed on inactive status for those who are not actively
+26 employed[, as defined by this chapter]. To reactivate an inactive license, the
+27 applicant shall submit a new application and required fee and meet all requirements
+Page 11 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 for reactivation.
+2 (7)[(6)] The requirements of this section shall be established by the board through the
+3 promulgation of administrative regulations in accordance with KRS Chapter 13A.
+4 Section 7. KRS 311B.120 is amended to read as follows:
+5 The board shall, through the promulgation of administrative regulations in accordance
+6 with KRS Chapter 13A, set appropriate fees and penalties for:
+7 (1) The application process;
+8 (2) Verification of qualifications;
+9 (3) Issuance and renewal of licenses for advanced imaging professionals, medical
+10 imaging technologists, radiographers, radiation therapists, nuclear medicine
+11 technologists, magnetic resonance imaging technologists, diagnostic medical
+12 sonographers, and limited X-ray machine operators;
+13 (4) [Duplicate licenses;
+14 (5) Home study courses for limited X-ray machine operators;
+15 (6) ]Late renewals or reinstatements;
+16 (5)[(7)] Violations;
+17 (6)[(8)] Payments[Checks] issued on accounts with insufficient funds; and
+18 (7)[(9)] Any other actions as deemed appropriate by the board.
+19 Section 8. KRS 311B.150 is amended to read as follows:
+20 It shall be unlawful for any person to:
+21 (1) Claim to be a licensee or perform medical imaging or therapeutic procedures unless
+22 licensed under this chapter or otherwise exempt from the requirements of this
+23 chapter;
+24 (2) Manipulate equipment that produces ionizing or nonionizing radiation or
+25 administer radiopharmaceuticals unless licensed under this chapter or otherwise
+26 exempt from the requirements of this chapter;
+27 (3) [Knowingly ]Employ an advanced imaging professional, medical imaging
+Page 12 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 technologist, radiographer, radiation therapist, nuclear medicine technologist,
+2 magnetic resonance imaging technologist, diagnostic medical sonographer, or
+3 limited X-ray machine operator unless that individual is licensed under[ the
+4 provisions of] this chapter or otherwise exempt from the requirements of this
+5 chapter; or
+6 (4) Be an advanced imaging professional, medical imaging technologist, radiographer,
+7 radiation therapist, nuclear medicine technologist, magnetic resonance imaging
+8 technologist, diagnostic medical sonographer, limited X-ray machine operator,
+9 employer of one (1) of these individuals, or any other person who, having
+10 knowledge of a situation listed in paragraphs (a) to (k)[(j)] of this subsection,
+11 refrains from reporting to the board a licensee who:
+12 (a) Has been convicted of any felony or a misdemeanor involving drugs, alcohol,
+13 fraud, deceit, falsification of records, a breach of trust, physical harm or
+14 endangerment to others, or dishonesty under the laws of any state or of the
+15 United States;
+16 (b) Is suspected of fraud or deceit in procuring or attempting to procure a license
+17 or credential to practice in his or her discipline;
+18 (c) Is suspected of negligently or willfully acting in a manner inconsistent with
+19 professional practice relative to his or her discipline;
+20 (d) Is suspected of being unfit or incompetent to practice by reason of negligence
+21 or other causes, including but not limited to being unable to practice with
+22 reasonable skill or safety;
+23 (e) Has a license or credential to practice medical imaging or radiation therapy
+24 denied, suspended, revoked, or otherwise disciplined in another jurisdiction
+25 on grounds sufficient to cause a license or credential to be denied, suspended,
+26 revoked, or otherwise disciplined in this Commonwealth;
+27 (f) Is practicing medical imaging or radiation therapy, as it pertains to this
+Page 13 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 chapter, without a current valid[active] license or valid temporary license
+2 issued by the board;
+3 (g) Is suspected of aiding or abetting unlicensed practice under this chapter;
+4 (h) Is suspected of misusing or misappropriating any drugs placed in the
+5 licensee's custody to be administered to or used by others;
+6 (i)[(h)] Is suspected of falsely or negligently making incorrect entries or failing
+7 to make essential entries on essential records;
+8 (j)[(i)] Is suspected of abusing controlled substances, prescription medications,
+9 illegal substances, or alcohol; or
+10 (k)[(j)] Is suspected of violating any provision of this chapter.
+11 Section 9. KRS 311B.160 is amended to read as follows:
+12 (1) Any person who fails to comply with any provision of this chapter, any
+13 administrative regulation promulgated under this chapter, or any valid order of
+14 the board shall be fined a reasonable amount as determined by the board through
+15 the promulgation of administrative regulations in accordance with KRS Chapter
+16 13A. Each day of violation or noncompliance shall constitute a separate offense.
+17 (2) The board shall assess a civil penalty against an individual or licensee who
+18 performs diagnostic or therapeutic procedures without a valid license or aids or
+19 abets unlicensed or unlawful practice.
+20 (3) Prior to assessing a civil penalty, the board shall confirm a violation by any of the
+21 following:
+22 (a) Observing the violation;
+23 (b) Obtaining records, documents, or other physical evidence;
+24 (c) Obtaining statements that confirm the existence of the violation from either
+25 the employer or the employee; or
+26 (d) Obtaining statements that corroborate the allegation that a violation has
+27 occurred from a third party, such as a patient or coworker.
+Page 14 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 (4) A civil penalty shall be assessed against an individual who performs diagnostic or
+2 therapeutic procedures without a valid license as follows:
+3 (a) Failure to apply for an initial license by an individual who is fully qualified
+4 for licensure at the time of the violation shall be assessed a civil penalty plus
+5 the license application fee;
+6 (b) Failure to apply for renewal by an individual who would be eligible for
+7 renewal of a license but would not currently qualify due to insufficient
+8 continuing education at the time of the violation shall be assessed a civil
+9 penalty plus the license renewal fee;
+10 (c) Performance of a diagnostic or therapeutic procedure requiring licensure
+11 by an individual who is not qualified for a license at the time of the violation
+12 shall be assessed a civil penalty; and
+13 (d) Civil penalties for repeating the offenses specified in paragraphs (a) to (c) of
+14 this subsection shall be doubled. Each day of violation shall constitute a
+15 separate repeat offense.
+16 (5) A civil penalty, double the amount assessed against an individual under
+17 subsection (4) of this section, shall also be assessed against the employer of the
+18 individual.
+19 (6) Any person who violates any provision of this chapter shall be guilty of a Class A
+20 misdemeanor punishable by imprisonment for no more than six (6) months, or by
+21 a fine not exceeding one thousand dollars ($1,000), or by both.
+22 (7) When any person other than a professional holding a valid license under this
+23 chapter has engaged in any act or practice that violates any provision of this
+24 chapter, the Franklin Circuit Court, on application of the board, may issue an
+25 injunction or other appropriate order restraining such conduct.
+26 (8) The board may deny, revoke, or suspend the license of an individual who:
+27 (a)[(1)] Has engaged in conduct relating to his or her profession that is likely to
+Page 15 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 deceive, defraud, or harm the public, which shall include violation of KRS
+2 304.39-215 and conduct that is subject to the penalties under KRS 304.99-
+3 060(4) or (5);
+4 (b)[(2)] Has a substance use disorder that impairs the individual's ability to
+5 perform his or her duties;
+6 (c)[(3)] Develops a physical or mental disability or other condition that makes
+7 continued practice or performance of his or her duties potentially dangerous to
+8 patients or the public;
+9 (d)[(4)] Performs procedures under or represents as valid to any person a
+10 license:
+11 1.[(a)] That is invalid or not issued by the board;
+12 2.[(b)] Containing unauthorized alterations; or
+13 3.[(c)] Containing changes that are inconsistent with board records
+14 regarding its issuance;
+15 (e)[(5)] Has been convicted of a crime that is a felony under the laws of this
+16 state or convicted of a felony in a federal court, unless the individual has had
+17 all civil rights restored, if in accordance with KRS Chapter 335B;
+18 (f)[(6)] Exhibits significant or repeated failure in the performance of
+19 professional duties; or
+20 (g)[(7)] Fails to comply with any administrative regulation of the board.
+21 Section 10. KRS 311.727 is amended to read as follows:
+22 (1) As used in this section:
+23 (a) "Auscultate[Ascultate]" means to examine by listening for sounds made by
+24 internal organs of the fetus, specifically for a fetal heartbeat, utilizing an
+25 ultrasound transducer or a fetal heart rate monitor;
+26 (b) "Obstetric ultrasound" or "ultrasound" means the use of ultrasonic waves for
+27 diagnostic[ or therapeutic] purposes, specifically to monitor a developing
+Page 16 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 fetus; and
+2 (c) "Qualified technician" means a medical imaging technologist licensed under
+3 KRS Chapter 311B,[as defined in KRS 311B.020 who is certified in
+4 obstetrics and gynecology by the American Registry for Diagnostic Medical
+5 Sonography] or a nurse midwife or advance practice nurse practitioner in
+6 obstetrics with certification in obstetrical ultrasonography.
+7 (2) Prior to a woman giving informed consent to having any part of an abortion
+8 performed, the physician who is to perform the abortion or a qualified technician to
+9 whom the responsibility has been delegated by the physician shall:
+10 (a) Perform an obstetric ultrasound on the pregnant woman;
+11 (b) Provide a simultaneous explanation of what the ultrasound is depicting, which
+12 shall include the presence and location of the unborn child within the uterus
+13 and the number of unborn children depicted and also, if the ultrasound image
+14 indicates that fetal demise has occurred, inform the woman of that fact;
+15 (c) Display the ultrasound images so that the pregnant woman may view the
+16 images;
+17 (d) Auscultate[Ascultate] the fetal heartbeat of the unborn child so that the
+18 pregnant woman may hear the heartbeat if the heartbeat is audible;
+19 (e) Provide a medical description of the ultrasound images, which shall include
+20 the dimensions of the embryo or fetus and the presence of external members
+21 and internal organs, if present and viewable; and
+22 (f) Retain in the woman's medical record a signed certification from the pregnant
+23 woman that she has been presented with the information required to be
+24 provided under paragraphs (c) and (d) of this subsection and has viewed the
+25 ultrasound images, listened to the heartbeat if the heartbeat is audible, or
+26 declined to do so. The signed certification shall be on a form prescribed by the
+27 cabinet.
+Page 17 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1178
+1 (3) When the ultrasound images and heartbeat sounds are provided to and reviewed
+2 with the pregnant woman,[ nothing in] this section shall not be construed to prevent
+3 the pregnant woman from averting her eyes from the ultrasound images or
+4 requesting the volume of the heartbeat be reduced or turned off if the heartbeat is
+5 audible.[ Neither] The physician, the qualified technician, and[nor] the pregnant
+6 woman shall not be subject to any penalty if the pregnant woman refuses to look at
+7 the displayed ultrasound images or to listen to the heartbeat if the heartbeat is
+8 audible.
+9 (4) The requirements of this section shall be in addition to any requirement contained
+10 in KRS 311.725 or any other section of KRS 311.710 to 311.820.
+11 (5) [The provisions of ]This section shall not apply in the case of a medical emergency
+12 or medical necessity. If a medical emergency or medical necessity compels the
+13 performance or inducement of an abortion, the physician who will perform or
+14 induce the abortion, prior to its performance or inducement if possible, shall inform
+15 the pregnant woman of the medical indications supporting the physician's judgment
+16 that an immediate abortion is necessary. Any physician who performs or induces an
+17 abortion without the prior satisfaction of the requirements of this section because of
+18 a medical emergency or medical necessity shall enter the reasons for the conclusion
+19 that a medical emergency or medical necessity exists in the medical record of the
+20 pregnant woman.
+21 Section 11. The following KRS sections are repealed:
+22 311B.080 Board to recognize and enforce national standards.
+23 311B.180 Civil penalties.
+24 311B.190 Penalties to be determined by board.
+Page 18 of 18
+XXXX 12/16/2025 12:44 PM Jacketed
+
+[DELETED:   2  J A B S A ( " o t r ( " e m a i w i a c a c e a a a i p m i t r t a e o a i a o t d ( " i p m a i w i c b a n b ( " u m a p d o p i o a r i ( T ( T ( A ( " ( [ n ( ] a t e t p k a s o a l i t]
+[DELETED:   2  J ( " n ( " m s m a i w i a t u n h s w w s e t g ( " ( M s i ( D ( " l i K t p m o d c p ( " r p t s n i c s f m o ( " r i t m a i w i a w ( " ( 1 M a i w h c a a e p i r n o m r b t b a w i l a g p u t c A i l a a m i t p m i a a f w c s]
+[DELETED:   2  J f n m o r t p a p b a l X m o m o p l 2 D ( S p i a ( " ( T ( T ( T ( T S o N M a M I S ( T ( T T ( T ( A ( T J R C o E i D M S ( S ( A ( C ( A ( A ( " r i r s a r o]
+[DELETED:   2  J m ( " m t m a i w i a t p a a r p a r u f ( " c m a i w h p c a h b a p c b a n o ( " f e p a c i r n m r ( " ( H ( I ( I r o ( S p i a ( " m a i w i a t u i r e t p a c s o d i p a i r f t o o r e p t p a s f u r a s t a e t p d i w t l r]
+[DELETED:   2  J S ( T K B o M I a R T i h c t c o t C o K b r a l i w u i o n r a a i p m i t r r t n m t m r i t d m s l X m o o a c e ( ( m a b t G w t f q ( T ( m s b l r w p w r ( T ( m s b l r w a p c p ( O ( O ( O ( O w m ( O p ( O ( m s b a l m r i t ( O]
+[DELETED:   2  J p t ( A e a r o c a K l i m i o r r i ( ( B M 1 o y i w t e n o i f a b o R T t K S o N M T o ( N ( A m o t ( n p a s b s t t G ( T N w f f s t S T ( A]
+[DELETED:   2  J ( H r r n o a c b f t a t ( H t ( P a r i a w K C 1 t a ( I a r t l o d q a f p e b t b t t p o a r ( D a e c e r a e g ( A m c w t e s e b t i d ( D f f s p d o c e ( I a p ( S a a r t t G a t L R C t p i c t b w r l t S ( A]
+[DELETED:   2  J p t a ( T K a w e w ( M a ( [ t ( L o r a l h c p o p o p f e i t f s o a b t l ( P 1 U 2 N u f e p o k u r S ( T C o K b p o a p u i ( A ( M]
+[DELETED:   2  J ( R ( R ( N ( M ( ( D t ( L ( Q p T t w ( A n g f a a e p i l o c i a j w r a p c t K a ( G o ( P c ( A a v l o c a h n b p d o r b a c j o n o ( P 1 A l f ( y o e a a a i p]
+[DELETED:   2  J 2 M o c e r d h o h p  s l d ( T C m s w i n c b a n o r A c s n b r f t w o a l b ( O d ( C f ( L b p a p u i o n r f e m i o r t a r S ( A t r r t n m t m r i t d m s o l t ( T a b]
+[DELETED:   2  J K s ( T t i t a h s f s t t F B o I ( T s ( T b i p f r a c h r i r a ( A f c b t D o K S P o f t F a T ( L e m h o h q A i w n l m t l r s n d a l n p t h t q ( L ( L s ( L m b p o i s f t w a n a e a d b t c T r a i l t a]
+[DELETED:   2  J f ( T p S T w ( T ( V ( I a r o l f a i p m i t r r t n m t m r i t d m s ( [ ( H ( ] ( V ( P ( A S I ( C l u t c o o e f t r o t c ( M e t p i o n r o a r u l u t c o o e ( [ ] a a i p m i]
+[DELETED:   2  J t r r t n m t m r i t d m s o l X m o u t i i l u t p o t c o o e f t r o t c ( B r t n m t m r i t d m s l X m o e o o ( o t i o a o p w h k o a s l i p ( t ( o t s r ( H f d f o r a b o t p h o e U ( I o ( I p ( I o o c i b n l t b u t p w r ( H d o r ( I p m i o r t a i p t t]
+[DELETED:   2  J c w a c v l o v t l i ( I ( I s o m o m a d p i t l ( I t ( I i ( I S ( A p w f t c w a p o t c a a t t 1 ( T b s a a c p a a i o l w p a ( P f ( O ( O ( O t ( O s t c t a t a v h o]
+[DELETED:   2  J ( A t ( F f t ( F t a f r b a i w w b e f r o a l b w n c q d t i c p ( P b s ( C t s s b d E d o s c a s ( A c p d t a a a a i u s i ( A m a ( W c h e i a a o p t v a p o t c i ( T ( H]
+[DELETED:   2  J d 3 0 ( H a s u d t i t i a t p ( D c p ( P p u o r a v t a p a l 1 T 2 C 3 C c t a i w b r r ( H s a ( E s o r f i t p o p ( F S ( A ( " i o o t f s f a f h u a u ( " d o t p s t m a d]
+[DELETED:   2  J f ( " K C 3 d i K 3 w i c i o S o a n m o a p n p i o ( P t a w g i c t h a p o a a p w ( P ( P s a i ( D t u i s t t p w m v t i ( A t f h o t u c s t t p ( P t a ( R w t s h b p w t i r t b p u i l t t h i t h i a o d c]
+[DELETED:   2  J ( W a r w t p w f a h e f t u i o r a T p t q t a t p w t d u i o t l t t h i t h i a ( T i ( [ o m n I a m e o m n c t p o i o a a t p w w p o i t t a a t p S 3 3 3]

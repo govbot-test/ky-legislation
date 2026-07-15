@@ -1,0 +1,104 @@
+UNOFFICIAL COPY 26 RS BR 2468
+1 AN ACT relating to digital assets.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 369.130 is amended to read as follows:
+4 As used in KRS 369.130 to 369.139:
+5 (1) "Blockchain" means data that is:
+6 (a) Shared across a peer-to-peer network to create a ledger of verified
+7 transactions or information among linked network participants using
+8 cryptography to:
+9 1. Maintain the integrity of the ledger; or
+10 2. Execute other functions; and
+11 (b) Distributed in a concurrent, automated update to network participants on the
+12 state of the ledger and any other functions;
+13 (2) "Blockchain network" means a technical infrastructure that provides ledger and
+14 smart contract services to applications;
+15 (3) "Blockchain protocol" means any executable software:
+16 (a) Deployed to a blockchain, including an additional standardized set of rules
+17 that:
+18 1. Uses an existing blockchain as a base;
+19 2. Facilitates the transfer of data and electronic records;
+20 3. Allows that data to be broadcast to nodes; and
+21 4. Is governed by a set of predefined rules which execute autonomously
+22 without human intervention and can be altered by a predetermined
+23 mechanism; and
+24 (b) Composed of a source code that is publicly available and accessible, including
+25 a smart contract or any network of smart contracts;
+26 (4) "Cryptocurrency" has the same meaning as in KRS 139.516;
+27 (5) "Cryptography" means the practice of coding information to ensure only the person
+Page 1 of 4
+XXXX 3/2/2026 4:17 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2468
+1 that a message was written for can read and process that information;
+2 (6) "Digital asset" means:
+3 (a) Virtual currency;
+4 (b) Cryptocurrency; and
+5 (c) Natively electronic assets, including stablecoins, fungible tokens, and
+6 nonfungible tokens;
+7 that confer economic, proprietary, or access rights or powers;
+8 (7) "Hardware wallet" means a physical device that:
+9 (a) Stores private keys offline;
+10 (b) Provides a way to sign transactions and interact with the blockchain; and
+11 (c) Allows the owner to retain independent control over the digital asset
+12 contained therein;
+13 (8) "Natively electronic asset" means a purely digital asset that exists only on the
+14 blockchain network;
+15 (9) "Node" means a computer which:
+16 (a) Uses software to:
+17 1. Communicate with other devices or participants on a blockchain to
+18 maintain consensus and integrity of that blockchain;
+19 2. Create and validate transaction blocks; or
+20 3. Contain and update a copy of a blockchain; and
+21 (b) Does not exercise discretion over transactions initiated by the end users of the
+22 blockchain protocol;
+23 (10) "Nonfungible token" means a digital asset on a blockchain that:
+24 (a) Has unique identification codes and metadata that are recorded;
+25 (b) Has been tokenized and cannot be replicated;
+26 (c) Is used to certify ownership and authenticity; and
+27 (d) Represents digital or physical items including artwork or real estate;
+Page 2 of 4
+XXXX 3/2/2026 4:17 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2468
+1 (11) "Private key" means the access to manage digital assets at a specific internet
+2 address and may be used for encryption and digital signature;
+3 (12) "Self-hosted wallet" means a digital interface that can:
+4 (a) Secure and transfer digital assets; and
+5 (b) Allow its owner to retain independent control of the secured digital assets and
+6 private keys;
+7 (13) "Smart contract" has the same meaning as in KRS 42.747;
+8 (14) "Stablecoin" means a digital asset that is:
+9 (a) Issued by a corporation;
+10 (b) Backed by cash or high-quality liquid assets; and
+11 (c) Redeemable on demand by the holder at par for a fixed monetary value in
+12 equivalent United States dollars;
+13 (15) "Staking" means using a node to commit digital assets to a blockchain network to:
+14 (a) Validate transactions;
+15 (b) Propose and attest to blocks contained in the blockchain; and
+16 (c) Secure the network;
+17 (16) (a) "Staking as a service" means the provision of technical staking services by a
+18 service provider on behalf of an individual or business that owns the digital
+19 assets being staked.
+20 (b) "Staking as a service" includes the operation of nodes and the associated
+21 infrastructure necessary to facilitate participation in blockchain protocols'
+22 consensus mechanisms;
+23 (17) "Third-party wallet" means a wallet that:
+24 (a) Is hosted and controlled by a party other than the owner; and[ which]
+25 (b) Contains the private keys for the owner of digital assets; and
+26 (18) "Wallet" means a digital interface or a physical device that[which] holds digital
+27 assets or private keys, and may include a:
+Page 3 of 4
+XXXX 3/2/2026 4:17 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2468
+1 (a) Hardware wallet;
+2 (b) Self-hosted wallet; and
+3 (c) Third-party wallet.
+Page 4 of 4
+XXXX 3/2/2026 4:17 PM Jacketed
+
+[DELETED:   2  J A B S A ( " ( S a a p n t c a l o v t o i a l n p u c 1 M 2 E ( D s ( " n m a t i t p l a s ( " ( D t 1 U 2 F 3 A 4 I w h i a c b a b a p m ( C a ( " ( "]
+[DELETED:   2  J t ( " ( V ( C ( N e a i s f t a n t ( " ( S ( P ( A t o t r i c o t d a c ( " e a m a p d a t e o o t b ( " ( U 1 C w o d o p o a b t m 2 C 3 C ( D b ( " ( H ( H ( I ( R]
+[DELETED:   2  J ( " k m t a t m d a a a s i a ( " ( S ( A p ( " ( " ( I ( B ( R e ( " ( V ( P ( S ( ( " s a ( " a a s i t o o n a t a i n t f p i b p c ( " ( I ( C ( " t a]
+[DELETED:   2  J ( H ( S ( T]

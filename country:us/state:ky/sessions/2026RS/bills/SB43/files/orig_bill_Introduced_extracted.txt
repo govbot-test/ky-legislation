@@ -1,0 +1,907 @@
+Title: 1 AN ACT relating to energy planning.
+Official Title: 1 AN ACT relating to energy planning.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 1364
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 164.2807 is amended to read as follows:
+4 (1) The General Assembly finds and declares that:
+5 (a) The long-term economic health and well-being of the citizens of the
+6 Commonwealth and the United States depends upon the availability of
+7 reliable sources of energy;
+8 (b) The Commonwealth has abundant reserves of coal, natural gas, and other
+9 natural resources;
+10 (c) The energy needs of the Commonwealth are best met by continuing to engage
+11 in an all-of-the-above approach to electric generation resources, including but
+12 not limited to coal, oil, natural gas, wind, solar, hydropower, nuclear, and any
+13 future or emerging technologies like hydrogen power;
+14 (d) The current economy and future economic development of the
+15 Commonwealth requires reliable, resilient, dependable, and abundant supplies
+16 of electrical power;
+17 (e) The demand for reliable, resilient, dispatchable electrical power is anticipated
+18 to significantly increase in the coming decades as the Commonwealth
+19 becomes home to additional manufacturing and other economic development
+20 projects which increase demand for electrical power;
+21 (f) It is in the interest of the Commonwealth that it be able to generate sufficient
+22 electricity within its borders to serve its own industrial, residential, and
+23 commercial demand and to power its own economy;
+24 (g) The electrification of the United States' economy combined with
+25 unprecedented federal regulatory pressures have created an electric generation
+26 resource crisis in the Commonwealth;
+27 (h) Existing state and federal policies with respect to energy do not adequately
+Page 1 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 address the concerns of the General Assembly or citizens of the
+2 Commonwealth such that a comprehensive Kentucky energy policy is
+3 required;
+4 (i) Current policies at the state and federal level do not adequately assess
+5 capacity, availability, reliability, or resilience attributes of existing and new
+6 fossil fuel-fired, nuclear, or other emerging dispatchable electric generating
+7 resources;
+8 (j) It is the policy of the Commonwealth to maintain adequate capacity of
+9 available, reliable, dispatchable, and resilient electric generation to provide for
+10 the existing and reasonably projected future energy consumption needs of all
+11 wholesale, retail, and other consumers of electricity in the Commonwealth;
+12 (k) Further retirement of fossil fuel-fired electric generating resources is not
+13 necessary for the protection of the environment or the health, safety, and
+14 welfare of the citizens of the Commonwealth;
+15 (l) The health, happiness, safety, economic opportunity, and general welfare of
+16 the citizens of the Commonwealth will be promoted and protected by the
+17 operation of fossil fuel-fired electric generating resources and, conversely,
+18 those interests would be harmed by the premature retirement of those
+19 generating resources;
+20 (m) The Commonwealth can support a multitude of potential electric generating
+21 resources and energy fuel supply sources so as to be the national leader in the
+22 production of energy in all forms;
+23 (n) Local economic development is essential to the health, happiness, safety, and
+24 general welfare of the citizens of the Commonwealth;
+25 (o) Local economic development requires an adequate supply of electricity to
+26 support new and expanding industries and is enhanced by robust employment
+27 in coal mining and coal transportation and at electric generating facilities, the
+Page 2 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 local job multiplier effect of employment in the coal, natural gas, and electric
+2 generating industries, and state and local taxes and other forms of economic
+3 value creation for the Commonwealth; and
+4 (p) The numerous energy policy challenges facing the Commonwealth require a
+5 comprehensive energy policy informed by the input, judgment, experience,
+6 and expertise of diverse stakeholders representing a variety of interests and
+7 energy resources, including but not limited to coal, oil, natural gas, wind,
+8 solar, hydropower, nuclear, and any future or emerging resources to achieve
+9 the best results for the citizens of the Commonwealth.
+10 (2) For the purposes of this section:
+11 (a) "Commission" means the Energy Planning and Inventory Commission
+12 established in this section;
+13 (b) "Dispatchable" means a source of electric power generation that is available
+14 on demand, that is not intermittent, and that can be adjusted to increase or
+15 decrease its power output upon request of a power grid operator or otherwise
+16 upon demand or request, or that can have its power output adjusted in
+17 response to market or system needs;
+18 (c) "Generation and transmission cooperative" has the same meaning as in KRS
+19 278.010;
+20 (d) "Intermittent" means:
+21 1. A source of electric power generation from a solar photovoltaic, solar
+22 thermal heating, concentrating solar thermal collector, or other solar
+23 energy collection or generation system;
+24 2. A source of electric power that generates energy by harnessing wind
+25 power or energy, whether through a turbine or other device;
+26 3. Geothermal energy, biomass energy, anaerobic digestion, or combined
+27 heat and power from solar, wind, geothermal, or anaerobic digestion
+Page 3 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 sources;
+2 4. Any short duration energy storage, which includes any method of
+3 storing generated electricity for later dispatch to the grid, whether alone
+4 or in conjunction with any other intermittent sources described in this
+5 paragraph, that is equivalent to less than forty-eight (48) hours of the
+6 average peak generation of the unit it is used to offset; or
+7 5. Conventional hydropower and pumped storage hydropower, unless they
+8 are capable of providing energy on demand, in which case they shall be
+9 deemed to be dispatchable;
+10 (e) "Public Service Commission" means the Kentucky Public Service
+11 Commission established under KRS Chapter 278, or any successor entity
+12 having the power to regulate rates and services of public utilities pursuant to
+13 the powers enumerated in KRS Chapter 278; and
+14 (f) "Utility" has the same meaning as in KRS 278.010.
+15 (3) The Energy Planning and Inventory Commission is hereby established and
+16 administratively attached to the University of Kentucky Center for Applied Energy
+17 Research, but it shall otherwise be independent from the University of Kentucky
+18 and any Kentucky executive branch agency. The affairs of the commission shall be
+19 governed exclusively by the provisions of this section. The exercise of the
+20 commission's powers conferred by this section and the carrying out of its purposes
+21 and duties are essential governmental functions and are conducted for public
+22 purposes.
+23 (4) (a) The commission shall be composed of an eighteen (18) member board and a
+24 five (5) member executive committee. Except for the state government
+25 officials and the ex officio nonvoting commission board members appointed
+26 by the President of the Senate and the Speaker of the House of
+27 Representatives, each member of the commission board shall be appointed by
+Page 4 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 the Governor and confirmed by the Senate as set forth in this subsection. The
+2 commission board shall be composed of the following members:
+3 1. One (1) representative of a Kentucky investor-owned utility;
+4 2. One (1) representative of a Kentucky generation and transmission
+5 cooperative, nominated by the chief operating officer of the Kentucky
+6 Association of Electric Cooperatives;
+7 3. One (1) representative of Kentucky coal producers, nominated by the
+8 president of the Kentucky Coal Association;
+9 4. One (1) representative of Kentucky oil and gas producers, nominated by
+10 the executive director of the Kentucky Oil and Gas Association;
+11 5. One (1) representative of an industry or business engaged in the
+12 transportation of coal;
+13 6. One (1) representative of a business engaged in the transportation or
+14 distribution of natural gas, nominated by the president of the Kentucky
+15 Gas Association;
+16 7. One (1) representative with professional experience in the purchasing or
+17 sale of fossil fuels, nominated by the president of the Kentucky Coal
+18 Association;
+19 8. One (1) member representing the nuclear electric generation industry,
+20 nominated by the executive director of the United States Nuclear
+21 Industry Council;
+22 9. One (1) member representing the interests of businesses or entities
+23 engaged in activities related to the mining, milling, conversion,
+24 enrichment, or fabrication of nuclear fuel or involved in the remediation
+25 of past enrichment of nuclear fuels in the Commonwealth;
+26 10. One (1) member representing commercial and industrial consumers of
+27 electrical power, nominated by Kentucky Industrial Utility Customers;
+Page 5 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 11. One (1) member representing Kentucky economic interests, nominated
+2 by the chief executive officer of the Kentucky Chamber of Commerce;
+3 12. One (1) member representing producers of renewable electricity;
+4 13. One (1) member with experience in investment banking or utility
+5 finance, nominated by the president of the Kentucky Banker's
+6 Association;
+7 14. One (1) member representing residential electricity consumers;
+8 15. One (1) member of the House of Representatives, who shall be an ex
+9 officio nonvoting member, nominated by the Speaker of the House of
+10 Representatives;
+11 16. One (1) member of the Senate, who shall be an ex officio nonvoting
+12 member, nominated by the President of the Senate;
+13 17. The secretary of the Energy and Environment Cabinet, or designee; and
+14 18. The secretary of the Cabinet for Economic Development, or designee.
+15 (b) The executive committee of the board shall include the following five (5)
+16 members:
+17 1. The director of the University of Kentucky Center of Applied Energy
+18 Research;
+19 2. One (1) member appointed by the Governor who has the same level of
+20 education, training, and professional experience as would be required to
+21 serve in the role of chief executive officer or board member of a
+22 company engaged in the production of coal;
+23 3. One (1) member appointed by the Governor who has the same level of
+24 education, training, and professional experience as would be required to
+25 serve in the role of chief executive officer or board member of an
+26 investor-owned, cooperative, or municipal electric utility; and
+27 4. Two (2) members elected by the commission board from the
+Page 6 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 commission board membership. Any vacancy in an executive committee
+2 position under this subparagraph shall be filled in the same manner as
+3 the original election.
+4 (c) Any appointment made by the Governor to the commission board or the
+5 executive committee shall be subject to confirmation by the Senate. If a
+6 pending appointment to the board or executive committee requiring
+7 confirmation is not confirmed by the Senate upon the conclusion of the
+8 legislative session during or before which the appointment was made, then the
+9 member's position on the board or executive committee shall become vacant,
+10 either upon sine die adjournment of the legislative session or the date that the
+11 Senate votes to decline to confirm appointment, and the Governor shall
+12 appoint a different replacement.
+13 (d) After the expiration of their initial terms, members who are not members of
+14 the legislative or executive branch shall serve for terms of four (4) years and
+15 until a successor is appointed and confirmed by the Senate. Legislative
+16 members shall serve during the terms of their elected positions in the General
+17 Assembly, and executive branch members shall serve during the appointed
+18 terms of their state government positions. In the event of a vacancy prior to
+19 the expiration of a term for member appointed by the Governor, the Governor
+20 shall appoint a replacement in the same manner as the original appointment,
+21 and the appointment shall be subject to the same Senate confirmation process.
+22 Members appointed by the Governor shall not be full-time employees of the
+23 Commonwealth as defined in KRS 18A.005, and shall not be compensated for
+24 their service on the board, but they shall be subject to the requirements of the
+25 executive branch code of ethics established under KRS Chapter 11A.
+26 (e) A majority of the commission board may select one (1) member of the
+27 commission board to serve as chair of the commission board and one (1)
+Page 7 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 member of the commission board to serve as vice chair of the commission
+2 board.
+3 (f) The executive committee may adopt rules of procedure or bylaws governing
+4 the conduct of the commission's business.
+5 (g) Other than being a customer of retail electric service, no member of the
+6 executive committee shall have any current employment, contractual, or other
+7 direct financial relationship with any utility at the time of their appointment or
+8 during their service on the executive committee.
+9 (h) No person shall serve as a member of the commission board or executive
+10 committee if the service would cause a conflict with, or result in the
+11 disclosure of confidential information relating to, any research projects
+12 performed by or in partnership with the University of Kentucky Center for
+13 Applied Energy Research.
+14 (i) If the review of a notice given under subsection (7) of this section would
+15 result in the disclosure of confidential information to an executive committee
+16 member that is prohibited under subsection (7)(c)3. of this section, the
+17 executive committee member shall recuse himself or herself, and the
+18 remaining executive committee members shall name a replacement from the
+19 membership of the commission board solely for the purpose of reviewing the
+20 notice that caused the recusal.
+21 (j) A majority of the executive committee shall constitute a quorum, and the
+22 affirmative vote of the majority of the members present during a meeting is
+23 necessary for any action taken by vote of the executive committee.
+24 (k) The Governor shall not have reorganization power over the commission, the
+25 structure of the commission, its board, the executive committee, or the hiring,
+26 compensation, or termination of its executive director. Only the General
+27 Assembly may reorganize or restructure the commission or the commission
+Page 8 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 board by legislative act.
+2 (5) The commission may employ an executive director who shall be selected and hired
+3 by the executive committee, subject to confirmation by the Senate. If a pending
+4 selection for an executive director is not confirmed by the Senate upon the
+5 conclusion of the legislative session during or before which the selection was made,
+6 then the executive director's position shall become vacant, either upon sine die
+7 adjournment of the legislative session or the date that the Senate votes to decline to
+8 confirm appointment, and the executive committee shall select a different
+9 replacement. Until an executive director is selected and hired, or in the event of a
+10 vacancy in the role of executive director, the director of the University of Kentucky
+11 Center for Applied Energy Research shall serve in the role of executive director of
+12 the commission.
+13 (6) The commission shall be authorized to:
+14 (a) Take all necessary measures to effectuate the public purposes described in
+15 subsection (1) of this section;
+16 (b) Assist in fulfilling the executive committee's mandatory duties regarding
+17 review of planned retirement decisions described in subsection (7) of this
+18 section;
+19 (c) Engage in the examination and study of:
+20 1. The adequacy of the Commonwealth's existing and anticipated future
+21 electric generation and transmission resources and the existing and
+22 anticipated future electric demand;
+23 2. The continued operation, retirement, divestiture, or other major action
+24 impacting any electric power generating unit, or any pollution control
+25 equipment associated with any such unit, located in the Commonwealth;
+26 3. Issues concerning the adequacy of the Commonwealth's energy supply,
+27 including but not limited to the economic impact of energy production
+Page 9 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 and consumption in the Commonwealth, the Kentucky energy grid's
+2 response to severe weather events, projected power demand and growth
+3 in demand, land use impacts from power generation, local economic
+4 impacts resulting from the closure of electric generating resources, and
+5 whether alternatives to decommissioning electric generating resources
+6 exist;
+7 4. The effect of any federal policy which may impact the availability of
+8 dispatchable power or the adequacy of energy supplies in the
+9 Commonwealth;
+10 5. The Commonwealth's ability to participate in energy markets or in the
+11 production, transmission, or distribution of energy;
+12 6. The Commonwealth's ability to finance or provide financing assistance
+13 to energy producers to encourage additional energy production in the
+14 Commonwealth;
+15 7. New and emerging electric generating technologies that could supply
+16 future electric demand in the Commonwealth; and
+17 8. Whether the Commonwealth's energy resources are sufficiently
+18 dispatchable to ensure against loss of electrical power supply in the
+19 event of extreme weather or other unexpected or catastrophic events that
+20 may challenge the ability of the Commonwealth's electrical grid to meet
+21 demand; and
+22 (d) On or before December 1, 2024, and each December 1 thereafter, submit a
+23 report with recommendations, including but not limited to recommendations
+24 for statutory changes or budgetary proposals, to the Legislative Research
+25 Commission, the Governor, and the Public Service Commission concerning
+26 any of the issues examined or studied by the commission pursuant to
+27 paragraph (c) of this subsection. The annual report shall also include a
+Page 10 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 current inventory of the Commonwealth's existing electric generation and
+2 transmission resources, the commission's forecast for any changes in
+3 demand for electric generation and transmission resources for the next five
+4 (5) years, and recommendations for how to best address any discrepancies
+5 between the current electric resource inventory and forecasted future
+6 demand.
+7 (7) (a) Notwithstanding any provision of law to the contrary, no utility shall retire
+8 any existing coal, oil, or natural gas-fired electric generating plant, or any unit
+9 within the plant, prior to submitting notice to the commission and receiving
+10 the findings from the executive committee, as described in this subsection.
+11 (b) A utility proposing to retire any existing coal, oil, or natural gas-fired power
+12 plant, or unit within such plant, shall give notice to the commission's
+13 executive committee, in the form and manner as the executive committee may
+14 require, at least one hundred eighty (180) days prior to submitting the
+15 retirement application to the Public Service Commission required by KRS
+16 278.264(1). The utility may include with its notice any information the utility
+17 believes will assist in the executive committee's review of the proposed
+18 activity.
+19 (c) 1. The executive committee or executive director may require a utility
+20 filing notice under this subsection to provide any information, records,
+21 or data that the executive committee or executive director deems
+22 reasonably necessary to make its findings under this subsection, and the
+23 utility shall respond to all such requests within a reasonable timeframe
+24 as established by the executive committee or executive director.
+25 2. A utility responding to an information request may designate
+26 information, records, or data provided in the response as confidential
+27 business information, and the information, records, or data shall be
+Page 11 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 exempt from disclosure under the requirements of KRS 61.870 to
+2 61.884.
+3 3. A utility responding to an information request may indicate in its
+4 response that the information, records, or data provided should not be
+5 shared with specific members of the commission board or executive
+6 committee to avoid an unfair competitive or market advantage, in which
+7 case the confidential information, records, or data shall not be shared
+8 with or made available to that member or members.
+9 (d) Other than being a customer of retail electric service, any member of the
+10 commission board who has an employment or contractual relationship with
+11 the utility filing the notice required by this subsection shall have no contact
+12 with the executive director or any member of the executive committee
+13 concerning the proposed activities described in the notice.
+14 (e) Within ninety (90) days of its receipt of the notice required by this section, the
+15 commission shall hold a public hearing in the county in which the retirement
+16 is proposed to occur in order to receive public comments on the proposed
+17 activity.
+18 (f) Within one hundred thirty-five (135) days of receiving a utility's notice of a
+19 proposed retirement, but following the public hearing described in paragraph
+20 (e) of this subsection, the executive committee shall issue a final report
+21 containing written findings and recommendations concerning the proposed
+22 retirement. The executive committee's written findings and recommendations
+23 shall include:
+24 1. The impact of the proposed activity on the available supply of
+25 dispatchable and reliable power within the Commonwealth, including
+26 the ability of the Commonwealth to meet future demand growth or
+27 respond to extreme weather events;
+Page 12 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 2. Whether alternatives to the proposed activity exist, and whether those
+2 alternatives should be further evaluated prior to proceeding with the
+3 proposed activity;
+4 3. Whether the replacement of the generating unit or units subject to the
+5 proposed activity with other generating resources will result in any
+6 adverse land use impacts in the Commonwealth;
+7 4. Whether the proposed activity will result in loss of revenue to the
+8 Commonwealth or any local government unit;
+9 5. The positive or negative economic impact of the proposed activity on
+10 the local economy of the area in which the proposed activity will take
+11 place;
+12 6. The economic impact of the proposed activity on the Commonwealth as
+13 a whole; and
+14 7. The impact of the proposed activity on the Commonwealth's ability to
+15 increase the available supply of electrical power for current or future
+16 economic development purposes.
+17 (g) The findings of the executive committee that are approved by a majority of
+18 the members of the executive committee shall be designated as findings of the
+19 commission and shall be submitted to the Public Service Commission. If no
+20 majority decision of the executive committee is reached with respect to the
+21 findings, the report shall so indicate, and each member of the executive
+22 committee may make a written statement of position concerning the proposed
+23 activity by the deadline provided for in the report. Each written statement
+24 shall be included in the report and transmitted along with the report to the
+25 Public Service Commission. Any executive committee member dissenting
+26 from the report, any portion of the report, or any specific findings in the report
+27 may, within one hundred eighty (180) days of the utility filing notice of the
+Page 13 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 proposed activity, transmit separate dissenting findings to the Public Service
+2 Commission.
+3 (h) The executive committee's written report, and any dissenting statements
+4 provided to the Public Service Commission, shall be included in any
+5 retirement application made to the Public Service Commission under KRS
+6 278.264, and the Public Service Commission shall not approve any retirement
+7 application without considering all information received from the executive
+8 committee or any member of the executive committee. Any order of the
+9 Public Service Commission in a proceeding under KRS 278.264 shall contain
+10 specific written findings of fact or conclusions of law addressing whether the
+11 executive committee's findings and recommendations were considered by the
+12 Public Service Commission.
+13 (i) No retirement application to the Public Service Commission under KRS
+14 278.264 shall be deemed administratively complete unless it includes either
+15 the executive committee's report submitted pursuant to this section or
+16 evidence that more than one hundred eighty (180) days have passed since
+17 notice was submitted to the commission as required in paragraph (b) of this
+18 subsection and no executive committee report or determination has been
+19 provided to the utility.
+20 (8) Notwithstanding any provision of law to the contrary, the executive committee, or
+21 the executive director if authorized by the executive committee, shall have standing
+22 to participate as an intervening party in any case or other proceeding before the
+23 Public Service Commission.
+24 (9) Subject to available funding, the executive committee may employ administrative
+25 staff or third-party consultants with expertise in the subject matter of any study,
+26 examination, or review undertaken by the commission to assist in carrying out the
+27 commission's functions under this section.
+Page 14 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1364
+1 (10) The commission shall cease to exist on December 31, 2035.
+Page 15 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+[DELETED:   2  J A B S ( T ( T l e h a w o t c o t C a t U S d u t a o r ( T C h a r o c n g a o n ( T i n f ( T c e a f e d o t C o ( T t s i i t c d a t C b p ( I e w i b t s i o i r a c ( T e o t U S e c w u r ( E]
+[DELETED:   2  J a t c o t G A o c o t C s t a c K e p i r ( C p a t s a f l d n a a c f f n o o e d e g r ( I i t p o t C t m a c o a t w ( F r o f f e g r i n n f t p o t e o t h s a w ( T t c o t C w b p a p b t o o f f e g r a c t i w b h b t p r o t g ( T r p ( L g ( L e d r a a s o e t s i]
+[DELETED:   2  J l g v ( T c e p i b t i j e a e r i b n l t c o n g w s t ( F ( " m t E P a I C e ( " o d u d o r o t c h i p o a i r ( " 2 ( " 1 A t h c s t c o o s e 2 A s o e p t g e b h w p 3 G h a p f s w g o a d]
+[DELETED:   2  J s 4 A s d e s w i a m o s o p a 5 C a d ( " S C m t K P S C e u K C 2 o a s e h t ( " ( T E P a I C i h e a a R a g e b t p o t s T e o t c a d a e g f a a c f p p ( ( T f ( m e c E f t s g o b t P o t S a t S o t H o R]
+[DELETED:   2  J t c 1 O 2 O ( r o a K g a t c A 3 O ( o K c p n b t p 4 O t 5 O ( r o a i o b e i t t 6 O ( r o a b e i t t o d G 7 O s o f n b t p t K C A 8 O ( m r t n e g i n b t e d o t U S N I 9 O ( m r t i o b o e e i a r t t m m c e o 1 O e]
+[DELETED:   2  J 1 O b 1 O 1 O ( m w e i i b o u f n b t p o t K B A 1 O 1 O o R 1 O ( o t w s b a e o n m 1 T 1 T ( T e c o t b s i t f f ( m 1 T R 2 O e s i t r o c e o o b m o a c 3 O e s i t r o c e o o b m o a i 4 T ( m e b t c b f t]
+[DELETED:   2  J c p t ( A a m b t G t t c b o t e c s b s t c b t S I a p a t t b o e c r c i n c b t S u t c o t l m e S v t d t c a a t G s a ( A t u a s i a a c b t S L m A a e b m s s d t a t t s a M C t e ( A m o t c b m s o ( m o t c b t s a c o t c b a o (]
+[DELETED:   2  J m b ( T t ( O t b a c o r e s n m o t e d d ( N p s s a a m o t c b o e c i t s w c a c w o r i t d o c i r t a r p p A ( I t r o a n g u s ( o t s w r m t i p u s ( o t s t e c m s r h o h a t r m n ( A m o t e c s c a q a t a n ( T s c o t o i e d O t G A]
+[DELETED:   2  J b ( T b t e c s t c b t S I a p s f a e d i n c b t S u t c t t e d p s b v e u s d a c a a t e c s s a d r v C t ( T ( T a n m t e t p p d i s ( A i f t e c m d r r o p r d d i s ( o t s ( E 1 T a o t C e a a f e g a t r a t e a a 2 T i e 3 I i]
+[DELETED:   2  J a c i t C t K e g r i d l u i f p g l e i w a t d e g r e 4 T d p o t a o e s i t C 5 T p 6 T t e p t e a e p i t C 7 N a e e g t t c s f 8 W t C e r a s d t e a l o e p s i t e m d ( O r f s c o b p t t L R C a o t i e o s b t c p t p ( o t s T a r s a i a]
+[DELETED:   2  J c t r t c f f a c i d ( b t c e r i a f f d ( ( N a w t ( A p o u w s p s g n t t c e r a l o h e ( d p t s t r a t t P S C r b K 2 b w a i t e c r o t p a ( 1 T e c o e d m r a u f o d t t e c o e d d r u a 2 A u r t a i r m d i r o d p i t r a c b i a t i r o d s b]
+[DELETED:   2  J e f d u t r o K 6 t 6 3 A u r t a i r m i i i r s w s m o t c b o e c c t c i o d s n b s w ( O t b a c o r e s a m o t c t w t e d o a m o t e c c ( W c i p t o i o t r p c o t p a ( W p ( o t s t e c s i a f r c w f a r c t p r s 1 T i o t p a o t a s o d a r p w t C i t a o t C t m f d g o r]
+[DELETED:   2  J 2 W a s b f e p t p w t p 3 W p a w o g r w r i a a 4 W t p a w r i l o r t t C 5 T t p 6 T a 7 T i t a s o e p f c o f e ( T t c m f t r s s i a e m o t e c a b t d p f i t r E w s s b i i t r a t a w t r P S C A e c m d f m]
+[DELETED:   2  J p C ( T e c w r a a d s p t t P S C s b i i a r a m t t P S C u K 2 a c o a m o t e c A o o t P s e P ( N r a t t P S C u K 2 t e c r s p t t s o e t m t o h e ( d h p s n s a n e c r o d h b p ( N t t p a a i p i a c o o p b t P ( S s o t c w e i s m o a s e c]
+[DELETED:   2  J ( T]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 1364
+1 AN ACT relating to energy planning.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 164.2807 is amended to read as follows:
+4 (1) The General Assembly finds and declares that:
+5 (a) The long-term economic health and well-being of the citizens of the
+6 Commonwealth and the United States depends upon the availability of
+7 reliable sources of energy;
+8 (b) The Commonwealth has abundant reserves of coal, natural gas, and other
+9 natural resources;
+10 (c) The energy needs of the Commonwealth are best met by continuing to engage
+11 in an all-of-the-above approach to electric generation resources, including but
+12 not limited to coal, oil, natural gas, wind, solar, hydropower, nuclear, and any
+13 future or emerging technologies like hydrogen power;
+14 (d) The current economy and future economic development of the
+15 Commonwealth requires reliable, resilient, dependable, and abundant supplies
+16 of electrical power;
+17 (e) The demand for reliable, resilient, dispatchable electrical power is anticipated
+18 to significantly increase in the coming decades as the Commonwealth
+19 becomes home to additional manufacturing and other economic development
+20 projects which increase demand for electrical power;
+21 (f) It is in the interest of the Commonwealth that it be able to generate sufficient
+22 electricity within its borders to serve its own industrial, residential, and
+23 commercial demand and to power its own economy;
+24 (g) The electrification of the United States' economy combined with
+25 unprecedented federal regulatory pressures have created an electric generation
+26 resource crisis in the Commonwealth;
+27 (h) Existing state and federal policies with respect to energy do not adequately
+Page 1 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 address the concerns of the General Assembly or citizens of the
+2 Commonwealth such that a comprehensive Kentucky energy policy is
+3 required;
+4 (i) Current policies at the state and federal level do not adequately assess
+5 capacity, availability, reliability, or resilience attributes of existing and new
+6 fossil fuel-fired, nuclear, or other emerging dispatchable electric generating
+7 resources;
+8 (j) It is the policy of the Commonwealth to maintain adequate capacity of
+9 available, reliable, dispatchable, and resilient electric generation to provide for
+10 the existing and reasonably projected future energy consumption needs of all
+11 wholesale, retail, and other consumers of electricity in the Commonwealth;
+12 (k) Further retirement of fossil fuel-fired electric generating resources is not
+13 necessary for the protection of the environment or the health, safety, and
+14 welfare of the citizens of the Commonwealth;
+15 (l) The health, happiness, safety, economic opportunity, and general welfare of
+16 the citizens of the Commonwealth will be promoted and protected by the
+17 operation of fossil fuel-fired electric generating resources and, conversely,
+18 those interests would be harmed by the premature retirement of those
+19 generating resources;
+20 (m) The Commonwealth can support a multitude of potential electric generating
+21 resources and energy fuel supply sources so as to be the national leader in the
+22 production of energy in all forms;
+23 (n) Local economic development is essential to the health, happiness, safety, and
+24 general welfare of the citizens of the Commonwealth;
+25 (o) Local economic development requires an adequate supply of electricity to
+26 support new and expanding industries and is enhanced by robust employment
+27 in coal mining and coal transportation and at electric generating facilities, the
+Page 2 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 local job multiplier effect of employment in the coal, natural gas, and electric
+2 generating industries, and state and local taxes and other forms of economic
+3 value creation for the Commonwealth; and
+4 (p) The numerous energy policy challenges facing the Commonwealth require a
+5 comprehensive energy policy informed by the input, judgment, experience,
+6 and expertise of diverse stakeholders representing a variety of interests and
+7 energy resources, including but not limited to coal, oil, natural gas, wind,
+8 solar, hydropower, nuclear, and any future or emerging resources to achieve
+9 the best results for the citizens of the Commonwealth.
+10 (2) For the purposes of this section:
+11 (a) "Commission" means the Energy Planning and Inventory Commission
+12 established in this section;
+13 (b) "Dispatchable" means a source of electric power generation that is available
+14 on demand, that is not intermittent, and that can be adjusted to increase or
+15 decrease its power output upon request of a power grid operator or otherwise
+16 upon demand or request, or that can have its power output adjusted in
+17 response to market or system needs;
+18 (c) "Generation and transmission cooperative" has the same meaning as in KRS
+19 278.010;
+20 (d) "Intermittent" means:
+21 1. A source of electric power generation from a solar photovoltaic, solar
+22 thermal heating, concentrating solar thermal collector, or other solar
+23 energy collection or generation system;
+24 2. A source of electric power that generates energy by harnessing wind
+25 power or energy, whether through a turbine or other device;
+26 3. Geothermal energy, biomass energy, anaerobic digestion, or combined
+27 heat and power from solar, wind, geothermal, or anaerobic digestion
+Page 3 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 sources;
+2 4. Any short duration energy storage, which includes any method of
+3 storing generated electricity for later dispatch to the grid, whether alone
+4 or in conjunction with any other intermittent sources described in this
+5 paragraph, that is equivalent to less than forty-eight (48) hours of the
+6 average peak generation of the unit it is used to offset; or
+7 5. Conventional hydropower and pumped storage hydropower, unless they
+8 are capable of providing energy on demand, in which case they shall be
+9 deemed to be dispatchable;
+10 (e) "Public Service Commission" means the Kentucky Public Service
+11 Commission established under KRS Chapter 278, or any successor entity
+12 having the power to regulate rates and services of public utilities pursuant to
+13 the powers enumerated in KRS Chapter 278; and
+14 (f) "Utility" has the same meaning as in KRS 278.010.
+15 (3) The Energy Planning and Inventory Commission is hereby established and
+16 administratively attached to the University of Kentucky Center for Applied Energy
+17 Research, but it shall otherwise be independent from the University of Kentucky
+18 and any Kentucky executive branch agency. The affairs of the commission shall be
+19 governed exclusively by the provisions of this section. The exercise of the
+20 commission's powers conferred by this section and the carrying out of its purposes
+21 and duties are essential governmental functions and are conducted for public
+22 purposes.
+23 (4) (a) The commission shall be composed of an eighteen (18) member board and a
+24 five (5) member executive committee. Except for the state government
+25 officials and the ex officio nonvoting commission board members appointed
+26 by the President of the Senate and the Speaker of the House of
+27 Representatives, each member of the commission board shall be appointed by
+Page 4 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 the Governor and confirmed by the Senate as set forth in this subsection. The
+2 commission board shall be composed of the following members:
+3 1. One (1) representative of a Kentucky investor-owned utility;
+4 2. One (1) representative of a Kentucky generation and transmission
+5 cooperative, nominated by the chief operating officer of the Kentucky
+6 Association of Electric Cooperatives;
+7 3. One (1) representative of Kentucky coal producers, nominated by the
+8 president of the Kentucky Coal Association;
+9 4. One (1) representative of Kentucky oil and gas producers, nominated by
+10 the executive director of the Kentucky Oil and Gas Association;
+11 5. One (1) representative of an industry or business engaged in the
+12 transportation of coal;
+13 6. One (1) representative of a business engaged in the transportation or
+14 distribution of natural gas, nominated by the president of the Kentucky
+15 Gas Association;
+16 7. One (1) representative with professional experience in the purchasing or
+17 sale of fossil fuels, nominated by the president of the Kentucky Coal
+18 Association;
+19 8. One (1) member representing the nuclear electric generation industry,
+20 nominated by the executive director of the United States Nuclear
+21 Industry Council;
+22 9. One (1) member representing the interests of businesses or entities
+23 engaged in activities related to the mining, milling, conversion,
+24 enrichment, or fabrication of nuclear fuel or involved in the remediation
+25 of past enrichment of nuclear fuels in the Commonwealth;
+26 10. One (1) member representing commercial and industrial consumers of
+27 electrical power, nominated by Kentucky Industrial Utility Customers;
+Page 5 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 11. One (1) member representing Kentucky economic interests, nominated
+2 by the chief executive officer of the Kentucky Chamber of Commerce;
+3 12. One (1) member representing producers of renewable electricity;
+4 13. One (1) member with experience in investment banking or utility
+5 finance, nominated by the president of the Kentucky Banker's
+6 Association;
+7 14. One (1) member representing residential electricity consumers;
+8 15. One (1) member of the House of Representatives, who shall be an ex
+9 officio nonvoting member, nominated by the Speaker of the House of
+10 Representatives;
+11 16. One (1) member of the Senate, who shall be an ex officio nonvoting
+12 member, nominated by the President of the Senate;
+13 17. The secretary of the Energy and Environment Cabinet, or designee; and
+14 18. The secretary of the Cabinet for Economic Development, or designee.
+15 (b) The executive committee of the board shall include the following five (5)
+16 members:
+17 1. The director of the University of Kentucky Center of Applied Energy
+18 Research;
+19 2. One (1) member appointed by the Governor who has the same level of
+20 education, training, and professional experience as would be required to
+21 serve in the role of chief executive officer or board member of a
+22 company engaged in the production of coal;
+23 3. One (1) member appointed by the Governor who has the same level of
+24 education, training, and professional experience as would be required to
+25 serve in the role of chief executive officer or board member of an
+26 investor-owned, cooperative, or municipal electric utility; and
+27 4. Two (2) members elected by the commission board from the
+Page 6 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 commission board membership. Any vacancy in an executive committee
+2 position under this subparagraph shall be filled in the same manner as
+3 the original election.
+4 (c) Any appointment made by the Governor to the commission board or the
+5 executive committee shall be subject to confirmation by the Senate. If a
+6 pending appointment to the board or executive committee requiring
+7 confirmation is not confirmed by the Senate upon the conclusion of the
+8 legislative session during or before which the appointment was made, then the
+9 member's position on the board or executive committee shall become vacant,
+10 either upon sine die adjournment of the legislative session or the date that the
+11 Senate votes to decline to confirm appointment, and the Governor shall
+12 appoint a different replacement.
+13 (d) After the expiration of their initial terms, members who are not members of
+14 the legislative or executive branch shall serve for terms of four (4) years and
+15 until a successor is appointed and confirmed by the Senate. Legislative
+16 members shall serve during the terms of their elected positions in the General
+17 Assembly, and executive branch members shall serve during the appointed
+18 terms of their state government positions. In the event of a vacancy prior to
+19 the expiration of a term for member appointed by the Governor, the Governor
+20 shall appoint a replacement in the same manner as the original appointment,
+21 and the appointment shall be subject to the same Senate confirmation process.
+22 Members appointed by the Governor shall not be full-time employees of the
+23 Commonwealth as defined in KRS 18A.005, and shall not be compensated for
+24 their service on the board, but they shall be subject to the requirements of the
+25 executive branch code of ethics established under KRS Chapter 11A.
+26 (e) A majority of the commission board may select one (1) member of the
+27 commission board to serve as chair of the commission board and one (1)
+Page 7 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 member of the commission board to serve as vice chair of the commission
+2 board.
+3 (f) The executive committee may adopt rules of procedure or bylaws governing
+4 the conduct of the commission's business.
+5 (g) Other than being a customer of retail electric service, no member of the
+6 executive committee shall have any current employment, contractual, or other
+7 direct financial relationship with any utility at the time of their appointment or
+8 during their service on the executive committee.
+9 (h) No person shall serve as a member of the commission board or executive
+10 committee if the service would cause a conflict with, or result in the
+11 disclosure of confidential information relating to, any research projects
+12 performed by or in partnership with the University of Kentucky Center for
+13 Applied Energy Research.
+14 (i) If the review of a notice given under subsection (7) of this section would
+15 result in the disclosure of confidential information to an executive committee
+16 member that is prohibited under subsection (7)(c)3. of this section, the
+17 executive committee member shall recuse himself or herself, and the
+18 remaining executive committee members shall name a replacement from the
+19 membership of the commission board solely for the purpose of reviewing the
+20 notice that caused the recusal.
+21 (j) A majority of the executive committee shall constitute a quorum, and the
+22 affirmative vote of the majority of the members present during a meeting is
+23 necessary for any action taken by vote of the executive committee.
+24 (k) The Governor shall not have reorganization power over the commission, the
+25 structure of the commission, its board, the executive committee, or the hiring,
+26 compensation, or termination of its executive director. Only the General
+27 Assembly may reorganize or restructure the commission or the commission
+Page 8 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 board by legislative act.
+2 (5) The commission may employ an executive director who shall be selected and hired
+3 by the executive committee, subject to confirmation by the Senate. If a pending
+4 selection for an executive director is not confirmed by the Senate upon the
+5 conclusion of the legislative session during or before which the selection was made,
+6 then the executive director's position shall become vacant, either upon sine die
+7 adjournment of the legislative session or the date that the Senate votes to decline to
+8 confirm appointment, and the executive committee shall select a different
+9 replacement. Until an executive director is selected and hired, or in the event of a
+10 vacancy in the role of executive director, the director of the University of Kentucky
+11 Center for Applied Energy Research shall serve in the role of executive director of
+12 the commission.
+13 (6) The commission shall be authorized to:
+14 (a) Take all necessary measures to effectuate the public purposes described in
+15 subsection (1) of this section;
+16 (b) Assist in fulfilling the executive committee's mandatory duties regarding
+17 review of planned retirement decisions described in subsection (7) of this
+18 section;
+19 (c) Engage in the examination and study of:
+20 1. The adequacy of the Commonwealth's existing and anticipated future
+21 electric generation and transmission resources and the existing and
+22 anticipated future electric demand;
+23 2. The continued operation, retirement, divestiture, or other major action
+24 impacting any electric power generating unit, or any pollution control
+25 equipment associated with any such unit, located in the Commonwealth;
+26 3. Issues concerning the adequacy of the Commonwealth's energy supply,
+27 including but not limited to the economic impact of energy production
+Page 9 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 and consumption in the Commonwealth, the Kentucky energy grid's
+2 response to severe weather events, projected power demand and growth
+3 in demand, land use impacts from power generation, local economic
+4 impacts resulting from the closure of electric generating resources, and
+5 whether alternatives to decommissioning electric generating resources
+6 exist;
+7 4. The effect of any federal policy which may impact the availability of
+8 dispatchable power or the adequacy of energy supplies in the
+9 Commonwealth;
+10 5. The Commonwealth's ability to participate in energy markets or in the
+11 production, transmission, or distribution of energy;
+12 6. The Commonwealth's ability to finance or provide financing assistance
+13 to energy producers to encourage additional energy production in the
+14 Commonwealth;
+15 7. New and emerging electric generating technologies that could supply
+16 future electric demand in the Commonwealth; and
+17 8. Whether the Commonwealth's energy resources are sufficiently
+18 dispatchable to ensure against loss of electrical power supply in the
+19 event of extreme weather or other unexpected or catastrophic events that
+20 may challenge the ability of the Commonwealth's electrical grid to meet
+21 demand; and
+22 (d) On or before December 1, 2024, and each December 1 thereafter, submit a
+23 report with recommendations, including but not limited to recommendations
+24 for statutory changes or budgetary proposals, to the Legislative Research
+25 Commission, the Governor, and the Public Service Commission concerning
+26 any of the issues examined or studied by the commission pursuant to
+27 paragraph (c) of this subsection. The annual report shall also include a
+Page 10 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 current inventory of the Commonwealth's existing electric generation and
+2 transmission resources, the commission's forecast for any changes in
+3 demand for electric generation and transmission resources for the next five
+4 (5) years, and recommendations for how to best address any discrepancies
+5 between the current electric resource inventory and forecasted future
+6 demand.
+7 (7) (a) Notwithstanding any provision of law to the contrary, no utility shall retire
+8 any existing coal, oil, or natural gas-fired electric generating plant, or any unit
+9 within the plant, prior to submitting notice to the commission and receiving
+10 the findings from the executive committee, as described in this subsection.
+11 (b) A utility proposing to retire any existing coal, oil, or natural gas-fired power
+12 plant, or unit within such plant, shall give notice to the commission's
+13 executive committee, in the form and manner as the executive committee may
+14 require, at least one hundred eighty (180) days prior to submitting the
+15 retirement application to the Public Service Commission required by KRS
+16 278.264(1). The utility may include with its notice any information the utility
+17 believes will assist in the executive committee's review of the proposed
+18 activity.
+19 (c) 1. The executive committee or executive director may require a utility
+20 filing notice under this subsection to provide any information, records,
+21 or data that the executive committee or executive director deems
+22 reasonably necessary to make its findings under this subsection, and the
+23 utility shall respond to all such requests within a reasonable timeframe
+24 as established by the executive committee or executive director.
+25 2. A utility responding to an information request may designate
+26 information, records, or data provided in the response as confidential
+27 business information, and the information, records, or data shall be
+Page 11 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 exempt from disclosure under the requirements of KRS 61.870 to
+2 61.884.
+3 3. A utility responding to an information request may indicate in its
+4 response that the information, records, or data provided should not be
+5 shared with specific members of the commission board or executive
+6 committee to avoid an unfair competitive or market advantage, in which
+7 case the confidential information, records, or data shall not be shared
+8 with or made available to that member or members.
+9 (d) Other than being a customer of retail electric service, any member of the
+10 commission board who has an employment or contractual relationship with
+11 the utility filing the notice required by this subsection shall have no contact
+12 with the executive director or any member of the executive committee
+13 concerning the proposed activities described in the notice.
+14 (e) Within ninety (90) days of its receipt of the notice required by this section, the
+15 commission shall hold a public hearing in the county in which the retirement
+16 is proposed to occur in order to receive public comments on the proposed
+17 activity.
+18 (f) Within one hundred thirty-five (135) days of receiving a utility's notice of a
+19 proposed retirement, but following the public hearing described in paragraph
+20 (e) of this subsection, the executive committee shall issue a final report
+21 containing written findings and recommendations concerning the proposed
+22 retirement. The executive committee's written findings and recommendations
+23 shall include:
+24 1. The impact of the proposed activity on the available supply of
+25 dispatchable and reliable power within the Commonwealth, including
+26 the ability of the Commonwealth to meet future demand growth or
+27 respond to extreme weather events;
+Page 12 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 2. Whether alternatives to the proposed activity exist, and whether those
+2 alternatives should be further evaluated prior to proceeding with the
+3 proposed activity;
+4 3. Whether the replacement of the generating unit or units subject to the
+5 proposed activity with other generating resources will result in any
+6 adverse land use impacts in the Commonwealth;
+7 4. Whether the proposed activity will result in loss of revenue to the
+8 Commonwealth or any local government unit;
+9 5. The positive or negative economic impact of the proposed activity on
+10 the local economy of the area in which the proposed activity will take
+11 place;
+12 6. The economic impact of the proposed activity on the Commonwealth as
+13 a whole; and
+14 7. The impact of the proposed activity on the Commonwealth's ability to
+15 increase the available supply of electrical power for current or future
+16 economic development purposes.
+17 (g) The findings of the executive committee that are approved by a majority of
+18 the members of the executive committee shall be designated as findings of the
+19 commission and shall be submitted to the Public Service Commission. If no
+20 majority decision of the executive committee is reached with respect to the
+21 findings, the report shall so indicate, and each member of the executive
+22 committee may make a written statement of position concerning the proposed
+23 activity by the deadline provided for in the report. Each written statement
+24 shall be included in the report and transmitted along with the report to the
+25 Public Service Commission. Any executive committee member dissenting
+26 from the report, any portion of the report, or any specific findings in the report
+27 may, within one hundred eighty (180) days of the utility filing notice of the
+Page 13 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 proposed activity, transmit separate dissenting findings to the Public Service
+2 Commission.
+3 (h) The executive committee's written report, and any dissenting statements
+4 provided to the Public Service Commission, shall be included in any
+5 retirement application made to the Public Service Commission under KRS
+6 278.264, and the Public Service Commission shall not approve any retirement
+7 application without considering all information received from the executive
+8 committee or any member of the executive committee. Any order of the
+9 Public Service Commission in a proceeding under KRS 278.264 shall contain
+10 specific written findings of fact or conclusions of law addressing whether the
+11 executive committee's findings and recommendations were considered by the
+12 Public Service Commission.
+13 (i) No retirement application to the Public Service Commission under KRS
+14 278.264 shall be deemed administratively complete unless it includes either
+15 the executive committee's report submitted pursuant to this section or
+16 evidence that more than one hundred eighty (180) days have passed since
+17 notice was submitted to the commission as required in paragraph (b) of this
+18 subsection and no executive committee report or determination has been
+19 provided to the utility.
+20 (8) Notwithstanding any provision of law to the contrary, the executive committee, or
+21 the executive director if authorized by the executive committee, shall have standing
+22 to participate as an intervening party in any case or other proceeding before the
+23 Public Service Commission.
+24 (9) Subject to available funding, the executive committee may employ administrative
+25 staff or third-party consultants with expertise in the subject matter of any study,
+26 examination, or review undertaken by the commission to assist in carrying out the
+27 commission's functions under this section.
+Page 14 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1364
+1 (10) The commission shall cease to exist on December 31, 2035.
+Page 15 of 15
+XXXX 1/6/2026 4:24 PM Jacketed
+
+[DELETED:   2  J A B S ( T ( T l e h a w o t c o t C a t U S d u t a o r ( T C h a r o c n g a o n ( T i n f ( T c e a f e d o t C o ( T t s i i t c d a t C b p ( I e w i b t s i o i r a c ( T e o t U S e c w u r ( E]
+[DELETED:   2  J a t c o t G A o c o t C s t a c K e p i r ( C p a t s a f l d n a a c f f n o o e d e g r ( I i t p o t C t m a c o a t w ( F r o f f e g r i n n f t p o t e o t h s a w ( T t c o t C w b p a p b t o o f f e g r a c t i w b h b t p r o t g ( T r p ( L g ( L e d r a a s o e t s i]
+[DELETED:   2  J l g v ( T c e p i b t i j e a e r i b n l t c o n g w s t ( F ( " m t E P a I C e ( " o d u d o r o t c h i p o a i r ( " 2 ( " 1 A t h c s t c o o s e 2 A s o e p t g e b h w p 3 G h a p f s w g o a d]
+[DELETED:   2  J s 4 A s d e s w i a m o s o p a 5 C a d ( " S C m t K P S C e u K C 2 o a s e h t ( " ( T E P a I C i h e a a R a g e b t p o t s T e o t c a d a e g f a a c f p p ( ( T f ( m e c E f t s g o b t P o t S a t S o t H o R]
+[DELETED:   2  J t c 1 O 2 O ( r o a K g a t c A 3 O ( o K c p n b t p 4 O t 5 O ( r o a i o b e i t t 6 O ( r o a b e i t t o d G 7 O s o f n b t p t K C A 8 O ( m r t n e g i n b t e d o t U S N I 9 O ( m r t i o b o e e i a r t t m m c e o 1 O e]
+[DELETED:   2  J 1 O b 1 O 1 O ( m w e i i b o u f n b t p o t K B A 1 O 1 O o R 1 O ( o t w s b a e o n m 1 T 1 T ( T e c o t b s i t f f ( m 1 T R 2 O e s i t r o c e o o b m o a c 3 O e s i t r o c e o o b m o a i 4 T ( m e b t c b f t]
+[DELETED:   2  J c p t ( A a m b t G t t c b o t e c s b s t c b t S I a p a t t b o e c r c i n c b t S u t c o t l m e S v t d t c a a t G s a ( A t u a s i a a c b t S L m A a e b m s s d t a t t s a M C t e ( A m o t c b m s o ( m o t c b t s a c o t c b a o (]
+[DELETED:   2  J m b ( T t ( O t b a c o r e s n m o t e d d ( N p s s a a m o t c b o e c i t s w c a c w o r i t d o c i r t a r p p A ( I t r o a n g u s ( o t s w r m t i p u s ( o t s t e c m s r h o h a t r m n ( A m o t e c s c a q a t a n ( T s c o t o i e d O t G A]
+[DELETED:   2  J b ( T b t e c s t c b t S I a p s f a e d i n c b t S u t c t t e d p s b v e u s d a c a a t e c s s a d r v C t ( T ( T a n m t e t p p d i s ( A i f t e c m d r r o p r d d i s ( o t s ( E 1 T a o t C e a a f e g a t r a t e a a 2 T i e 3 I i]
+[DELETED:   2  J a c i t C t K e g r i d l u i f p g l e i w a t d e g r e 4 T d p o t a o e s i t C 5 T p 6 T t e p t e a e p i t C 7 N a e e g t t c s f 8 W t C e r a s d t e a l o e p s i t e m d ( O r f s c o b p t t L R C a o t i e o s b t c p t p ( o t s T a r s a i a]
+[DELETED:   2  J c t r t c f f a c i d ( b t c e r i a f f d ( ( N a w t ( A p o u w s p s g n t t c e r a l o h e ( d p t s t r a t t P S C r b K 2 b w a i t e c r o t p a ( 1 T e c o e d m r a u f o d t t e c o e d d r u a 2 A u r t a i r m d i r o d p i t r a c b i a t i r o d s b]
+[DELETED:   2  J e f d u t r o K 6 t 6 3 A u r t a i r m i i i r s w s m o t c b o e c c t c i o d s n b s w ( O t b a c o r e s a m o t c t w t e d o a m o t e c c ( W c i p t o i o t r p c o t p a ( W p ( o t s t e c s i a f r c w f a r c t p r s 1 T i o t p a o t a s o d a r p w t C i t a o t C t m f d g o r]
+[DELETED:   2  J 2 W a s b f e p t p w t p 3 W p a w o g r w r i a a 4 W t p a w r i l o r t t C 5 T t p 6 T a 7 T i t a s o e p f c o f e ( T t c m f t r s s i a e m o t e c a b t d p f i t r E w s s b i i t r a t a w t r P S C A e c m d f m]
+[DELETED:   2  J p C ( T e c w r a a d s p t t P S C s b i i a r a m t t P S C u K 2 a c o a m o t e c A o o t P s e P ( N r a t t P S C u K 2 t e c r s p t t s o e t m t o h e ( d h p s n s a n e c r o d h b p ( N t t p a a i p i a c o o p b t P ( S s o t c w e i s m o a s e c]
+[DELETED:   2  J ( T]

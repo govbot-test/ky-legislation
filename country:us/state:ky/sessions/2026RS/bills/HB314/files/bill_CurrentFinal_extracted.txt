@@ -1,0 +1,1833 @@
+Title: 1 AN ACT relating to the Kentucky Communications Network Authority and
+Official Title: 1 AN ACT relating to the Kentucky Communications Network Authority and
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS HB 314/VO
+2 declaring an emergency.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 Section 1. KRS 154.15-010 is amended to read as follows:
+5 As used in this subchapter:
+6 (1) "Authority" means the Kentucky Communications Network Authority;
+7 (2) "Board" means the Board of the Kentucky Communications Network Authority;
+8 (3)[ "Executive director" means the executive director of the Kentucky Communications
+9 Network Authority;
+10 (4)] "Network" or "KentuckyWired" means the Commonwealth's open-access
+11 broadband network; and
+12 (4)[(5)] "Partnership" means the public-private partnership entered into between the
+13 Commonwealth and a private entity or entities for the purpose of creating, running,
+14 and maintaining the network.
+15 Section 2. KRS 154.15-020 is amended to read as follows:
+16 (1) The Kentucky Communications Network Authority is established and shall be
+17 attached to the Finance and Administration Cabinet for administrative
+18 purposes[Office of the Governor. The authority shall be headed by an executive
+19 director who shall be hired by the board and approved by the Governor].
+20 (2) [Notwithstanding KRS 42.726, ]The duties of the authority shall be to:
+21 (a) Oversee and maintain KentuckyWired, the Commonwealth's open-access
+22 broadband network;
+23 (b) Manage the master agreement establishing the public-private partnership
+24 between the Commonwealth and its private industry partner or partners. The
+25 purpose of the agreement is to design, engineer, build, operate, maintain, and
+26 upgrade the network;
+27 (c) Provide network connectivity to public agencies;
+Page 1 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (d) Offer access to entities eligible to utilize excess capacity on the network;
+2 (e) Manage other aspects of the network and its utilization[ through the executive
+3 director and] with oversight and input from the board established in KRS
+4 154.15-030[ and the advisory group established in this section];
+5 (f) Promulgate administrative regulations in accordance with[pursuant to] KRS
+6 Chapter 13A necessary to implement the purposes of this subchapter;
+7 (g) Enter into contracts with public and private entities to carry out its duties and
+8 responsibilities. A contract or other agreement involving the acquisition or
+9 disposition of a property interest by the Commonwealth shall be signed by the
+10 secretary of the Finance and Administration Cabinet. KRS Chapters 45A and
+11 56 may require the secretary's signature on other contracts or agreements;
+12 (h) Provide program management services ensuring the financial viability of the
+13 master agreement and related contracts and agreements, including grant
+14 administration, contract compliance and oversight, community planning
+15 support, and constituent services; and
+16 (i) Seek out, secure, and manage funding sources for the network[; and
+17 (j) Create an advisory group, including major stakeholders, to provide input and
+18 feedback on issues important to the user community and to the long-term
+19 sustainability of the project and the network. The advisory group shall be
+20 administratively attached to and managed by the authority. The advisory
+21 group shall include but not be limited to representatives of:
+22 1. The Department of Education;
+23 2. The Council on Postsecondary Education;
+24 3. The Cabinet for Economic Development;
+25 4. The Cabinet for Health and Family Services;
+26 5. The Transportation Cabinet;
+27 6. The Justice and Public Safety Cabinet;
+Page 2 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 7. The Finance and Administration Cabinet;
+2 8. The Administrative Office of the Courts;
+3 9. The Legislative Research Commission;
+4 10. Institutions of higher education;
+5 11. Local government entities;
+6 12. Libraries;
+7 13. Public health care institutions or agencies;
+8 14. Kentucky Educational Television; and
+9 15. Others whose input will benefit the network].
+10 (3) The executive director of the Commonwealth Office of Technology established in
+11 KRS 42.724 shall assign personnel employed with the Commonwealth Office of
+12 Technology to carry out the functions and responsibilities of the authority[With
+13 the approval of the board, the executive director may hire additional officers and
+14 other personnel necessary for the proper functioning of the authority, fix their
+15 salaries, and prescribe their duties. The executive director and persons employed by
+16 the authority shall not be subject to the provisions of KRS Chapter 18A].
+17 (4) (a) With the approval of the board, the executive director of the Commonwealth
+18 Office of Technology may make, execute, and effectuate contracts, leveraging
+19 future revenues from provision of government-to-government services and
+20 sale or lease of excess capacity, to incur debt in the name of the authority and
+21 enter into financing agreements with the Commonwealth, agencies of the
+22 Commonwealth, lending institutions, investors, or investing entities.
+23 (b) The total amount of debt or financing under this subsection shall not exceed
+24 one hundred ten million dollars ($110,000,000), and shall not leverage any
+25 future revenues committed to the repayment of any other debt, or expected to
+26 be used for the repayment of any other debt, as of the time the debt or
+27 financing is entered into.
+Page 3 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (c) Any proposed debt or financing under this subsection shall be submitted to the
+2 Capital Projects and Bond Oversight Committee for review at least fourteen
+3 (14) days prior to the committee meeting.
+4 (d) If any debt or financing is incurred under this subsection, the authority shall
+5 provide to the Legislative Research Commission:
+6 1. Within thirty (30) days of entering into a debt or financing agreement, a
+7 copy of the agreement; and
+8 2. On January 1, April 1, July 1, and October 1 of each year that the debt
+9 or financing is outstanding:
+10 a. The amount of principal and interest remaining on the debt or
+11 financing;
+12 b. The use to which the capital gained from the debt or financing has
+13 been put; and
+14 c. Any amendments, if any, to the original debt or financing
+15 instruments or agreements.
+16 Section 3. KRS 154.15-030 is amended to read as follows:
+17 (1) The Board of the Kentucky Communications Network Authority is established. The
+18 board shall be attached administratively to the Finance and Administration
+19 Cabinet[Office of the Governor].
+20 (2) The board shall consist of:
+21 (a) The chief information officer of the Department of Education[secretary of
+22 the Governor's Executive Cabinet] or designee, who shall serve as chair of the
+23 board;
+24 (b) Two (2) members designated by the Governor as follows:
+25 1. One (1) member selected from a list of three (3) nominees submitted
+26 by the Kentucky League of Cities; and
+27 2. One (1) member selected from a list of three (3) nominees submitted
+Page 4 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 by the Kentucky Association of Counties[The state budget director or
+2 designee;
+3 (c) The secretary of the Transportation Cabinet or designee];
+4 (c)[(d)] The Commissioner of Agriculture[secretary of the Cabinet for
+5 Economic Development] or designee;
+6 (d)[(e)] The Secretary of State[the Justice and Public Safety Cabinet] or
+7 designee;
+8 (e)[(f)] The Treasurer[commissioner of the Department for Local Government]
+9 or designee; and
+10 (f)[(g)] A representative designated by the Center for Rural Development.
+11 (3) The duties of the board shall be to:
+12 (a) Develop and implement a strategic plan for and provide policy direction to the
+13 authority;
+14 (b) Review performance reports from the partners named in the master agreement
+15 regarding deployment, operations, and administration of the network and its
+16 compliance with service level agreements with the Commonwealth;
+17 (c) Monitor the results achieved through the partnership's strategy to develop new
+18 revenue streams and expand network usage through marketing and awareness
+19 programs;
+20 (d) Approve fiscal planning for the authority including budget development, state
+21 appropriations management, cost-recovery schedules, grant administration,
+22 and billing services;
+23 (e) Establish rates for services offered through the network and establish methods
+24 for customer account management; and
+25 (f) Direct upgrades to technology as necessary.
+26 (4) The board shall meet at least semiannually and at other times upon the call of the
+27 chair.
+Page 5 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (5) The board may form committees or other subgroups as necessary to accomplish its
+2 duties and functions.
+3 Section 4. KRS 42.014 is amended to read as follows:
+4 (1) There is established within the cabinet the:
+5 (a) Office of the Secretary;
+6 (b) Commonwealth Office of Technology[,] and the Office of the Controller, each
+7 of which shall be headed by an executive director appointed by the secretary
+8 with the approval of the Governor;
+9 (c) Kentucky Communications Network Authority established in Section 2 of
+10 this Act and headed by the executive director of the Commonwealth Office
+11 of Technology;
+12 (d) Board of the Kentucky Communications Network Authority established in
+13 Section 3 of this Act; and
+14 (e)[(c)] Department of Revenue and the Department for Facilities and Support
+15 Services, each of which shall be headed by a commissioner appointed by the
+16 secretary, upon the approval of the Governor, and responsible to the secretary.
+17 Each of these departments may have at least one (1) major assistant not in the
+18 classified service.
+19 (2) The secretary shall establish the internal organization and assignment of functions
+20 which are not established by statute, and shall divide the cabinet into the offices,
+21 bureaus, divisions, or other units the secretary deems necessary to perform the
+22 functions, powers, and duties of the cabinet, subject to the provisions of KRS
+23 Chapter 12.
+24 (3) All appointments under this chapter to positions not in the classified service shall be
+25 made pursuant to KRS 12.050, and such appointees shall be major assistants to the
+26 secretary and shall assist in the development of policy.
+27 Section 5. KRS 42.726 is amended to read as follows:
+Page 6 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (1) The Commonwealth Office of Technology shall be the lead organizational entity
+2 within the executive branch regarding delivery of information technology services,
+3 including application development and delivery, and shall serve as the single
+4 information technology authority for the Commonwealth.
+5 (2) The roles and duties of the Commonwealth Office of Technology shall include but
+6 not be limited to:
+7 (a) Providing technical support and services to all executive agencies of state
+8 government in the application of information technology;
+9 (b) Assuring compatibility and connectivity of Kentucky's information systems;
+10 (c) Developing strategies and policies to support and promote the effective
+11 applications of information technology within state government as a means of
+12 saving money, increasing employee productivity, and improving state services
+13 to the public, including electronic public access to information of the
+14 Commonwealth;
+15 (d) Developing, implementing, and managing strategic information technology
+16 directions, standards, and enterprise architecture, including implementing
+17 necessary management processes to ensure full compliance with those
+18 directions, standards, and architecture;
+19 (e) Promoting effective and efficient design and operation of all major
+20 information resources management processes for executive branch agencies,
+21 including improvements to work processes;
+22 (f) Developing, implementing, and maintaining the technology infrastructure of
+23 the Commonwealth and all related support staff, planning, administration,
+24 asset management, and procurement for all executive branch cabinets and
+25 agencies except:
+26 1. Agencies led by a statewide elected official;
+27 2. The nine (9) public institutions of postsecondary education;
+Page 7 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 3. The Department of Education's services provided to local school
+2 districts;
+3 4. The Kentucky Retirement Systems, the County Employees Retirement
+4 System, the Kentucky Public Pensions Authority, and the Teachers'
+5 Retirement System;
+6 5. The Kentucky Housing Corporation;
+7 6. The Kentucky Lottery Corporation;
+8 7. The Kentucky Higher Education Student Loan Corporation; and
+9 8. The Kentucky Higher Education Assistance Authority;
+10 (g) Facilitating and fostering applied research in emerging technologies that offer
+11 the Commonwealth innovative business solutions;
+12 (h) Reviewing and overseeing large or complex information technology projects
+13 and systems for compliance with statewide strategies, policies, and standards,
+14 including alignment with the Commonwealth's business goals, investment,
+15 and other risk management policies. The executive director is authorized to
+16 grant or withhold approval to initiate these projects;
+17 (i) Integrating information technology resources to provide effective and
+18 supportable information technology applications in the Commonwealth;
+19 (j) Establishing the central statewide geographic information clearinghouse to
+20 maintain map inventories, information on current and planned geographic
+21 information systems applications, information on grants available for the
+22 acquisition or enhancement of geographic information resources, and a
+23 directory of geographic information resources available within the state or
+24 from the federal government;
+25 (k) Coordinating multiagency information technology projects, including
+26 overseeing the development and maintenance of statewide base maps and
+27 geographic information systems;
+Page 8 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (l) Providing access to both consulting and technical assistance, and education
+2 and training, on the application and use of information technologies to state
+3 and local agencies;
+4 (m) In cooperation with other agencies, evaluating, participating in pilot studies,
+5 and making recommendations on information technology hardware and
+6 software;
+7 (n) Providing staff support and technical assistance to the Geographic
+8 Information Advisory Council and the Kentucky Information Technology
+9 Advisory Council;
+10 (o) Overseeing the development of a statewide geographic information plan with
+11 input from the Geographic Information Advisory Council;
+12 (p) Developing for state executive branch agencies a coordinated security
+13 framework and model governance structure relating to the privacy and
+14 confidentiality of personal information collected and stored by state executive
+15 branch agencies, including but not limited to:
+16 1. Identification of key infrastructure components and how to secure them;
+17 2. Establishment of a common benchmark that measures the effectiveness
+18 of security, including continuous monitoring and automation of
+19 defenses;
+20 3. Implementation of vulnerability scanning and other security
+21 assessments;
+22 4. Provision of training, orientation programs, and other communications
+23 that increase awareness of the importance of security among agency
+24 employees responsible for personal information; and
+25 5. Development of and making available a cyber security incident response
+26 plan and procedure;
+27 (q) Establishing, publishing, maintaining, and implementing comprehensive
+Page 9 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 policy standards and procedures for the responsible, ethical, and transparent
+2 use of generative artificial intelligence systems and high-risk artificial
+3 intelligence systems by departments, agencies, and administrative bodies,
+4 including but not limited to policy standards and procedures that:
+5 1. Govern their procurement, implementation, and ongoing assessment;
+6 2. Address and provide resources for security of data and privacy; and
+7 3. Create guidelines for acceptable use policies for integrating high-risk
+8 artificial intelligence systems;[ and]
+9 (r) Preparing proposed legislation and funding proposals for the General
+10 Assembly that will further solidify coordination and expedite implementation
+11 of information technology systems; and
+12 (s) Carrying out the functions and responsibilities of the Kentucky
+13 Communications Network Authority established in Section 2 of this Act.
+14 (3) The Commonwealth Office of Technology may:
+15 (a) Provide general consulting services, technical training, and support for
+16 generic software applications, upon request from a local government, if the
+17 executive director finds that the requested services can be rendered within the
+18 established terms of the federally approved cost allocation plan;
+19 (b) Promulgate administrative regulations in accordance with KRS Chapter 13A
+20 necessary for the implementation of KRS 42.720 to 42.742, 45.253, 171.420,
+21 186A.040, and 186A.285;
+22 (c) Solicit, receive, and consider proposals from any state agency, federal agency,
+23 local government, university, nonprofit organization, private person, or
+24 corporation;
+25 (d) Solicit and accept money by grant, gift, donation, bequest, legislative
+26 appropriation, or other conveyance to be held, used, and applied in accordance
+27 with KRS 42.720 to 42.742, 45.253, 171.420, 186A.040, and 186A.285;
+Page 10 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (e) Make and enter into memoranda of agreement and contracts necessary or
+2 incidental to the performance of duties and execution of its powers, including
+3 but not limited to agreements or contracts with the United States, other state
+4 agencies, and any governmental subdivision of the Commonwealth;
+5 (f) Accept grants from the United States government and its agencies and
+6 instrumentalities, and from any source, other than any person, firm, or
+7 corporation, or any director, officer, or agent thereof that manufactures or
+8 sells information resources technology equipment, goods, or services. To
+9 these ends, the Commonwealth Office of Technology shall have the power to
+10 comply with those conditions and execute those agreements that are
+11 necessary, convenient, or desirable; and
+12 (g) Purchase interest in contractual services, rentals of all types, supplies,
+13 materials, equipment, and other services to be used in the research and
+14 development of beneficial applications of information resources technologies.
+15 Competitive bids may not be required for:
+16 1. New and emerging technologies as approved by the executive director
+17 or her or his designee; or
+18 2. Related professional, technical, or scientific services, but contracts shall
+19 be submitted in accordance with KRS 45A.690 to 45A.725.
+20 (4) Nothing in this section shall be construed to alter or diminish the provisions of KRS
+21 171.410 to 171.740 or the authority conveyed by these statutes to the Archives and
+22 Records Commission and the Department for Libraries and Archives.
+23 (5) The Commonwealth Office of Technology shall, on or before October 1 of each
+24 year, submit to the Legislative Research Commission a report in accordance with
+25 KRS 57.390 detailing:
+26 (a) Any security breaches that occurred within organizational units of the
+27 executive branch of state government during the prior fiscal year that required
+Page 11 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 notification to the Commonwealth Office of Technology under KRS 61.932;
+2 (b) Actions taken to resolve the security breach, and to prevent additional security
+3 breaches in the future;
+4 (c) A general description of what actions are taken as a matter of course to protect
+5 personal data from security breaches; and
+6 (d) Any quantifiable financial impact to the agency reporting a security breach.
+7 Section 6. KRS 42.732 is amended to read as follows:
+8 (1) There is hereby created the Kentucky Information Technology Advisory Council to:
+9 (a) Advise the executive director of the Commonwealth Office of Technology on
+10 approaches to coordinating information technology solutions among libraries,
+11 public schools, local governments, universities, and other public entities;
+12 (b) Advise the executive director of the Commonwealth Office of Technology on
+13 coordination among and across the organizational units of the executive
+14 branch of state government to prepare for, respond to, and prevent attacks;
+15 and
+16 (c) Provide a forum for the discussion of emerging technologies that enhance
+17 electronic accessibility to various publicly funded sources of information and
+18 services.
+19 (2) The Kentucky Information Technology Advisory Council shall consist of:
+20 (a) The state budget director or a designee;
+21 (b) The state librarian or a designee;
+22 (c) One (1) representative from the public universities to be appointed by the
+23 Governor from a list of three (3) persons submitted by the Council on
+24 Postsecondary Education;
+25 (d) Three (3) citizen members from the private sector with information
+26 technology knowledge and experience appointed by the Governor;
+27 (e) Two (2) representatives of local government appointed by the Governor;
+Page 12 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (f) One (1) representative from the area development districts appointed by the
+2 Governor from a list of names submitted by the executive directors of the area
+3 development districts;
+4 (g) One (1) member of the media appointed by the Governor;
+5 (h) The executive director of the Kentucky Authority for Educational Television;
+6 (i) The chair of the Public Service Commission or a designee;
+7 (j) Two (2) members of the Kentucky General Assembly, one (1) from each
+8 chamber, selected by the Legislative Research Commission;
+9 (k) One (1) representative of the Administrative Office of the Courts;
+10 (l) One (1) representative from the public schools system appointed by the
+11 Governor;
+12 (m) One (1) representative of the Kentucky Chamber of Commerce; and
+13 (n) The executive director of the Commonwealth Office of Technology[; and
+14 (o) The executive director of the Kentucky Communications Network Authority
+15 or designee].
+16 (3) Appointed members of the council shall serve for a term of two (2) years. Members
+17 who serve by virtue of an office shall serve on the council while they hold the
+18 office.
+19 (4) Vacancies on the council shall be filled in the same manner as the original
+20 appointments. If a nominating organization changes its name, its successor
+21 organization having the same responsibilities and purposes shall be the nominating
+22 organization.
+23 (5) Members shall receive no compensation but shall receive reimbursement for actual
+24 and necessary expenses in accordance with travel and subsistence requirements
+25 established by the Finance and Administration Cabinet.
+26 Section 7. KRS 12.020 is amended to read as follows:
+27 Departments, program cabinets and their departments, and the respective major
+Page 13 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 administrative bodies that they include are enumerated in this section. It is not intended
+2 that this enumeration of administrative bodies be all-inclusive. Every authority, board,
+3 bureau, interstate compact, commission, committee, conference, council, office, or any
+4 other form of organization shall be included in or attached to the department or program
+5 cabinet in which they are included or to which they are attached by statute or statutorily
+6 authorized executive order; except in the case of the Personnel Board and where the
+7 attached department or administrative body is headed by a constitutionally elected
+8 officer, the attachment shall be solely for the purpose of dissemination of information and
+9 coordination of activities and shall not include any authority over the functions,
+10 personnel, funds, equipment, facilities, or records of the department or administrative
+11 body.
+12 I. Cabinet for General Government - Departments headed by elected officers:
+13 (1) The Governor.
+14 (2) Lieutenant Governor.
+15 (3) Department of State.
+16 (a) Secretary of State.
+17 (b) Board of Elections.
+18 (c) Registry of Election Finance.
+19 (4) Department of Law.
+20 (a) Attorney General.
+21 (5) Department of the Treasury.
+22 (a) Treasurer.
+23 (6) Department of Agriculture.
+24 (a) Commissioner of Agriculture.
+25 (b) Agricultural Development Board.
+26 (c) Kentucky Agricultural Finance Corporation.
+27 (7) Auditor of Public Accounts.
+Page 14 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (a) Commonwealth Office of the Ombudsman.
+2 II. Program cabinets headed by appointed officers:
+3 (1) Justice and Public Safety Cabinet:
+4 (a) Department of Kentucky State Police.
+5 1. Office of Administrative Services.
+6 a. Division of Operational Support.
+7 b. Division of Management Services.
+8 2. Office of Operations.
+9 a. Division of West Troops.
+10 b. Division of East Troops.
+11 c. Division of Special Enforcement.
+12 d. Division of Commercial Vehicle Enforcement.
+13 3. Office of Technical Services.
+14 a. Division of Forensic Sciences.
+15 b. Division of Electronic Services.
+16 c. Division of Records Management.
+17 (b) Department of Criminal Justice Training.
+18 (c) Department of Corrections.
+19 (d) Department of Juvenile Justice.
+20 (e) Office of the Secretary.
+21 (f) Office of Drug Control Policy.
+22 (g) Office of Legal Services.
+23 (h) Office of the Kentucky State Medical Examiner.
+24 (i) Parole Board.
+25 (j) Kentucky State Corrections Commission.
+26 (k) Office of Legislative and Intergovernmental Services.
+27 (l) Office of Human Resource Management.
+Page 15 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 1. Division of Human Resource Administration.
+2 2. Division of Employee Management.
+3 (m) Department of Public Advocacy.
+4 (n) Office of Communications.
+5 1. Information Technology Services Division.
+6 (o) Office of Financial Management Services.
+7 1. Division of Financial Management.
+8 (p) Grants Management Division.
+9 (2) Energy and Environment Cabinet:
+10 (a) Office of the Secretary.
+11 1. Office of Legislative and Intergovernmental Affairs.
+12 2. Office of Legal Services.
+13 a. Legal Division I.
+14 b. Legal Division II.
+15 3. Office of Administrative Hearings.
+16 4. Office of Communication.
+17 5. Mine Safety Review Commission.
+18 6. Office of Kentucky Nature Preserves.
+19 7. Kentucky Public Service Commission.
+20 (b) Department for Environmental Protection.
+21 1. Office of the Commissioner.
+22 2. Division for Air Quality.
+23 3. Division of Water.
+24 4. Division of Environmental Program Support.
+25 5. Division of Waste Management.
+26 6. Division of Enforcement.
+27 7. Division of Compliance Assistance.
+Page 16 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (c) Department for Natural Resources.
+2 1. Office of the Commissioner.
+3 2. Division of Mine Permits.
+4 3. Division of Mine Reclamation and Enforcement.
+5 4. Division of Abandoned Mine Lands.
+6 5. Division of Oil and Gas.
+7 6. Division of Mine Safety.
+8 7. Division of Forestry.
+9 8. Division of Conservation.
+10 9. Office of the Reclamation Guaranty Fund.
+11 (d) Office of Energy Policy.
+12 1. Division of Energy Assistance.
+13 (e) Office of Administrative Services.
+14 1. Division of Human Resources Management.
+15 2. Division of Financial Management.
+16 3. Division of Information Services.
+17 (3) Public Protection Cabinet.
+18 (a) Office of the Secretary.
+19 1. Office of Communications and Public Outreach.
+20 2. Office of Legal Services.
+21 a. Insurance Legal Division.
+22 b. Alcoholic Beverage Control Legal Division.
+23 c. Housing, Buildings and Construction Legal Division.
+24 d. Financial Institutions Legal Division.
+25 e. Professional Licensing Legal Division.
+26 3. Office of Administrative Hearings.
+27 4. Office of Administrative Services.
+Page 17 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 a. Division of Human Resources.
+2 b. Division of Fiscal Responsibility.
+3 (b) Office of Claims and Appeals.
+4 1. Board of Tax Appeals.
+5 2. Board of Claims.
+6 3. Crime Victims Compensation Board.
+7 (c) Kentucky Boxing and Wrestling Commission.
+8 (d) Department of Alcoholic Beverage Control.
+9 1. Division of Distilled Spirits.
+10 2. Division of Malt Beverages.
+11 3. Division of Enforcement.
+12 4. Division of Tobacco, Nicotine, and Vapor Product Licensing.
+13 (e) Department of Financial Institutions.
+14 1. Division of Depository Institutions.
+15 2. Division of Non-Depository Institutions.
+16 3. Division of Securities.
+17 (f) Department of Housing, Buildings and Construction.
+18 1. Division of Fire Prevention.
+19 2. Division of Plumbing.
+20 3. Division of Heating, Ventilation, and Air Conditioning.
+21 4. Division of Building Code Enforcement.
+22 (g) Department of Insurance.
+23 1. Division of Health and Life Insurance and Managed Care.
+24 2. Division of Property and Casualty Insurance.
+25 3. Division of Administrative Services.
+26 4. Division of Financial Standards and Examination.
+27 5. Division of Licensing.
+Page 18 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 6. Division of Insurance Fraud Investigation.
+2 7. Division of Consumer Protection.
+3 (h) Department of Professional Licensing.
+4 1. Real Estate Authority.
+5 2. Division of Real Property Boards.
+6 (4) Transportation Cabinet:
+7 (a) Department of Highways.
+8 1. Office of Project Development.
+9 2. Office of Project Delivery and Preservation.
+10 3. Office of Highway Safety.
+11 4. Highway District Offices One through Twelve.
+12 (b) Department of Vehicle Regulation.
+13 (c) Department of Aviation.
+14 (d) Department of Rural and Municipal Aid.
+15 1. Office of Local Programs.
+16 2. Office of Rural and Secondary Roads.
+17 (e) Office of the Secretary.
+18 1. Office of Public Affairs.
+19 2. Office for Civil Rights and Small Business Development.
+20 3. Office of Budget and Fiscal Management.
+21 4. Office of Inspector General.
+22 5. Secretary's Office of Safety.
+23 (f) Office of Support Services.
+24 (g) Office of Transportation Delivery.
+25 (h) Office of Audits.
+26 (i) Office of Human Resource Management.
+27 (j) Office of Information Technology.
+Page 19 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (k) Office of Legal Services.
+2 (5) Cabinet for Economic Development:
+3 (a) Office of the Secretary.
+4 1. Office of Legal Services.
+5 2. Department for Business and Community Development.
+6 a. Development and Retention Division – West Kentucky.
+7 b. Development, Retention, and Administrative Division –
+8 Central and East Kentucky.
+9 c. Community and Workforce Development Division.
+10 3. Department for Financial Services.
+11 a. Kentucky Economic Development Finance Authority.
+12 b. Finance and Personnel Division.
+13 c. IT and Resource Management Division.
+14 d. Compliance Division.
+15 e. Program Administration Division.
+16 f. Bluegrass State Skills Corporation.
+17 g. The GRANT Commission.
+18 4. Office of Strategy and Public Affairs.
+19 a. Marketing and Communications Division.
+20 b. Research and Strategy Division.
+21 5. Office of Entrepreneurship and Innovation.
+22 a. Commission on Small Business Innovation and Advocacy.
+23 6. Kentucky Film Office.
+24 a. Kentucky Film Leadership Council.
+25 (6) Cabinet for Health and Family Services:
+26 (a) Office of the Secretary.
+27 1. Office of Public Affairs.
+Page 20 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 2. Office of Legal Services.
+2 3. Office of Inspector General.
+3 4. Office of Human Resource Management.
+4 5. Office of Finance and Budget.
+5 6. Office of Legislative and Regulatory Affairs.
+6 7. Office of Administrative Services.
+7 8. Office of Application Technology Services.
+8 9. Office of Data Analytics.
+9 10. Office of Medical Cannabis.
+10 a. Division of Enforcement and Compliance.
+11 b. Division of Licensure and Access.
+12 (b) Department for Public Health.
+13 (c) Department for Medicaid Services.
+14 (d) Department for Behavioral Health, Developmental and Intellectual
+15 Disabilities.
+16 (e) Department for Aging and Independent Living.
+17 (f) Department for Community Based Services.
+18 (g) Department for Family Resource Centers and Volunteer Services.
+19 (7) Finance and Administration Cabinet:
+20 (a) Office of the Secretary.
+21 (b) Office of the Inspector General.
+22 (c) Office of Legislative and Intergovernmental Affairs.
+23 (d) Office of General Counsel.
+24 (e) Office of the Controller.
+25 (f) Office of Administrative Services.
+26 (g) Office of Policy and Audit.
+27 (h) Department for Facilities and Support Services.
+Page 21 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (i) Department of Revenue.
+2 (j) Commonwealth Office of Technology.
+3 (k) State Property and Buildings Commission.
+4 (l) Office of Equal Employment Opportunity and Contract Compliance.
+5 (m) Kentucky Employees Retirement Systems.
+6 (n) Commonwealth Credit Union.
+7 (o) State Investment Commission.
+8 (p) Kentucky Housing Corporation.
+9 (q) Kentucky Local Correctional Facilities Construction Authority.
+10 (r) Kentucky Turnpike Authority.
+11 (s) Historic Properties Advisory Commission.
+12 (t) Kentucky Higher Education Assistance Authority.
+13 (u) Kentucky River Authority.
+14 (v) Kentucky Teachers' Retirement System Board of Trustees.
+15 (w) Executive Branch Ethics Commission.
+16 (x) Office of Fleet Management.
+17 (y) Kentucky Communications Network Authority.
+18 (8) Tourism, Arts and Heritage Cabinet:
+19 (a) Kentucky Department of Tourism.
+20 1. Division of Tourism Services.
+21 2. Division of Marketing and Administration.
+22 3. Division of Communications and Promotions.
+23 (b) Kentucky Department of Parks.
+24 1. Division of Information Technology.
+25 2. Division of Human Resources.
+26 3. Division of Financial Operations.
+27 4. Division of Purchasing.
+Page 22 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 5. Division of Facilities.
+2 6. Division of Park Operations.
+3 7. Division of Sales, Marketing, and Customer Service.
+4 8. Division of Engagement.
+5 9. Division of Food Services.
+6 10. Division of Rangers.
+7 (c) Department of Fish and Wildlife Resources.
+8 1. Division of Law Enforcement.
+9 2. Division of Administrative Services.
+10 3. Division of Engineering, Infrastructure, and Technology.
+11 4. Division of Fisheries.
+12 5. Division of Information and Education.
+13 6. Division of Wildlife.
+14 7. Division of Marketing.
+15 (d) Kentucky Horse Park.
+16 1. Division of Support Services.
+17 2. Division of Buildings and Grounds.
+18 3. Division of Operational Services.
+19 (e) Kentucky State Fair Board.
+20 1. Office of Administrative and Information Technology Services.
+21 2. Office of Human Resources and Access Control.
+22 3. Division of Expositions.
+23 4. Division of Kentucky Exposition Center Operations.
+24 5. Division of Kentucky International Convention Center.
+25 6. Division of Public Relations and Media.
+26 7. Division of Venue Services.
+27 8. Division of Personnel Management and Staff Development.
+Page 23 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 9. Division of Sales.
+2 10. Division of Security and Traffic Control.
+3 11. Division of Information Technology.
+4 12. Division of the Louisville Arena.
+5 13. Division of Fiscal and Contract Management.
+6 14. Division of Access Control.
+7 (f) Office of the Secretary.
+8 1. Office of Finance.
+9 2. Office of Government Relations and Administration.
+10 (g) Office of Legal Affairs.
+11 (h) Office of Human Resources.
+12 (i) Office of Public Affairs and Constituent Services.
+13 (j) Office of Arts and Cultural Heritage.
+14 (k) Kentucky African-American Heritage Commission.
+15 (l) Kentucky Foundation for the Arts.
+16 (m) Kentucky Humanities Council.
+17 (n) Kentucky Heritage Council.
+18 (o) Kentucky Arts Council.
+19 (p) Kentucky Historical Society.
+20 1. Division of Museums.
+21 2. Division of Oral History and Educational Outreach.
+22 3. Division of Research and Publications.
+23 4. Division of Administration.
+24 (q) Kentucky Center for the Arts.
+25 1. Division of Governor's School for the Arts.
+26 (r) Kentucky Artisans Center at Berea.
+27 (s) Northern Kentucky Convention Center.
+Page 24 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (t) Eastern Kentucky Exposition Center.
+2 (9) Personnel Cabinet:
+3 (a) Office of the Secretary.
+4 (b) Department of Human Resources Administration.
+5 (c) Office of Employee Relations.
+6 (d) Kentucky Public Employees Deferred Compensation Authority.
+7 (e) Office of Administrative Services.
+8 (f) Office of Legal Services.
+9 (g) Governmental Services Center.
+10 (h) Department of Employee Insurance.
+11 (i) Office of Diversity, Equality, and Training.
+12 (j) Office of Public Affairs.
+13 (10) Education and Labor Cabinet:
+14 (a) Office of the Secretary.
+15 1. Office of Legal Services.
+16 a. Workplace Standards Legal Division.
+17 b. Workers' Claims Legal Division.
+18 c. Workforce Development Legal Division.
+19 2. Office of Administrative Services.
+20 a. Division of Human Resources Management.
+21 b. Division of Fiscal Management.
+22 c. Division of Operations and Support Services.
+23 3. Office of Technology Services.
+24 a. Division of Information Technology Services.
+25 4. Office of Policy and Audit.
+26 5. Office of Legislative Services.
+27 6. Office of Communications.
+Page 25 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 7. Office of the Kentucky Center for Statistics.
+2 8. Board of the Kentucky Center for Statistics.
+3 9. Early Childhood Advisory Council.
+4 10. Governors' Scholars Program.
+5 11. Governor's School for Entrepreneurs Program.
+6 12. Foundation for Adult Education.
+7 (b) Department of Education.
+8 1. Kentucky Board of Education.
+9 2. Kentucky Technical Education Personnel Board.
+10 3. Education Professional Standards Board.
+11 (c) Board of Directors for the Center for School Safety.
+12 (d) Department for Libraries and Archives.
+13 (e) Kentucky Environmental Education Council.
+14 (f) Kentucky Educational Television.
+15 (g) Kentucky Commission on the Deaf and Hard of Hearing.
+16 (h) Department of Workforce Development.
+17 1. Career Development Office.
+18 2. Office of Vocational Rehabilitation.
+19 a. Division of Kentucky Business Enterprise.
+20 b. Division of the Carl D. Perkins Vocational Training Center.
+21 c. Division of Blind Services.
+22 d. Division of Field Services.
+23 e. Statewide Council for Vocational Rehabilitation.
+24 f. Employment First Council.
+25 g. Division of Program Policy and Support.
+26 3. Office of Industry and Apprenticeship Services.
+27 a. Division of Apprenticeship.
+Page 26 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 b. Division of Workforce Talent.
+2 4. Kentucky Apprenticeship Council.
+3 5. Division of Technical Assistance.
+4 6. Office of Adult Education.
+5 7. Office of the Kentucky Workforce Innovation Board.
+6 (i) Department of Workplace Standards.
+7 1. Division of Occupational Safety and Health Compliance.
+8 2. Division of Occupational Safety and Health Education and
+9 Training.
+10 3. Division of Wages and Hours.
+11 (j) Office of Unemployment Insurance.
+12 (k) Kentucky Unemployment Insurance Commission.
+13 (l) Department of Workers' Claims.
+14 1. Division of Workers' Compensation Funds.
+15 2. Office of Administrative Law Judges.
+16 3. Division of Claims Processing.
+17 4. Division of Security and Compliance.
+18 5. Division of Specialist and Medical Services.
+19 6. Workers' Compensation Board.
+20 (m) Workers' Compensation Funding Commission.
+21 (n) Kentucky Occupational Safety and Health Standards Board.
+22 (o) State Labor Relations Board.
+23 (p) Employers' Mutual Insurance Authority.
+24 (q) Kentucky Occupational Safety and Health Review Commission.
+25 (r) Workers' Compensation Nominating Committee.
+26 (s) Office of Educational Programs.
+27 (t) Kentucky Workforce Innovation Board.
+Page 27 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (u) Kentucky Commission on Proprietary Education.
+2 (v) Kentucky Work Ready Skills Advisory Committee.
+3 (w) Kentucky Geographic Education Board.
+4 (x) Department for Disability Determination Services.
+5 1. Division of Operations.
+6 2. Division of Support Services.
+7 3. Division of Specialized Cases.
+8 4. Division of Case Processing.
+9 III. Other departments headed by appointed officers:
+10 (1) Council on Postsecondary Education.
+11 (2) Department of Military Affairs.
+12 (3) Department for Local Government.
+13 (4) Kentucky Commission on Human Rights.
+14 (5) Kentucky Commission on Women.
+15 (6) Department of Veterans' Affairs.
+16 (7) Kentucky Commission on Military Affairs.
+17 (8) Office of Minority Empowerment.
+18 (9) Governor's Council on Wellness and Physical Activity.
+19 [(10) Kentucky Communications Network Authority.]
+20 Section 8. KRS 12.023 is amended to read as follows:
+21 The following organizational units and administrative bodies shall be attached to the
+22 Office of the Governor:
+23 (1) Council on Postsecondary Education;
+24 (2) Department of Military Affairs;
+25 (3) Department for Local Government;
+26 (4) Kentucky Commission on Human Rights;
+27 (5) Kentucky Commission on Women;
+Page 28 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (6) Kentucky Commission on Military Affairs;
+2 (7) Office of Minority Empowerment;
+3 (a) The Martin Luther King Commission; and
+4 (8) Office of Homeland Security[; and
+5 (9) Kentucky Communications Network Authority].
+6 Section 9. On the effective date of this Act, all functions and responsibilities of
+7 the Kentucky Communications Network Authority established in Section 2 of this Act
+8 that were previously undertaken by the authority shall be transferred to existing personnel
+9 employed by the Commonwealth Office of Technology under the direction of the
+10 executive director of the Commonwealth Office of Technology. All records, files, and
+11 documents previously maintained by Kentucky Communications Network Authority
+12 personnel shall be transferred to the Commonwealth Office of Technology. The position
+13 of executive director of the Kentucky Communications Network Authority shall be
+14 terminated. On or before June 30, 2026, the executive director of the Commonwealth
+15 Office of Technology shall determine which, if any, staff previously employed by the
+16 Kentucky Communications Network Authority shall be retained and employed by the
+17 Commonwealth Office of Technology.
+18 Section 10. Whereas it is critical to the proper administration of the Kentucky
+19 Communications Network Authority that its functions and responsibilities be undertaken
+20 by the employees of the Commonwealth who have the most experience and expertise in
+21 overseeing and maintaining broadband communication networks, an emergency is
+22 declared to exist, and this Act takes effect upon its passage and approval by the Governor
+23 or upon its otherwise becoming a law.
+Page 29 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+[DELETED:   2  V A A r t t K C N A a d B S A ( " ( " ( " N ( " o " m t C o b ( " C a S ( T K C N A i e a s b a t t F a A C f a p d ( [ ( O a m K t C o b ( M t m a e t p p b p u ( P]
+[DELETED:   2  V ( O ( M d a w o a i f t b e i K 1 ( P C ( E r A c o o a i t a o d s 5 ( P m a a r c a a i g a c c a o c p s ( S ( C f o i i t t u c a t t l s o t p a t n T a g s b a a t a m b t a T a g 1 T 2 T 3 T 4 T 5 T 6 T]
+[DELETED:   2  V 7 T 8 T 9 T 1 I 1 L 1 L 1 P 1 K 1 O ( T K T t o p n f t p f o t a f t s t ( ( W O f r f p o g s a s e i f a w t C a o t C ( T o f b u f t r o a o d a o t t t d o f]
+[DELETED:   2  V ( A C ( ( I p 1 W c 2 O o a T a o p a i r o t d o f b T b c A a i a t t o d o f i S ( T b s b a a t t F a A C ( T ( T t b ( T 1 O b 2 O]
+[DELETED:   2  V b d ( T ( T C o A o t C f E ( T S o S J a P S C o d ( T o ( A ( T ( D a ( R r c ( M r p ( A a m c s g a a ( E f ( D ( T c]
+[DELETED:   2  V ( T d S ( T ( O ( C o w ( K t o ( B S ( D S s E c ( T w b d o o u t s d n t p t f p a d o t c s t t p o K C ( A m s S]
+[DELETED:   2  V ( T w i a d a d a s s a t s i ( T n ( P t s a s t a e a o s g ( A ( D s a p t s a p t e a s t t p i e p a t i o t C ( D i a m s i t d s a e a i i n m p t e f c w t d ( P e a e d a o o a m i i ( D t C a a r s s p a a m a p f a e b c a a 1 A 2 T]
+[DELETED:   2  V 3 T D o E s p t l s d 4 T S t K P P A a t T R 5 T 6 T 7 T 8 T ( F t ( R a i a w t C b g i a g ( I i t r t p e a s ( E t c s g i c t m m i i o c a p g i s a i o g a f t a o e o g i r a a d o g i r a w t s o f ( C m i t p i o t d a m o s b m a g]
+[DELETED:   2  V ( P a a ( I a m r o i t h a s ( P s s a t a t t G I A C a t K I T A ( O i ( D f s e b a a c s f a m g s r t t p a c b 1 I 2 E o s i c m a a o d 3 I o v s a o s a 4 P t i a o t i o s a a e 5 D p ( E p m a i c]
+[DELETED:   2  V p u o g a i s a h a i s b d a a a b i 1 G 2 A 3 C g f a u p f i h a ( P p l a f p f t G A o ( C o t f a r o t K C ( T ( P g c s t t a s f g e e ( P n 1 ( S l g u n o p p o c ( S a a m b g g d b l a w]
+[DELETED:   2  V ( M a e i m o a a c n o i b a ( A g f t U S g a i a a i a f a s o t a p f o c o a d o o a t t m o s i r t e g o s T t c w t c a e t a t a n ( P i i c s r o a t s m e a o s t b u i t r a d C 1 N o 2 R b ( N 1 R ( T y K ( A s b t o w o u o t e]
+[DELETED:   2  V n ( A b ( A p ( A S ( T ( A a p ( A c a a a t o u o t e b p a ( P a f f t d o e t t e e s ( T ( T ( T ( O ( r f t p u t b a b t G f a l o t ( p s b t C o P ( T ( c m f t p s w i t ( T]
+[DELETED:   2  V ( O G d ( O ( T ( T ( T ( m o t K G A o ( f e c ( O ( O ( r f t p s s a b t G ( O ( T ( T o ( A w s b v o a o s s o t c w t h t o ( V o t c s b f i t s m a t o a I a n o c i n i s o o ( M a n e i a w t a s r e S D p c a t d a t r m]
+[DELETED:   2  V a t b o c a e o e i t c o t P B a w t a d o a b i h b a c e o c o a a s n i a a o t f p f e f o r o t d o a b I C ( T ( L ( D ( S ( B ( R ( D ( A ( D ( T ( D ( C ( A ( K ( A]
+[DELETED:   2  V ( C I P ( J ( D 1 O a D b D 2 O a D b D c D d D 3 O a D b D c D ( D ( D ( D ( O ( O ( O ( O ( P ( K ( O ( O]
+[DELETED:   2  V 1 D 2 D ( D ( O 1 I ( O 1 D ( G ( E ( O 1 O 2 O a L b L 3 O 4 O 5 M 6 O 7 K ( D 1 O 2 D 3 D 4 D 5 D 6 D 7 D]
+[DELETED:   2  V ( D 1 O 2 D 3 D 4 D 5 D 6 D 7 D 8 D 9 O ( O 1 D ( O 1 D 2 D 3 D ( P ( O 1 O 2 O a I b A c H d F e P 3 O 4 O]
+[DELETED:   2  V a D b D ( O 1 B 2 B 3 C ( K ( D 1 D 2 D 3 D 4 D ( D 1 D 2 D 3 D ( D 1 D 2 D 3 D 4 D ( D 1 D 2 D 3 D 4 D 5 D]
+[DELETED:   2  V 6 D 7 D ( D 1 R 2 D ( T ( D 1 O 2 O 3 O 4 H ( D ( D ( D 1 O 2 O ( O 1 O 2 O 3 O 4 O 5 S ( O ( O ( O ( O ( O]
+[DELETED:   2  V ( O ( C ( O 1 O 2 D a D b D R a A D – C c C 3 D a K b F c I d C e P f B g T 4 O a M b R 5 O a C 6 K a K ( C ( O 1 O]
+[DELETED:   2  V 2 O 3 O 4 O 5 O 6 O 7 O 8 O 9 O 1 O a D b D ( D ( D ( D f B H D a I D ( D ( D ( D ( F ( O ( O ( O ( O ( O ( O ( O ( D]
+[DELETED:   2  V ( D ( C ( S ( O ( K ( C ( S ( K ( K ( K ( H ( K ( K ( K ( E ( O ( K ( T ( K 1 D 2 D 3 D ( K 1 D 2 D 3 D 4 D]
+[DELETED:   2  V 5 D 6 D 7 D 8 D 9 D 1 D ( D 1 D 2 D 3 D 4 D 5 D 6 D 7 D ( K 1 D 2 D 3 D ( K 1 O 2 O 3 D 4 D 5 D 6 D 7 D 8 D]
+[DELETED:   2  V 9 D 1 D 1 D 1 D 1 D 1 D ( O 1 O 2 O ( O ( O ( O ( O ( K ( K ( K ( K ( K ( K 1 D 2 D 3 D 4 D ( K 1 D ( K ( N]
+[DELETED:   2  V ( E ( P ( O ( D ( O ( K ( O ( O ( G ( D ( O ( O ( E ( O 1 O a W b W c W 2 O a D b D c D 3 O a D 4 O 5 O 6 O]
+[DELETED:   2  V 7 O 8 B 9 E 1 G 1 G 1 F ( D 1 K 2 K 3 E ( B ( D ( K ( K ( K ( D 1 C 2 O a D b D c D d D e S f E g D 3 O a D]
+[DELETED:   2  V b D 4 K 5 D 6 O 7 O ( D 1 D 2 D T 3 D ( O ( K ( D 1 D 2 O 3 D 4 D 5 D 6 W ( W ( K ( S ( E ( K ( W ( O ( K]
+[DELETED:   2  V ( K ( K ( K ( D 1 D 2 D 3 D 4 D I O ( C ( D ( D ( K ( K ( D ( K ( O ( G [ S T f o u a a b s b a t t O ( C ( D ( D ( K ( K]
+[DELETED:   2  V ( K ( O ( T ( O ( K S t t e b t C O o T u t d o t e d p m b K C N A p o e d o t K C N A s b t e C O K C N A s b r a e b t C S C b o a m b c n a e i d o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 AN ACT relating to the Kentucky Communications Network Authority and
+2 declaring an emergency.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 Section 1. KRS 154.15-010 is amended to read as follows:
+5 As used in this subchapter:
+6 (1) "Authority" means the Kentucky Communications Network Authority;
+7 (2) "Board" means the Board of the Kentucky Communications Network Authority;
+8 (3)[ "Executive director" means the executive director of the Kentucky Communications
+9 Network Authority;
+10 (4)] "Network" or "KentuckyWired" means the Commonwealth's open-access
+11 broadband network; and
+12 (4)[(5)] "Partnership" means the public-private partnership entered into between the
+13 Commonwealth and a private entity or entities for the purpose of creating, running,
+14 and maintaining the network.
+15 Section 2. KRS 154.15-020 is amended to read as follows:
+16 (1) The Kentucky Communications Network Authority is established and shall be
+17 attached to the Finance and Administration Cabinet for administrative
+18 purposes[Office of the Governor. The authority shall be headed by an executive
+19 director who shall be hired by the board and approved by the Governor].
+20 (2) [Notwithstanding KRS 42.726, ]The duties of the authority shall be to:
+21 (a) Oversee and maintain KentuckyWired, the Commonwealth's open-access
+22 broadband network;
+23 (b) Manage the master agreement establishing the public-private partnership
+24 between the Commonwealth and its private industry partner or partners. The
+25 purpose of the agreement is to design, engineer, build, operate, maintain, and
+26 upgrade the network;
+27 (c) Provide network connectivity to public agencies;
+Page 1 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (d) Offer access to entities eligible to utilize excess capacity on the network;
+2 (e) Manage other aspects of the network and its utilization[ through the executive
+3 director and] with oversight and input from the board established in KRS
+4 154.15-030[ and the advisory group established in this section];
+5 (f) Promulgate administrative regulations in accordance with[pursuant to] KRS
+6 Chapter 13A necessary to implement the purposes of this subchapter;
+7 (g) Enter into contracts with public and private entities to carry out its duties and
+8 responsibilities. A contract or other agreement involving the acquisition or
+9 disposition of a property interest by the Commonwealth shall be signed by the
+10 secretary of the Finance and Administration Cabinet. KRS Chapters 45A and
+11 56 may require the secretary's signature on other contracts or agreements;
+12 (h) Provide program management services ensuring the financial viability of the
+13 master agreement and related contracts and agreements, including grant
+14 administration, contract compliance and oversight, community planning
+15 support, and constituent services; and
+16 (i) Seek out, secure, and manage funding sources for the network[; and
+17 (j) Create an advisory group, including major stakeholders, to provide input and
+18 feedback on issues important to the user community and to the long-term
+19 sustainability of the project and the network. The advisory group shall be
+20 administratively attached to and managed by the authority. The advisory
+21 group shall include but not be limited to representatives of:
+22 1. The Department of Education;
+23 2. The Council on Postsecondary Education;
+24 3. The Cabinet for Economic Development;
+25 4. The Cabinet for Health and Family Services;
+26 5. The Transportation Cabinet;
+27 6. The Justice and Public Safety Cabinet;
+Page 2 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 7. The Finance and Administration Cabinet;
+2 8. The Administrative Office of the Courts;
+3 9. The Legislative Research Commission;
+4 10. Institutions of higher education;
+5 11. Local government entities;
+6 12. Libraries;
+7 13. Public health care institutions or agencies;
+8 14. Kentucky Educational Television; and
+9 15. Others whose input will benefit the network].
+10 (3) The executive director of the Commonwealth Office of Technology established in
+11 KRS 42.724 shall assign personnel employed with the Commonwealth Office of
+12 Technology to carry out the functions and responsibilities of the authority[With
+13 the approval of the board, the executive director may hire additional officers and
+14 other personnel necessary for the proper functioning of the authority, fix their
+15 salaries, and prescribe their duties. The executive director and persons employed by
+16 the authority shall not be subject to the provisions of KRS Chapter 18A].
+17 (4) (a) With the approval of the board, the executive director of the Commonwealth
+18 Office of Technology may make, execute, and effectuate contracts, leveraging
+19 future revenues from provision of government-to-government services and
+20 sale or lease of excess capacity, to incur debt in the name of the authority and
+21 enter into financing agreements with the Commonwealth, agencies of the
+22 Commonwealth, lending institutions, investors, or investing entities.
+23 (b) The total amount of debt or financing under this subsection shall not exceed
+24 one hundred ten million dollars ($110,000,000), and shall not leverage any
+25 future revenues committed to the repayment of any other debt, or expected to
+26 be used for the repayment of any other debt, as of the time the debt or
+27 financing is entered into.
+Page 3 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (c) Any proposed debt or financing under this subsection shall be submitted to the
+2 Capital Projects and Bond Oversight Committee for review at least fourteen
+3 (14) days prior to the committee meeting.
+4 (d) If any debt or financing is incurred under this subsection, the authority shall
+5 provide to the Legislative Research Commission:
+6 1. Within thirty (30) days of entering into a debt or financing agreement, a
+7 copy of the agreement; and
+8 2. On January 1, April 1, July 1, and October 1 of each year that the debt
+9 or financing is outstanding:
+10 a. The amount of principal and interest remaining on the debt or
+11 financing;
+12 b. The use to which the capital gained from the debt or financing has
+13 been put; and
+14 c. Any amendments, if any, to the original debt or financing
+15 instruments or agreements.
+16 Section 3. KRS 154.15-030 is amended to read as follows:
+17 (1) The Board of the Kentucky Communications Network Authority is established. The
+18 board shall be attached administratively to the Finance and Administration
+19 Cabinet[Office of the Governor].
+20 (2) The board shall consist of:
+21 (a) The chief information officer of the Department of Education[secretary of
+22 the Governor's Executive Cabinet] or designee, who shall serve as chair of the
+23 board;
+24 (b) Two (2) members designated by the Governor as follows:
+25 1. One (1) member selected from a list of three (3) nominees submitted
+26 by the Kentucky League of Cities; and
+27 2. One (1) member selected from a list of three (3) nominees submitted
+Page 4 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 by the Kentucky Association of Counties[The state budget director or
+2 designee;
+3 (c) The secretary of the Transportation Cabinet or designee];
+4 (c)[(d)] The Commissioner of Agriculture[secretary of the Cabinet for
+5 Economic Development] or designee;
+6 (d)[(e)] The Secretary of State[the Justice and Public Safety Cabinet] or
+7 designee;
+8 (e)[(f)] The Treasurer[commissioner of the Department for Local Government]
+9 or designee; and
+10 (f)[(g)] A representative designated by the Center for Rural Development.
+11 (3) The duties of the board shall be to:
+12 (a) Develop and implement a strategic plan for and provide policy direction to the
+13 authority;
+14 (b) Review performance reports from the partners named in the master agreement
+15 regarding deployment, operations, and administration of the network and its
+16 compliance with service level agreements with the Commonwealth;
+17 (c) Monitor the results achieved through the partnership's strategy to develop new
+18 revenue streams and expand network usage through marketing and awareness
+19 programs;
+20 (d) Approve fiscal planning for the authority including budget development, state
+21 appropriations management, cost-recovery schedules, grant administration,
+22 and billing services;
+23 (e) Establish rates for services offered through the network and establish methods
+24 for customer account management; and
+25 (f) Direct upgrades to technology as necessary.
+26 (4) The board shall meet at least semiannually and at other times upon the call of the
+27 chair.
+Page 5 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (5) The board may form committees or other subgroups as necessary to accomplish its
+2 duties and functions.
+3 Section 4. KRS 42.014 is amended to read as follows:
+4 (1) There is established within the cabinet the:
+5 (a) Office of the Secretary;
+6 (b) Commonwealth Office of Technology[,] and the Office of the Controller, each
+7 of which shall be headed by an executive director appointed by the secretary
+8 with the approval of the Governor;
+9 (c) Kentucky Communications Network Authority established in Section 2 of
+10 this Act and headed by the executive director of the Commonwealth Office
+11 of Technology;
+12 (d) Board of the Kentucky Communications Network Authority established in
+13 Section 3 of this Act; and
+14 (e)[(c)] Department of Revenue and the Department for Facilities and Support
+15 Services, each of which shall be headed by a commissioner appointed by the
+16 secretary, upon the approval of the Governor, and responsible to the secretary.
+17 Each of these departments may have at least one (1) major assistant not in the
+18 classified service.
+19 (2) The secretary shall establish the internal organization and assignment of functions
+20 which are not established by statute, and shall divide the cabinet into the offices,
+21 bureaus, divisions, or other units the secretary deems necessary to perform the
+22 functions, powers, and duties of the cabinet, subject to the provisions of KRS
+23 Chapter 12.
+24 (3) All appointments under this chapter to positions not in the classified service shall be
+25 made pursuant to KRS 12.050, and such appointees shall be major assistants to the
+26 secretary and shall assist in the development of policy.
+27 Section 5. KRS 42.726 is amended to read as follows:
+Page 6 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (1) The Commonwealth Office of Technology shall be the lead organizational entity
+2 within the executive branch regarding delivery of information technology services,
+3 including application development and delivery, and shall serve as the single
+4 information technology authority for the Commonwealth.
+5 (2) The roles and duties of the Commonwealth Office of Technology shall include but
+6 not be limited to:
+7 (a) Providing technical support and services to all executive agencies of state
+8 government in the application of information technology;
+9 (b) Assuring compatibility and connectivity of Kentucky's information systems;
+10 (c) Developing strategies and policies to support and promote the effective
+11 applications of information technology within state government as a means of
+12 saving money, increasing employee productivity, and improving state services
+13 to the public, including electronic public access to information of the
+14 Commonwealth;
+15 (d) Developing, implementing, and managing strategic information technology
+16 directions, standards, and enterprise architecture, including implementing
+17 necessary management processes to ensure full compliance with those
+18 directions, standards, and architecture;
+19 (e) Promoting effective and efficient design and operation of all major
+20 information resources management processes for executive branch agencies,
+21 including improvements to work processes;
+22 (f) Developing, implementing, and maintaining the technology infrastructure of
+23 the Commonwealth and all related support staff, planning, administration,
+24 asset management, and procurement for all executive branch cabinets and
+25 agencies except:
+26 1. Agencies led by a statewide elected official;
+27 2. The nine (9) public institutions of postsecondary education;
+Page 7 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 3. The Department of Education's services provided to local school
+2 districts;
+3 4. The Kentucky Retirement Systems, the County Employees Retirement
+4 System, the Kentucky Public Pensions Authority, and the Teachers'
+5 Retirement System;
+6 5. The Kentucky Housing Corporation;
+7 6. The Kentucky Lottery Corporation;
+8 7. The Kentucky Higher Education Student Loan Corporation; and
+9 8. The Kentucky Higher Education Assistance Authority;
+10 (g) Facilitating and fostering applied research in emerging technologies that offer
+11 the Commonwealth innovative business solutions;
+12 (h) Reviewing and overseeing large or complex information technology projects
+13 and systems for compliance with statewide strategies, policies, and standards,
+14 including alignment with the Commonwealth's business goals, investment,
+15 and other risk management policies. The executive director is authorized to
+16 grant or withhold approval to initiate these projects;
+17 (i) Integrating information technology resources to provide effective and
+18 supportable information technology applications in the Commonwealth;
+19 (j) Establishing the central statewide geographic information clearinghouse to
+20 maintain map inventories, information on current and planned geographic
+21 information systems applications, information on grants available for the
+22 acquisition or enhancement of geographic information resources, and a
+23 directory of geographic information resources available within the state or
+24 from the federal government;
+25 (k) Coordinating multiagency information technology projects, including
+26 overseeing the development and maintenance of statewide base maps and
+27 geographic information systems;
+Page 8 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (l) Providing access to both consulting and technical assistance, and education
+2 and training, on the application and use of information technologies to state
+3 and local agencies;
+4 (m) In cooperation with other agencies, evaluating, participating in pilot studies,
+5 and making recommendations on information technology hardware and
+6 software;
+7 (n) Providing staff support and technical assistance to the Geographic
+8 Information Advisory Council and the Kentucky Information Technology
+9 Advisory Council;
+10 (o) Overseeing the development of a statewide geographic information plan with
+11 input from the Geographic Information Advisory Council;
+12 (p) Developing for state executive branch agencies a coordinated security
+13 framework and model governance structure relating to the privacy and
+14 confidentiality of personal information collected and stored by state executive
+15 branch agencies, including but not limited to:
+16 1. Identification of key infrastructure components and how to secure them;
+17 2. Establishment of a common benchmark that measures the effectiveness
+18 of security, including continuous monitoring and automation of
+19 defenses;
+20 3. Implementation of vulnerability scanning and other security
+21 assessments;
+22 4. Provision of training, orientation programs, and other communications
+23 that increase awareness of the importance of security among agency
+24 employees responsible for personal information; and
+25 5. Development of and making available a cyber security incident response
+26 plan and procedure;
+27 (q) Establishing, publishing, maintaining, and implementing comprehensive
+Page 9 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 policy standards and procedures for the responsible, ethical, and transparent
+2 use of generative artificial intelligence systems and high-risk artificial
+3 intelligence systems by departments, agencies, and administrative bodies,
+4 including but not limited to policy standards and procedures that:
+5 1. Govern their procurement, implementation, and ongoing assessment;
+6 2. Address and provide resources for security of data and privacy; and
+7 3. Create guidelines for acceptable use policies for integrating high-risk
+8 artificial intelligence systems;[ and]
+9 (r) Preparing proposed legislation and funding proposals for the General
+10 Assembly that will further solidify coordination and expedite implementation
+11 of information technology systems; and
+12 (s) Carrying out the functions and responsibilities of the Kentucky
+13 Communications Network Authority established in Section 2 of this Act.
+14 (3) The Commonwealth Office of Technology may:
+15 (a) Provide general consulting services, technical training, and support for
+16 generic software applications, upon request from a local government, if the
+17 executive director finds that the requested services can be rendered within the
+18 established terms of the federally approved cost allocation plan;
+19 (b) Promulgate administrative regulations in accordance with KRS Chapter 13A
+20 necessary for the implementation of KRS 42.720 to 42.742, 45.253, 171.420,
+21 186A.040, and 186A.285;
+22 (c) Solicit, receive, and consider proposals from any state agency, federal agency,
+23 local government, university, nonprofit organization, private person, or
+24 corporation;
+25 (d) Solicit and accept money by grant, gift, donation, bequest, legislative
+26 appropriation, or other conveyance to be held, used, and applied in accordance
+27 with KRS 42.720 to 42.742, 45.253, 171.420, 186A.040, and 186A.285;
+Page 10 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (e) Make and enter into memoranda of agreement and contracts necessary or
+2 incidental to the performance of duties and execution of its powers, including
+3 but not limited to agreements or contracts with the United States, other state
+4 agencies, and any governmental subdivision of the Commonwealth;
+5 (f) Accept grants from the United States government and its agencies and
+6 instrumentalities, and from any source, other than any person, firm, or
+7 corporation, or any director, officer, or agent thereof that manufactures or
+8 sells information resources technology equipment, goods, or services. To
+9 these ends, the Commonwealth Office of Technology shall have the power to
+10 comply with those conditions and execute those agreements that are
+11 necessary, convenient, or desirable; and
+12 (g) Purchase interest in contractual services, rentals of all types, supplies,
+13 materials, equipment, and other services to be used in the research and
+14 development of beneficial applications of information resources technologies.
+15 Competitive bids may not be required for:
+16 1. New and emerging technologies as approved by the executive director
+17 or her or his designee; or
+18 2. Related professional, technical, or scientific services, but contracts shall
+19 be submitted in accordance with KRS 45A.690 to 45A.725.
+20 (4) Nothing in this section shall be construed to alter or diminish the provisions of KRS
+21 171.410 to 171.740 or the authority conveyed by these statutes to the Archives and
+22 Records Commission and the Department for Libraries and Archives.
+23 (5) The Commonwealth Office of Technology shall, on or before October 1 of each
+24 year, submit to the Legislative Research Commission a report in accordance with
+25 KRS 57.390 detailing:
+26 (a) Any security breaches that occurred within organizational units of the
+27 executive branch of state government during the prior fiscal year that required
+Page 11 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 notification to the Commonwealth Office of Technology under KRS 61.932;
+2 (b) Actions taken to resolve the security breach, and to prevent additional security
+3 breaches in the future;
+4 (c) A general description of what actions are taken as a matter of course to protect
+5 personal data from security breaches; and
+6 (d) Any quantifiable financial impact to the agency reporting a security breach.
+7 Section 6. KRS 42.732 is amended to read as follows:
+8 (1) There is hereby created the Kentucky Information Technology Advisory Council to:
+9 (a) Advise the executive director of the Commonwealth Office of Technology on
+10 approaches to coordinating information technology solutions among libraries,
+11 public schools, local governments, universities, and other public entities;
+12 (b) Advise the executive director of the Commonwealth Office of Technology on
+13 coordination among and across the organizational units of the executive
+14 branch of state government to prepare for, respond to, and prevent attacks;
+15 and
+16 (c) Provide a forum for the discussion of emerging technologies that enhance
+17 electronic accessibility to various publicly funded sources of information and
+18 services.
+19 (2) The Kentucky Information Technology Advisory Council shall consist of:
+20 (a) The state budget director or a designee;
+21 (b) The state librarian or a designee;
+22 (c) One (1) representative from the public universities to be appointed by the
+23 Governor from a list of three (3) persons submitted by the Council on
+24 Postsecondary Education;
+25 (d) Three (3) citizen members from the private sector with information
+26 technology knowledge and experience appointed by the Governor;
+27 (e) Two (2) representatives of local government appointed by the Governor;
+Page 12 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (f) One (1) representative from the area development districts appointed by the
+2 Governor from a list of names submitted by the executive directors of the area
+3 development districts;
+4 (g) One (1) member of the media appointed by the Governor;
+5 (h) The executive director of the Kentucky Authority for Educational Television;
+6 (i) The chair of the Public Service Commission or a designee;
+7 (j) Two (2) members of the Kentucky General Assembly, one (1) from each
+8 chamber, selected by the Legislative Research Commission;
+9 (k) One (1) representative of the Administrative Office of the Courts;
+10 (l) One (1) representative from the public schools system appointed by the
+11 Governor;
+12 (m) One (1) representative of the Kentucky Chamber of Commerce; and
+13 (n) The executive director of the Commonwealth Office of Technology[; and
+14 (o) The executive director of the Kentucky Communications Network Authority
+15 or designee].
+16 (3) Appointed members of the council shall serve for a term of two (2) years. Members
+17 who serve by virtue of an office shall serve on the council while they hold the
+18 office.
+19 (4) Vacancies on the council shall be filled in the same manner as the original
+20 appointments. If a nominating organization changes its name, its successor
+21 organization having the same responsibilities and purposes shall be the nominating
+22 organization.
+23 (5) Members shall receive no compensation but shall receive reimbursement for actual
+24 and necessary expenses in accordance with travel and subsistence requirements
+25 established by the Finance and Administration Cabinet.
+26 Section 7. KRS 12.020 is amended to read as follows:
+27 Departments, program cabinets and their departments, and the respective major
+Page 13 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 administrative bodies that they include are enumerated in this section. It is not intended
+2 that this enumeration of administrative bodies be all-inclusive. Every authority, board,
+3 bureau, interstate compact, commission, committee, conference, council, office, or any
+4 other form of organization shall be included in or attached to the department or program
+5 cabinet in which they are included or to which they are attached by statute or statutorily
+6 authorized executive order; except in the case of the Personnel Board and where the
+7 attached department or administrative body is headed by a constitutionally elected
+8 officer, the attachment shall be solely for the purpose of dissemination of information and
+9 coordination of activities and shall not include any authority over the functions,
+10 personnel, funds, equipment, facilities, or records of the department or administrative
+11 body.
+12 I. Cabinet for General Government - Departments headed by elected officers:
+13 (1) The Governor.
+14 (2) Lieutenant Governor.
+15 (3) Department of State.
+16 (a) Secretary of State.
+17 (b) Board of Elections.
+18 (c) Registry of Election Finance.
+19 (4) Department of Law.
+20 (a) Attorney General.
+21 (5) Department of the Treasury.
+22 (a) Treasurer.
+23 (6) Department of Agriculture.
+24 (a) Commissioner of Agriculture.
+25 (b) Agricultural Development Board.
+26 (c) Kentucky Agricultural Finance Corporation.
+27 (7) Auditor of Public Accounts.
+Page 14 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (a) Commonwealth Office of the Ombudsman.
+2 II. Program cabinets headed by appointed officers:
+3 (1) Justice and Public Safety Cabinet:
+4 (a) Department of Kentucky State Police.
+5 1. Office of Administrative Services.
+6 a. Division of Operational Support.
+7 b. Division of Management Services.
+8 2. Office of Operations.
+9 a. Division of West Troops.
+10 b. Division of East Troops.
+11 c. Division of Special Enforcement.
+12 d. Division of Commercial Vehicle Enforcement.
+13 3. Office of Technical Services.
+14 a. Division of Forensic Sciences.
+15 b. Division of Electronic Services.
+16 c. Division of Records Management.
+17 (b) Department of Criminal Justice Training.
+18 (c) Department of Corrections.
+19 (d) Department of Juvenile Justice.
+20 (e) Office of the Secretary.
+21 (f) Office of Drug Control Policy.
+22 (g) Office of Legal Services.
+23 (h) Office of the Kentucky State Medical Examiner.
+24 (i) Parole Board.
+25 (j) Kentucky State Corrections Commission.
+26 (k) Office of Legislative and Intergovernmental Services.
+27 (l) Office of Human Resource Management.
+Page 15 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 1. Division of Human Resource Administration.
+2 2. Division of Employee Management.
+3 (m) Department of Public Advocacy.
+4 (n) Office of Communications.
+5 1. Information Technology Services Division.
+6 (o) Office of Financial Management Services.
+7 1. Division of Financial Management.
+8 (p) Grants Management Division.
+9 (2) Energy and Environment Cabinet:
+10 (a) Office of the Secretary.
+11 1. Office of Legislative and Intergovernmental Affairs.
+12 2. Office of Legal Services.
+13 a. Legal Division I.
+14 b. Legal Division II.
+15 3. Office of Administrative Hearings.
+16 4. Office of Communication.
+17 5. Mine Safety Review Commission.
+18 6. Office of Kentucky Nature Preserves.
+19 7. Kentucky Public Service Commission.
+20 (b) Department for Environmental Protection.
+21 1. Office of the Commissioner.
+22 2. Division for Air Quality.
+23 3. Division of Water.
+24 4. Division of Environmental Program Support.
+25 5. Division of Waste Management.
+26 6. Division of Enforcement.
+27 7. Division of Compliance Assistance.
+Page 16 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (c) Department for Natural Resources.
+2 1. Office of the Commissioner.
+3 2. Division of Mine Permits.
+4 3. Division of Mine Reclamation and Enforcement.
+5 4. Division of Abandoned Mine Lands.
+6 5. Division of Oil and Gas.
+7 6. Division of Mine Safety.
+8 7. Division of Forestry.
+9 8. Division of Conservation.
+10 9. Office of the Reclamation Guaranty Fund.
+11 (d) Office of Energy Policy.
+12 1. Division of Energy Assistance.
+13 (e) Office of Administrative Services.
+14 1. Division of Human Resources Management.
+15 2. Division of Financial Management.
+16 3. Division of Information Services.
+17 (3) Public Protection Cabinet.
+18 (a) Office of the Secretary.
+19 1. Office of Communications and Public Outreach.
+20 2. Office of Legal Services.
+21 a. Insurance Legal Division.
+22 b. Alcoholic Beverage Control Legal Division.
+23 c. Housing, Buildings and Construction Legal Division.
+24 d. Financial Institutions Legal Division.
+25 e. Professional Licensing Legal Division.
+26 3. Office of Administrative Hearings.
+27 4. Office of Administrative Services.
+Page 17 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 a. Division of Human Resources.
+2 b. Division of Fiscal Responsibility.
+3 (b) Office of Claims and Appeals.
+4 1. Board of Tax Appeals.
+5 2. Board of Claims.
+6 3. Crime Victims Compensation Board.
+7 (c) Kentucky Boxing and Wrestling Commission.
+8 (d) Department of Alcoholic Beverage Control.
+9 1. Division of Distilled Spirits.
+10 2. Division of Malt Beverages.
+11 3. Division of Enforcement.
+12 4. Division of Tobacco, Nicotine, and Vapor Product Licensing.
+13 (e) Department of Financial Institutions.
+14 1. Division of Depository Institutions.
+15 2. Division of Non-Depository Institutions.
+16 3. Division of Securities.
+17 (f) Department of Housing, Buildings and Construction.
+18 1. Division of Fire Prevention.
+19 2. Division of Plumbing.
+20 3. Division of Heating, Ventilation, and Air Conditioning.
+21 4. Division of Building Code Enforcement.
+22 (g) Department of Insurance.
+23 1. Division of Health and Life Insurance and Managed Care.
+24 2. Division of Property and Casualty Insurance.
+25 3. Division of Administrative Services.
+26 4. Division of Financial Standards and Examination.
+27 5. Division of Licensing.
+Page 18 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 6. Division of Insurance Fraud Investigation.
+2 7. Division of Consumer Protection.
+3 (h) Department of Professional Licensing.
+4 1. Real Estate Authority.
+5 2. Division of Real Property Boards.
+6 (4) Transportation Cabinet:
+7 (a) Department of Highways.
+8 1. Office of Project Development.
+9 2. Office of Project Delivery and Preservation.
+10 3. Office of Highway Safety.
+11 4. Highway District Offices One through Twelve.
+12 (b) Department of Vehicle Regulation.
+13 (c) Department of Aviation.
+14 (d) Department of Rural and Municipal Aid.
+15 1. Office of Local Programs.
+16 2. Office of Rural and Secondary Roads.
+17 (e) Office of the Secretary.
+18 1. Office of Public Affairs.
+19 2. Office for Civil Rights and Small Business Development.
+20 3. Office of Budget and Fiscal Management.
+21 4. Office of Inspector General.
+22 5. Secretary's Office of Safety.
+23 (f) Office of Support Services.
+24 (g) Office of Transportation Delivery.
+25 (h) Office of Audits.
+26 (i) Office of Human Resource Management.
+27 (j) Office of Information Technology.
+Page 19 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (k) Office of Legal Services.
+2 (5) Cabinet for Economic Development:
+3 (a) Office of the Secretary.
+4 1. Office of Legal Services.
+5 2. Department for Business and Community Development.
+6 a. Development and Retention Division – West Kentucky.
+7 b. Development, Retention, and Administrative Division –
+8 Central and East Kentucky.
+9 c. Community and Workforce Development Division.
+10 3. Department for Financial Services.
+11 a. Kentucky Economic Development Finance Authority.
+12 b. Finance and Personnel Division.
+13 c. IT and Resource Management Division.
+14 d. Compliance Division.
+15 e. Program Administration Division.
+16 f. Bluegrass State Skills Corporation.
+17 g. The GRANT Commission.
+18 4. Office of Strategy and Public Affairs.
+19 a. Marketing and Communications Division.
+20 b. Research and Strategy Division.
+21 5. Office of Entrepreneurship and Innovation.
+22 a. Commission on Small Business Innovation and Advocacy.
+23 6. Kentucky Film Office.
+24 a. Kentucky Film Leadership Council.
+25 (6) Cabinet for Health and Family Services:
+26 (a) Office of the Secretary.
+27 1. Office of Public Affairs.
+Page 20 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 2. Office of Legal Services.
+2 3. Office of Inspector General.
+3 4. Office of Human Resource Management.
+4 5. Office of Finance and Budget.
+5 6. Office of Legislative and Regulatory Affairs.
+6 7. Office of Administrative Services.
+7 8. Office of Application Technology Services.
+8 9. Office of Data Analytics.
+9 10. Office of Medical Cannabis.
+10 a. Division of Enforcement and Compliance.
+11 b. Division of Licensure and Access.
+12 (b) Department for Public Health.
+13 (c) Department for Medicaid Services.
+14 (d) Department for Behavioral Health, Developmental and Intellectual
+15 Disabilities.
+16 (e) Department for Aging and Independent Living.
+17 (f) Department for Community Based Services.
+18 (g) Department for Family Resource Centers and Volunteer Services.
+19 (7) Finance and Administration Cabinet:
+20 (a) Office of the Secretary.
+21 (b) Office of the Inspector General.
+22 (c) Office of Legislative and Intergovernmental Affairs.
+23 (d) Office of General Counsel.
+24 (e) Office of the Controller.
+25 (f) Office of Administrative Services.
+26 (g) Office of Policy and Audit.
+27 (h) Department for Facilities and Support Services.
+Page 21 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (i) Department of Revenue.
+2 (j) Commonwealth Office of Technology.
+3 (k) State Property and Buildings Commission.
+4 (l) Office of Equal Employment Opportunity and Contract Compliance.
+5 (m) Kentucky Employees Retirement Systems.
+6 (n) Commonwealth Credit Union.
+7 (o) State Investment Commission.
+8 (p) Kentucky Housing Corporation.
+9 (q) Kentucky Local Correctional Facilities Construction Authority.
+10 (r) Kentucky Turnpike Authority.
+11 (s) Historic Properties Advisory Commission.
+12 (t) Kentucky Higher Education Assistance Authority.
+13 (u) Kentucky River Authority.
+14 (v) Kentucky Teachers' Retirement System Board of Trustees.
+15 (w) Executive Branch Ethics Commission.
+16 (x) Office of Fleet Management.
+17 (y) Kentucky Communications Network Authority.
+18 (8) Tourism, Arts and Heritage Cabinet:
+19 (a) Kentucky Department of Tourism.
+20 1. Division of Tourism Services.
+21 2. Division of Marketing and Administration.
+22 3. Division of Communications and Promotions.
+23 (b) Kentucky Department of Parks.
+24 1. Division of Information Technology.
+25 2. Division of Human Resources.
+26 3. Division of Financial Operations.
+27 4. Division of Purchasing.
+Page 22 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 5. Division of Facilities.
+2 6. Division of Park Operations.
+3 7. Division of Sales, Marketing, and Customer Service.
+4 8. Division of Engagement.
+5 9. Division of Food Services.
+6 10. Division of Rangers.
+7 (c) Department of Fish and Wildlife Resources.
+8 1. Division of Law Enforcement.
+9 2. Division of Administrative Services.
+10 3. Division of Engineering, Infrastructure, and Technology.
+11 4. Division of Fisheries.
+12 5. Division of Information and Education.
+13 6. Division of Wildlife.
+14 7. Division of Marketing.
+15 (d) Kentucky Horse Park.
+16 1. Division of Support Services.
+17 2. Division of Buildings and Grounds.
+18 3. Division of Operational Services.
+19 (e) Kentucky State Fair Board.
+20 1. Office of Administrative and Information Technology Services.
+21 2. Office of Human Resources and Access Control.
+22 3. Division of Expositions.
+23 4. Division of Kentucky Exposition Center Operations.
+24 5. Division of Kentucky International Convention Center.
+25 6. Division of Public Relations and Media.
+26 7. Division of Venue Services.
+27 8. Division of Personnel Management and Staff Development.
+Page 23 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 9. Division of Sales.
+2 10. Division of Security and Traffic Control.
+3 11. Division of Information Technology.
+4 12. Division of the Louisville Arena.
+5 13. Division of Fiscal and Contract Management.
+6 14. Division of Access Control.
+7 (f) Office of the Secretary.
+8 1. Office of Finance.
+9 2. Office of Government Relations and Administration.
+10 (g) Office of Legal Affairs.
+11 (h) Office of Human Resources.
+12 (i) Office of Public Affairs and Constituent Services.
+13 (j) Office of Arts and Cultural Heritage.
+14 (k) Kentucky African-American Heritage Commission.
+15 (l) Kentucky Foundation for the Arts.
+16 (m) Kentucky Humanities Council.
+17 (n) Kentucky Heritage Council.
+18 (o) Kentucky Arts Council.
+19 (p) Kentucky Historical Society.
+20 1. Division of Museums.
+21 2. Division of Oral History and Educational Outreach.
+22 3. Division of Research and Publications.
+23 4. Division of Administration.
+24 (q) Kentucky Center for the Arts.
+25 1. Division of Governor's School for the Arts.
+26 (r) Kentucky Artisans Center at Berea.
+27 (s) Northern Kentucky Convention Center.
+Page 24 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (t) Eastern Kentucky Exposition Center.
+2 (9) Personnel Cabinet:
+3 (a) Office of the Secretary.
+4 (b) Department of Human Resources Administration.
+5 (c) Office of Employee Relations.
+6 (d) Kentucky Public Employees Deferred Compensation Authority.
+7 (e) Office of Administrative Services.
+8 (f) Office of Legal Services.
+9 (g) Governmental Services Center.
+10 (h) Department of Employee Insurance.
+11 (i) Office of Diversity, Equality, and Training.
+12 (j) Office of Public Affairs.
+13 (10) Education and Labor Cabinet:
+14 (a) Office of the Secretary.
+15 1. Office of Legal Services.
+16 a. Workplace Standards Legal Division.
+17 b. Workers' Claims Legal Division.
+18 c. Workforce Development Legal Division.
+19 2. Office of Administrative Services.
+20 a. Division of Human Resources Management.
+21 b. Division of Fiscal Management.
+22 c. Division of Operations and Support Services.
+23 3. Office of Technology Services.
+24 a. Division of Information Technology Services.
+25 4. Office of Policy and Audit.
+26 5. Office of Legislative Services.
+27 6. Office of Communications.
+Page 25 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 7. Office of the Kentucky Center for Statistics.
+2 8. Board of the Kentucky Center for Statistics.
+3 9. Early Childhood Advisory Council.
+4 10. Governors' Scholars Program.
+5 11. Governor's School for Entrepreneurs Program.
+6 12. Foundation for Adult Education.
+7 (b) Department of Education.
+8 1. Kentucky Board of Education.
+9 2. Kentucky Technical Education Personnel Board.
+10 3. Education Professional Standards Board.
+11 (c) Board of Directors for the Center for School Safety.
+12 (d) Department for Libraries and Archives.
+13 (e) Kentucky Environmental Education Council.
+14 (f) Kentucky Educational Television.
+15 (g) Kentucky Commission on the Deaf and Hard of Hearing.
+16 (h) Department of Workforce Development.
+17 1. Career Development Office.
+18 2. Office of Vocational Rehabilitation.
+19 a. Division of Kentucky Business Enterprise.
+20 b. Division of the Carl D. Perkins Vocational Training Center.
+21 c. Division of Blind Services.
+22 d. Division of Field Services.
+23 e. Statewide Council for Vocational Rehabilitation.
+24 f. Employment First Council.
+25 g. Division of Program Policy and Support.
+26 3. Office of Industry and Apprenticeship Services.
+27 a. Division of Apprenticeship.
+Page 26 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 b. Division of Workforce Talent.
+2 4. Kentucky Apprenticeship Council.
+3 5. Division of Technical Assistance.
+4 6. Office of Adult Education.
+5 7. Office of the Kentucky Workforce Innovation Board.
+6 (i) Department of Workplace Standards.
+7 1. Division of Occupational Safety and Health Compliance.
+8 2. Division of Occupational Safety and Health Education and
+9 Training.
+10 3. Division of Wages and Hours.
+11 (j) Office of Unemployment Insurance.
+12 (k) Kentucky Unemployment Insurance Commission.
+13 (l) Department of Workers' Claims.
+14 1. Division of Workers' Compensation Funds.
+15 2. Office of Administrative Law Judges.
+16 3. Division of Claims Processing.
+17 4. Division of Security and Compliance.
+18 5. Division of Specialist and Medical Services.
+19 6. Workers' Compensation Board.
+20 (m) Workers' Compensation Funding Commission.
+21 (n) Kentucky Occupational Safety and Health Standards Board.
+22 (o) State Labor Relations Board.
+23 (p) Employers' Mutual Insurance Authority.
+24 (q) Kentucky Occupational Safety and Health Review Commission.
+25 (r) Workers' Compensation Nominating Committee.
+26 (s) Office of Educational Programs.
+27 (t) Kentucky Workforce Innovation Board.
+Page 27 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (u) Kentucky Commission on Proprietary Education.
+2 (v) Kentucky Work Ready Skills Advisory Committee.
+3 (w) Kentucky Geographic Education Board.
+4 (x) Department for Disability Determination Services.
+5 1. Division of Operations.
+6 2. Division of Support Services.
+7 3. Division of Specialized Cases.
+8 4. Division of Case Processing.
+9 III. Other departments headed by appointed officers:
+10 (1) Council on Postsecondary Education.
+11 (2) Department of Military Affairs.
+12 (3) Department for Local Government.
+13 (4) Kentucky Commission on Human Rights.
+14 (5) Kentucky Commission on Women.
+15 (6) Department of Veterans' Affairs.
+16 (7) Kentucky Commission on Military Affairs.
+17 (8) Office of Minority Empowerment.
+18 (9) Governor's Council on Wellness and Physical Activity.
+19 [(10) Kentucky Communications Network Authority.]
+20 Section 8. KRS 12.023 is amended to read as follows:
+21 The following organizational units and administrative bodies shall be attached to the
+22 Office of the Governor:
+23 (1) Council on Postsecondary Education;
+24 (2) Department of Military Affairs;
+25 (3) Department for Local Government;
+26 (4) Kentucky Commission on Human Rights;
+27 (5) Kentucky Commission on Women;
+Page 28 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS HB 314/VO
+1 (6) Kentucky Commission on Military Affairs;
+2 (7) Office of Minority Empowerment;
+3 (a) The Martin Luther King Commission; and
+4 (8) Office of Homeland Security[; and
+5 (9) Kentucky Communications Network Authority].
+6 Section 9. On the effective date of this Act, all functions and responsibilities of
+7 the Kentucky Communications Network Authority established in Section 2 of this Act
+8 that were previously undertaken by the authority shall be transferred to existing personnel
+9 employed by the Commonwealth Office of Technology under the direction of the
+10 executive director of the Commonwealth Office of Technology. All records, files, and
+11 documents previously maintained by Kentucky Communications Network Authority
+12 personnel shall be transferred to the Commonwealth Office of Technology. The position
+13 of executive director of the Kentucky Communications Network Authority shall be
+14 terminated. On or before June 30, 2026, the executive director of the Commonwealth
+15 Office of Technology shall determine which, if any, staff previously employed by the
+16 Kentucky Communications Network Authority shall be retained and employed by the
+17 Commonwealth Office of Technology.
+18 Section 10. Whereas it is critical to the proper administration of the Kentucky
+19 Communications Network Authority that its functions and responsibilities be undertaken
+20 by the employees of the Commonwealth who have the most experience and expertise in
+21 overseeing and maintaining broadband communication networks, an emergency is
+22 declared to exist, and this Act takes effect upon its passage and approval by the Governor
+23 or upon its otherwise becoming a law.
+Page 29 of 29
+HB031490.100 - 1720 - XXXX 3/9/2026 4:18 PM Vetoed and Overridden
+
+[DELETED:   2  V A A r t t K C N A a d B S A ( " ( " ( " N ( " o " m t C o b ( " C a S ( T K C N A i e a s b a t t F a A C f a p d ( [ ( O a m K t C o b ( M t m a e t p p b p u ( P]
+[DELETED:   2  V ( O ( M d a w o a i f t b e i K 1 ( P C ( E r A c o o a i t a o d s 5 ( P m a a r c a a i g a c c a o c p s ( S ( C f o i i t t u c a t t l s o t p a t n T a g s b a a t a m b t a T a g 1 T 2 T 3 T 4 T 5 T 6 T]
+[DELETED:   2  V 7 T 8 T 9 T 1 I 1 L 1 L 1 P 1 K 1 O ( T K T t o p n f t p f o t a f t s t ( ( W O f r f p o g s a s e i f a w t C a o t C ( T o f b u f t r o a o d a o t t t d o f]
+[DELETED:   2  V ( A C ( ( I p 1 W c 2 O o a T a o p a i r o t d o f b T b c A a i a t t o d o f i S ( T b s b a a t t F a A C ( T ( T t b ( T 1 O b 2 O]
+[DELETED:   2  V b d ( T ( T C o A o t C f E ( T S o S J a P S C o d ( T o ( A ( T ( D a ( R r c ( M r p ( A a m c s g a a ( E f ( D ( T c]
+[DELETED:   2  V ( T d S ( T ( O ( C o w ( K t o ( B S ( D S s E c ( T w b d o o u t s d n t p t f p a d o t c s t t p o K C ( A m s S]
+[DELETED:   2  V ( T w i a d a d a s s a t s i ( T n ( P t s a s t a e a o s g ( A ( D s a p t s a p t e a s t t p i e p a t i o t C ( D i a m s i t d s a e a i i n m p t e f c w t d ( P e a e d a o o a m i i ( D t C a a r s s p a a m a p f a e b c a a 1 A 2 T]
+[DELETED:   2  V 3 T D o E s p t l s d 4 T S t K P P A a t T R 5 T 6 T 7 T 8 T ( F t ( R a i a w t C b g i a g ( I i t r t p e a s ( E t c s g i c t m m i i o c a p g i s a i o g a f t a o e o g i r a a d o g i r a w t s o f ( C m i t p i o t d a m o s b m a g]
+[DELETED:   2  V ( P a a ( I a m r o i t h a s ( P s s a t a t t G I A C a t K I T A ( O i ( D f s e b a a c s f a m g s r t t p a c b 1 I 2 E o s i c m a a o d 3 I o v s a o s a 4 P t i a o t i o s a a e 5 D p ( E p m a i c]
+[DELETED:   2  V p u o g a i s a h a i s b d a a a b i 1 G 2 A 3 C g f a u p f i h a ( P p l a f p f t G A o ( C o t f a r o t K C ( T ( P g c s t t a s f g e e ( P n 1 ( S l g u n o p p o c ( S a a m b g g d b l a w]
+[DELETED:   2  V ( M a e i m o a a c n o i b a ( A g f t U S g a i a a i a f a s o t a p f o c o a d o o a t t m o s i r t e g o s T t c w t c a e t a t a n ( P i i c s r o a t s m e a o s t b u i t r a d C 1 N o 2 R b ( N 1 R ( T y K ( A s b t o w o u o t e]
+[DELETED:   2  V n ( A b ( A p ( A S ( T ( A a p ( A c a a a t o u o t e b p a ( P a f f t d o e t t e e s ( T ( T ( T ( O ( r f t p u t b a b t G f a l o t ( p s b t C o P ( T ( c m f t p s w i t ( T]
+[DELETED:   2  V ( O G d ( O ( T ( T ( T ( m o t K G A o ( f e c ( O ( O ( r f t p s s a b t G ( O ( T ( T o ( A w s b v o a o s s o t c w t h t o ( V o t c s b f i t s m a t o a I a n o c i n i s o o ( M a n e i a w t a s r e S D p c a t d a t r m]
+[DELETED:   2  V a t b o c a e o e i t c o t P B a w t a d o a b i h b a c e o c o a a s n i a a o t f p f e f o r o t d o a b I C ( T ( L ( D ( S ( B ( R ( D ( A ( D ( T ( D ( C ( A ( K ( A]
+[DELETED:   2  V ( C I P ( J ( D 1 O a D b D 2 O a D b D c D d D 3 O a D b D c D ( D ( D ( D ( O ( O ( O ( O ( P ( K ( O ( O]
+[DELETED:   2  V 1 D 2 D ( D ( O 1 I ( O 1 D ( G ( E ( O 1 O 2 O a L b L 3 O 4 O 5 M 6 O 7 K ( D 1 O 2 D 3 D 4 D 5 D 6 D 7 D]
+[DELETED:   2  V ( D 1 O 2 D 3 D 4 D 5 D 6 D 7 D 8 D 9 O ( O 1 D ( O 1 D 2 D 3 D ( P ( O 1 O 2 O a I b A c H d F e P 3 O 4 O]
+[DELETED:   2  V a D b D ( O 1 B 2 B 3 C ( K ( D 1 D 2 D 3 D 4 D ( D 1 D 2 D 3 D ( D 1 D 2 D 3 D 4 D ( D 1 D 2 D 3 D 4 D 5 D]
+[DELETED:   2  V 6 D 7 D ( D 1 R 2 D ( T ( D 1 O 2 O 3 O 4 H ( D ( D ( D 1 O 2 O ( O 1 O 2 O 3 O 4 O 5 S ( O ( O ( O ( O ( O]
+[DELETED:   2  V ( O ( C ( O 1 O 2 D a D b D R a A D – C c C 3 D a K b F c I d C e P f B g T 4 O a M b R 5 O a C 6 K a K ( C ( O 1 O]
+[DELETED:   2  V 2 O 3 O 4 O 5 O 6 O 7 O 8 O 9 O 1 O a D b D ( D ( D ( D f B H D a I D ( D ( D ( D ( F ( O ( O ( O ( O ( O ( O ( O ( D]
+[DELETED:   2  V ( D ( C ( S ( O ( K ( C ( S ( K ( K ( K ( H ( K ( K ( K ( E ( O ( K ( T ( K 1 D 2 D 3 D ( K 1 D 2 D 3 D 4 D]
+[DELETED:   2  V 5 D 6 D 7 D 8 D 9 D 1 D ( D 1 D 2 D 3 D 4 D 5 D 6 D 7 D ( K 1 D 2 D 3 D ( K 1 O 2 O 3 D 4 D 5 D 6 D 7 D 8 D]
+[DELETED:   2  V 9 D 1 D 1 D 1 D 1 D 1 D ( O 1 O 2 O ( O ( O ( O ( O ( K ( K ( K ( K ( K ( K 1 D 2 D 3 D 4 D ( K 1 D ( K ( N]
+[DELETED:   2  V ( E ( P ( O ( D ( O ( K ( O ( O ( G ( D ( O ( O ( E ( O 1 O a W b W c W 2 O a D b D c D 3 O a D 4 O 5 O 6 O]
+[DELETED:   2  V 7 O 8 B 9 E 1 G 1 G 1 F ( D 1 K 2 K 3 E ( B ( D ( K ( K ( K ( D 1 C 2 O a D b D c D d D e S f E g D 3 O a D]
+[DELETED:   2  V b D 4 K 5 D 6 O 7 O ( D 1 D 2 D T 3 D ( O ( K ( D 1 D 2 O 3 D 4 D 5 D 6 W ( W ( K ( S ( E ( K ( W ( O ( K]
+[DELETED:   2  V ( K ( K ( K ( D 1 D 2 D 3 D 4 D I O ( C ( D ( D ( K ( K ( D ( K ( O ( G [ S T f o u a a b s b a t t O ( C ( D ( D ( K ( K]
+[DELETED:   2  V ( K ( O ( T ( O ( K S t t e b t C O o T u t d o t e d p m b K C N A p o e d o t K C N A s b t e C O K C N A s b r a e b t C S C b o a m b c n a e i d o]
