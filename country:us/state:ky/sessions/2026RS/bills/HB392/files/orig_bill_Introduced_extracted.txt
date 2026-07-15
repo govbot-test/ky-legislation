@@ -1,0 +1,1730 @@
+Title: 1 AN ACT relating to local public agency transactions.
+Official Title: 1 AN ACT relating to local public agency transactions.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 28 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 1684
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 45A.345 is amended to read as follows:
+4 As used in KRS 45A.343 to 45A.460, unless the context indicates otherwise:
+5 (1) "Aggregate amount" means the total dollar amount during a fiscal year of items of a
+6 like nature, function, and use the need for which can reasonably be determined at
+7 the beginning of the fiscal year. Items the need for which could not reasonably be
+8 established in advance or which were unavailable because of a failure of delivery
+9 need not be included in the aggregate amount;[.]
+10 (2) "Best value" means a procurement in which the decision is based on the primary
+11 objective of meeting the specific business requirements and best interests of the
+12 local public agency, including but not limited to the economic efficiency of
+13 procurement. These decisions shall be based on objective and quantifiable
+14 criteria that shall include price and that have been communicated to the offerors
+15 as set forth in the invitation for bids;
+16 (3) "Capital cost avoidance" means moneys expended by a local public agency to pay
+17 for an energy conservation measure identified as a permanent equipment
+18 replacement and whose cost has been discounted by any additional energy and
+19 operation savings generated from other energy conservation measures identified in
+20 the guaranteed energy savings contract, except that for school districts capital cost
+21 avoidance shall also mean moneys expended by the district from one (1) or more of
+22 the following sources:
+23 (a) General fund;
+24 (b) Capital outlay allotment under KRS 157.420; and
+25 (c) State and local funds from the Facilities Support Program of Kentucky under
+26 KRS 157.440;[.]
+27 (4)[(3)] "Chief executive officer" means the mayor, county judge/executive,
+Page 1 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 superintendent of schools, or the principal administrative officer of a local public
+2 agency, or the person designated by the chief executive officer or legislative body
+3 of the local public agency to perform the procurement function;[.]
+4 (5)[(4)] "Construction" means the process of building, altering, repairing, or
+5 improving any public structure or building, or other public improvements of any
+6 kind to any public real property. It does not include the routine operation, routine
+7 repair, or routine maintenance of existing structures, buildings, or real property;[.]
+8 (6)[(5)] "Contract" means all types of local public agency agreements, including
+9 grants and orders, for the purchase or disposal of supplies, services, construction, or
+10 any other item. It includes awards and notices of award; contracts of a fixed-price,
+11 cost, cost-plus-a-fixed-fee, or incentive type; contracts providing for the issuance of
+12 job or task orders; leases; letter contracts; and purchase orders. It also includes
+13 supplemental agreements with respect to any of the foregoing. It does not include
+14 labor contracts with employees of local public agencies;[.]
+15 (7)[(6)] "Document" means any physical embodiment of information or ideas,
+16 regardless of form or characteristic, including electronic versions thereof;[.]
+17 (8) "Economic efficiency" means the dollar amount of a bid after bid price
+18 adjustments are made pursuant to objective measurable criteria, set forth in the
+19 invitation for bids, which affect the economy and effectiveness in the operation or
+20 use of the product, such as reliability, maintainability, useful life, residual value,
+21 and time of delivery, performance, or completion;
+22 (9)[(7)] "Established catalogue price" means the price included in the most current
+23 catalogue, price list, schedule, or other form that:
+24 (a) Is regularly maintained by the manufacturer or vendor of an item;[ and]
+25 (b) Is either published or otherwise available for inspection by customers; and
+26 (c) States prices at which sales are currently or were last made to a significant number
+27 of buyers constituting the general buying public for that item;[.
+Page 2 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (8) "Evaluated bid price" means the dollar amount of a bid after bid price adjustments
+2 are made pursuant to objective measurable criteria, set forth in the invitation for
+3 bids, which affect the economy and effectiveness in the operation or use of the
+4 product, such as reliability, maintainability, useful life, residual value, and time of
+5 delivery, performance, or completion.]
+6 (10)[(9)] "Invitation for bids" means all documents, whether attached or incorporated
+7 by reference, utilized for soliciting bids in accordance with the procedures set forth
+8 in KRS 45A.365;[.]
+9 (11)[(10)] "The legislative body or governing board" means a council, commission, or
+10 other legislative body of a city, consolidated local government, or urban-county; a
+11 county fiscal court; board of education of a county or independent school district;
+12 board of directors of an area development district or special district; or board of any
+13 other local public agency;[.]
+14 (12)[(11)] "Local public agency" means a city, county, urban-county, consolidated local
+15 government, school district, special district, or an agency formed by a combination
+16 of such agencies under KRS Chapter 79, or any department, board, commission,
+17 authority, office, or other sub-unit of a political subdivision which shall include the
+18 offices of the county clerk, county sheriff, county attorney, coroner, and jailer;[.]
+19 (13)[(12)] "May" means permissive. However, the words "no person may . . ." mean that
+20 no person is required, authorized, or permitted to do the act prescribed;[.]
+21 (14)[(13)] "Negotiation" means contracting by either the method set forth in KRS
+22 45A.370, 45A.375, or 45A.380;[.]
+23 (15)[(14)] "Noncompetitive negotiation" means informal negotiation with one (1) or
+24 more vendor, contractor, or individual without advertisement or notice;[.]
+25 (16)[(15)] "Objective measurable criteria" means sufficient information in the invitation
+26 to bid as to weight and method of evaluation so that the evaluation may be
+27 determined with reasonable mathematical certainty. Criteria which are otherwise
+Page 3 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 subjective, such as taste and appearance, may be established when appropriate;[.]
+2 (17)[(16)] "Person" means any business, individual, union, committee, club, or other
+3 organization or group of individuals;[.]
+4 (18)[(17)] "Procurement" means the purchasing, buying, renting, leasing, or otherwise
+5 obtaining any supplies, services, or construction. It also includes all functions that
+6 pertain to the obtaining of any public procurement, including description of
+7 requirements, selection, and solicitation of sources, preparation and award of
+8 contract, and all phases of contract administration;[.]
+9 (19)[(18)] "Request for proposals" means all documents, whether attached or
+10 incorporated by reference, utilized for soliciting proposals in accordance with the
+11 procedures set forth in KRS 45A.370, 45A.375, 45A.380, or 45A.385;[.]
+12 (20)[(19)] "Responsible bidder or offeror" means a person who has the capability in all
+13 respects to perform fully the contract requirements, and the integrity and reliability
+14 which will assure good faith performance;[.]
+15 (21)[(20)] "Responsive bidder" means a person who has submitted a bid under KRS
+16 45A.365 which conforms in all material respects to the invitation for bids, so that
+17 all bidders may stand on equal footing with respect to the method and timeliness of
+18 submission and as to the substance of any resulting contract;[.]
+19 (22)[(21)] "Reverse auction" means a real-time, structured bidding process, usually
+20 lasting less than one (1) hour, and taking place at a previously scheduled time and
+21 Internet location, during which multiple bidders, anonymous to each other, submit
+22 revised, lower bids to provide the solicited good or leased space;[.]
+23 (23)[(22)] "Services" means the rendering, by a contractor, of its time and effort rather
+24 than the furnishing of a specific end product other than reports which are merely
+25 incidental to the required performance of service. It does not include labor contracts
+26 with employees of local public agencies;[.]
+27 (24)[(23)] "Shall" means imperative;[.]
+Page 4 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (25)[(24)] "Specifications" means any description of a physical or functional
+2 characteristic of a supply, service, or construction item. It may include a description
+3 of any requirement for inspecting, testing, or preparing a supply, service, or
+4 construction item for delivery;[.]
+5 (26)[(25)] "Supplemental agreement" means any contract modification which is
+6 accomplished by the mutual action of the parties;[.]
+7 (27)[(26)] "Supplies" means all property, including but not limited to leases on real
+8 property, printing, and insurance, except land or a permanent interest in land;[.]
+9 (28)[(27)] "Energy conservation measure" means a training program or facility alteration
+10 designed to reduce energy consumption or operating costs, and may include one (1)
+11 or more of the following:
+12 (a) Insulation of the building structure or systems within the building;
+13 (b) Storm windows or doors, caulking or weatherstripping, multiglazed windows
+14 or doors, heat absorbing or heat reflective glazed and coated window or door
+15 systems, additional glazing, reductions in glass area, or other window and
+16 door system modifications that reduce energy consumption;
+17 (c) Automated or computerized energy control systems;
+18 (d) Heating, ventilating, or air conditioning system modifications or
+19 replacements;
+20 (e) Replacement or modification of lighting fixtures to increase the energy
+21 efficiency of the lighting system without increasing the overall illumination of
+22 a facility, unless an increase in illumination is necessary to conform to the
+23 applicable state or local building code for the lighting system after the
+24 proposed modifications are made;
+25 (f) Energy recovery systems;
+26 (g) Cogeneration systems that produce steam or forms of energy such as heat, as
+27 well as electricity, for use primarily within a building or complex of
+Page 5 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 buildings;
+2 (h) Energy, water, or wastewater conservation measures that provide long-term
+3 operating cost reductions or billable revenue increases;
+4 (i) Any life safety measures that provide long-term operating cost reductions;
+5 (j) Water and wastewater conservation measures, including plumbing fixtures
+6 and infrastructure;
+7 (k) Equipment upgrades that improve the accuracy of billable revenue generating
+8 systems; or
+9 (l) Automated, electronic, or remotely controlled systems or measures that
+10 reduce direct personnel costs;[.]
+11 (29)[(28)] "Guaranteed energy savings contract" means a contract for the evaluation and
+12 recommendation of energy, water, and wastewater conservation measures and for
+13 implementation of one (1) or more of those measures. The contract shall provide
+14 that all payments, except obligations on termination of the contract before its
+15 expiration, are to be made over time and the savings are guaranteed to the extent
+16 necessary to make payments for the cost of the design, installation, and
+17 maintenance of energy, water, and wastewater conservation measures; and[.]
+18 (30)[(29)] "Qualified provider" means a person or business experienced in the design,
+19 implementation, and installation of energy, water, and wastewater conservation
+20 measures and is determined to be qualified by the local public agency. The qualified
+21 provider shall be responsible for and shall provide the local public agency with the
+22 following information regarding guaranteed energy, water, and wastewater savings
+23 contracts:
+24 (a) Project design and specifications;
+25 (b) Construction management;
+26 (c) Construction;
+27 (d) Commissioning;
+Page 6 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (e) On-going services as required;
+2 (f) Measurement and verification of savings for guaranteed energy, water, and
+3 wastewater savings contracts; and
+4 (g) Annual reconciliation statements as provided in KRS 45A.352(8).
+5 Section 2. KRS 45A.365 is amended to read as follows:
+6 (1) All contracts or purchases shall be awarded by competitive sealed bidding, which
+7 may include the use of a reverse auction, except as otherwise provided by KRS
+8 45A.370 to 45A.385 and for the purchase of wholesale electric power by municipal
+9 utilities as provided in KRS 96.901(1).
+10 (2) The invitation for bids shall state that the award shall be made on the basis of the
+11 lowest bid price or the best value[lowest evaluated] bid[ price]. If the latter is used,
+12 the objective and quantifiable[measurable] criteria to be utilized shall be set forth
+13 in the invitation for bids[. The invitation for bids shall include the reciprocal
+14 preference for resident bidders described in KRS 45A.494].
+15 (3) Adequate public notice of the invitation for bids and any reverse auction shall be
+16 given prior to the date set forth for the opening of bids. The notice may include
+17 posting on the internet or publication in a newspaper of general circulation in the
+18 local jurisdiction at least seven (7) days before the date set for the opening of the
+19 bids and any reverse auction. Nothing in this section shall prohibit additional notice,
+20 posting, or publication, nor shall additional notification, posting, or publication
+21 extend the required notice period. The public notice shall include the time and place
+22 the bids will be opened and the time and place where the specifications may be
+23 obtained.
+24 (4) The bids shall be opened publicly or entered through a reverse auction at the time
+25 and place designated in the invitation for bids. Each written or reverse auction bid,
+26 together with the name of the bidder, shall be recorded and be open to public
+27 inspection. Electronic bid opening and posting of the required information for
+Page 7 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 public viewing shall satisfy the requirements of this subsection.
+2 (5) A contract shall be awarded with reasonable promptness by written notice to the
+3 responsive and responsible bidder whose bid is either the lowest bid price or the
+4 best value[lowest evaluated] bid[ price after the application of any reciprocal
+5 preference for resident bidders required by KRS 45A.494].
+6 (6) The local public agency may allow the withdrawal of a bid where there is a patent
+7 error on the face of the bid document, or where the bidder presents sufficient
+8 evidence, substantiated by bid worksheets, that the bid was based upon an error in
+9 the formulation of the bid price.
+10 Section 3. KRS 45A.370 is amended to read as follows:
+11 (1) A local public agency may contract or purchase through competitive negotiation,
+12 which may include a reverse auction, upon a written finding that:
+13 (a) Specifications cannot be made sufficiently specific to permit award on the
+14 basis of either the lowest bid price or the best value[lowest evaluated] bid[
+15 price], including[,] but not limited to[,] contracts for experimental or
+16 developmental research work, or highly complex equipment which requires
+17 technical discussions, and other nonstandard supplies, services, or
+18 construction; or
+19 (b) Sealed bidding is inappropriate because the available sources of supply are
+20 limited, the time and place of performance cannot be determined in advance,
+21 the price is regulated by law, or a fixed price contract is not applicable; or
+22 (c) The bid prices received through sealed bidding are unresponsive or
+23 unreasonable as to all or part of the requirements, or are identical or appear to
+24 have been the result of collusion; provided each responsible bidder is notified
+25 of the intention to negotiate and is given a reasonable opportunity to
+26 negotiate, and the negotiated price is lower than the lowest rejected bid by any
+27 responsible bidder.
+Page 8 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (2) Proposals shall be solicited through public notice pursuant to KRS 45A.365(3) or
+2 any other means which can be demonstrated to notify an adequate number of
+3 qualified sources to permit reasonable competition consistent with the nature and
+4 requirement of the procurement. The request for proposals shall indicate the factors
+5 to be considered in the evaluation,[ including the reciprocal preference for resident
+6 bidders required by KRS 45A.494, and] the relative importance of each factor, and
+7 the procedures to be followed if a reverse auction is used in the procurement.
+8 (3) Written or oral discussions shall be conducted with all responsible offerors who
+9 submit proposals determined in writing to be reasonably susceptible of being
+10 selected for award. Discussions shall not disclose any information derived from
+11 proposals submitted by competing offerors. Discussions need not be conducted:
+12 (a) With respect to prices, where such prices are fixed by law, regulation, or
+13 reverse auction, except that consideration shall be given to competitive terms
+14 and conditions;[ or]
+15 (b) Where time of delivery or performance will not permit discussions; or
+16 (c) Where it can be clearly demonstrated and documented from the existence of
+17 adequate competition or accurate prior cost experience with that particular
+18 supply, service, or construction item that acceptance of an initial offer without
+19 discussion would result in fair and reasonable prices and the request for
+20 proposal notifies all offerors of the possibility that award may be made on the
+21 basis of initial offers.
+22 (4) If discussions pertaining to the revision of the specifications or quantities are held
+23 with any potential offeror, all other potential offerors shall be afforded an
+24 opportunity to take part in such discussions. A request for proposals based on
+25 revised specifications or quantities shall be issued as promptly as possible, shall
+26 provide for an expeditious response to the revised requirements and shall be
+27 awarded upon the basis of the lowest bid price or best value[lowest evaluated] bid
+Page 9 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 [price after application of the reciprocal preference for resident bidders required by
+2 KRS 45A.494 ]submitted by any responsive and responsible offeror. No discussion
+3 shall be conducted with offerors after submission of revised proposals except for a
+4 compelling reason as determined in writing by the local public agency. The request
+5 for proposals shall state that an award is to be made without discussion except as
+6 herein provided.
+7 (5) Award shall be made to the responsible offeror whose proposal is determined in
+8 writing to be the most advantageous to the local public agency based upon the
+9 evaluation factors set forth in the request for proposals[ and the reciprocal
+10 preference for resident bidders required by KRS 45A.494].
+11 Section 4. KRS 45A.375 is amended to read as follows:
+12 (1) In the event that all bids submitted pursuant to competitive sealed bidding under
+13 KRS 45A.365 result in bid prices in excess of the funds available for the purchase,
+14 and the local public agency determines in writing:
+15 (a) That there are no additional funds then available from any source so as to
+16 permit an award to the lowest responsive and responsible bidder; and
+17 (b) The best interest of the local public agency will not permit the delay attendant
+18 to a resolicitation under revised specifications or revised quantities under
+19 competitive sealed bidding as provided in KRS 45A.365; then a negotiated
+20 award may be made as set forth in subsections (2) or (3) of this section.
+21 (2) Where there is more than one (1) bidder, competitive negotiations pursuant to KRS
+22 45A.370 shall be conducted with the three (3), or [(]two (2) if there are only two
+23 (2),[)] bidders determined in writing by the local public agency to be the lowest
+24 responsive and responsible bidders to the competitive sealed bid invitation[ after
+25 application of the reciprocal preference for resident bidders required in KRS
+26 45A.494]. Such competitive negotiations shall be conducted under the following
+27 restrictions:
+Page 10 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (a) If discussions pertaining to the revision of the specifications or quantities are
+2 held with any potential offeror, all other potential offerors shall be afforded an
+3 opportunity to take part in such discussions; and
+4 (b) A request for proposals, based upon revised specifications or quantities, shall
+5 be issued as promptly as possible, shall provide for an expeditious response to
+6 the revised requirements, and shall be awarded upon the basis of the lowest
+7 bid price or best value[lowest evaluated] bid [price ]submitted by any
+8 responsive and responsible offeror[ after application of the reciprocal
+9 preference for resident bidders required in KRS 45A.494]. No discussion shall
+10 be conducted with offerors after submission of proposals except for a
+11 compelling reason as determined in writing by the local public agency. The
+12 request for proposals shall state that award is to be made without discussions
+13 except as herein provided.
+14 (3) Where, after competitive sealed bidding, it is determined in writing that there is
+15 only one (1) responsive and responsible bidder, a noncompetitive negotiated award
+16 may be made with such bidder in accordance with KRS 45A.380.
+17 (4) Where, after invitation for bids has been made in accordance with KRS 45A.365
+18 and no bids have been received from responsive and responsible bidders, the local
+19 public agency may proceed to acquire the supplies, services, or construction by
+20 noncompetitive negotiations in accordance with KRS 45A.380.
+21 Section 5. KRS 45A.385 is amended to read as follows:
+22 (1) The local public agency may use small purchase procedures for any contract for
+23 which a determination is made that the aggregate amount of the contract does not
+24 exceed sixty thousand dollars ($60,000)[forty thousand dollars ($40,000)] if small
+25 purchase procedures are in writing and available to the public.
+26 (2) Beginning in calendar year 2030, the small purchase maximum amount set out in
+27 subsection (1) of this section shall be increased by ten thousand dollars ($10,000)
+Page 11 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 every five (5) years effective on January 1 of each year. The Finance and
+2 Administration Cabinet shall, through a technical advice memorandum or other
+3 official means of communication, announce the small purchase maximum
+4 amount in effect for the current year, and shall also prominently post that
+5 information on its website.
+6 Section 6. KRS 45A.420 is amended to read as follows:
+7 (1) Any local public agency may enter into an agreement for cooperative purchasing
+8 with any other local public agency. When the contracting local public agency
+9 contracts for supplies, services or construction pursuant to KRS 45A.365, 45A.370,
+10 45A.375, or 45A.380, all other parties to the agreement shall be deemed to have
+11 complied with the provisions of those sections.
+12 (2) Nothing in KRS 45A.345 to 45A.990 shall deprive a local public agency from
+13 negotiating with vendors for supplies where such supplies are the subject of a price
+14 agreement with the Commonwealth of Kentucky provided, however, that no
+15 contract executed under this section would authorize a price higher than is
+16 contained in the price agreement with the Commonwealth of Kentucky for such
+17 specific supplies.
+18 (3) For agreements that do not establish a fixed unit price, a local public agency may
+19 make purchases using an established discount, quote, formula, or other pricing
+20 method as established by the Commonwealth in the agreement. A local public
+21 agency shall retain records documenting its compliance with the procedures
+22 required in the applicable agreement.
+23 (4)[(3)] Nothing in KRS 45A.345 to 45A.990 shall deprive a local school district from
+24 acquiring supplies outside of price agreements with the Commonwealth of
+25 Kentucky if the supplies meet the same specifications as the contract items and the
+26 supplies are purchased at a lower price than is contained in the price agreement with
+27 the Commonwealth of Kentucky for such specific supplies and the purchase does
+Page 12 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 not exceed two thousand five hundred dollars ($2,500).
+2 Section 7. KRS 82.083 is amended to read as follows:
+3 (1) As used in this section, "independent appraisal" means an appraisal made by:
+4 (a) An individual or organization not affiliated with the city or its officers or
+5 employees, using a generally accepted national or professional standard; or
+6 (b) A city's officers or employees using:
+7 1. A nationally published valuation of property based on the most recent
+8 edition of the publication; or
+9 2. For personal property with no applicable nationally published
+10 valuation standard, a generally accepted method to determine a good-
+11 faith estimate of the value of the personal property.
+12 (2) A city may sell or otherwise dispose of any of its real or personal property.
+13 (3) Before selling or otherwise disposing of any real or personal property that has any
+14 value, the city shall make a written determination setting forth and fully describing:
+15 (a) The real or personal property;
+16 (b) Its intended use at the time of acquisition;
+17 (c) The reasons why it is in the public interest to dispose of it;[ and]
+18 (d) The method used to estimate value when the property is personal property
+19 appraised under subsection (1)(b)2. of this section; and
+20 (e) The method of disposition to be used.
+21 (4) Real or personal property may be:
+22 (a) Transferred, with or without compensation, to another governmental agency;
+23 (b) Transferred, with or without compensation, for economic development
+24 purposes, which shall include but not be limited to real property transfers for
+25 the elimination of blight;
+26 (c) Sold at public auction following publication of the auction in accordance with
+27 KRS 424.130(1)(b);
+Page 13 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (d) Sold by electronic auction following publication of the auction, including the
+2 uniform resource link (URL) for the site of the electronic auction, in
+3 accordance with KRS 424.130(1)(b);
+4 (e) Sold by sealed bids in accordance with the procedure for sealed bids under
+5 KRS 45A.365(3) and (4);
+6 (f) Traded towards the purchase of the same or similar type of property, if the
+7 trade-in value received equals or exceeds the actual fair market value of the
+8 property as determined using an independent appraisal as defined in
+9 subsection (1) of this section;
+10 (g) Sold for its appraised fair market value or a greater amount if the property is
+11 valued at ten thousand dollars ($10,000) or less in an independent appraisal.
+12 Property sold under this paragraph may not be sold to a city officer or
+13 employee or family member of a city officer or employee as defined in the
+14 city's ethics ordinance adopted under KRS 65.003;
+15 (h) Notwithstanding subsection (3) of this section, sold for scrap or disposed of as
+16 garbage in a manner consistent with the public interest if the property has no
+17 value, or is of negligible value as determined by an independent appraisal;
+18 (i) Sold by the Finance and Administration Cabinet under an agreement with the
+19 city; or
+20 (j) Notwithstanding subsection (3) of this section, when the property is an animal
+21 used in service by the city, given to the animal's primary handler or trainer,
+22 without the payment of compensation, when the animal is retired or is no
+23 longer capable of performing service to the city.
+24 (5) If a city receives no bids for the real or personal property, either at public or
+25 electronic auction or by sealed bid, the property may be disposed of, consistent with
+26 the public interest, in any manner deemed appropriate by the city. In those
+27 instances, a written description of the property, the method of disposal, and the
+Page 14 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 amount of compensation, if any, shall be made.
+2 (6) Any compensation resulting from the disposal of this real or personal property shall
+3 be transferred to the general fund of the city.
+4 Section 8. KRS 82.084 is amended to read as follows:
+5 KRS 45A.345 to 45A.460 and 424.260 shall not apply to city governments, urban-county
+6 governments, consolidated local governments, or air boards identified in and operating
+7 under the provisions of KRS 183.142(1) for the purchase of:
+8 (1) Products or services when there is a single source of the product or service to be
+9 procured within a reasonable geographic area;
+10 (2) Products needed as replacement parts for personal property or equipment where the
+11 need cannot be reasonably anticipated and maintaining an inventory of replacement
+12 parts is not feasible;[ and]
+13 (3) Vehicles and equipment installed on vehicles that are used exclusively for law
+14 enforcement purposes, if the purchaser obtains at least three (3) quotes prior to
+15 making the purchase and retains records documenting the quotes; and
+16 (4) Products or services that are provided by:
+17 (a) Entities recognized by the Office of Vocational Rehabilitation under KRS
+18 Chapter 163 that operate programs for the rehabilitation of individuals who
+19 are blind or visually impaired;
+20 (b) Agencies for individuals with severe disabilities as described in KRS
+21 45A.465;
+22 (c) A qualified veterans' workshop providing job and employment-skill training
+23 to veterans where such a workshop is operated by the United States
+24 Department of Veterans Affairs;
+25 (d) Nonprofit organizations, employment services organizations, or other private
+26 business organizations with established operations within the jurisdiction of
+27 the city, urban-county government, or consolidated local government with the
+Page 15 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 main mission or business purpose of serving individuals with disabilities by
+2 offering transitional or supported employment services or other rehabilitative
+3 programs and services, including but not limited to serving individuals with
+4 severe mental or physical disabilities or those recovering from substance
+5 abuse disorders; or
+6 (e) Nonprofit community service organizations operating within the jurisdiction
+7 of the city, urban-county government, or consolidated local government when
+8 there is a determination in the official record of the legislative body that the
+9 purchase of the products or services would serve a mutual benefit to the
+10 government and the organization by:
+11 1. Furthering the purposes of the organization;
+12 2. Providing a service or product needed by the government;
+13 3. Advancing a specific public purpose; and
+14 4. Serving the best interest of the public.
+15 If two (2) or more organizations meet the qualifications set out in this
+16 paragraph, then the government shall award the contract to one (1) of the
+17 qualifying organizations using the selection criteria of its adopted competitive
+18 bidding process.
+19 Section 9. KRS 424.260 is amended to read as follows:
+20 (1) Except where a statute specifically fixes a larger sum as the minimum for a
+21 requirement of advertisement for bids, no city, county, or district, or board or
+22 commission of a city or county, or sheriff or county clerk, may make a contract,
+23 lease, or other agreement for:
+24 (a) Materials;
+25 (b) Supplies, except perishable foods such as meat, poultry, fish, egg products,
+26 fresh vegetables, and fresh fruits;
+27 (c) Equipment; or
+Page 16 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (d) Contractual services other than professional;
+2 involving an expenditure of more than sixty thousand dollars ($60,000)[forty
+3 thousand dollars ($40,000)] without first making newspaper advertisement for bids.
+4 This subsection shall not apply to the transfer of property between governmental
+5 agencies as authorized in KRS 82.083(4)(a).
+6 (2) If the fiscal court requires that the sheriff or county clerk advertise for bids on
+7 expenditures of less than sixty thousand dollars ($60,000)[forty thousand dollars
+8 ($40,000)], the fiscal court requirement shall prevail.
+9 (3) (a) Nothing in this statute shall limit or restrict the ability of a local school district
+10 to acquire supplies and equipment outside of the bidding procedure if those
+11 supplies and equipment meet the specifications of the contracts awarded by
+12 the Office of Material and Procurement Services in the Office of the
+13 Controller within the Finance and Administration Cabinet or a federal, local,
+14 or cooperative agency and are available for purchase elsewhere at a lower
+15 price. A board of education may purchase those supplies and equipment
+16 without advertising for bids if, prior to making the purchases, the board of
+17 education obtains certification from the district's finance or purchasing officer
+18 that the items to be purchased meet the standards and specifications fixed by
+19 state price contract, federal (GSA) price contract, or the bid of another school
+20 district whose bid specifications allow other districts to utilize their bids, and
+21 that the sales price is lower than that established by the various price contract
+22 agreements or available through the bid of another school district whose bid
+23 specifications would allow the district to utilize their bid.
+24 (b) The procedures set forth in paragraph (a) of this subsection shall not be
+25 available to the district for any specific item once the bidding procedure has
+26 been initiated by an invitation to bid and a publication of specifications for
+27 that specific item has been published. In the event that all bids are rejected,
+Page 17 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 the district may again avail itself of the provisions of paragraph (a) of this
+2 subsection.
+3 (4) This requirement shall not apply in an emergency if the chief executive officer of
+4 the city, county, or district has duly certified that an emergency exists, and has filed
+5 a copy of the certificate with the chief financial officer of the city, county, or
+6 district, or if the sheriff or the county clerk has certified that an emergency exists,
+7 and has filed a copy of the certificate with the clerk of the court where his necessary
+8 office expenses are fixed pursuant to KRS 64.345 or 64.530, or if the
+9 superintendent of the board of education has duly certified that an emergency
+10 exists, and has filed a copy of the certificate with the chief state school officer.
+11 (5) The provisions of subsection (1) of this section shall not apply for the purchase of
+12 wholesale electric power for resale to the ultimate customers of a municipal utility
+13 organized under KRS 96.550 to 96.900.
+14 (6) Subsection (1) of this section shall not apply to purchases for products or services
+15 made pursuant to KRS 82.084.
+16 (7) Beginning in calendar year 2030, the small purchase maximum amount set out in
+17 subsections (1) and (2) of this section shall be increased by ten thousand dollars
+18 ($10,000) every five (5) years effective on January 1 of each year. The Finance
+19 and Administration Cabinet shall, through a technical advice memorandum or
+20 other official means of communication, announce the small purchase maximum
+21 amount in effect for the current year, and shall also prominently post that
+22 information on its website.
+23 Section 10. KRS 157.420 is amended to read as follows:
+24 Public school funds made available to the credit of each district during any year shall be
+25 received, held, and expended by the district board, subject to the provisions of law and
+26 administrative regulations of the Kentucky Board of Education. The following
+27 restrictions shall govern the expenditure of funds from the public school fund:
+Page 18 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (1) The salary paid any rank of teachers shall be at least equivalent to the amount set
+2 forth in the biennial budget schedule for each rank and experience for a term of one
+3 hundred eighty-five (185) days for full-time service during the regular school year.
+4 (2) Beginning with the 2004-2006 biennium, the Kentucky Board of Education shall
+5 not approve any working budget or salary schedule for local boards of education for
+6 any school year unless the one hundred eighty-five (185) day salary schedule for
+7 certified staff has been adjusted over the previous year's salary schedule by a
+8 percentage increase at least equal to the cost-of-living adjustment that is provided
+9 state government workers under the biennial budget. The base funding level in the
+10 program for support education excellence in Kentucky as defined in KRS 157.320
+11 shall be increased by the statewide dollar value of the annual required cost-of-living
+12 percentage adjustment that shall be estimated on the sum of the previous year's
+13 statewide teachers' salaries.
+14 (3) A district that compensates its teachers or employees for unused sick leave at the
+15 time of retirement, pursuant to KRS 161.155, may create an escrow account to
+16 maintain the amount of funds necessary to pay teachers or employees who qualify
+17 for receipt of the benefit. The fund is limited to not more than fifty percent (50%) of
+18 the maximum liability for the current year to be determined according to the
+19 number of staff employed by the district on September 15. Interest generated by the
+20 account shall be calculated as part of the total amount. The funds shall not be used
+21 for any purpose other than compensation for unused sick leave at the time of
+22 retirement and shall not be considered as part of the general fund balance in
+23 determining available local revenue for purposes of KRS 157.620.
+24 (4) (a) The per pupil capital outlay allotment for each district from the public school
+25 fund and from local sources shall be kept in a separate account and may be
+26 used by the district only for capital outlay projects approved by the
+27 commissioner of education in accordance with requirements of law, and based
+Page 19 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 on a survey made in accordance with administrative regulations of the
+2 Kentucky Board of Education. These funds shall be used for the following
+3 capital outlay purposes:
+4 1. For direct payment of construction costs;
+5 2. For debt service on voted and funding bonds;
+6 3. For payment or lease-rental agreements under which the board
+7 eventually will acquire ownership of a school plant;
+8 4. For the retirement of any deficit resulting from overexpenditure for
+9 capital construction, if such deficit resulted from an emergency declared
+10 by the Kentucky Board of Education under KRS 160.550; and
+11 5. As a reserve fund for the above-named purposes, to be carried forward
+12 in ensuing budgets.
+13 (b) A district may submit a request to the commissioner of education to use funds
+14 from the per pupil capital outlay allotment to purchase land for a new school
+15 or to modify an existing school if the project is included on the district facility
+16 plan for completion within eight (8) years. The land shall not be included in
+17 the calculation of the school district's unmet need. The commissioner may
+18 grant or deny the district's request at his or her discretion.
+19 (c) A district which has experienced an increase in adjusted average daily
+20 attendance, as defined by administrative regulation, of twenty percent (20%)
+21 or more over a five (5) year period may submit a request to the commissioner
+22 of education to use capital outlay funds for the operation of a new school for
+23 the first two (2) years following its opening. The commissioner may grant or
+24 deny the district's request at his or her discretion.
+25 (d) A local school district may submit a request to the commissioner of education
+26 to use capital outlay funds for maintenance expenditures or for the purchase of
+27 property insurance without forfeiting the district's participation in the School
+Page 20 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 Facilities Construction Commission program. Maintenance requests may
+2 include other priorities that are not considered major renovations, such as
+3 repair, renovation, or system upgrades that are necessary to maintain the
+4 integrity of an existing school facility.
+5 (5) The district may contribute capital outlay funds for energy conservation measures
+6 under guaranteed energy savings contracts pursuant to KRS 45A.345, 45A.352, and
+7 45A.353. Use of these funds, provided in KRS 45A.353, 56.774, and 58.600, shall
+8 be based on the following:
+9 (a) The energy conservation measures shall include facility alteration;
+10 (b) The energy conservation measures shall be identified in the district's approved
+11 facility plan;
+12 (c) The current facility systems are consuming excess maintenance and operating
+13 costs;
+14 (d) The savings generated by the energy conservation measures are guaranteed;
+15 (e) The capital outlay funds contributed to the energy conservation measures shall
+16 be defined as capital cost avoidance as defined[provided] in KRS 45A.345(2)
+17 and shall be subject to the restrictions on usage as specified in KRS
+18 45A.352(9); and
+19 (f) The equipment that is replaced shall have exceeded its useful life as
+20 determined by a life-cycle cost analysis.
+21 (6) If any district has a special levy for capital outlay or debt service that is equal to the
+22 capital outlay allotment or a proportionate fraction thereof, and spends the proceeds
+23 of that levy for the above-named purposes, the commissioner of education under
+24 administrative regulations of the Kentucky Board of Education, may authorize the
+25 district to use all or a proportionate fraction of its capital outlay allotment for
+26 current expenses. However, a district which uses capital outlay funds for current
+27 expenses shall not be eligible to participate in the School Facilities Construction
+Page 21 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 Commission funds, except when the current expenditures are approved by the
+2 commissioner of education under subsection (4)(b) or (c) of this section.
+3 (7) If a survey shows that a school district has no capital outlay needs as shown in
+4 subsection (4)(a)1., 2., 3., and 4. of this section, upon approval of the commissioner
+5 of education, these funds may be used for school plant maintenance, repair,
+6 insurance on buildings, replacement of equipment, purchase of school buses, and
+7 the purchase of modern technological equipment, including telecommunications
+8 hardware, televisions, computers, and other technological hardware to be utilized
+9 for educational purposes only.
+10 (8) In surveying the schools, the Department of Education shall designate each school
+11 facility as a permanent, functional, or transitional center.
+12 (a) "Permanent center" means a center which meets the program standards
+13 approved by the Kentucky Board of Education, is located so that students are
+14 not subjected to an excessive amount of time being transported to the site, and
+15 has established an attendance area which will maintain enrollment at capacity
+16 but will also avoid overcrowding.
+17 (b) "Functional center" means a center which does not meet all the criteria
+18 established for a permanent facility, but is adequate to meet accreditation
+19 program standards to insure no substantial academic or building deficiency.
+20 The facility plan shall include additions and renovations necessary to meet
+21 current accreditation standards for which federal, state, and local funds may
+22 be used.
+23 (c) "Transitional center" means a center which the local board of education has
+24 determined shall no longer be designated permanent or functional. The center
+25 shall be destined to be closed and shall not be eligible for new construction,
+26 additions, or major renovation. However, the board of education shall
+27 maintain any operating transitional center to provide a safe and healthy
+Page 22 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 environment for students.
+2 (9) Beginning in fiscal year 2011-2012, the Kentucky Department of Education shall
+3 standardize the process for evaluating the overall quality and condition of all school
+4 buildings across the state. The evaluation process shall:
+5 (a) Result in consistent categorization of buildings for local planning purposes
+6 and for the distribution of state general fund moneys designated for capital
+7 construction;
+8 (b) Be based on measurable, objective criteria;
+9 (c) Include numerical scoring with weights to recognize building components and
+10 characteristics that address:
+11 1. Life safety issues;
+12 2. Compliance with state and federal codes;
+13 3. Compliance with requirements under the Americans with Disabilities
+14 Act;
+15 4. Community spaces;
+16 5. Instructional areas;
+17 6. Mechanical, electrical, plumbing, and other technology systems;
+18 7. Site and exterior building conditions;
+19 8. Age of the buildings;
+20 9. Feasibility of building additions or major renovations;
+21 10. The districts' facility capacities;
+22 11. Current use of temporary facilities; and
+23 12. Projected enrollment growth; and
+24 (d) Use of a third-party evaluator that utilizes an already established software-
+25 based system to perform the first, base-line evaluation.
+26 (10) The Kentucky Board of Education shall promulgate an administrative regulation
+27 upon recommendation of the Kentucky Department of Education and the School
+Page 23 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 Facilities Construction Commission to implement subsection (9) of this section.
+2 (11) If a local school board authorized elementary, middle, or secondary education
+3 classes in a facility of a historical settlement school on January 1, 1994, the board
+4 shall continue to use the facilities provided by the settlement school if the facilities
+5 meet health and safety standards for education facilities as required by
+6 administrative regulations. The local school board and the governing body of the
+7 settlement school shall enter into a cooperative agreement that delineates the role,
+8 responsibilities, and financial obligations for each party.
+9 (12) Notwithstanding[ the provisions of] subsections (4) and (6) of this section, a local
+10 district that has requested a mid-year adjustment in the support education
+11 excellence in Kentucky funding under KRS 157.360(16) may request permission
+12 from the commissioner of education to use capital outlay funds for the purchase of
+13 school buses or to use the capital outlay funds for increased operational expenses
+14 for the first three (3) years following the increased growth in the district without
+15 forfeiture of the district's participation in the School Facilities Construction
+16 Commission Program. The commissioner may grant or deny the district's request.
+17 Section 11. KRS 157.440 is amended to read as follows:
+18 (1) (a) Notwithstanding any statutory provisions to the contrary, effective for school
+19 years beginning after July 1, 1990, the board of education of each school
+20 district may levy an equivalent tax rate as defined in subsection (9)(a) of KRS
+21 160.470 which will produce up to fifteen percent (15%) of those revenues
+22 guaranteed by the program to support education excellence in Kentucky. The
+23 levy for the 1990-91 school year shall be made no later than October 1, 1989,
+24 and no later than October 1, 1990, for the 1991-92 school year, and by
+25 October 1 of each odd-numbered year thereafter. Effective with the 1990-91
+26 school year, revenue generated by this levy shall be equalized at one hundred
+27 fifty percent (150%) of the statewide average per pupil assessment.
+Page 24 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 (b) To participate in the Facilities Support Program of Kentucky, the board of
+2 education of each school district shall commit at least an equivalent tax rate of
+3 five cents ($0.05) to debt service, new facilities, or major renovations of
+4 existing school facilities, or the purchase of land if approved by the
+5 commissioner of education as provided in KRS 157.420(4)(b). The five cents
+6 ($0.05) shall be in addition to the thirty cents ($0.30) required by KRS
+7 160.470(9) and any levy pursuant to paragraph (a) of this subsection. The levy
+8 shall be made no later than October 1 of each odd-numbered year. Eligibility
+9 for equalization funds for the biennium shall be based on the district funds
+10 committed to debt service on that date. The five cents ($0.05) shall be
+11 equalized at one hundred fifty percent (150%) of the statewide average per
+12 pupil assessment. The equalization funds shall be committed to debt service to
+13 the greatest extent possible, but any excess equalization funds not needed for
+14 debt service shall be deposited to a restricted building fund account. The
+15 funds may be escrowed for future debt service or used to address categorical
+16 priorities listed in the approved facilities plan pursuant to KRS 157.420.
+17 (c) The board of education of each school district may contribute the levy
+18 equivalent tax rate of five cents ($0.05) and equalization funds for energy
+19 conservation measures under guaranteed energy savings contracts pursuant to
+20 KRS 45A.345, 45A.352, and 45A.353. Use of these funds, as provided under
+21 KRS 45A.353, 56.774, and 58.600 shall be based on the following guidelines:
+22 1. Energy conservation measures shall include facility alteration;
+23 2. Energy conservation measures shall be identified in the district's
+24 approved facility plan pursuant to KRS 157.420;
+25 3. The current facility systems are consuming excess maintenance and
+26 operating costs;
+27 4. The savings generated by the energy conservation measures are
+Page 25 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 guaranteed;
+2 5. The levy equivalent tax rate of five cents ($0.05) and equalization funds
+3 contributed to the energy conservation measures shall be defined as
+4 capital cost avoidance as defined[provided] in KRS 45A.345[(2)] and
+5 shall be subject to the restrictions on usage as specified in KRS
+6 45A.352(9); and
+7 6. The equipment that is replaced has exceeded its useful life as
+8 determined by a life cycle cost analysis.
+9 (d) The rate levied by a district board of education under the provisions of this
+10 subsection shall not be subject to the public hearing provisions of KRS
+11 160.470(7) or to the recall provisions of KRS 160.470(8).
+12 (e) A school district which is at or above the equivalent tax rates permitted under
+13 the provisions of the Kentucky Education Reform Act of 1990, 1990 Ky. Acts
+14 ch. 476, shall not be required to levy an equivalent tax rate which is lower
+15 than the rate levied during the 1989-90 school year.
+16 (2) (a) A district may exceed the maximum provided by subsection (1) of KRS
+17 160.470 provided that, upon request of the board of education of the district,
+18 the county board of elections shall submit to the qualified voters of the
+19 district, in the manner of submitting and voting as prescribed in paragraph (b)
+20 of this subsection, the question whether a rate which would produce revenues
+21 in excess of the maximum provided by subsection (1) of KRS 160.470 shall
+22 be levied. The rate that may be levied under this section may produce revenue
+23 up to no more than thirty percent (30%) of the revenue guaranteed by the
+24 program to support education excellence in Kentucky plus the revenue
+25 produced by the tax authorized by this section. Revenue produced by this levy
+26 shall not be equalized with state funds. If a majority of those voting on the
+27 question favor the increased rate, the tax levying authority shall, when the
+Page 26 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 next tax rate for the district is fixed, levy a rate not to exceed the rate
+2 authorized by the voters.
+3 (b) The election shall be held not less than fifteen (15) or more than thirty (30)
+4 days from the time the request of the board is filed with the county clerk, and
+5 reasonable notice of the election shall be given. The election shall be
+6 conducted and carried out in the school district in all respects as required by
+7 the general election laws and shall be held by the same officers as required by
+8 the general election laws. The expense of the election shall be borne by the
+9 school district.
+10 (3) For the 1966 tax year and for all subsequent years for levies which were approved
+11 prior to December 8, 1965, no district board of education shall levy a tax at a rate
+12 under the provisions of this section which exceeds the compensating tax rate as
+13 defined in KRS 132.010, except as provided in subsection (4) of this section and
+14 except that a rate which has been approved by the voters under this section but
+15 which was not levied by the district board of education in 1965 may be levied after
+16 it has been reduced to the compensating tax rate as defined in KRS 132.010, and
+17 except that in any school district where the rate levied in 1965 was less than the
+18 maximum rate which had been approved by the voters, the compensating tax rate
+19 shall be computed and may be levied as though the maximum approved rate had
+20 been levied in 1965 and the amount of revenue which would have been produced
+21 from such maximum levy had been derived therefrom.
+22 (4) Notwithstanding the limitations contained in subsection (3) of this section, no tax
+23 rate shall be set lower than that necessary to provide such funds as are required to
+24 meet principal and interest payments on outstanding bonded indebtedness and
+25 payments of rentals in connection with any outstanding school revenue bonds
+26 issued under the provisions of KRS Chapter 162.
+27 (5) The chief state school officer shall certify the compensating tax rate to the levying
+Page 27 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1684
+1 authorities.
+2 Section 12. The following KRS section is repealed:
+3 65.027 Reciprocal preference to be given to resident bidders by local governments.
+Page 28 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+[DELETED:   2  J A B S A ( " l t e n ( " o l p a i b n l t t e e o p T d s b b o o a q c a ( " f a e c m i a a p e r a w c h b d b a a e a o t a t ( G ( C ( S K ( " e o m t m c j]
+[DELETED:   2  J s a o ( " m t p o b a r o i k r ( " m a t o l p a a i g a c j o t o l l c a p o I a i s l ( " m a p e o i o i r ( " e m t d a o a b a b p a i u a ( " c p m t p i i t m c c ( I ( I ( S o]
+[DELETED:   2  J ( " a b w a t e a e i t o o u o t p d ( " b i ( " o c b o ( " g o a o ( " n ( " m c b e t m s f i K 4 ( " n m i n w o ( o m ( " t b a t w a m o e s t t e m b d w r m c C w a o]
+[DELETED:   2  J s ( " m a b i u c c o o o ( " o p t t o o a p p i d o r s a s o s p a a o c ( " f p m a d w a o i p ( " r w ( " b m a p w h s a b u K 4 a s ( " a m a r s b p u l I r ( " t i w ( "]
+[DELETED:   2  J ( " m a d o a p o f c o a r f i t o p a s s o c ( " a m a c m w i a ( " m a p i b n l t l o r p ( " d o ( I ( S o s a g r i g a o o w a d ( A ( H v o a c s m o r ( R o m o l f t i t e e a f u a i i i n t c t t a s o l b c f t l s a t p ( E ( C w a e f u p w a b o c o]
+[DELETED:   2  J b ( E o ( A ( W a w c m i p f a ( E s ( A e o r c s o m t r ( " r i t a p e o o t o t c b i e n t m p f t c o t d i a m ( " i a i o e w a w c m p f c ( P ( C ( C ( C]
+[DELETED:   2  J ( O ( M a v o s f g e w a w ( A S ( A m i t u o a r a e a o p b K 4 u ( T l t i t i f b T i f b s i t r p ( A g p l b p o p n s a n p o p e t b w b o a t t a p t s m b o ( T a t w t n o t b s b r a b o t p i E b o a p o t r i f]
+[DELETED:   2  J p ( A r b v e b p a t a o a r p ( T e o t f o t b d o w t b p s e t S ( A w ( S c b m s s t p a o t b p i b n l t c f e o d r w o h c e w r t d a o n s s o c ( S b i i b t a s o s a l t ( T b p r t s b a u o u h o t i t n a i g a r o t n r]
+[DELETED:   2  J ( P a o m w c b d t n a a n o q r t b t ( W o o d s b c w a r o w s p d i w t b r s o b s f a D s n d a i d f p ( W r t p w s p a f b l r o r a ( W ( W a c o a p c e w t p s d w r i f a r p a t r f p b ( I w a p o a o p o s b a a o t t p i s d A r f p b o r s o q s b i a p a p s p f a e r t t r r a s b a]
+[DELETED:   2  J [ K s c f h ( A w t b t m a t t l p a b u t e f s f i t r f p a t r p S ( I K a ( T t a n a f t a f a s s a t p ( T t a r u r s o r q u c a ( W 4 ( r a r b t t c s b i a a o t r p f r b r i K 4 S c n s b c u t f r]
+[DELETED:   2  J ( I h o ( A b t b p o b v e b [ ] b a r a r o a a o t r p b c w o a s o p e f a c r e ( W a c s b i i d i w t i o m ( W a p a m p t a t s s o c b n S ( T w e p ( B s]
+[DELETED:   2  J e f ( y e o J 1 o e y T F a A o m o c a t s p m a i e f t c y a s a p p t i S ( A w a o l p a W t c l p a c 4 c ( N i K 4 t 4 s d a l p a f n a w t C o K p h t n c e u t s w a a p h t i c i t p a w t C o K f s s ( F m m a e b t C i t a A l p a s r r d i c w t p r ( N a s o o p a w t C o K s t]
+[DELETED:   2  J n S ( A ( A i o o n a w t c o i o o e ( A 1 A e 2 F p p w n a n p v f ( A ( B v ( T ( I ( T ( T a ( T ( R ( T ( T w o w c f e d p t ( S K]
+[DELETED:   2  J ( S u r l ( f t s o t e a i a ( S K ( T t p a d u a i a a d i s ( S v P s u t p m n b s t a c o o e c ( N g v ( S c ( N u w t p o c w t a i r o i n l ( I a c r n b f t r o p p e a p o e t p i i a m d a b t c I t i a w d o t p t m o d a t]
+[DELETED:   2  J a ( A b S K g u ( P p ( P n p ( V a e i o v t a u e f l e m ( P ( E r b t O o V R u K C a ( A f i w s d a d i K 4 ( A t v w s a w i o b t U S D ( N b t]
+[DELETED:   2  J m o p s m o p d o t r f s a ( N o t p o t p o s w s a m b t t g 1 F 2 P 3 A 4 S  I t ( o m o m t q s o i t p t t g s a t c t o ( o t q b S ( E w a s s f a l s a t m f a r o a f b n c c o d o b o c l ( M ( S f ( E]
+[DELETED:   2  J ( C  i a e o m t s t d ( t T a ( I t f c r t t s o c c a f b o e ( ( ( N t s t O o M a P S i t O o t C o c a a a a f p e a a l p A b o e m p t s a e w e t s d t a s ( T p s f i p ( o t s s n b a b t]
+[DELETED:   2  J t s ( T t a c o t c w t c f o o t c c o d a o e a f p t K 6 o 6 o i t s o t b o e h d c t a e e ( T w o ( S m ( B s ( a o a i e f t c y a s a p p t i S P r a r o t K B o E T f r]
+[DELETED:   2  J ( T f h ( B n a c s h b a o t p y s s b a p s p s p a t s b e o t s o t p y s ( A t o r p t K 1 m c a e a t m f t m l f t c y t b d a t t n a f a p o t c f u s l a t t o r a s n b c a p o t g f b i d ( ( T f u b t d o f c o p a b t c]
+[DELETED:   2  J o a s m i a w a r o t K B o E f s b u f t c 1 F 2 F 3 F p o l a u w t b e 4 F t r o a d r f o f c b 5 A i ( A f o p t c o t s d u n T c m g ( A d w h e a i i a a d a o o t d ( A t p]
+[DELETED:   2  J F C C p M r m i o p t a n c m r s a r r o s u t a n t m t i ( T u 4 b ( T ( T f ( T c ( T ( T b a s b s t t r o u a s i K 4 ( T e t i r s h e i u l a d ( I c o a d t u a o a p f o i c o a f c e s]
+[DELETED:   2  J C f e w t c e a a b t c ( I a s s t a s d h n c o n a s i s o e t f m b u f s p m r i t p o m t e i t h f ( I f ( " c m a c w m t p s a n h b ( " c m a c w d n m a t c e f a p f b i a t m a p T f p s i a a n t m c b ( " d s a o m r H t b o e s m a o t c t p a s a h]
+[DELETED:   2  J e ( B s b ( R i c c o b f l p p a c ( B ( I c 1 L 2 C 3 C w r u t A w D A 4 C 5 I 6 M 7 S 8 A 9 F 1 T 1 C 1 P ( U o a t e t u a a e s b ( T K B o E s p a a r u r o t K D o a t S]
+[DELETED:   2  J F ( I a l s b a e m o s e c s m h a s s f e f a r b a s r ( N d t h r a m a i t s e e f s f f o t d p i t S F C C S ( ( N y b a J 1 1 t b o e o e s d 1 w w p u t f p ( o t r g l a n l t O 1 1 f t 1 s y a b O s f]
+[DELETED:   2  J ( T p i t F S o K t b o e f c ( t d s n f o m r o e s f o t p o l i a b t c ( s b i a t t t c ( r b K 1 s f c t d s o t d T f c ( s b e p t d s s b d t a r b f a T f p ( T b o e o e s d m c t l e t r o f c ( a e f f e c K K 1 E 2 E c m s b i i t d a 3 T c f s a c e m a o 4 T s g b t e c m a]
+[DELETED:   2  J g 5 T c t t e c m s b d a c c a a d i K 4 a s b s t t r o u a s i K 4 6 T e t i r h e i u l a d ( T s s n b s t t p h p o K 1 ( A t c t ( ( A d m e t m p b s ( o K 1 t c b o e s s t t q v o t d o i b u t n m t t p o t g b t p t s e e i K p t r p s q f t i r t t l a s w t]
+[DELETED:   2  J n t r f t d i f l a r n t e t r a ( T d r n o t e s b g T e s b c t t s ( F p u t p o t s w e t c t r a d e t a r w h b a b t v u t s b w i e m s b f ( N r m p a i p o o b i a p o r i c w a o s r b i ( T]
+[DELETED:   2  J a S 6]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 1684
+1 AN ACT relating to local public agency transactions.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 45A.345 is amended to read as follows:
+4 As used in KRS 45A.343 to 45A.460, unless the context indicates otherwise:
+5 (1) "Aggregate amount" means the total dollar amount during a fiscal year of items of a
+6 like nature, function, and use the need for which can reasonably be determined at
+7 the beginning of the fiscal year. Items the need for which could not reasonably be
+8 established in advance or which were unavailable because of a failure of delivery
+9 need not be included in the aggregate amount;[.]
+10 (2) "Best value" means a procurement in which the decision is based on the primary
+11 objective of meeting the specific business requirements and best interests of the
+12 local public agency, including but not limited to the economic efficiency of
+13 procurement. These decisions shall be based on objective and quantifiable
+14 criteria that shall include price and that have been communicated to the offerors
+15 as set forth in the invitation for bids;
+16 (3) "Capital cost avoidance" means moneys expended by a local public agency to pay
+17 for an energy conservation measure identified as a permanent equipment
+18 replacement and whose cost has been discounted by any additional energy and
+19 operation savings generated from other energy conservation measures identified in
+20 the guaranteed energy savings contract, except that for school districts capital cost
+21 avoidance shall also mean moneys expended by the district from one (1) or more of
+22 the following sources:
+23 (a) General fund;
+24 (b) Capital outlay allotment under KRS 157.420; and
+25 (c) State and local funds from the Facilities Support Program of Kentucky under
+26 KRS 157.440;[.]
+27 (4)[(3)] "Chief executive officer" means the mayor, county judge/executive,
+Page 1 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 superintendent of schools, or the principal administrative officer of a local public
+2 agency, or the person designated by the chief executive officer or legislative body
+3 of the local public agency to perform the procurement function;[.]
+4 (5)[(4)] "Construction" means the process of building, altering, repairing, or
+5 improving any public structure or building, or other public improvements of any
+6 kind to any public real property. It does not include the routine operation, routine
+7 repair, or routine maintenance of existing structures, buildings, or real property;[.]
+8 (6)[(5)] "Contract" means all types of local public agency agreements, including
+9 grants and orders, for the purchase or disposal of supplies, services, construction, or
+10 any other item. It includes awards and notices of award; contracts of a fixed-price,
+11 cost, cost-plus-a-fixed-fee, or incentive type; contracts providing for the issuance of
+12 job or task orders; leases; letter contracts; and purchase orders. It also includes
+13 supplemental agreements with respect to any of the foregoing. It does not include
+14 labor contracts with employees of local public agencies;[.]
+15 (7)[(6)] "Document" means any physical embodiment of information or ideas,
+16 regardless of form or characteristic, including electronic versions thereof;[.]
+17 (8) "Economic efficiency" means the dollar amount of a bid after bid price
+18 adjustments are made pursuant to objective measurable criteria, set forth in the
+19 invitation for bids, which affect the economy and effectiveness in the operation or
+20 use of the product, such as reliability, maintainability, useful life, residual value,
+21 and time of delivery, performance, or completion;
+22 (9)[(7)] "Established catalogue price" means the price included in the most current
+23 catalogue, price list, schedule, or other form that:
+24 (a) Is regularly maintained by the manufacturer or vendor of an item;[ and]
+25 (b) Is either published or otherwise available for inspection by customers; and
+26 (c) States prices at which sales are currently or were last made to a significant number
+27 of buyers constituting the general buying public for that item;[.
+Page 2 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (8) "Evaluated bid price" means the dollar amount of a bid after bid price adjustments
+2 are made pursuant to objective measurable criteria, set forth in the invitation for
+3 bids, which affect the economy and effectiveness in the operation or use of the
+4 product, such as reliability, maintainability, useful life, residual value, and time of
+5 delivery, performance, or completion.]
+6 (10)[(9)] "Invitation for bids" means all documents, whether attached or incorporated
+7 by reference, utilized for soliciting bids in accordance with the procedures set forth
+8 in KRS 45A.365;[.]
+9 (11)[(10)] "The legislative body or governing board" means a council, commission, or
+10 other legislative body of a city, consolidated local government, or urban-county; a
+11 county fiscal court; board of education of a county or independent school district;
+12 board of directors of an area development district or special district; or board of any
+13 other local public agency;[.]
+14 (12)[(11)] "Local public agency" means a city, county, urban-county, consolidated local
+15 government, school district, special district, or an agency formed by a combination
+16 of such agencies under KRS Chapter 79, or any department, board, commission,
+17 authority, office, or other sub-unit of a political subdivision which shall include the
+18 offices of the county clerk, county sheriff, county attorney, coroner, and jailer;[.]
+19 (13)[(12)] "May" means permissive. However, the words "no person may . . ." mean that
+20 no person is required, authorized, or permitted to do the act prescribed;[.]
+21 (14)[(13)] "Negotiation" means contracting by either the method set forth in KRS
+22 45A.370, 45A.375, or 45A.380;[.]
+23 (15)[(14)] "Noncompetitive negotiation" means informal negotiation with one (1) or
+24 more vendor, contractor, or individual without advertisement or notice;[.]
+25 (16)[(15)] "Objective measurable criteria" means sufficient information in the invitation
+26 to bid as to weight and method of evaluation so that the evaluation may be
+27 determined with reasonable mathematical certainty. Criteria which are otherwise
+Page 3 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 subjective, such as taste and appearance, may be established when appropriate;[.]
+2 (17)[(16)] "Person" means any business, individual, union, committee, club, or other
+3 organization or group of individuals;[.]
+4 (18)[(17)] "Procurement" means the purchasing, buying, renting, leasing, or otherwise
+5 obtaining any supplies, services, or construction. It also includes all functions that
+6 pertain to the obtaining of any public procurement, including description of
+7 requirements, selection, and solicitation of sources, preparation and award of
+8 contract, and all phases of contract administration;[.]
+9 (19)[(18)] "Request for proposals" means all documents, whether attached or
+10 incorporated by reference, utilized for soliciting proposals in accordance with the
+11 procedures set forth in KRS 45A.370, 45A.375, 45A.380, or 45A.385;[.]
+12 (20)[(19)] "Responsible bidder or offeror" means a person who has the capability in all
+13 respects to perform fully the contract requirements, and the integrity and reliability
+14 which will assure good faith performance;[.]
+15 (21)[(20)] "Responsive bidder" means a person who has submitted a bid under KRS
+16 45A.365 which conforms in all material respects to the invitation for bids, so that
+17 all bidders may stand on equal footing with respect to the method and timeliness of
+18 submission and as to the substance of any resulting contract;[.]
+19 (22)[(21)] "Reverse auction" means a real-time, structured bidding process, usually
+20 lasting less than one (1) hour, and taking place at a previously scheduled time and
+21 Internet location, during which multiple bidders, anonymous to each other, submit
+22 revised, lower bids to provide the solicited good or leased space;[.]
+23 (23)[(22)] "Services" means the rendering, by a contractor, of its time and effort rather
+24 than the furnishing of a specific end product other than reports which are merely
+25 incidental to the required performance of service. It does not include labor contracts
+26 with employees of local public agencies;[.]
+27 (24)[(23)] "Shall" means imperative;[.]
+Page 4 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (25)[(24)] "Specifications" means any description of a physical or functional
+2 characteristic of a supply, service, or construction item. It may include a description
+3 of any requirement for inspecting, testing, or preparing a supply, service, or
+4 construction item for delivery;[.]
+5 (26)[(25)] "Supplemental agreement" means any contract modification which is
+6 accomplished by the mutual action of the parties;[.]
+7 (27)[(26)] "Supplies" means all property, including but not limited to leases on real
+8 property, printing, and insurance, except land or a permanent interest in land;[.]
+9 (28)[(27)] "Energy conservation measure" means a training program or facility alteration
+10 designed to reduce energy consumption or operating costs, and may include one (1)
+11 or more of the following:
+12 (a) Insulation of the building structure or systems within the building;
+13 (b) Storm windows or doors, caulking or weatherstripping, multiglazed windows
+14 or doors, heat absorbing or heat reflective glazed and coated window or door
+15 systems, additional glazing, reductions in glass area, or other window and
+16 door system modifications that reduce energy consumption;
+17 (c) Automated or computerized energy control systems;
+18 (d) Heating, ventilating, or air conditioning system modifications or
+19 replacements;
+20 (e) Replacement or modification of lighting fixtures to increase the energy
+21 efficiency of the lighting system without increasing the overall illumination of
+22 a facility, unless an increase in illumination is necessary to conform to the
+23 applicable state or local building code for the lighting system after the
+24 proposed modifications are made;
+25 (f) Energy recovery systems;
+26 (g) Cogeneration systems that produce steam or forms of energy such as heat, as
+27 well as electricity, for use primarily within a building or complex of
+Page 5 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 buildings;
+2 (h) Energy, water, or wastewater conservation measures that provide long-term
+3 operating cost reductions or billable revenue increases;
+4 (i) Any life safety measures that provide long-term operating cost reductions;
+5 (j) Water and wastewater conservation measures, including plumbing fixtures
+6 and infrastructure;
+7 (k) Equipment upgrades that improve the accuracy of billable revenue generating
+8 systems; or
+9 (l) Automated, electronic, or remotely controlled systems or measures that
+10 reduce direct personnel costs;[.]
+11 (29)[(28)] "Guaranteed energy savings contract" means a contract for the evaluation and
+12 recommendation of energy, water, and wastewater conservation measures and for
+13 implementation of one (1) or more of those measures. The contract shall provide
+14 that all payments, except obligations on termination of the contract before its
+15 expiration, are to be made over time and the savings are guaranteed to the extent
+16 necessary to make payments for the cost of the design, installation, and
+17 maintenance of energy, water, and wastewater conservation measures; and[.]
+18 (30)[(29)] "Qualified provider" means a person or business experienced in the design,
+19 implementation, and installation of energy, water, and wastewater conservation
+20 measures and is determined to be qualified by the local public agency. The qualified
+21 provider shall be responsible for and shall provide the local public agency with the
+22 following information regarding guaranteed energy, water, and wastewater savings
+23 contracts:
+24 (a) Project design and specifications;
+25 (b) Construction management;
+26 (c) Construction;
+27 (d) Commissioning;
+Page 6 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (e) On-going services as required;
+2 (f) Measurement and verification of savings for guaranteed energy, water, and
+3 wastewater savings contracts; and
+4 (g) Annual reconciliation statements as provided in KRS 45A.352(8).
+5 Section 2. KRS 45A.365 is amended to read as follows:
+6 (1) All contracts or purchases shall be awarded by competitive sealed bidding, which
+7 may include the use of a reverse auction, except as otherwise provided by KRS
+8 45A.370 to 45A.385 and for the purchase of wholesale electric power by municipal
+9 utilities as provided in KRS 96.901(1).
+10 (2) The invitation for bids shall state that the award shall be made on the basis of the
+11 lowest bid price or the best value[lowest evaluated] bid[ price]. If the latter is used,
+12 the objective and quantifiable[measurable] criteria to be utilized shall be set forth
+13 in the invitation for bids[. The invitation for bids shall include the reciprocal
+14 preference for resident bidders described in KRS 45A.494].
+15 (3) Adequate public notice of the invitation for bids and any reverse auction shall be
+16 given prior to the date set forth for the opening of bids. The notice may include
+17 posting on the internet or publication in a newspaper of general circulation in the
+18 local jurisdiction at least seven (7) days before the date set for the opening of the
+19 bids and any reverse auction. Nothing in this section shall prohibit additional notice,
+20 posting, or publication, nor shall additional notification, posting, or publication
+21 extend the required notice period. The public notice shall include the time and place
+22 the bids will be opened and the time and place where the specifications may be
+23 obtained.
+24 (4) The bids shall be opened publicly or entered through a reverse auction at the time
+25 and place designated in the invitation for bids. Each written or reverse auction bid,
+26 together with the name of the bidder, shall be recorded and be open to public
+27 inspection. Electronic bid opening and posting of the required information for
+Page 7 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 public viewing shall satisfy the requirements of this subsection.
+2 (5) A contract shall be awarded with reasonable promptness by written notice to the
+3 responsive and responsible bidder whose bid is either the lowest bid price or the
+4 best value[lowest evaluated] bid[ price after the application of any reciprocal
+5 preference for resident bidders required by KRS 45A.494].
+6 (6) The local public agency may allow the withdrawal of a bid where there is a patent
+7 error on the face of the bid document, or where the bidder presents sufficient
+8 evidence, substantiated by bid worksheets, that the bid was based upon an error in
+9 the formulation of the bid price.
+10 Section 3. KRS 45A.370 is amended to read as follows:
+11 (1) A local public agency may contract or purchase through competitive negotiation,
+12 which may include a reverse auction, upon a written finding that:
+13 (a) Specifications cannot be made sufficiently specific to permit award on the
+14 basis of either the lowest bid price or the best value[lowest evaluated] bid[
+15 price], including[,] but not limited to[,] contracts for experimental or
+16 developmental research work, or highly complex equipment which requires
+17 technical discussions, and other nonstandard supplies, services, or
+18 construction; or
+19 (b) Sealed bidding is inappropriate because the available sources of supply are
+20 limited, the time and place of performance cannot be determined in advance,
+21 the price is regulated by law, or a fixed price contract is not applicable; or
+22 (c) The bid prices received through sealed bidding are unresponsive or
+23 unreasonable as to all or part of the requirements, or are identical or appear to
+24 have been the result of collusion; provided each responsible bidder is notified
+25 of the intention to negotiate and is given a reasonable opportunity to
+26 negotiate, and the negotiated price is lower than the lowest rejected bid by any
+27 responsible bidder.
+Page 8 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (2) Proposals shall be solicited through public notice pursuant to KRS 45A.365(3) or
+2 any other means which can be demonstrated to notify an adequate number of
+3 qualified sources to permit reasonable competition consistent with the nature and
+4 requirement of the procurement. The request for proposals shall indicate the factors
+5 to be considered in the evaluation,[ including the reciprocal preference for resident
+6 bidders required by KRS 45A.494, and] the relative importance of each factor, and
+7 the procedures to be followed if a reverse auction is used in the procurement.
+8 (3) Written or oral discussions shall be conducted with all responsible offerors who
+9 submit proposals determined in writing to be reasonably susceptible of being
+10 selected for award. Discussions shall not disclose any information derived from
+11 proposals submitted by competing offerors. Discussions need not be conducted:
+12 (a) With respect to prices, where such prices are fixed by law, regulation, or
+13 reverse auction, except that consideration shall be given to competitive terms
+14 and conditions;[ or]
+15 (b) Where time of delivery or performance will not permit discussions; or
+16 (c) Where it can be clearly demonstrated and documented from the existence of
+17 adequate competition or accurate prior cost experience with that particular
+18 supply, service, or construction item that acceptance of an initial offer without
+19 discussion would result in fair and reasonable prices and the request for
+20 proposal notifies all offerors of the possibility that award may be made on the
+21 basis of initial offers.
+22 (4) If discussions pertaining to the revision of the specifications or quantities are held
+23 with any potential offeror, all other potential offerors shall be afforded an
+24 opportunity to take part in such discussions. A request for proposals based on
+25 revised specifications or quantities shall be issued as promptly as possible, shall
+26 provide for an expeditious response to the revised requirements and shall be
+27 awarded upon the basis of the lowest bid price or best value[lowest evaluated] bid
+Page 9 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 [price after application of the reciprocal preference for resident bidders required by
+2 KRS 45A.494 ]submitted by any responsive and responsible offeror. No discussion
+3 shall be conducted with offerors after submission of revised proposals except for a
+4 compelling reason as determined in writing by the local public agency. The request
+5 for proposals shall state that an award is to be made without discussion except as
+6 herein provided.
+7 (5) Award shall be made to the responsible offeror whose proposal is determined in
+8 writing to be the most advantageous to the local public agency based upon the
+9 evaluation factors set forth in the request for proposals[ and the reciprocal
+10 preference for resident bidders required by KRS 45A.494].
+11 Section 4. KRS 45A.375 is amended to read as follows:
+12 (1) In the event that all bids submitted pursuant to competitive sealed bidding under
+13 KRS 45A.365 result in bid prices in excess of the funds available for the purchase,
+14 and the local public agency determines in writing:
+15 (a) That there are no additional funds then available from any source so as to
+16 permit an award to the lowest responsive and responsible bidder; and
+17 (b) The best interest of the local public agency will not permit the delay attendant
+18 to a resolicitation under revised specifications or revised quantities under
+19 competitive sealed bidding as provided in KRS 45A.365; then a negotiated
+20 award may be made as set forth in subsections (2) or (3) of this section.
+21 (2) Where there is more than one (1) bidder, competitive negotiations pursuant to KRS
+22 45A.370 shall be conducted with the three (3), or [(]two (2) if there are only two
+23 (2),[)] bidders determined in writing by the local public agency to be the lowest
+24 responsive and responsible bidders to the competitive sealed bid invitation[ after
+25 application of the reciprocal preference for resident bidders required in KRS
+26 45A.494]. Such competitive negotiations shall be conducted under the following
+27 restrictions:
+Page 10 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (a) If discussions pertaining to the revision of the specifications or quantities are
+2 held with any potential offeror, all other potential offerors shall be afforded an
+3 opportunity to take part in such discussions; and
+4 (b) A request for proposals, based upon revised specifications or quantities, shall
+5 be issued as promptly as possible, shall provide for an expeditious response to
+6 the revised requirements, and shall be awarded upon the basis of the lowest
+7 bid price or best value[lowest evaluated] bid [price ]submitted by any
+8 responsive and responsible offeror[ after application of the reciprocal
+9 preference for resident bidders required in KRS 45A.494]. No discussion shall
+10 be conducted with offerors after submission of proposals except for a
+11 compelling reason as determined in writing by the local public agency. The
+12 request for proposals shall state that award is to be made without discussions
+13 except as herein provided.
+14 (3) Where, after competitive sealed bidding, it is determined in writing that there is
+15 only one (1) responsive and responsible bidder, a noncompetitive negotiated award
+16 may be made with such bidder in accordance with KRS 45A.380.
+17 (4) Where, after invitation for bids has been made in accordance with KRS 45A.365
+18 and no bids have been received from responsive and responsible bidders, the local
+19 public agency may proceed to acquire the supplies, services, or construction by
+20 noncompetitive negotiations in accordance with KRS 45A.380.
+21 Section 5. KRS 45A.385 is amended to read as follows:
+22 (1) The local public agency may use small purchase procedures for any contract for
+23 which a determination is made that the aggregate amount of the contract does not
+24 exceed sixty thousand dollars ($60,000)[forty thousand dollars ($40,000)] if small
+25 purchase procedures are in writing and available to the public.
+26 (2) Beginning in calendar year 2030, the small purchase maximum amount set out in
+27 subsection (1) of this section shall be increased by ten thousand dollars ($10,000)
+Page 11 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 every five (5) years effective on January 1 of each year. The Finance and
+2 Administration Cabinet shall, through a technical advice memorandum or other
+3 official means of communication, announce the small purchase maximum
+4 amount in effect for the current year, and shall also prominently post that
+5 information on its website.
+6 Section 6. KRS 45A.420 is amended to read as follows:
+7 (1) Any local public agency may enter into an agreement for cooperative purchasing
+8 with any other local public agency. When the contracting local public agency
+9 contracts for supplies, services or construction pursuant to KRS 45A.365, 45A.370,
+10 45A.375, or 45A.380, all other parties to the agreement shall be deemed to have
+11 complied with the provisions of those sections.
+12 (2) Nothing in KRS 45A.345 to 45A.990 shall deprive a local public agency from
+13 negotiating with vendors for supplies where such supplies are the subject of a price
+14 agreement with the Commonwealth of Kentucky provided, however, that no
+15 contract executed under this section would authorize a price higher than is
+16 contained in the price agreement with the Commonwealth of Kentucky for such
+17 specific supplies.
+18 (3) For agreements that do not establish a fixed unit price, a local public agency may
+19 make purchases using an established discount, quote, formula, or other pricing
+20 method as established by the Commonwealth in the agreement. A local public
+21 agency shall retain records documenting its compliance with the procedures
+22 required in the applicable agreement.
+23 (4)[(3)] Nothing in KRS 45A.345 to 45A.990 shall deprive a local school district from
+24 acquiring supplies outside of price agreements with the Commonwealth of
+25 Kentucky if the supplies meet the same specifications as the contract items and the
+26 supplies are purchased at a lower price than is contained in the price agreement with
+27 the Commonwealth of Kentucky for such specific supplies and the purchase does
+Page 12 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 not exceed two thousand five hundred dollars ($2,500).
+2 Section 7. KRS 82.083 is amended to read as follows:
+3 (1) As used in this section, "independent appraisal" means an appraisal made by:
+4 (a) An individual or organization not affiliated with the city or its officers or
+5 employees, using a generally accepted national or professional standard; or
+6 (b) A city's officers or employees using:
+7 1. A nationally published valuation of property based on the most recent
+8 edition of the publication; or
+9 2. For personal property with no applicable nationally published
+10 valuation standard, a generally accepted method to determine a good-
+11 faith estimate of the value of the personal property.
+12 (2) A city may sell or otherwise dispose of any of its real or personal property.
+13 (3) Before selling or otherwise disposing of any real or personal property that has any
+14 value, the city shall make a written determination setting forth and fully describing:
+15 (a) The real or personal property;
+16 (b) Its intended use at the time of acquisition;
+17 (c) The reasons why it is in the public interest to dispose of it;[ and]
+18 (d) The method used to estimate value when the property is personal property
+19 appraised under subsection (1)(b)2. of this section; and
+20 (e) The method of disposition to be used.
+21 (4) Real or personal property may be:
+22 (a) Transferred, with or without compensation, to another governmental agency;
+23 (b) Transferred, with or without compensation, for economic development
+24 purposes, which shall include but not be limited to real property transfers for
+25 the elimination of blight;
+26 (c) Sold at public auction following publication of the auction in accordance with
+27 KRS 424.130(1)(b);
+Page 13 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (d) Sold by electronic auction following publication of the auction, including the
+2 uniform resource link (URL) for the site of the electronic auction, in
+3 accordance with KRS 424.130(1)(b);
+4 (e) Sold by sealed bids in accordance with the procedure for sealed bids under
+5 KRS 45A.365(3) and (4);
+6 (f) Traded towards the purchase of the same or similar type of property, if the
+7 trade-in value received equals or exceeds the actual fair market value of the
+8 property as determined using an independent appraisal as defined in
+9 subsection (1) of this section;
+10 (g) Sold for its appraised fair market value or a greater amount if the property is
+11 valued at ten thousand dollars ($10,000) or less in an independent appraisal.
+12 Property sold under this paragraph may not be sold to a city officer or
+13 employee or family member of a city officer or employee as defined in the
+14 city's ethics ordinance adopted under KRS 65.003;
+15 (h) Notwithstanding subsection (3) of this section, sold for scrap or disposed of as
+16 garbage in a manner consistent with the public interest if the property has no
+17 value, or is of negligible value as determined by an independent appraisal;
+18 (i) Sold by the Finance and Administration Cabinet under an agreement with the
+19 city; or
+20 (j) Notwithstanding subsection (3) of this section, when the property is an animal
+21 used in service by the city, given to the animal's primary handler or trainer,
+22 without the payment of compensation, when the animal is retired or is no
+23 longer capable of performing service to the city.
+24 (5) If a city receives no bids for the real or personal property, either at public or
+25 electronic auction or by sealed bid, the property may be disposed of, consistent with
+26 the public interest, in any manner deemed appropriate by the city. In those
+27 instances, a written description of the property, the method of disposal, and the
+Page 14 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 amount of compensation, if any, shall be made.
+2 (6) Any compensation resulting from the disposal of this real or personal property shall
+3 be transferred to the general fund of the city.
+4 Section 8. KRS 82.084 is amended to read as follows:
+5 KRS 45A.345 to 45A.460 and 424.260 shall not apply to city governments, urban-county
+6 governments, consolidated local governments, or air boards identified in and operating
+7 under the provisions of KRS 183.142(1) for the purchase of:
+8 (1) Products or services when there is a single source of the product or service to be
+9 procured within a reasonable geographic area;
+10 (2) Products needed as replacement parts for personal property or equipment where the
+11 need cannot be reasonably anticipated and maintaining an inventory of replacement
+12 parts is not feasible;[ and]
+13 (3) Vehicles and equipment installed on vehicles that are used exclusively for law
+14 enforcement purposes, if the purchaser obtains at least three (3) quotes prior to
+15 making the purchase and retains records documenting the quotes; and
+16 (4) Products or services that are provided by:
+17 (a) Entities recognized by the Office of Vocational Rehabilitation under KRS
+18 Chapter 163 that operate programs for the rehabilitation of individuals who
+19 are blind or visually impaired;
+20 (b) Agencies for individuals with severe disabilities as described in KRS
+21 45A.465;
+22 (c) A qualified veterans' workshop providing job and employment-skill training
+23 to veterans where such a workshop is operated by the United States
+24 Department of Veterans Affairs;
+25 (d) Nonprofit organizations, employment services organizations, or other private
+26 business organizations with established operations within the jurisdiction of
+27 the city, urban-county government, or consolidated local government with the
+Page 15 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 main mission or business purpose of serving individuals with disabilities by
+2 offering transitional or supported employment services or other rehabilitative
+3 programs and services, including but not limited to serving individuals with
+4 severe mental or physical disabilities or those recovering from substance
+5 abuse disorders; or
+6 (e) Nonprofit community service organizations operating within the jurisdiction
+7 of the city, urban-county government, or consolidated local government when
+8 there is a determination in the official record of the legislative body that the
+9 purchase of the products or services would serve a mutual benefit to the
+10 government and the organization by:
+11 1. Furthering the purposes of the organization;
+12 2. Providing a service or product needed by the government;
+13 3. Advancing a specific public purpose; and
+14 4. Serving the best interest of the public.
+15 If two (2) or more organizations meet the qualifications set out in this
+16 paragraph, then the government shall award the contract to one (1) of the
+17 qualifying organizations using the selection criteria of its adopted competitive
+18 bidding process.
+19 Section 9. KRS 424.260 is amended to read as follows:
+20 (1) Except where a statute specifically fixes a larger sum as the minimum for a
+21 requirement of advertisement for bids, no city, county, or district, or board or
+22 commission of a city or county, or sheriff or county clerk, may make a contract,
+23 lease, or other agreement for:
+24 (a) Materials;
+25 (b) Supplies, except perishable foods such as meat, poultry, fish, egg products,
+26 fresh vegetables, and fresh fruits;
+27 (c) Equipment; or
+Page 16 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (d) Contractual services other than professional;
+2 involving an expenditure of more than sixty thousand dollars ($60,000)[forty
+3 thousand dollars ($40,000)] without first making newspaper advertisement for bids.
+4 This subsection shall not apply to the transfer of property between governmental
+5 agencies as authorized in KRS 82.083(4)(a).
+6 (2) If the fiscal court requires that the sheriff or county clerk advertise for bids on
+7 expenditures of less than sixty thousand dollars ($60,000)[forty thousand dollars
+8 ($40,000)], the fiscal court requirement shall prevail.
+9 (3) (a) Nothing in this statute shall limit or restrict the ability of a local school district
+10 to acquire supplies and equipment outside of the bidding procedure if those
+11 supplies and equipment meet the specifications of the contracts awarded by
+12 the Office of Material and Procurement Services in the Office of the
+13 Controller within the Finance and Administration Cabinet or a federal, local,
+14 or cooperative agency and are available for purchase elsewhere at a lower
+15 price. A board of education may purchase those supplies and equipment
+16 without advertising for bids if, prior to making the purchases, the board of
+17 education obtains certification from the district's finance or purchasing officer
+18 that the items to be purchased meet the standards and specifications fixed by
+19 state price contract, federal (GSA) price contract, or the bid of another school
+20 district whose bid specifications allow other districts to utilize their bids, and
+21 that the sales price is lower than that established by the various price contract
+22 agreements or available through the bid of another school district whose bid
+23 specifications would allow the district to utilize their bid.
+24 (b) The procedures set forth in paragraph (a) of this subsection shall not be
+25 available to the district for any specific item once the bidding procedure has
+26 been initiated by an invitation to bid and a publication of specifications for
+27 that specific item has been published. In the event that all bids are rejected,
+Page 17 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 the district may again avail itself of the provisions of paragraph (a) of this
+2 subsection.
+3 (4) This requirement shall not apply in an emergency if the chief executive officer of
+4 the city, county, or district has duly certified that an emergency exists, and has filed
+5 a copy of the certificate with the chief financial officer of the city, county, or
+6 district, or if the sheriff or the county clerk has certified that an emergency exists,
+7 and has filed a copy of the certificate with the clerk of the court where his necessary
+8 office expenses are fixed pursuant to KRS 64.345 or 64.530, or if the
+9 superintendent of the board of education has duly certified that an emergency
+10 exists, and has filed a copy of the certificate with the chief state school officer.
+11 (5) The provisions of subsection (1) of this section shall not apply for the purchase of
+12 wholesale electric power for resale to the ultimate customers of a municipal utility
+13 organized under KRS 96.550 to 96.900.
+14 (6) Subsection (1) of this section shall not apply to purchases for products or services
+15 made pursuant to KRS 82.084.
+16 (7) Beginning in calendar year 2030, the small purchase maximum amount set out in
+17 subsections (1) and (2) of this section shall be increased by ten thousand dollars
+18 ($10,000) every five (5) years effective on January 1 of each year. The Finance
+19 and Administration Cabinet shall, through a technical advice memorandum or
+20 other official means of communication, announce the small purchase maximum
+21 amount in effect for the current year, and shall also prominently post that
+22 information on its website.
+23 Section 10. KRS 157.420 is amended to read as follows:
+24 Public school funds made available to the credit of each district during any year shall be
+25 received, held, and expended by the district board, subject to the provisions of law and
+26 administrative regulations of the Kentucky Board of Education. The following
+27 restrictions shall govern the expenditure of funds from the public school fund:
+Page 18 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (1) The salary paid any rank of teachers shall be at least equivalent to the amount set
+2 forth in the biennial budget schedule for each rank and experience for a term of one
+3 hundred eighty-five (185) days for full-time service during the regular school year.
+4 (2) Beginning with the 2004-2006 biennium, the Kentucky Board of Education shall
+5 not approve any working budget or salary schedule for local boards of education for
+6 any school year unless the one hundred eighty-five (185) day salary schedule for
+7 certified staff has been adjusted over the previous year's salary schedule by a
+8 percentage increase at least equal to the cost-of-living adjustment that is provided
+9 state government workers under the biennial budget. The base funding level in the
+10 program for support education excellence in Kentucky as defined in KRS 157.320
+11 shall be increased by the statewide dollar value of the annual required cost-of-living
+12 percentage adjustment that shall be estimated on the sum of the previous year's
+13 statewide teachers' salaries.
+14 (3) A district that compensates its teachers or employees for unused sick leave at the
+15 time of retirement, pursuant to KRS 161.155, may create an escrow account to
+16 maintain the amount of funds necessary to pay teachers or employees who qualify
+17 for receipt of the benefit. The fund is limited to not more than fifty percent (50%) of
+18 the maximum liability for the current year to be determined according to the
+19 number of staff employed by the district on September 15. Interest generated by the
+20 account shall be calculated as part of the total amount. The funds shall not be used
+21 for any purpose other than compensation for unused sick leave at the time of
+22 retirement and shall not be considered as part of the general fund balance in
+23 determining available local revenue for purposes of KRS 157.620.
+24 (4) (a) The per pupil capital outlay allotment for each district from the public school
+25 fund and from local sources shall be kept in a separate account and may be
+26 used by the district only for capital outlay projects approved by the
+27 commissioner of education in accordance with requirements of law, and based
+Page 19 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 on a survey made in accordance with administrative regulations of the
+2 Kentucky Board of Education. These funds shall be used for the following
+3 capital outlay purposes:
+4 1. For direct payment of construction costs;
+5 2. For debt service on voted and funding bonds;
+6 3. For payment or lease-rental agreements under which the board
+7 eventually will acquire ownership of a school plant;
+8 4. For the retirement of any deficit resulting from overexpenditure for
+9 capital construction, if such deficit resulted from an emergency declared
+10 by the Kentucky Board of Education under KRS 160.550; and
+11 5. As a reserve fund for the above-named purposes, to be carried forward
+12 in ensuing budgets.
+13 (b) A district may submit a request to the commissioner of education to use funds
+14 from the per pupil capital outlay allotment to purchase land for a new school
+15 or to modify an existing school if the project is included on the district facility
+16 plan for completion within eight (8) years. The land shall not be included in
+17 the calculation of the school district's unmet need. The commissioner may
+18 grant or deny the district's request at his or her discretion.
+19 (c) A district which has experienced an increase in adjusted average daily
+20 attendance, as defined by administrative regulation, of twenty percent (20%)
+21 or more over a five (5) year period may submit a request to the commissioner
+22 of education to use capital outlay funds for the operation of a new school for
+23 the first two (2) years following its opening. The commissioner may grant or
+24 deny the district's request at his or her discretion.
+25 (d) A local school district may submit a request to the commissioner of education
+26 to use capital outlay funds for maintenance expenditures or for the purchase of
+27 property insurance without forfeiting the district's participation in the School
+Page 20 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 Facilities Construction Commission program. Maintenance requests may
+2 include other priorities that are not considered major renovations, such as
+3 repair, renovation, or system upgrades that are necessary to maintain the
+4 integrity of an existing school facility.
+5 (5) The district may contribute capital outlay funds for energy conservation measures
+6 under guaranteed energy savings contracts pursuant to KRS 45A.345, 45A.352, and
+7 45A.353. Use of these funds, provided in KRS 45A.353, 56.774, and 58.600, shall
+8 be based on the following:
+9 (a) The energy conservation measures shall include facility alteration;
+10 (b) The energy conservation measures shall be identified in the district's approved
+11 facility plan;
+12 (c) The current facility systems are consuming excess maintenance and operating
+13 costs;
+14 (d) The savings generated by the energy conservation measures are guaranteed;
+15 (e) The capital outlay funds contributed to the energy conservation measures shall
+16 be defined as capital cost avoidance as defined[provided] in KRS 45A.345(2)
+17 and shall be subject to the restrictions on usage as specified in KRS
+18 45A.352(9); and
+19 (f) The equipment that is replaced shall have exceeded its useful life as
+20 determined by a life-cycle cost analysis.
+21 (6) If any district has a special levy for capital outlay or debt service that is equal to the
+22 capital outlay allotment or a proportionate fraction thereof, and spends the proceeds
+23 of that levy for the above-named purposes, the commissioner of education under
+24 administrative regulations of the Kentucky Board of Education, may authorize the
+25 district to use all or a proportionate fraction of its capital outlay allotment for
+26 current expenses. However, a district which uses capital outlay funds for current
+27 expenses shall not be eligible to participate in the School Facilities Construction
+Page 21 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 Commission funds, except when the current expenditures are approved by the
+2 commissioner of education under subsection (4)(b) or (c) of this section.
+3 (7) If a survey shows that a school district has no capital outlay needs as shown in
+4 subsection (4)(a)1., 2., 3., and 4. of this section, upon approval of the commissioner
+5 of education, these funds may be used for school plant maintenance, repair,
+6 insurance on buildings, replacement of equipment, purchase of school buses, and
+7 the purchase of modern technological equipment, including telecommunications
+8 hardware, televisions, computers, and other technological hardware to be utilized
+9 for educational purposes only.
+10 (8) In surveying the schools, the Department of Education shall designate each school
+11 facility as a permanent, functional, or transitional center.
+12 (a) "Permanent center" means a center which meets the program standards
+13 approved by the Kentucky Board of Education, is located so that students are
+14 not subjected to an excessive amount of time being transported to the site, and
+15 has established an attendance area which will maintain enrollment at capacity
+16 but will also avoid overcrowding.
+17 (b) "Functional center" means a center which does not meet all the criteria
+18 established for a permanent facility, but is adequate to meet accreditation
+19 program standards to insure no substantial academic or building deficiency.
+20 The facility plan shall include additions and renovations necessary to meet
+21 current accreditation standards for which federal, state, and local funds may
+22 be used.
+23 (c) "Transitional center" means a center which the local board of education has
+24 determined shall no longer be designated permanent or functional. The center
+25 shall be destined to be closed and shall not be eligible for new construction,
+26 additions, or major renovation. However, the board of education shall
+27 maintain any operating transitional center to provide a safe and healthy
+Page 22 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 environment for students.
+2 (9) Beginning in fiscal year 2011-2012, the Kentucky Department of Education shall
+3 standardize the process for evaluating the overall quality and condition of all school
+4 buildings across the state. The evaluation process shall:
+5 (a) Result in consistent categorization of buildings for local planning purposes
+6 and for the distribution of state general fund moneys designated for capital
+7 construction;
+8 (b) Be based on measurable, objective criteria;
+9 (c) Include numerical scoring with weights to recognize building components and
+10 characteristics that address:
+11 1. Life safety issues;
+12 2. Compliance with state and federal codes;
+13 3. Compliance with requirements under the Americans with Disabilities
+14 Act;
+15 4. Community spaces;
+16 5. Instructional areas;
+17 6. Mechanical, electrical, plumbing, and other technology systems;
+18 7. Site and exterior building conditions;
+19 8. Age of the buildings;
+20 9. Feasibility of building additions or major renovations;
+21 10. The districts' facility capacities;
+22 11. Current use of temporary facilities; and
+23 12. Projected enrollment growth; and
+24 (d) Use of a third-party evaluator that utilizes an already established software-
+25 based system to perform the first, base-line evaluation.
+26 (10) The Kentucky Board of Education shall promulgate an administrative regulation
+27 upon recommendation of the Kentucky Department of Education and the School
+Page 23 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 Facilities Construction Commission to implement subsection (9) of this section.
+2 (11) If a local school board authorized elementary, middle, or secondary education
+3 classes in a facility of a historical settlement school on January 1, 1994, the board
+4 shall continue to use the facilities provided by the settlement school if the facilities
+5 meet health and safety standards for education facilities as required by
+6 administrative regulations. The local school board and the governing body of the
+7 settlement school shall enter into a cooperative agreement that delineates the role,
+8 responsibilities, and financial obligations for each party.
+9 (12) Notwithstanding[ the provisions of] subsections (4) and (6) of this section, a local
+10 district that has requested a mid-year adjustment in the support education
+11 excellence in Kentucky funding under KRS 157.360(16) may request permission
+12 from the commissioner of education to use capital outlay funds for the purchase of
+13 school buses or to use the capital outlay funds for increased operational expenses
+14 for the first three (3) years following the increased growth in the district without
+15 forfeiture of the district's participation in the School Facilities Construction
+16 Commission Program. The commissioner may grant or deny the district's request.
+17 Section 11. KRS 157.440 is amended to read as follows:
+18 (1) (a) Notwithstanding any statutory provisions to the contrary, effective for school
+19 years beginning after July 1, 1990, the board of education of each school
+20 district may levy an equivalent tax rate as defined in subsection (9)(a) of KRS
+21 160.470 which will produce up to fifteen percent (15%) of those revenues
+22 guaranteed by the program to support education excellence in Kentucky. The
+23 levy for the 1990-91 school year shall be made no later than October 1, 1989,
+24 and no later than October 1, 1990, for the 1991-92 school year, and by
+25 October 1 of each odd-numbered year thereafter. Effective with the 1990-91
+26 school year, revenue generated by this levy shall be equalized at one hundred
+27 fifty percent (150%) of the statewide average per pupil assessment.
+Page 24 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 (b) To participate in the Facilities Support Program of Kentucky, the board of
+2 education of each school district shall commit at least an equivalent tax rate of
+3 five cents ($0.05) to debt service, new facilities, or major renovations of
+4 existing school facilities, or the purchase of land if approved by the
+5 commissioner of education as provided in KRS 157.420(4)(b). The five cents
+6 ($0.05) shall be in addition to the thirty cents ($0.30) required by KRS
+7 160.470(9) and any levy pursuant to paragraph (a) of this subsection. The levy
+8 shall be made no later than October 1 of each odd-numbered year. Eligibility
+9 for equalization funds for the biennium shall be based on the district funds
+10 committed to debt service on that date. The five cents ($0.05) shall be
+11 equalized at one hundred fifty percent (150%) of the statewide average per
+12 pupil assessment. The equalization funds shall be committed to debt service to
+13 the greatest extent possible, but any excess equalization funds not needed for
+14 debt service shall be deposited to a restricted building fund account. The
+15 funds may be escrowed for future debt service or used to address categorical
+16 priorities listed in the approved facilities plan pursuant to KRS 157.420.
+17 (c) The board of education of each school district may contribute the levy
+18 equivalent tax rate of five cents ($0.05) and equalization funds for energy
+19 conservation measures under guaranteed energy savings contracts pursuant to
+20 KRS 45A.345, 45A.352, and 45A.353. Use of these funds, as provided under
+21 KRS 45A.353, 56.774, and 58.600 shall be based on the following guidelines:
+22 1. Energy conservation measures shall include facility alteration;
+23 2. Energy conservation measures shall be identified in the district's
+24 approved facility plan pursuant to KRS 157.420;
+25 3. The current facility systems are consuming excess maintenance and
+26 operating costs;
+27 4. The savings generated by the energy conservation measures are
+Page 25 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 guaranteed;
+2 5. The levy equivalent tax rate of five cents ($0.05) and equalization funds
+3 contributed to the energy conservation measures shall be defined as
+4 capital cost avoidance as defined[provided] in KRS 45A.345[(2)] and
+5 shall be subject to the restrictions on usage as specified in KRS
+6 45A.352(9); and
+7 6. The equipment that is replaced has exceeded its useful life as
+8 determined by a life cycle cost analysis.
+9 (d) The rate levied by a district board of education under the provisions of this
+10 subsection shall not be subject to the public hearing provisions of KRS
+11 160.470(7) or to the recall provisions of KRS 160.470(8).
+12 (e) A school district which is at or above the equivalent tax rates permitted under
+13 the provisions of the Kentucky Education Reform Act of 1990, 1990 Ky. Acts
+14 ch. 476, shall not be required to levy an equivalent tax rate which is lower
+15 than the rate levied during the 1989-90 school year.
+16 (2) (a) A district may exceed the maximum provided by subsection (1) of KRS
+17 160.470 provided that, upon request of the board of education of the district,
+18 the county board of elections shall submit to the qualified voters of the
+19 district, in the manner of submitting and voting as prescribed in paragraph (b)
+20 of this subsection, the question whether a rate which would produce revenues
+21 in excess of the maximum provided by subsection (1) of KRS 160.470 shall
+22 be levied. The rate that may be levied under this section may produce revenue
+23 up to no more than thirty percent (30%) of the revenue guaranteed by the
+24 program to support education excellence in Kentucky plus the revenue
+25 produced by the tax authorized by this section. Revenue produced by this levy
+26 shall not be equalized with state funds. If a majority of those voting on the
+27 question favor the increased rate, the tax levying authority shall, when the
+Page 26 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 next tax rate for the district is fixed, levy a rate not to exceed the rate
+2 authorized by the voters.
+3 (b) The election shall be held not less than fifteen (15) or more than thirty (30)
+4 days from the time the request of the board is filed with the county clerk, and
+5 reasonable notice of the election shall be given. The election shall be
+6 conducted and carried out in the school district in all respects as required by
+7 the general election laws and shall be held by the same officers as required by
+8 the general election laws. The expense of the election shall be borne by the
+9 school district.
+10 (3) For the 1966 tax year and for all subsequent years for levies which were approved
+11 prior to December 8, 1965, no district board of education shall levy a tax at a rate
+12 under the provisions of this section which exceeds the compensating tax rate as
+13 defined in KRS 132.010, except as provided in subsection (4) of this section and
+14 except that a rate which has been approved by the voters under this section but
+15 which was not levied by the district board of education in 1965 may be levied after
+16 it has been reduced to the compensating tax rate as defined in KRS 132.010, and
+17 except that in any school district where the rate levied in 1965 was less than the
+18 maximum rate which had been approved by the voters, the compensating tax rate
+19 shall be computed and may be levied as though the maximum approved rate had
+20 been levied in 1965 and the amount of revenue which would have been produced
+21 from such maximum levy had been derived therefrom.
+22 (4) Notwithstanding the limitations contained in subsection (3) of this section, no tax
+23 rate shall be set lower than that necessary to provide such funds as are required to
+24 meet principal and interest payments on outstanding bonded indebtedness and
+25 payments of rentals in connection with any outstanding school revenue bonds
+26 issued under the provisions of KRS Chapter 162.
+27 (5) The chief state school officer shall certify the compensating tax rate to the levying
+Page 27 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1684
+1 authorities.
+2 Section 12. The following KRS section is repealed:
+3 65.027 Reciprocal preference to be given to resident bidders by local governments.
+Page 28 of 28
+XXXX 1/13/2026 12:35 PM Jacketed
+
+[DELETED:   2  J A B S A ( " l t e n ( " o l p a i b n l t t e e o p T d s b b o o a q c a ( " f a e c m i a a p e r a w c h b d b a a e a o t a t ( G ( C ( S K ( " e o m t m c j]
+[DELETED:   2  J s a o ( " m t p o b a r o i k r ( " m a t o l p a a i g a c j o t o l l c a p o I a i s l ( " m a p e o i o i r ( " e m t d a o a b a b p a i u a ( " c p m t p i i t m c c ( I ( I ( S o]
+[DELETED:   2  J ( " a b w a t e a e i t o o u o t p d ( " b i ( " o c b o ( " g o a o ( " n ( " m c b e t m s f i K 4 ( " n m i n w o ( o m ( " t b a t w a m o e s t t e m b d w r m c C w a o]
+[DELETED:   2  J s ( " m a b i u c c o o o ( " o p t t o o a p p i d o r s a s o s p a a o c ( " f p m a d w a o i p ( " r w ( " b m a p w h s a b u K 4 a s ( " a m a r s b p u l I r ( " t i w ( "]
+[DELETED:   2  J ( " m a d o a p o f c o a r f i t o p a s s o c ( " a m a c m w i a ( " m a p i b n l t l o r p ( " d o ( I ( S o s a g r i g a o o w a d ( A ( H v o a c s m o r ( R o m o l f t i t e e a f u a i i i n t c t t a s o l b c f t l s a t p ( E ( C w a e f u p w a b o c o]
+[DELETED:   2  J b ( E o ( A ( W a w c m i p f a ( E s ( A e o r c s o m t r ( " r i t a p e o o t o t c b i e n t m p f t c o t d i a m ( " i a i o e w a w c m p f c ( P ( C ( C ( C]
+[DELETED:   2  J ( O ( M a v o s f g e w a w ( A S ( A m i t u o a r a e a o p b K 4 u ( T l t i t i f b T i f b s i t r p ( A g p l b p o p n s a n p o p e t b w b o a t t a p t s m b o ( T a t w t n o t b s b r a b o t p i E b o a p o t r i f]
+[DELETED:   2  J p ( A r b v e b p a t a o a r p ( T e o t f o t b d o w t b p s e t S ( A w ( S c b m s s t p a o t b p i b n l t c f e o d r w o h c e w r t d a o n s s o c ( S b i i b t a s o s a l t ( T b p r t s b a u o u h o t i t n a i g a r o t n r]
+[DELETED:   2  J ( P a o m w c b d t n a a n o q r t b t ( W o o d s b c w a r o w s p d i w t b r s o b s f a D s n d a i d f p ( W r t p w s p a f b l r o r a ( W ( W a c o a p c e w t p s d w r i f a r p a t r f p b ( I w a p o a o p o s b a a o t t p i s d A r f p b o r s o q s b i a p a p s p f a e r t t r r a s b a]
+[DELETED:   2  J [ K s c f h ( A w t b t m a t t l p a b u t e f s f i t r f p a t r p S ( I K a ( T t a n a f t a f a s s a t p ( T t a r u r s o r q u c a ( W 4 ( r a r b t t c s b i a a o t r p f r b r i K 4 S c n s b c u t f r]
+[DELETED:   2  J ( I h o ( A b t b p o b v e b [ ] b a r a r o a a o t r p b c w o a s o p e f a c r e ( W a c s b i i d i w t i o m ( W a p a m p t a t s s o c b n S ( T w e p ( B s]
+[DELETED:   2  J e f ( y e o J 1 o e y T F a A o m o c a t s p m a i e f t c y a s a p p t i S ( A w a o l p a W t c l p a c 4 c ( N i K 4 t 4 s d a l p a f n a w t C o K p h t n c e u t s w a a p h t i c i t p a w t C o K f s s ( F m m a e b t C i t a A l p a s r r d i c w t p r ( N a s o o p a w t C o K s t]
+[DELETED:   2  J n S ( A ( A i o o n a w t c o i o o e ( A 1 A e 2 F p p w n a n p v f ( A ( B v ( T ( I ( T ( T a ( T ( R ( T ( T w o w c f e d p t ( S K]
+[DELETED:   2  J ( S u r l ( f t s o t e a i a ( S K ( T t p a d u a i a a d i s ( S v P s u t p m n b s t a c o o e c ( N g v ( S c ( N u w t p o c w t a i r o i n l ( I a c r n b f t r o p p e a p o e t p i i a m d a b t c I t i a w d o t p t m o d a t]
+[DELETED:   2  J a ( A b S K g u ( P p ( P n p ( V a e i o v t a u e f l e m ( P ( E r b t O o V R u K C a ( A f i w s d a d i K 4 ( A t v w s a w i o b t U S D ( N b t]
+[DELETED:   2  J m o p s m o p d o t r f s a ( N o t p o t p o s w s a m b t t g 1 F 2 P 3 A 4 S  I t ( o m o m t q s o i t p t t g s a t c t o ( o t q b S ( E w a s s f a l s a t m f a r o a f b n c c o d o b o c l ( M ( S f ( E]
+[DELETED:   2  J ( C  i a e o m t s t d ( t T a ( I t f c r t t s o c c a f b o e ( ( ( N t s t O o M a P S i t O o t C o c a a a a f p e a a l p A b o e m p t s a e w e t s d t a s ( T p s f i p ( o t s s n b a b t]
+[DELETED:   2  J t s ( T t a c o t c w t c f o o t c c o d a o e a f p t K 6 o 6 o i t s o t b o e h d c t a e e ( T w o ( S m ( B s ( a o a i e f t c y a s a p p t i S P r a r o t K B o E T f r]
+[DELETED:   2  J ( T f h ( B n a c s h b a o t p y s s b a p s p s p a t s b e o t s o t p y s ( A t o r p t K 1 m c a e a t m f t m l f t c y t b d a t t n a f a p o t c f u s l a t t o r a s n b c a p o t g f b i d ( ( T f u b t d o f c o p a b t c]
+[DELETED:   2  J o a s m i a w a r o t K B o E f s b u f t c 1 F 2 F 3 F p o l a u w t b e 4 F t r o a d r f o f c b 5 A i ( A f o p t c o t s d u n T c m g ( A d w h e a i i a a d a o o t d ( A t p]
+[DELETED:   2  J F C C p M r m i o p t a n c m r s a r r o s u t a n t m t i ( T u 4 b ( T ( T f ( T c ( T ( T b a s b s t t r o u a s i K 4 ( T e t i r s h e i u l a d ( I c o a d t u a o a p f o i c o a f c e s]
+[DELETED:   2  J C f e w t c e a a b t c ( I a s s t a s d h n c o n a s i s o e t f m b u f s p m r i t p o m t e i t h f ( I f ( " c m a c w m t p s a n h b ( " c m a c w d n m a t c e f a p f b i a t m a p T f p s i a a n t m c b ( " d s a o m r H t b o e s m a o t c t p a s a h]
+[DELETED:   2  J e ( B s b ( R i c c o b f l p p a c ( B ( I c 1 L 2 C 3 C w r u t A w D A 4 C 5 I 6 M 7 S 8 A 9 F 1 T 1 C 1 P ( U o a t e t u a a e s b ( T K B o E s p a a r u r o t K D o a t S]
+[DELETED:   2  J F ( I a l s b a e m o s e c s m h a s s f e f a r b a s r ( N d t h r a m a i t s e e f s f f o t d p i t S F C C S ( ( N y b a J 1 1 t b o e o e s d 1 w w p u t f p ( o t r g l a n l t O 1 1 f t 1 s y a b O s f]
+[DELETED:   2  J ( T p i t F S o K t b o e f c ( t d s n f o m r o e s f o t p o l i a b t c ( s b i a t t t c ( r b K 1 s f c t d s o t d T f c ( s b e p t d s s b d t a r b f a T f p ( T b o e o e s d m c t l e t r o f c ( a e f f e c K K 1 E 2 E c m s b i i t d a 3 T c f s a c e m a o 4 T s g b t e c m a]
+[DELETED:   2  J g 5 T c t t e c m s b d a c c a a d i K 4 a s b s t t r o u a s i K 4 6 T e t i r h e i u l a d ( T s s n b s t t p h p o K 1 ( A t c t ( ( A d m e t m p b s ( o K 1 t c b o e s s t t q v o t d o i b u t n m t t p o t g b t p t s e e i K p t r p s q f t i r t t l a s w t]
+[DELETED:   2  J n t r f t d i f l a r n t e t r a ( T d r n o t e s b g T e s b c t t s ( F p u t p o t s w e t c t r a d e t a r w h b a b t v u t s b w i e m s b f ( N r m p a i p o o b i a p o r i c w a o s r b i ( T]
+[DELETED:   2  J a S 6]

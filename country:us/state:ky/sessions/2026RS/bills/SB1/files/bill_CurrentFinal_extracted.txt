@@ -1,0 +1,681 @@
+Title: 1 AN ACT relating to education.
+Official Title: 1 AN ACT relating to education.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS SB 1/VO
+2 WHEREAS, the Commonwealth has a compelling interest in ensuring that all
+3 students receive access to safe, reliable, and effective public education systems that meet
+4 student needs, protect student well-being, and responsibly steward public funds; and
+5 WHEREAS, certain school districts within the Commonwealth operate at a scale
+6 and level of complexity that is fundamentally different from the operational, governance,
+7 and management demands faced by other local school districts; and
+8 WHEREAS, Jefferson County Public Schools (JCPS) serves approximately 95,000
+9 students across 168 schools, educates students speaking more than 139 languages, and
+10 employs thousands of instructional and noninstructional staff, creating a large and
+11 complex public educational system unlike any other district in Kentucky; and
+12 WHEREAS, JCPS operates one of the largest public-sector budgets in the
+13 Commonwealth, managing an annual district budget of approximately $1,900,000,000,
+14 which constitutes the largest public school district budget in Kentucky, exceeds the
+15 operating budget of Louisville Metro Government, is more than twice the size of the
+16 Commonwealth’s second-largest public school district budget, and is nearly six times
+17 larger than the next-largest district, thereby magnifying the statewide fiscal risk
+18 associated with governance, management, and financial decision-making within the
+19 district; and
+20 WHEREAS, JCPS operates a daily student transportation system serving
+21 approximately 60,000 riders, an operational footprint exceeding the total population of
+22 most Kentucky counties and requiring sophisticated logistical planning, real-time
+23 coordination, and cross-departmental management comparable to a municipal transit
+24 system rather than a typical school district; and
+25 WHEREAS, JCPS employs a districtwide student assignment and choice model
+26 involving magnet programs, specialized academic pathways, and cross-attendance-zone
+27 enrollment that materially increases routing complexity, operational risk, and
+Page 1 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 coordination demands beyond those faced by other Kentucky school districts; and
+2 WHEREAS, repeated transportation failures within JCPS have resulted in students,
+3 particularly those attending magnet and choice schools, arriving home late into the
+4 evening hours, missing instructional time, and in some cases being unable to attend
+5 school at all, demonstrating systemic breakdowns in planning, execution, and executive
+6 accountability that directly undermine student safety, attendance, and educational access;
+7 and
+8 WHEREAS, JCPS serves a student population with elevated needs, including
+9 higher concentrations of students living in poverty, students requiring special education
+10 services, English language learners, and students impacted by trauma, behavioral
+11 challenges, and chronic absenteeism, all of which necessitate integrated academic,
+12 transportation, safety, and support systems; and
+13 WHEREAS, JCPS elementary, middle, and high schools overall earned a
+14 performance rating in the "orange" category for the 2024-2025 school year, the second-
+15 lowest tier in the state’s accountability system, reflecting persistent and systemwide
+16 academic underperformance relative to statewide expectations; and
+17 WHEREAS, JCPS state assessment results show that proficiency rates in reading
+18 remain unacceptably low across grade levels, with approximately 24 percent of
+19 elementary students, 22 percent of middle school students, and 23 percent of high school
+20 students achieving proficiency in reading, demonstrating long-standing deficiencies in
+21 literacy outcomes; and
+22 WHEREAS, JCPS assessment data further indicates persistently low proficiency in
+23 mathematics, with approximately 23 percent of elementary students, 20 percent of middle
+24 school students, and 19 percent of high school students scoring at the proficient level,
+25 underscoring chronic challenges in foundational numeracy essential to postsecondary
+26 readiness and workforce participation; and
+27 WHEREAS, JCPS continues to experience significant and persistent deficiencies in
+Page 2 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 literacy outcomes, especially in reading achievement among middle and high school
+2 students, which district leadership has publicly acknowledged cannot be addressed
+3 without sustained, systemwide intervention; and
+4 WHEREAS, the number of JCPS schools identified for Comprehensive Support
+5 and Improvement (CSI) status increased from 34 schools in 2022 to 41 schools in 2025,
+6 demonstrating a growing concentration of the Commonwealth’s lowest-performing
+7 schools within a single district and accounting for approximately 77 percent of all CSI-
+8 designated schools statewide; and
+9 WHEREAS, JCPS continues to experience wide achievement gaps and inconsistent
+10 academic proficiency across schools, with district leadership publicly acknowledging that
+11 graduation and postsecondary readiness metrics mask persistent failures to ensure
+12 mastery of core academic subjects; and
+13 WHEREAS, JCPS assessment reporting over the past decade reflects only
+14 incremental academic gains in reading, math, and science, with periods of stagnation that
+15 indicate structural limitations in the district’s ability to drive sustained improvement at
+16 scale; and
+17 WHEREAS, statewide and local reporting further demonstrate that chronic
+18 absenteeism within JCPS approaches one-third of enrolled students, a rate that materially
+19 undermines learning, exacerbates achievement gaps, and reflects systemic failures in
+20 attendance, transportation reliability, and student engagement; and
+21 WHEREAS, public reporting and district documentation reflect ongoing safety
+22 concerns within JCPS, including weapons incidents and the deployment of districtwide
+23 security technologies, requiring rapid operational decision-making and consistent
+24 systemwide execution to protect students and staff; and
+25 WHEREAS, JCPS manages a nearly $2,000,000,000 complex public system and
+26 has publicly reported significant budget deficits and ongoing fiscal pressures, creating
+27 heightened statewide risk exposure due to the district’s size and its large share of
+Page 3 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 Kentucky’s total public school enrollment; and
+2 WHEREAS, JCPS has publicly disclosed a substantial and growing budget
+3 shortfall, driven in part by undisciplined spending practices, reliance on temporary
+4 federal funds, and delayed corrective action, creating significant fiscal risk to a district
+5 heavily supported by statewide taxpayer dollars and highlighting the inability of existing
+6 governance structures to ensure timely financial oversight and corrective management;
+7 and
+8 WHEREAS, JCPS’ senior financial leadership has publicly acknowledged
+9 substantive financial and operational deficiencies within the district, including
+10 undisciplined budgeting practices enabled by temporary federal relief funds, materially
+11 flawed deficit projections, looming cash-flow insolvency risks, constrained revenue
+12 growth that fails to keep pace with inflation, and internal decision-making that limited the
+13 disclosure of pertinent financial data, collectively demonstrating systemic weaknesses in
+14 fiscal management, transparency, and long-term financial planning; and
+15 WHEREAS, independent audits and public analyses of JCPS transportation
+16 operations have identified failures that are systemic rather than isolated, involving
+17 breakdowns in coordination among central office leadership, transportation planning,
+18 human resources, and operational decision-making; and
+19 WHEREAS, such audits and reporting indicate that diffuse authority and unclear
+20 executive accountability materially contributed to service delivery failures affecting
+21 student safety, attendance, and public confidence in the district; and
+22 WHEREAS, in 2018, concerns regarding JCPS governance and management
+23 capacity resulted in a corrective action plan and settlement with state education
+24 authorities to avert a full state takeover, demonstrating longstanding and unresolved
+25 statewide concern regarding the district’s ability to address its challenges under existing
+26 governance structures; and
+27 WHEREAS, recurring operational crises, including transportation failures, safety
+Page 4 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 incidents, fiscal instability, and persistent academic underperformance, reflect not merely
+2 programmatic shortcomings but structural governance deficiencies that impede timely,
+3 coordinated executive action; and
+4 WHEREAS, districts operating at such a large scale and high level of complexity
+5 require governance structures that clearly distinguish between strategic oversight, policy-
+6 setting, and accountability on one hand, and day-to-day operational management and
+7 execution on the other; and
+8 WHEREAS, large districts need clear operational authority and responsibility in a
+9 single chief executive officer, subject to defined reporting requirements, performance
+10 metrics, and board oversight, to create clearer accountability, faster decision-making, and
+11 more effective systemwide coordination; and
+12 WHEREAS, restructuring board responsibilities to emphasize strategic planning,
+13 fiscal oversight, monitoring of academic and operational outcomes, and evaluation of
+14 executive performance aligns governance practices with those required to manage
+15 complex public institutions responsibly; and
+16 WHEREAS, the governance structure established in subsection (2) of Section 1 of
+17 this Act is intended to serve as a targeted and proportionate alternative to state takeover,
+18 preserving local control while addressing structural deficiencies that have repeatedly
+19 resulted in systemwide failures; and
+20 WHEREAS, JCPS operates at a scale that is not merely larger, but qualitatively and
+21 quantitatively distinct from every other public school district in the Commonwealth, such
+22 that differences between JCPS and other districts are not incremental but exponential in
+23 student population, workforce size, operational scope, and fiscal exposure; and
+24 WHEREAS, the gap between JCPS and the second-largest school district in
+25 Kentucky is itself greater than the gap between all remaining districts statewide, such that
+26 JCPS constitutes a natural and objectively identifiable class based on scale, complexity,
+27 and statewide impact; and
+Page 5 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 WHEREAS, districts of this magnitude present governance, operational, and fiscal
+2 challenges that are categorically different from those faced by small and mid-sized
+3 districts, and uniform governance structures designed for substantially smaller systems
+4 cannot reasonably be expected to perform effectively at this scale; and
+5 WHEREAS, the concentration of academic, operational, transportation, safety,
+6 fiscal, and labor-management functions within a single district of this size requires
+7 continuous, coordinated executive decision-making that cannot be achieved when
+8 strategic oversight and day-to-day administration are commingled; and
+9 WHEREAS, governance structures which require boards of education to
+10 simultaneously function as legislative bodies, executive managers, and operational
+11 supervisors become increasingly ineffective and unworkable as district scale and
+12 complexity increase; and
+13 WHEREAS, repeated systemwide failures within JCPS demonstrate that existing
+14 governance structures are not merely underperforming, but structurally mismatched to the
+15 operational demands placed upon the district; and
+16 WHEREAS, when operational failures deprive students of reliable transportation
+17 and instructional access while fiscal mismanagement threatens the solvency of the state’s
+18 largest school district, such failures cannot reasonably be attributed to isolated errors but
+19 instead reflect structural deficiencies in governance, executive authority, and
+20 accountability that demand corrective action; and
+21 WHEREAS, Section 183 of the Kentucky Constitution imposes upon the General
+22 Assembly an affirmative duty to provide for an efficient system of common schools
+23 throughout the Commonwealth, and that duty necessarily includes ensuring that
+24 governance structures are capable of delivering educational services effectively at the
+25 scale at which they are required to operate; and
+26 WHEREAS, efficiency within the meaning of Section 183 encompasses not only
+27 academic outcomes, but also fiscal stewardship, student safety, transportation reliability,
+Page 6 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 workforce management, and the capacity for timely executive decision-making; and
+2 WHEREAS, in districts operating at significant scale and complexity, effective
+3 governance requires a clear separation between strategic oversight and operational
+4 execution, such that boards of education are focused on policy, long-term planning, fiscal
+5 oversight, and performance accountability; and
+6 WHEREAS, vesting day-to-day operational authority in a single chief executive
+7 officer, subject to defined performance metrics and board oversight, promotes clarity of
+8 responsibility, accelerates decision-making, and strengthens accountability for results;
+9 and
+10 WHEREAS, this governance structure aligns with best practices used to manage
+11 large public institutions and is reasonably tailored to address the unique challenges
+12 presented by districts of this size, while preserving local control and democratic
+13 accountability; and
+14 WHEREAS, the distinctive characteristics of JCPS, when considered in
+15 combination, provide a rational, substantial, and constitutionally sufficient basis for
+16 differentiated governance treatment, and such treatment is reasonably related to the
+17 General Assembly's duty to ensure an efficient system of common schools; and
+18 WHEREAS, JCPS is supported in substantial part by state education dollars
+19 contributed by taxpayers throughout the Commonwealth, and the scale of this investment
+20 creates a legitimate and compelling statewide interest in ensuring that the district is
+21 governed and managed in a manner that maximizes educational outcomes, protects public
+22 funds, and fulfills constitutional obligations to all Kentucky students; and
+23 WHEREAS, school districts meeting defined objective criteria of certain scale,
+24 operational complexity, and statewide impact may be subject to alternative governance
+25 structures; and
+26 WHEREAS, such governance structures are reasonably and naturally related to the
+27 distinctive challenges faced by these districts; and
+Page 7 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 WHEREAS, the purpose of subsection (2) of Section 1 of this Act is to improve
+2 student outcomes, safeguard student wellbeing, ensure public safety, restore public
+3 confidence, and strengthen fiscal stewardship through enhanced executive accountability
+4 and strategic board oversight;
+5 NOW, THEREFORE,
+6 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+7 Section 1. KRS 160.370 is repealed, reenacted, and amended to read as follows:
+8 (1) The superintendent shall be the executive agent of the board that appoints him or
+9 her and shall meet with the board, except when his or her own tenure, salary, or the
+10 administration of his or her office is under consideration. As executive officer of the
+11 board, the superintendent shall see that the laws relating to the schools, the bylaws,
+12 rules, and regulations of the Kentucky Board of Education, and the regulations and
+13 policies of the district board of education are carried into effect. He or she may
+14 administer the oath required by the board of education to any teacher or other
+15 person. He or she shall be the professional adviser of the board in all matters. He or
+16 she shall prepare, under the direction of the board, all rules, regulations, bylaws,
+17 and statements of policy for approval and adoption by the board. He or she shall
+18 have general supervision, subject to the control of the board of education, of the
+19 general conduct of the schools, the course of instruction, the discipline of pupils,
+20 and the management of business affairs. He or she shall be responsible for the
+21 hiring and dismissal of all personnel in the district.
+22 (2) For a county school district in a county with a consolidated local government
+23 adopted under KRS Chapter 67C or having five hundred thousand (500,000) or
+24 more inhabitants:
+25 (a) A local board of education shall:
+26 1. Delegate authority to the superintendent over the district's day-to-day
+27 operations and implementation of the board-approved strategic plan and
+Page 8 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 budget in a manner that promotes the efficient, timely operation of the
+2 district, including but not limited to the authority over contracts related
+3 to daily operations of the district, pupil transportation, personnel
+4 matters, and the organizational structure of administrative staff;
+5 2. [Except as expressly required by statute, including subparagraphs 3. and
+6 5. of this paragraph, not meet more than once every four (4) weeks for
+7 the purpose of approving necessary administrative matters;
+8 3. ]By December 1 each year, approve a rolling five (5)[three (3)] year
+9 strategic plan for the district that outlines student outcome[achievement]
+10 goals, faculty and staff improvement goals, facility and infrastructure
+11 improvement, and other key objectives that the superintendent and board
+12 believe are in the best interest of student outcomes and the community;
+13 3. Review and approve a rolling three (3) year projection of expenses and
+14 revenues;
+15 4. Approve an annual budget for the district, which shall include any
+16 budgetary decisions relevant to the district's ability to obtain necessary
+17 revenue, including tax revenue, in accordance with the requirements of
+18 state law and regulation;
+19 5. By December[November] 1 each year, oversee:
+20 a. An annual audit of the financial dealings of the district and the
+21 reporting of key financial performance data in order to ensure fair
+22 and accurate reporting to the board; and
+23 b. An annual review of student performance in the district and the
+24 reporting of key student performance data to ensure compliance
+25 with state and federal law and accurate reporting to the board;
+26 6. Recruit and hire the superintendent and negotiate the terms of
+27 employment and compensation of a prospective superintendent;
+Page 9 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 7. Complete an annual review of the superintendent's performance with
+2 regard to the duties assigned in subsection (1) of this section and
+3 paragraph (b) of this subsection; and
+4 8. Be responsible for the dismissal of the superintendent;
+5 (b) Notwithstanding any provision to the contrary in subsection (1) of this
+6 section, the superintendent shall:
+7 1. Provide a quarterly, informational report to the board on the
+8 administrative actions taken by the superintendent to carry out the
+9 district's daily operations and implementation of the strategic plan as
+10 well as a budget to actual financial update;
+11 2. Prepare all rules, regulations, bylaws, and statements of policy for
+12 approval and adoption by the board, with approval not to be withheld
+13 without a two-thirds (2/3) vote of the board to deny approval or
+14 adoption;
+15 3. Supervise the general conduct of the schools, the course of instruction,
+16 the discipline of pupils, the employment matters of all employees and
+17 contractors, and the management of business affairs of the district;
+18 4. Be responsible for the hiring, employment terms, dismissal, and
+19 organizational structure of all personnel in the district in compliance
+20 with all laws and in a manner that best serves the students of the district;
+21 and
+22 5. Notwithstanding any law that assigns an administrative duty,
+23 responsibility, or authority to a board of education, or other law to the
+24 contrary, be responsible for any administrative duty not explicitly
+25 granted to the board under paragraph (a) of this subsection;[ and]
+26 (c) If the school district[county] adopts the provisions of the Kentucky Model
+27 Procurement Code, the board shall authorize the superintendent to approve
+Page 10 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 purchases, in accordance with small purchase procedures adopted by the
+2 board, for any contract for which a determination is made that the aggregate
+3 amount of the contract does not exceed two hundred fifty thousand dollars
+4 ($250,000);[.]
+5 (d) The board shall authorize the superintendent to approve a line-item transfer
+6 within its annual budget as she or he deems necessary, provided that the
+7 aggregate amount of all transfers do[any individual transfer does] not exceed
+8 two hundred fifty thousand dollars ($250,000) per quarter. The
+9 superintendent shall provide a quarterly report to the board on any purchases
+10 made under this subsection; and
+11 (e) Any purchase or transfer completed pursuant to paragraph (c) or (d) of this
+12 subsection shall be within the approved budget of the district, aligned to the
+13 strategic plan of the district, and reported to the board at the next regularly
+14 scheduled board meeting.
+Page 11 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+[DELETED:   2  V A W t C h a c i i e t a s s W a a W s e t o i a n s c a l a c W J o o o t l p b i t C w c t l p s d b i K e t o b o L M G i m t t t s o t C s p s d b a i n s t l t t n d t m t s f r a w g m a f d w t d W J o a d s t s s a m K c a r s l p r c a c m c t a m t s W J e a d s a a c m i e t m i r c o r a]
+[DELETED:   2  V c W p t a m a c s a h l i t e h m i t a i s c b u t a s a a W J s a s p w e n i h s E l l a s i b t b c a c a a o w n i a t W J e m a h s o e a p l t i t s a s r p a s a W r u l a g l w a 2 p o e s a p i r d l d i l W m s u c c i f n e t p r W]
+[DELETED:   2  V l o e i r a a m a h s s w d l h p a c b a w W t n o J s i f C S a d a g c o t C l s d W a g a p r m m p f t e m W J a r o t p d r o i i s W s a l r f d t c a u l e a g a r s f i a W p r a d d r o s c s t r r o d a c s W h h s r e d t t d s a i l s o]
+[DELETED:   2  V K W J h p d a s a g b s d i p b u s p r o t f h g a W J s f l h p a s f a o d w t d i u f d p l c i r c r g d f W i a a p a o J t o h i f t a s r t i i b i c a c o l t p h W e a m c t s d f a s W i 2 c r J g a m c r i a c a p a s w s e a t a a f s t d l a u s g W r o c i t f s]
+[DELETED:   2  V i p c W r s a a o o h a d o m a e W s c e o s t d r r p m m W r b r t e s p f o m o a a o o a e o e p a g p w t r t m c W t p l c w a s d t h r r W q t s W t g b J a t s s d i K J a]
+[DELETED:   2  V W c t a c d f t f b s a m d c W t c o a o t s f a l f w a s d o t s r c c e d t c b a w s W g s w r b o e t s f a l b e m a o s b i i a u a d s a c W g o W s a l i r s d i g e a a a W A a a d t p f a e s o c s t t C a t d n i e t g s a c o d e s e a t s W a]
+[DELETED:   2  V w W i d o a s s a c e g r a c s b s o a o e o W v d o a i a s c e o r a d a s a f r a W l p i a i r t t a t u c p b d o t s w p l c a d a W t d c o J w c i c p a r s a c s b f d g t a s t i r r t t G W J i s i s p b s e d c c a l a c s i i e t t d i g f W s d m d o c o c s o s W d]
+[DELETED:   2  V W s o s s w e p s r p c a N B S ( T h a b r p a t o r b t b o e t a t o o p s a h g a t m o b a H o s s b r f t h ( F a c s d i a c w a c l g a m ( A 1 D a t t s o t d d o]
+[DELETED:   2  V b d t d o o t d p t p m 2 [ 5 t 3 ] D 1 e y a a r f ( ( y s g f a s i g f a i i b 3 R r 4 A a a b f t d w s i a b r s 5 B a A a a o f d o d a t r a b A r o s p d t e c w 6 R a h t s a n t t o e]
+[DELETED:   2  V 7 C a a r o t s p w r t t d a i s ( o t s a p 8 B ( N a p t t c i s ( o t s 1 P a q i r t t b o t a a t b t s t c o t d d o a i o t s p a w 2 P a r r b a s o p f a w a t ( v o t b t d a o a 3 S t c 4 B r f t h e t d a o s o a p i t d i c w a 5 N a l t a a a d r c b r f a a d n e g ( I P C t b a t s t a]
+[DELETED:   2  V p i a w s p p a b t b a ( ( T w i a b a s o h d n p t t a t h f t d ( p q T s m ( A s s s]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 AN ACT relating to education.
+2 WHEREAS, the Commonwealth has a compelling interest in ensuring that all
+3 students receive access to safe, reliable, and effective public education systems that meet
+4 student needs, protect student well-being, and responsibly steward public funds; and
+5 WHEREAS, certain school districts within the Commonwealth operate at a scale
+6 and level of complexity that is fundamentally different from the operational, governance,
+7 and management demands faced by other local school districts; and
+8 WHEREAS, Jefferson County Public Schools (JCPS) serves approximately 95,000
+9 students across 168 schools, educates students speaking more than 139 languages, and
+10 employs thousands of instructional and noninstructional staff, creating a large and
+11 complex public educational system unlike any other district in Kentucky; and
+12 WHEREAS, JCPS operates one of the largest public-sector budgets in the
+13 Commonwealth, managing an annual district budget of approximately $1,900,000,000,
+14 which constitutes the largest public school district budget in Kentucky, exceeds the
+15 operating budget of Louisville Metro Government, is more than twice the size of the
+16 Commonwealth’s second-largest public school district budget, and is nearly six times
+17 larger than the next-largest district, thereby magnifying the statewide fiscal risk
+18 associated with governance, management, and financial decision-making within the
+19 district; and
+20 WHEREAS, JCPS operates a daily student transportation system serving
+21 approximately 60,000 riders, an operational footprint exceeding the total population of
+22 most Kentucky counties and requiring sophisticated logistical planning, real-time
+23 coordination, and cross-departmental management comparable to a municipal transit
+24 system rather than a typical school district; and
+25 WHEREAS, JCPS employs a districtwide student assignment and choice model
+26 involving magnet programs, specialized academic pathways, and cross-attendance-zone
+27 enrollment that materially increases routing complexity, operational risk, and
+Page 1 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 coordination demands beyond those faced by other Kentucky school districts; and
+2 WHEREAS, repeated transportation failures within JCPS have resulted in students,
+3 particularly those attending magnet and choice schools, arriving home late into the
+4 evening hours, missing instructional time, and in some cases being unable to attend
+5 school at all, demonstrating systemic breakdowns in planning, execution, and executive
+6 accountability that directly undermine student safety, attendance, and educational access;
+7 and
+8 WHEREAS, JCPS serves a student population with elevated needs, including
+9 higher concentrations of students living in poverty, students requiring special education
+10 services, English language learners, and students impacted by trauma, behavioral
+11 challenges, and chronic absenteeism, all of which necessitate integrated academic,
+12 transportation, safety, and support systems; and
+13 WHEREAS, JCPS elementary, middle, and high schools overall earned a
+14 performance rating in the "orange" category for the 2024-2025 school year, the second-
+15 lowest tier in the state’s accountability system, reflecting persistent and systemwide
+16 academic underperformance relative to statewide expectations; and
+17 WHEREAS, JCPS state assessment results show that proficiency rates in reading
+18 remain unacceptably low across grade levels, with approximately 24 percent of
+19 elementary students, 22 percent of middle school students, and 23 percent of high school
+20 students achieving proficiency in reading, demonstrating long-standing deficiencies in
+21 literacy outcomes; and
+22 WHEREAS, JCPS assessment data further indicates persistently low proficiency in
+23 mathematics, with approximately 23 percent of elementary students, 20 percent of middle
+24 school students, and 19 percent of high school students scoring at the proficient level,
+25 underscoring chronic challenges in foundational numeracy essential to postsecondary
+26 readiness and workforce participation; and
+27 WHEREAS, JCPS continues to experience significant and persistent deficiencies in
+Page 2 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 literacy outcomes, especially in reading achievement among middle and high school
+2 students, which district leadership has publicly acknowledged cannot be addressed
+3 without sustained, systemwide intervention; and
+4 WHEREAS, the number of JCPS schools identified for Comprehensive Support
+5 and Improvement (CSI) status increased from 34 schools in 2022 to 41 schools in 2025,
+6 demonstrating a growing concentration of the Commonwealth’s lowest-performing
+7 schools within a single district and accounting for approximately 77 percent of all CSI-
+8 designated schools statewide; and
+9 WHEREAS, JCPS continues to experience wide achievement gaps and inconsistent
+10 academic proficiency across schools, with district leadership publicly acknowledging that
+11 graduation and postsecondary readiness metrics mask persistent failures to ensure
+12 mastery of core academic subjects; and
+13 WHEREAS, JCPS assessment reporting over the past decade reflects only
+14 incremental academic gains in reading, math, and science, with periods of stagnation that
+15 indicate structural limitations in the district’s ability to drive sustained improvement at
+16 scale; and
+17 WHEREAS, statewide and local reporting further demonstrate that chronic
+18 absenteeism within JCPS approaches one-third of enrolled students, a rate that materially
+19 undermines learning, exacerbates achievement gaps, and reflects systemic failures in
+20 attendance, transportation reliability, and student engagement; and
+21 WHEREAS, public reporting and district documentation reflect ongoing safety
+22 concerns within JCPS, including weapons incidents and the deployment of districtwide
+23 security technologies, requiring rapid operational decision-making and consistent
+24 systemwide execution to protect students and staff; and
+25 WHEREAS, JCPS manages a nearly $2,000,000,000 complex public system and
+26 has publicly reported significant budget deficits and ongoing fiscal pressures, creating
+27 heightened statewide risk exposure due to the district’s size and its large share of
+Page 3 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 Kentucky’s total public school enrollment; and
+2 WHEREAS, JCPS has publicly disclosed a substantial and growing budget
+3 shortfall, driven in part by undisciplined spending practices, reliance on temporary
+4 federal funds, and delayed corrective action, creating significant fiscal risk to a district
+5 heavily supported by statewide taxpayer dollars and highlighting the inability of existing
+6 governance structures to ensure timely financial oversight and corrective management;
+7 and
+8 WHEREAS, JCPS’ senior financial leadership has publicly acknowledged
+9 substantive financial and operational deficiencies within the district, including
+10 undisciplined budgeting practices enabled by temporary federal relief funds, materially
+11 flawed deficit projections, looming cash-flow insolvency risks, constrained revenue
+12 growth that fails to keep pace with inflation, and internal decision-making that limited the
+13 disclosure of pertinent financial data, collectively demonstrating systemic weaknesses in
+14 fiscal management, transparency, and long-term financial planning; and
+15 WHEREAS, independent audits and public analyses of JCPS transportation
+16 operations have identified failures that are systemic rather than isolated, involving
+17 breakdowns in coordination among central office leadership, transportation planning,
+18 human resources, and operational decision-making; and
+19 WHEREAS, such audits and reporting indicate that diffuse authority and unclear
+20 executive accountability materially contributed to service delivery failures affecting
+21 student safety, attendance, and public confidence in the district; and
+22 WHEREAS, in 2018, concerns regarding JCPS governance and management
+23 capacity resulted in a corrective action plan and settlement with state education
+24 authorities to avert a full state takeover, demonstrating longstanding and unresolved
+25 statewide concern regarding the district’s ability to address its challenges under existing
+26 governance structures; and
+27 WHEREAS, recurring operational crises, including transportation failures, safety
+Page 4 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 incidents, fiscal instability, and persistent academic underperformance, reflect not merely
+2 programmatic shortcomings but structural governance deficiencies that impede timely,
+3 coordinated executive action; and
+4 WHEREAS, districts operating at such a large scale and high level of complexity
+5 require governance structures that clearly distinguish between strategic oversight, policy-
+6 setting, and accountability on one hand, and day-to-day operational management and
+7 execution on the other; and
+8 WHEREAS, large districts need clear operational authority and responsibility in a
+9 single chief executive officer, subject to defined reporting requirements, performance
+10 metrics, and board oversight, to create clearer accountability, faster decision-making, and
+11 more effective systemwide coordination; and
+12 WHEREAS, restructuring board responsibilities to emphasize strategic planning,
+13 fiscal oversight, monitoring of academic and operational outcomes, and evaluation of
+14 executive performance aligns governance practices with those required to manage
+15 complex public institutions responsibly; and
+16 WHEREAS, the governance structure established in subsection (2) of Section 1 of
+17 this Act is intended to serve as a targeted and proportionate alternative to state takeover,
+18 preserving local control while addressing structural deficiencies that have repeatedly
+19 resulted in systemwide failures; and
+20 WHEREAS, JCPS operates at a scale that is not merely larger, but qualitatively and
+21 quantitatively distinct from every other public school district in the Commonwealth, such
+22 that differences between JCPS and other districts are not incremental but exponential in
+23 student population, workforce size, operational scope, and fiscal exposure; and
+24 WHEREAS, the gap between JCPS and the second-largest school district in
+25 Kentucky is itself greater than the gap between all remaining districts statewide, such that
+26 JCPS constitutes a natural and objectively identifiable class based on scale, complexity,
+27 and statewide impact; and
+Page 5 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 WHEREAS, districts of this magnitude present governance, operational, and fiscal
+2 challenges that are categorically different from those faced by small and mid-sized
+3 districts, and uniform governance structures designed for substantially smaller systems
+4 cannot reasonably be expected to perform effectively at this scale; and
+5 WHEREAS, the concentration of academic, operational, transportation, safety,
+6 fiscal, and labor-management functions within a single district of this size requires
+7 continuous, coordinated executive decision-making that cannot be achieved when
+8 strategic oversight and day-to-day administration are commingled; and
+9 WHEREAS, governance structures which require boards of education to
+10 simultaneously function as legislative bodies, executive managers, and operational
+11 supervisors become increasingly ineffective and unworkable as district scale and
+12 complexity increase; and
+13 WHEREAS, repeated systemwide failures within JCPS demonstrate that existing
+14 governance structures are not merely underperforming, but structurally mismatched to the
+15 operational demands placed upon the district; and
+16 WHEREAS, when operational failures deprive students of reliable transportation
+17 and instructional access while fiscal mismanagement threatens the solvency of the state’s
+18 largest school district, such failures cannot reasonably be attributed to isolated errors but
+19 instead reflect structural deficiencies in governance, executive authority, and
+20 accountability that demand corrective action; and
+21 WHEREAS, Section 183 of the Kentucky Constitution imposes upon the General
+22 Assembly an affirmative duty to provide for an efficient system of common schools
+23 throughout the Commonwealth, and that duty necessarily includes ensuring that
+24 governance structures are capable of delivering educational services effectively at the
+25 scale at which they are required to operate; and
+26 WHEREAS, efficiency within the meaning of Section 183 encompasses not only
+27 academic outcomes, but also fiscal stewardship, student safety, transportation reliability,
+Page 6 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 workforce management, and the capacity for timely executive decision-making; and
+2 WHEREAS, in districts operating at significant scale and complexity, effective
+3 governance requires a clear separation between strategic oversight and operational
+4 execution, such that boards of education are focused on policy, long-term planning, fiscal
+5 oversight, and performance accountability; and
+6 WHEREAS, vesting day-to-day operational authority in a single chief executive
+7 officer, subject to defined performance metrics and board oversight, promotes clarity of
+8 responsibility, accelerates decision-making, and strengthens accountability for results;
+9 and
+10 WHEREAS, this governance structure aligns with best practices used to manage
+11 large public institutions and is reasonably tailored to address the unique challenges
+12 presented by districts of this size, while preserving local control and democratic
+13 accountability; and
+14 WHEREAS, the distinctive characteristics of JCPS, when considered in
+15 combination, provide a rational, substantial, and constitutionally sufficient basis for
+16 differentiated governance treatment, and such treatment is reasonably related to the
+17 General Assembly's duty to ensure an efficient system of common schools; and
+18 WHEREAS, JCPS is supported in substantial part by state education dollars
+19 contributed by taxpayers throughout the Commonwealth, and the scale of this investment
+20 creates a legitimate and compelling statewide interest in ensuring that the district is
+21 governed and managed in a manner that maximizes educational outcomes, protects public
+22 funds, and fulfills constitutional obligations to all Kentucky students; and
+23 WHEREAS, school districts meeting defined objective criteria of certain scale,
+24 operational complexity, and statewide impact may be subject to alternative governance
+25 structures; and
+26 WHEREAS, such governance structures are reasonably and naturally related to the
+27 distinctive challenges faced by these districts; and
+Page 7 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 WHEREAS, the purpose of subsection (2) of Section 1 of this Act is to improve
+2 student outcomes, safeguard student wellbeing, ensure public safety, restore public
+3 confidence, and strengthen fiscal stewardship through enhanced executive accountability
+4 and strategic board oversight;
+5 NOW, THEREFORE,
+6 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+7 Section 1. KRS 160.370 is repealed, reenacted, and amended to read as follows:
+8 (1) The superintendent shall be the executive agent of the board that appoints him or
+9 her and shall meet with the board, except when his or her own tenure, salary, or the
+10 administration of his or her office is under consideration. As executive officer of the
+11 board, the superintendent shall see that the laws relating to the schools, the bylaws,
+12 rules, and regulations of the Kentucky Board of Education, and the regulations and
+13 policies of the district board of education are carried into effect. He or she may
+14 administer the oath required by the board of education to any teacher or other
+15 person. He or she shall be the professional adviser of the board in all matters. He or
+16 she shall prepare, under the direction of the board, all rules, regulations, bylaws,
+17 and statements of policy for approval and adoption by the board. He or she shall
+18 have general supervision, subject to the control of the board of education, of the
+19 general conduct of the schools, the course of instruction, the discipline of pupils,
+20 and the management of business affairs. He or she shall be responsible for the
+21 hiring and dismissal of all personnel in the district.
+22 (2) For a county school district in a county with a consolidated local government
+23 adopted under KRS Chapter 67C or having five hundred thousand (500,000) or
+24 more inhabitants:
+25 (a) A local board of education shall:
+26 1. Delegate authority to the superintendent over the district's day-to-day
+27 operations and implementation of the board-approved strategic plan and
+Page 8 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 budget in a manner that promotes the efficient, timely operation of the
+2 district, including but not limited to the authority over contracts related
+3 to daily operations of the district, pupil transportation, personnel
+4 matters, and the organizational structure of administrative staff;
+5 2. [Except as expressly required by statute, including subparagraphs 3. and
+6 5. of this paragraph, not meet more than once every four (4) weeks for
+7 the purpose of approving necessary administrative matters;
+8 3. ]By December 1 each year, approve a rolling five (5)[three (3)] year
+9 strategic plan for the district that outlines student outcome[achievement]
+10 goals, faculty and staff improvement goals, facility and infrastructure
+11 improvement, and other key objectives that the superintendent and board
+12 believe are in the best interest of student outcomes and the community;
+13 3. Review and approve a rolling three (3) year projection of expenses and
+14 revenues;
+15 4. Approve an annual budget for the district, which shall include any
+16 budgetary decisions relevant to the district's ability to obtain necessary
+17 revenue, including tax revenue, in accordance with the requirements of
+18 state law and regulation;
+19 5. By December[November] 1 each year, oversee:
+20 a. An annual audit of the financial dealings of the district and the
+21 reporting of key financial performance data in order to ensure fair
+22 and accurate reporting to the board; and
+23 b. An annual review of student performance in the district and the
+24 reporting of key student performance data to ensure compliance
+25 with state and federal law and accurate reporting to the board;
+26 6. Recruit and hire the superintendent and negotiate the terms of
+27 employment and compensation of a prospective superintendent;
+Page 9 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 7. Complete an annual review of the superintendent's performance with
+2 regard to the duties assigned in subsection (1) of this section and
+3 paragraph (b) of this subsection; and
+4 8. Be responsible for the dismissal of the superintendent;
+5 (b) Notwithstanding any provision to the contrary in subsection (1) of this
+6 section, the superintendent shall:
+7 1. Provide a quarterly, informational report to the board on the
+8 administrative actions taken by the superintendent to carry out the
+9 district's daily operations and implementation of the strategic plan as
+10 well as a budget to actual financial update;
+11 2. Prepare all rules, regulations, bylaws, and statements of policy for
+12 approval and adoption by the board, with approval not to be withheld
+13 without a two-thirds (2/3) vote of the board to deny approval or
+14 adoption;
+15 3. Supervise the general conduct of the schools, the course of instruction,
+16 the discipline of pupils, the employment matters of all employees and
+17 contractors, and the management of business affairs of the district;
+18 4. Be responsible for the hiring, employment terms, dismissal, and
+19 organizational structure of all personnel in the district in compliance
+20 with all laws and in a manner that best serves the students of the district;
+21 and
+22 5. Notwithstanding any law that assigns an administrative duty,
+23 responsibility, or authority to a board of education, or other law to the
+24 contrary, be responsible for any administrative duty not explicitly
+25 granted to the board under paragraph (a) of this subsection;[ and]
+26 (c) If the school district[county] adopts the provisions of the Kentucky Model
+27 Procurement Code, the board shall authorize the superintendent to approve
+Page 10 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 26 RS SB 1/VO
+1 purchases, in accordance with small purchase procedures adopted by the
+2 board, for any contract for which a determination is made that the aggregate
+3 amount of the contract does not exceed two hundred fifty thousand dollars
+4 ($250,000);[.]
+5 (d) The board shall authorize the superintendent to approve a line-item transfer
+6 within its annual budget as she or he deems necessary, provided that the
+7 aggregate amount of all transfers do[any individual transfer does] not exceed
+8 two hundred fifty thousand dollars ($250,000) per quarter. The
+9 superintendent shall provide a quarterly report to the board on any purchases
+10 made under this subsection; and
+11 (e) Any purchase or transfer completed pursuant to paragraph (c) or (d) of this
+12 subsection shall be within the approved budget of the district, aligned to the
+13 strategic plan of the district, and reported to the board at the next regularly
+14 scheduled board meeting.
+Page 11 of 11
+SB000190.100 - 1479 - XXXX 4/14/2026 1:52 PM Vetoed and Overridden
+
+[DELETED:   2  V A W t C h a c i i e t a s s W a a W s e t o i a n s c a l a c W J o o o t l p b i t C w c t l p s d b i K e t o b o L M G i m t t t s o t C s p s d b a i n s t l t t n d t m t s f r a w g m a f d w t d W J o a d s t s s a m K c a r s l p r c a c m c t a m t s W J e a d s a a c m i e t m i r c o r a]
+[DELETED:   2  V c W p t a m a c s a h l i t e h m i t a i s c b u t a s a a W J s a s p w e n i h s E l l a s i b t b c a c a a o w n i a t W J e m a h s o e a p l t i t s a s r p a s a W r u l a g l w a 2 p o e s a p i r d l d i l W m s u c c i f n e t p r W]
+[DELETED:   2  V l o e i r a a m a h s s w d l h p a c b a w W t n o J s i f C S a d a g c o t C l s d W a g a p r m m p f t e m W J a r o t p d r o i i s W s a l r f d t c a u l e a g a r s f i a W p r a d d r o s c s t r r o d a c s W h h s r e d t t d s a i l s o]
+[DELETED:   2  V K W J h p d a s a g b s d i p b u s p r o t f h g a W J s f l h p a s f a o d w t d i u f d p l c i r c r g d f W i a a p a o J t o h i f t a s r t i i b i c a c o l t p h W e a m c t s d f a s W i 2 c r J g a m c r i a c a p a s w s e a t a a f s t d l a u s g W r o c i t f s]
+[DELETED:   2  V i p c W r s a a o o h a d o m a e W s c e o s t d r r p m m W r b r t e s p f o m o a a o o a e o e p a g p w t r t m c W t p l c w a s d t h r r W q t s W t g b J a t s s d i K J a]
+[DELETED:   2  V W c t a c d f t f b s a m d c W t c o a o t s f a l f w a s d o t s r c c e d t c b a w s W g s w r b o e t s f a l b e m a o s b i i a u a d s a c W g o W s a l i r s d i g e a a a W A a a d t p f a e s o c s t t C a t d n i e t g s a c o d e s e a t s W a]
+[DELETED:   2  V w W i d o a s s a c e g r a c s b s o a o e o W v d o a i a s c e o r a d a s a f r a W l p i a i r t t a t u c p b d o t s w p l c a d a W t d c o J w c i c p a r s a c s b f d g t a s t i r r t t G W J i s i s p b s e d c c a l a c s i i e t t d i g f W s d m d o c o c s o s W d]
+[DELETED:   2  V W s o s s w e p s r p c a N B S ( T h a b r p a t o r b t b o e t a t o o p s a h g a t m o b a H o s s b r f t h ( F a c s d i a c w a c l g a m ( A 1 D a t t s o t d d o]
+[DELETED:   2  V b d t d o o t d p t p m 2 [ 5 t 3 ] D 1 e y a a r f ( ( y s g f a s i g f a i i b 3 R r 4 A a a b f t d w s i a b r s 5 B a A a a o f d o d a t r a b A r o s p d t e c w 6 R a h t s a n t t o e]
+[DELETED:   2  V 7 C a a r o t s p w r t t d a i s ( o t s a p 8 B ( N a p t t c i s ( o t s 1 P a q i r t t b o t a a t b t s t c o t d d o a i o t s p a w 2 P a r r b a s o p f a w a t ( v o t b t d a o a 3 S t c 4 B r f t h e t d a o s o a p i t d i c w a 5 N a l t a a a d r c b r f a a d n e g ( I P C t b a t s t a]
+[DELETED:   2  V p i a w s p p a b t b a ( ( T w i a b a s o h d n p t t a t h f t d ( p q T s m ( A s s s]

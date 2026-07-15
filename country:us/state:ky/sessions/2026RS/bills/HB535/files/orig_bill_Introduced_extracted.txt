@@ -1,0 +1,990 @@
+Title: 1 AN ACT relating to investor-owned electric utilities and declaring an emergency.
+Official Title: 1 AN ACT relating to investor-owned electric utilities and declaring an emergency.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 1016
+2 WHEREAS, the General Assembly desires to reduce costs for electric utility
+3 customers while encouraging investment in electric generation facilities within the
+4 borders of the Commonwealth; and
+5 WHEREAS, the General Assembly wishes to allow for the securitization of certain
+6 additional utility assets by electric utilities pursuing the development of dispatchable
+7 generation located in the Commonwealth;
+8 NOW, THEREFORE,
+9 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+10 Section 1. KRS 278.670 is amended to read as follows:
+11 In addition to the definitions in KRS 278.010, except KRS 278.010(3)(a), which shall
+12 apply unless they conflict with or the context otherwise requires, as used in KRS 278.670
+13 to 278.696 and 65.114:
+14 (1) "Ancillary agreement" means a bond, insurance policy, letter of credit, reserve
+15 account, surety bond, interest rate lock or swap arrangement, hedging arrangement,
+16 liquidity or credit support arrangement, or other financial arrangement entered into
+17 in connection with securitized bonds;
+18 (2) "Assignee" means a legally recognized entity to which an electric utility assigns,
+19 sells, or transfers, other than as security, all or a portion of its interest in or right to
+20 securitized property. The term "assignee" includes a corporation, limited liability
+21 company, general or limited partnership, public authority, trust, and financing entity
+22 to which an assignee assigns, sells or transfers, other than as security, its interest in
+23 or right to securitized property;
+24 (3) "Bondholder" means a person who holds a securitized bond;
+25 (4) "Code" means the Uniform Commercial Code, KRS Chapter 355;
+26 (5) "Deferred costs" means costs that have occurred and are[but will be] accounted for
+27 as part of a regulatory asset;
+Page 1 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 (6) "Environmental control costs" means costs incurred or expected to be incurred
+2 by a qualifying electric utility to comply with:
+3 (a) 42 U.S.C. sec. 7401 et seq. and not recovered under KRS 278.183; or
+4 (b) Any federal, state, or local environmental laws, administrative regulations,
+5 orders, or other requirements which apply to coal combustion wastes or by-
+6 products from extra-state generation facilities utilized for the production of
+7 energy from coal, including expenses and capital costs for services,
+8 equipment, and other assets;
+9 (7) "Financing costs" means any one (1) or more of[include] the following:
+10 (a) Interest and acquisition, defeasance, or redemption premiums payable on
+11 securitized bonds;
+12 (b) Any payment required under an ancillary agreement and any amount required
+13 to fund or replenish a reserve account or other accounts established under the
+14 terms of any indenture, ancillary agreement, or other financing document
+15 pertaining to securitized bonds;
+16 (c) Any other cost related to issuing, supporting, repaying, refunding, or servicing
+17 securitized bonds, including the following fees and costs without limitation:
+18 1. Servicing fees, accounting and auditing fees, trustee fees, consulting
+19 fees, structuring adviser fees, financial advisor fees, administrative fees,
+20 placement and underwriting fees, independent director and manager
+21 fees, rating agency fees, stock exchange listing and compliance fees,
+22 security registration fees, and filing fees;
+23 2. Capitalized interest and information technology programming costs; and
+24 3. Any other costs necessary to otherwise ensure the timely payment of
+25 securitized bonds or other amounts or charges payable in connection
+26 with the bonds, including costs related to obtaining the financing order;
+27 (d) Any taxes and license fees or other fees imposed on the revenues generated
+Page 2 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 from the collection of the securitized surcharge or otherwise resulting from
+2 the collection of securitized surcharges, in any such case whether paid,
+3 payable, or accrued;
+4 (e) Any state or local taxes, franchise taxes, gross receipts, and other taxes or
+5 similar charges, including commission assessment fees, whether paid,
+6 payable, or accrued; and
+7 (f) Any costs associated with performance of the commission's responsibilities
+8 under KRS 278.670 to 278.696 and 65.114 in connection with:
+9 1. Approving, approving subject to conditions, or rejecting an application
+10 for a financing order; and
+11 2. Retaining counsel, one (1) or more financial advisors, or other
+12 consultants as deemed appropriate by the commission and paid pursuant
+13 to KRS 278.670 to 278.696 and 65.114, for the issuance advice letter
+14 process;
+15 (8)[(7)] "Financing order" means an order issued by the commission that authorizes
+16 the:
+17 (a) Issuance of securitization bonds;
+18 (b) Imposition, collection, and periodic adjustment of a securitized surcharge;
+19 (c) Creation of securitized property; and
+20 (d) Sale, assignment, or transfer of securitized property to an assignee;
+21 (9)[(8)] "Financing party" means bondholders and trustees, collateral agents, any party
+22 under an ancillary agreement, or any other person acting for the benefit of
+23 bondholders;
+24 (10)[(9)] "Financing statement" has the same meaning as in KRS 355.9-102;
+25 (11)[(10)] "Formula-based true-up mechanism" means a reconciliation or true-up
+26 process that is used to identify over collection or under collection of the securitized
+27 surcharge;
+Page 3 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 (12)[(11)] "Issuance advice letter" means a letter from the utility to the commission that
+2 describes the final terms and conditions for the bond issuance, including but not
+3 limited to the actual structure of the bond issue, pricing, and other bond features
+4 such as coupon rates, redemption, and call provisions, and current market
+5 conditions affecting the bond issuance;
+6 (13)(12) "Nonbypassable" means the payment of a securitized utility charge may not
+7 be avoided by any existing or future retail customer including special contract
+8 customers;
+9 (14)[(13)] "Pledgee" means a financing party to which an electric utility or its successors
+10 or assignees mortgages, negotiates, pledges, or creates a security interest or lien on
+11 all or any portion of its interest in or right to securitized property;
+12 (15)[(14)] "Regulatory asset" means, under the standardized financial accounting
+13 standards adopted by the commission, expenses that have been authorized by the
+14 commission to be capitalized for consideration of recovery in future rates that
+15 would otherwise be treated as an expense in a current accounting period;
+16 (16)[(15)] "Retired generation costs" means:
+17 (a) Pretax costs with respect to retired or abandoned facilities that are included as
+18 deferred costs subject to an application for a financing order and include but
+19 are not limited to:
+20 1. The undepreciated investment in the retired or abandoned electric
+21 generating facility and in any facilities ancillary thereto or used in
+22 conjunction therewith;
+23 2. Costs of decommissioning and restoring the site of the electric
+24 generating facility;
+25 3. Other applicable capital and operating costs; and
+26 4. Accrued carrying charges and deferred costs;
+27 (b) Reduced by, to the extent as they relate to the retired or abandoned
+Page 4 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 facilities:
+2 1. Insurance, scrap, and salvage proceeds;
+3 2. Applicable unamortized regulatory liabilities for excess deferred income
+4 taxes; and
+5 3. The present value of return on all accumulated deferred income taxes
+6 related to pretax costs with respect to the[a] retired or abandoned facility
+7 and related facilities, including those due to bonus and accelerated tax
+8 depreciation and abandonment losses; and
+9 (c) Added to pretax costs the electric utility has previously incurred related to the
+10 retirement or abandonment of an electric generating facility and related
+11 facilities offering before June 29, 2023, including costs associated with:
+12 1. The decommissioning and restoration of the site; and
+13 2. Environmental compliance related to the operation and retirement of the
+14 electric generating facility;
+15 (17)[(16)] "Securitization" means a structured process where interests in debt
+16 instruments [or other receivable income ]are packaged, underwritten, and sold as
+17 asset-backed marketable securities such as bonds;
+18 (18)[(17)] "Securitized bonds" means bonds, debentures, notes, certificates of
+19 participation, certificates of beneficial interest, certificates of ownership, or other
+20 evidences of indebtedness or ownership that have a maturity date as determined
+21 reasonable by the commission, but not later than thirty (30) years from the issue
+22 date, that are issued by an electric utility or assignee pursuant to a financing order,
+23 the proceeds of which are used directly or indirectly to recover, finance, or
+24 refinance capitalized cost assets and financing costs that are secured by or payable
+25 from securitized utility property;
+26 (19)[(18)] "Securitized costs" means any one (1) or more of:[include]
+27 (a) Retired generation costs;[, as well as the]
+Page 5 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 (b) Unamortized book value of deferred[extraordinary] storm costs or other
+2 regulatory assets; or
+3 (c) Undepreciated extra-state generation utility plant balances including but
+4 not limited to environmental control costs associated with an extra-state
+5 generation utility plant, in each case whether before or after
+6 securitization[deferred costs associated with prior incurrences, but does not
+7 include ongoing utility investments or operating costs];
+8 (20)[(19)] "Securitized property" means:
+9 (a) All rights and interests of a utility, its successor, or assignee under a financing
+10 order, including the right to impose, bill, charge, collect, and receive
+11 securitized surcharges authorized under the financing order and to obtain
+12 periodic adjustments to those charges authorized under KRS 278.670 to
+13 278.696 and 65.114 and as provided in the financing order; and
+14 (b) All revenues, collections, claims, rights to payments, payments, moneys, or
+15 proceeds arising from the rights and interests specified in the financing order,
+16 regardless of whether those revenues, collections, claims, rights to payment,
+17 payments, moneys, or proceeds are imposed, billed, received, collected, or
+18 maintained together with or commingled with other revenues, collections,
+19 rights to payment, payments, moneys, or proceeds;
+20 (21)[(20]) "Securitized surcharge" means the amounts authorized by the commission to
+21 repay, finance, or refinance securitized costs and financing costs. Upon
+22 authorization, the securitized surcharges shall be[ that are], except as otherwise
+23 provided for in KRS 278.670 to 278.696 and 65.114:
+24 (a) Nonbypassable and imposed on, and are a part of, all retail customer bills;
+25 (b) Collectable[Collected,] in full in[and separate from] the utility's tariffed rates
+26 by an electric utility or by its successors, assignees, or collection agents, and
+27 separate from the utility's[,] special contract rates[,] or other mechanisms[ by
+Page 6 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 an electric utility or by its successors, assignees, or collection agents]; and
+2 (c) Payable[Paid] by all existing or future retail customers receiving electrical
+3 services, including distribution services,[service] from the electric utility or
+4 its successors or assignees[ under commission-approved rate schedules even if
+5 a retail customer elects to purchase electricity from an alternative electricity
+6 supplier following a fundamental change in regulation of public utilities in the
+7 Commonwealth];[ and]
+8 (22) "Undepreciated extra-state generation utility plant balances" means any
+9 unrecovered capitalized costs of, or any not yet fully depreciated investments in,
+10 one (1) or more fossil fuel-fired electric generating plants that:
+11 (a) Are owned by an electric utility on the effective date of this Act;
+12 (b) Are located outside of the Commonwealth;
+13 (c) Have a nameplate generation capacity in excess of eight hundred (800)
+14 megawatts each; and
+15 (d) Have included in the plant's related supply, transmission, equipment, and
+16 fixtures at a minimum to the:
+17 1. Net book value of assets on the qualifying electric utility's balance
+18 sheet related to the generating plant's related infrastructure and
+19 environmental control costs associated with the extra-state generation
+20 utility plant; and
+21 2. Accrued carrying charges and deferred costs; and
+22 (23)[(21)] "Utility" has the same meaning as in KRS 278.010(3)(a) but shall not include
+23 any utility organized under KRS Chapter 279.
+24 Section 2. KRS 278.672 is amended to read as follows:
+25 (1) An electric utility may apply to the commission for a financing order to finance by
+26 securitized bonds any securitized costs approved by the commission[extraordinary
+27 or other deferred costs from previous events for regulatory assets existing and with
+Page 7 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 a value calculated on June 30, 2023, as:
+2 (a) Greater than two hundred million dollars ($200,000,000) for a single
+3 regulatory asset; or
+4 (b) Having a cumulative total value of greater than two hundred and seventy-five
+5 million ($275,000,000) for multiple regulatory assets].
+6 (2) An application for a financing order shall include:
+7 (a) A description and dollar amount of the extra-state generation utility plant
+8 balances, deferred storm costs, and other regulatory assets that the utility
+9 requests to securitize[of the deferred costs the utility is seeking to securitize.
+10 If more than fifty percent (50%) of the deferred costs are retired generation
+11 costs, the application also shall describe:
+12 1. The electric generating facility or facilities that have been retired; and
+13 2. A copy of all previous commission orders related to the deferral of costs
+14 applicable to the retirement or abandonment of the facility or facilities];
+15 (b) An estimate of the financing costs related to the securitized bonds[The dollar
+16 amount of the deferred costs];
+17 (c) An estimate of the:
+18 1. Securitized surcharges necessary to recover the securitized costs;
+19 2. Financing costs; and
+20 3. Time period needed for the recovery of securitized and financing
+21 costs[A statement of whether the electric utility proposes to finance all
+22 or a portion of deferred costs using securitized bonds. If the electric
+23 utility proposes to finance a portion of the costs, the electric utility shall
+24 identify the specific portion of the deferred costs in the application. By
+25 electing not to finance all or any portion of deferred costs using
+26 securitized bonds, an electric utility shall not be deemed to waive its
+27 right to reflect those costs in its retail rates pursuant to a separate
+Page 8 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 proceeding with the commission. However, at no point shall the electric
+2 utility apply to securitize less than the amounts prescribed in subsection
+3 (1) of this section];
+4 (d) A comparison between the:
+5 1. Net present value of the costs to ratepayers that are estimated to result
+6 from the issuance of securitized bonds; and
+7 2. Cost that would result from an alternative means of providing for the
+8 full recovery of and return on those securitized costs from customers,
+9 using the utility's current or expected weighted average cost of
+10 capital[An estimate of the financing costs related to the securitized
+11 bonds];
+12 (e)[ An estimate of the securitized surcharges necessary to recover the securitized
+13 costs and financing costs and the period for recovery of the costs;
+14 (f) A comparison between the net present value of the costs to ratepayers that are
+15 estimated to result from the issuance of securitized bonds and the cost that
+16 would result from an alternative means of providing for the full recovery of
+17 and return on those securitized costs from customers, using the utility's
+18 current or expected weighted average cost of capital. The comparison should
+19 demonstrate that the issuance of securitized bonds and the imposition of
+20 securitized surcharges are expected to provide quantifiable net present value
+21 benefits to customers;
+22 (g)] A proposed future ratemaking process to reconcile any differences between
+23 securitized costs financed by securitized bonds and the final securitized costs
+24 incurred by the electric utility, successor, or assignee, provided that any
+25 reconciliation shall not affect the amount of securitized bonds or the
+26 associated securitized surcharges paid by customers; and
+27 (f)[(h)] Testimony supporting the application.
+Page 9 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 (3) The commission shall not accept [for filing ]an application for a financing order
+2 tendered pursuant to this section for retired generation costs or undepreciated
+3 extra-state generation utility plant balances unless the electric utility tendering
+4 the application:
+5 (a) Has also filed, on or after January 1, 2026, an application to build or
+6 acquire in-state dispatchable generation pursuant to KRS 278.020; and
+7 (b) Has agreed not to seek an increase in base rates that would become effective
+8 prior to the two (2) years period after the application for a financing order
+9 is filed with the commission.
+10 (4) As used in this subsection, "dispatchable" has the same meaning as provided in
+11 KRS 164.2807(2)(b)[tendered pursuant to this section after December 31, 2024].
+12 Section 3. KRS 278.674 is amended to read as follows:
+13 (1) Proceedings on an application submitted pursuant to KRS 278.672 or Section 1 or 2
+14 of this Act shall begin with the filing of an application by an electric utility and
+15 shall be disposed of in accordance with the requirements of this section and the
+16 rules and administrative regulations promulgated by the commission, except as
+17 follows:
+18 (a) The commission shall establish a procedural schedule that requires that not
+19 later than one hundred eighty (180) days after the application is filed:
+20 1. A decision approving the application, approving the application subject
+21 to conditions, or denying the application is issued; and
+22 2. A financing order is issued if the application is approved and the
+23 conditions are met, if conditions are imposed;[ and]
+24 (b) The commission shall approve the application for a financing order with or
+25 without conditions if the commission finds:
+26 1. The application is in the public interest; and
+27 2. The resulting estimated securitized surcharge and other rates are fair,
+Page 10 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 just, and reasonable; and
+2 (c) The commission shall not require in any financing order for the
+3 securitization of an electric utility's securitized costs that the:
+4 1. Securitized bonds be marketed as a specific type of security; or
+5 2. Assignee be formed as a specific type of entity, including as a series
+6 trust.
+7 (2) Judicial review of a financing order shall only be done in accordance with KRS
+8 278.410.
+9 (3) In performing the responsibilities under KRS 278.670 to 278.696 and 65.114, the
+10 commission may retain counsel, one (1) or more financial advisors, or other
+11 consultants as the commission deems appropriate. Outside counsel, advisors, or
+12 other consultants engaged by the commission shall have no interest in the proposed
+13 securitized bonds and shall not direct the placement or marketing of securitized
+14 bonds. The costs associated with the commission's retaining of counsel,[ or]
+15 advisors, or other consultants shall:
+16 (a) Be paid by the applicant and be included as financing costs in the securitized
+17 surcharge;
+18 (b) Be assigned solely to the subject transaction;[ and]
+19 (c) Not be an obligation of the Commonwealth; and
+20 (d) Not exceed seven hundred fifty thousand dollars ($750,000), except that the
+21 costs may be adjusted for inflation each year after 2026 using a recognized
+22 price index selected by the commission.
+23 (4) The commission may designate one (1) or more representatives from commission
+24 staff who may be advised by one (1) or more financial advisors contracted with the
+25 commission to provide:
+26 (a) Input to and collaboration with the electric utility during the process
+27 undertaken to place the securitized bonds to market; and
+Page 11 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 (b) An opinion to the commission on the reasonableness of the pricing, terms, and
+2 conditions of the securitized bonds on an expedited basis.
+3 (5) The designated commission staff and any financial advisor providing advice to
+4 commission staff shall:
+5 (a) Have no authority to direct how the electric utility places the bonds to market
+6 or whether the bonds are required to be marketed as asset-backed securities,
+7 corporate bonds, or any other type of security;[ and]
+8 (b) Have only the right of input and collaboration on but not decision-making
+9 or approval authority over:
+10 1. Securities law filings;
+11 2. Structuring and marketing documents; or
+12 3. Transactional documents for the securitized bonds; and
+13 (c) Be permitted to attend meetings convened by the electric utility to address
+14 placement of the bonds to market.
+15 (6) If an electric utility's application for a financing order is denied or withdrawn, or for
+16 any reason securitized bonds are not issued, any costs of retaining financial
+17 advisors, consultants, and counsel on behalf of the commission, subject to the
+18 limitations set forth in subsection (5) of this section, shall be:
+19 (a) Paid by the applicant;
+20 (b) Recorded on the books of the utility using appropriate deferral accounting as a
+21 regulatory asset; and
+22 (c) Be eligible for full recovery, including carrying costs, subject to commission
+23 approval.
+24 (7) Prior to the issuance of each series of securitized bonds, the electric utility shall
+25 provide an issuance advice letter to the commission following the determination of
+26 the final terms of the series of securitized bonds no later than three (3) business
+27 days after the pricing of the securitized bonds.
+Page 12 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 (8) The issuance advice letter shall:
+2 (a) Report the initial securitized surcharges and other information specific to the
+3 securitized bonds as required by the commission;
+4 (b) [Be included in the financing order which may contain additional provisions
+5 relating to the issuance advice letter process as the commission deems
+6 appropriate and not inconsistent with KRS 278.670 to 278.696 and 65.114;
+7 (c) ]Indicate the final structure of the securitized bonds; and
+8 (c)[(d)] Provide the best available estimate of total ongoing financing costs.
+9 (9) A form or template issuance advice letter shall be included in the financing order,
+10 which may contain additional provisions relating to the issuance advice letter
+11 process as the commission deems appropriate and not inconsistent with KRS
+12 278.670 to 278.696 and 65.114.
+13 (10) Nothing in this section modifies the requirements of KRS 278.020(6) or relieves
+14 an electric utility of the requirements to obtain the commission's approval prior to
+15 selling or transferring assets, including extra-state generation facilities whose
+16 undepreciated extra-state generation utility plant balances have been securitized
+17 pursuant to this section and Sections 1 and 2 of this Act.
+18 Section 4. KRS 278.678 is amended to read as follows:
+19 (1) Upon the commission issuing a financing order and after the securitized bonds have
+20 been issued, the electric utility shall file with the commission a:
+21 (a) Tariff containing the mechanism for the assessment of a monthly surcharge to
+22 existing rates for the collection of the securitized costs; and
+23 (b) Formula-based true-up mechanism.
+24 (2) The commission, in a financing order and subject to the issuance advice letter
+25 process, shall specify the degree of flexibility to be afforded the electric utility in
+26 establishing:
+27 (a) The terms and conditions for the securitized bonds to accommodate changes
+Page 13 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 in market conditions, including repayment schedules, interest rates, financing
+2 costs, collateral requirements, required debt service, and other reserves; and
+3 (b) At its option, a series of issuances of securitized bonds and correlated
+4 assignments, sales, pledges, or other transfers of securitized property.
+5 (3) The electric utility shall file, at least semiannually, an[ a semiannual] update to its
+6 monthly surcharge, based on estimates of consumption for each rate class and other
+7 mathematical factors, to collect the appropriate amount of securitized costs. The
+8 review by the commission of the [semiannual ]update pursuant to this section shall
+9 be limited to:
+10 (a) Determining whether there are any mathematical or clerical errors in the
+11 application of the formula-based true-up mechanism relating to the
+12 appropriate amount of any over collection or under collection of a securitized
+13 surcharge; and
+14 (b) The amount of an adjustment required to address a mathematical or clerical
+15 error determined pursuant to this section.
+16 (4) The adjustments shall ensure solely for the recovery of:
+17 (a) Revenues sufficient to provide for the payment of principal, interest,
+18 acquisition, defeasance, financing costs, or redemption premium; and
+19 (b) Other fees, costs, and charges with respect to securitized bonds approved
+20 under the financing order.
+21 (5) Within ten (10) days after receiving an electric utility's filing of the billing
+22 adjustment pursuant to this section, the commission shall either:
+23 (a) Affix an official stamp on the filing indicating the commission's review is
+24 complete; or
+25 (b) Inform the electric utility of any mathematical or clerical errors in the electric
+26 utility's calculation.
+27 (6) If the commission informs the electric utility of mathematical or clerical errors in its
+Page 14 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 calculation, the electric utility shall correct its error and refile its [semiannual
+2 ]surcharge update.
+3 (7) The time frames in subsection (5) of this section shall also apply to a refiled
+4 request.
+5 (8) At the time of any transfer of securitized property to an assignee or the issuance of
+6 securitized bonds authorized thereby, whichever is earlier, a financing order shall
+7 be irrevocable and, except for changes made pursuant to the formula-based true-up
+8 mechanism authorized in this section, the commission shall not:
+9 (a) Amend, modify, or terminate the financing order by any subsequent action; or
+10 (b) Reduce, impair, postpone, terminate, or otherwise adjust securitized
+11 surcharges approved in the financing order.
+12 (9) After issuance of a financing order, the electric utility retains sole discretion
+13 regarding whether to:
+14 (a) Assign, sell, or otherwise transfer securitized property; or
+15 (b) Cause securitized bonds to be issued, including the right to defer or postpone
+16 the assignment, sale, transfer, or issuance of securitized bonds.
+17 (10) Any changes made under this section to terms and conditions for the securitized
+18 bonds shall be in conformance with the financing order.
+19 Section 5. KRS 278.682 is amended to read as follows:
+20 (1) If the commission has approved an electric utility's financing order and
+21 securitization bonds are issued on the electric utility's behalf, the electric utility
+22 shall[:
+23 (a) ] explicitly state on the customer's bill the portion of securitized surcharges
+24 applicable to the rate class as approved in the financing order issued to the electric
+25 utility[; and
+26 (b) Include the securitized surcharge on each customer's bill as a separate line item and
+27 include both the base rate for the customer's electricity and the amount of the
+Page 15 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1016
+1 surcharge].
+2 (2) If the securitized property has been transferred to an assignee, the customer bill
+3 shall include a statement that the assignee is the owner of the rights to securitized
+4 surcharges, and the electric utility or other entity, if applicable, is acting as a
+5 collection agent or servicer for the assignee.
+6 (3) Each tariff of the electric utility with a commission-approved financing order shall
+7 indicate the applicable securitized surcharge and the ownership of the surcharge.
+8 Section 6. Whereas the cost of electric energy is rising and the health and safety
+9 of the citizens of the Commonwealth depends on lower cost energy through increased
+10 electric generation, an emergency is declared to exist, and this Act takes effect upon its
+11 passage and approval by the Governor or upon its otherwise becoming a law.
+Page 16 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+[DELETED:   2  J A W t G A d t r c f e u c w e i i e g f w t b W a u a b e u p t d o d g N B S I a t ( " a m a b i p l o c r a l i ( " s s c t o ( " ( " ( " a]
+[DELETED:   2  J ( " b ( 4 ( A o p e f c i e a c c f s e ( " ( I a a d o r p p o s ( A t t o a i a a o o f d p ( A s 1 S f a a a f t f c f p a u f i d a m f r a f s e l a c f s 2 C 3 A o c n t o e t t p o s b o o a o c p i c w ( A]
+[DELETED:   2  J f t c o s s i a s c w p p ( A s o l t f t g r a o t o s c i c a f w p p ( A c a w p o t c r u 1 A f 2 R c o ( o m f a o o c t p ( " t ( I ( I ( C ( S ( " u a a a o a o p a f t b o b ( " ( " t m m a r o t p s]
+[DELETED:   2  J ( " d l s a c r r a c p a c m c ( " b a b a e o f r c i s c c ( " o a ( " a m u t s f a s c t b c f c o r i f r t w ( " ( P d a 1 T u i i t r o a e g f a i a f a t o u i c 2 C o d a r t s o t e g 3 O 4 A ( R b t t e a t r t t r o a]
+[DELETED:   2  J f 1 I 2 A t 3 T r a d ( A r o a o a e g f a r f 1 T 2 E e ( " m a s p w i i d i a ( " b m b d n c o p c e o i o o t h a m d a d r d t p o w a u d o i t r f o r f ( " ( R]
+[DELETED:   2  J ( U b v o d s c o o r ( U e g u p b i b n l t e c c a w a e g u p i e c w b o a s i ( " ( A o i t r t i b c c a r s s a u t f o a t o p a t t c a u K 2 t 2 ( A p r p m o p a i b r c o m t w o c w o r c r ( " r f o r s c a f c U a p ( N ( C b s]
+[DELETED:   2  J a ( P b a e o f r c r e s i a s C ( " e g u p b m a u o ( A ( A ( H a n g c i e o e h ( m ( H f 1 N b v o a o t q e u b s r t t g p r i a e u 2 A ( " a S ( A s o]
+[DELETED:   2  J a ( G t t h m d ( f a s r ( H m ( A ( A b r I c 1 T 2 A a ( A a ( A 1 S 2 F 3 T p n f t r o s a f c o a p o d c u s b I t e u i e n t f a o a p o d c u s b a e u s n b d t w i r t r t c i i r r p t a s]
+[DELETED:   2  J p u ( ( A 1 N f 2 C f u t u c o e w a c o c e o t f c r t t s b ( A c ( A e w a r o t s c f c u t u c d t t i o s b a t i o s b ( A s i b t e u s o a p t a r s n a t a o s b o t a ( T]
+[DELETED:   2  J ( T t p t t s f r g c o u e g u p b t e u t t ( H a f o o a J 1 2 a a t b o a ( H p i ( A K S ( P o s b d o a w t r o t s a t r a a r p b t c e a f ( T l 1 A t 2 A f o i i i t a i a a t c ( T w 1 T 2 T r e s s a o r a f]
+[DELETED:   2  J j ( T c s n r i a f o f t s 1 S 2 A t ( J 2 ( I c m r c o ( o m f a o o c a t c d a O c a o o s b a s n d t p o m o s b T c a w t c r o c o a ( B s ( B ( N ( N c p ( T s c ( I t a c w t e u d t p u]
+[DELETED:   2  J ( A c ( T d c s a a f a p a t c ( H o c ( H o 1 S 2 S 3 T ( B p t a m c b e u t a p ( I a r s b a n i a c o r f a c a c o b o t c s t t l ( P ( R r ( B a ( P p t d]
+[DELETED:   2  J ( T ( R s ( [ r t t i a l p a t c d a ( ] ( P ( A w m c a p r t t i a l p a t c d a a n i w K 2 ( N a s o t a i e g f w u p S ( U b ( T e ( F ( T c i a f o a s t t i a l p e ( T]
+[DELETED:   2  J i c ( A i o a s o i o s b a c a ( T m m f t c t a o s c T r b ( D w t a a m o c e i t a o t f t m r t t a s ( T e ( T ( R s t p f t p o p i a ( O f c a c w r t s b a u ( W t ( d a r a e u f o t b a ( A a o s o t f i t c r i c ( I u ( I]
+[DELETED:   2  J c t e u s c i e a r i [ ] ( T t f i s ( o t s s a a t a r r ( A s b m ( A ( R i p t o o a s s ( A i o a f o t e u r s d r ( A ( C t ( A b S ( I t c h a a e u f o a s b a i o t e u b t e u s ( ] e s o t c b t p o s s a u ( I i b t b r f t c e a t a o t]
+[DELETED:   2  J s ( I t s p h b t t a a t c b s s a t e u o o e i a i a a a c ( E i S o e p]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 1016
+1 AN ACT relating to investor-owned electric utilities and declaring an emergency.
+2 WHEREAS, the General Assembly desires to reduce costs for electric utility
+3 customers while encouraging investment in electric generation facilities within the
+4 borders of the Commonwealth; and
+5 WHEREAS, the General Assembly wishes to allow for the securitization of certain
+6 additional utility assets by electric utilities pursuing the development of dispatchable
+7 generation located in the Commonwealth;
+8 NOW, THEREFORE,
+9 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+10 Section 1. KRS 278.670 is amended to read as follows:
+11 In addition to the definitions in KRS 278.010, except KRS 278.010(3)(a), which shall
+12 apply unless they conflict with or the context otherwise requires, as used in KRS 278.670
+13 to 278.696 and 65.114:
+14 (1) "Ancillary agreement" means a bond, insurance policy, letter of credit, reserve
+15 account, surety bond, interest rate lock or swap arrangement, hedging arrangement,
+16 liquidity or credit support arrangement, or other financial arrangement entered into
+17 in connection with securitized bonds;
+18 (2) "Assignee" means a legally recognized entity to which an electric utility assigns,
+19 sells, or transfers, other than as security, all or a portion of its interest in or right to
+20 securitized property. The term "assignee" includes a corporation, limited liability
+21 company, general or limited partnership, public authority, trust, and financing entity
+22 to which an assignee assigns, sells or transfers, other than as security, its interest in
+23 or right to securitized property;
+24 (3) "Bondholder" means a person who holds a securitized bond;
+25 (4) "Code" means the Uniform Commercial Code, KRS Chapter 355;
+26 (5) "Deferred costs" means costs that have occurred and are[but will be] accounted for
+27 as part of a regulatory asset;
+Page 1 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 (6) "Environmental control costs" means costs incurred or expected to be incurred
+2 by a qualifying electric utility to comply with:
+3 (a) 42 U.S.C. sec. 7401 et seq. and not recovered under KRS 278.183; or
+4 (b) Any federal, state, or local environmental laws, administrative regulations,
+5 orders, or other requirements which apply to coal combustion wastes or by-
+6 products from extra-state generation facilities utilized for the production of
+7 energy from coal, including expenses and capital costs for services,
+8 equipment, and other assets;
+9 (7) "Financing costs" means any one (1) or more of[include] the following:
+10 (a) Interest and acquisition, defeasance, or redemption premiums payable on
+11 securitized bonds;
+12 (b) Any payment required under an ancillary agreement and any amount required
+13 to fund or replenish a reserve account or other accounts established under the
+14 terms of any indenture, ancillary agreement, or other financing document
+15 pertaining to securitized bonds;
+16 (c) Any other cost related to issuing, supporting, repaying, refunding, or servicing
+17 securitized bonds, including the following fees and costs without limitation:
+18 1. Servicing fees, accounting and auditing fees, trustee fees, consulting
+19 fees, structuring adviser fees, financial advisor fees, administrative fees,
+20 placement and underwriting fees, independent director and manager
+21 fees, rating agency fees, stock exchange listing and compliance fees,
+22 security registration fees, and filing fees;
+23 2. Capitalized interest and information technology programming costs; and
+24 3. Any other costs necessary to otherwise ensure the timely payment of
+25 securitized bonds or other amounts or charges payable in connection
+26 with the bonds, including costs related to obtaining the financing order;
+27 (d) Any taxes and license fees or other fees imposed on the revenues generated
+Page 2 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 from the collection of the securitized surcharge or otherwise resulting from
+2 the collection of securitized surcharges, in any such case whether paid,
+3 payable, or accrued;
+4 (e) Any state or local taxes, franchise taxes, gross receipts, and other taxes or
+5 similar charges, including commission assessment fees, whether paid,
+6 payable, or accrued; and
+7 (f) Any costs associated with performance of the commission's responsibilities
+8 under KRS 278.670 to 278.696 and 65.114 in connection with:
+9 1. Approving, approving subject to conditions, or rejecting an application
+10 for a financing order; and
+11 2. Retaining counsel, one (1) or more financial advisors, or other
+12 consultants as deemed appropriate by the commission and paid pursuant
+13 to KRS 278.670 to 278.696 and 65.114, for the issuance advice letter
+14 process;
+15 (8)[(7)] "Financing order" means an order issued by the commission that authorizes
+16 the:
+17 (a) Issuance of securitization bonds;
+18 (b) Imposition, collection, and periodic adjustment of a securitized surcharge;
+19 (c) Creation of securitized property; and
+20 (d) Sale, assignment, or transfer of securitized property to an assignee;
+21 (9)[(8)] "Financing party" means bondholders and trustees, collateral agents, any party
+22 under an ancillary agreement, or any other person acting for the benefit of
+23 bondholders;
+24 (10)[(9)] "Financing statement" has the same meaning as in KRS 355.9-102;
+25 (11)[(10)] "Formula-based true-up mechanism" means a reconciliation or true-up
+26 process that is used to identify over collection or under collection of the securitized
+27 surcharge;
+Page 3 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 (12)[(11)] "Issuance advice letter" means a letter from the utility to the commission that
+2 describes the final terms and conditions for the bond issuance, including but not
+3 limited to the actual structure of the bond issue, pricing, and other bond features
+4 such as coupon rates, redemption, and call provisions, and current market
+5 conditions affecting the bond issuance;
+6 (13)(12) "Nonbypassable" means the payment of a securitized utility charge may not
+7 be avoided by any existing or future retail customer including special contract
+8 customers;
+9 (14)[(13)] "Pledgee" means a financing party to which an electric utility or its successors
+10 or assignees mortgages, negotiates, pledges, or creates a security interest or lien on
+11 all or any portion of its interest in or right to securitized property;
+12 (15)[(14)] "Regulatory asset" means, under the standardized financial accounting
+13 standards adopted by the commission, expenses that have been authorized by the
+14 commission to be capitalized for consideration of recovery in future rates that
+15 would otherwise be treated as an expense in a current accounting period;
+16 (16)[(15)] "Retired generation costs" means:
+17 (a) Pretax costs with respect to retired or abandoned facilities that are included as
+18 deferred costs subject to an application for a financing order and include but
+19 are not limited to:
+20 1. The undepreciated investment in the retired or abandoned electric
+21 generating facility and in any facilities ancillary thereto or used in
+22 conjunction therewith;
+23 2. Costs of decommissioning and restoring the site of the electric
+24 generating facility;
+25 3. Other applicable capital and operating costs; and
+26 4. Accrued carrying charges and deferred costs;
+27 (b) Reduced by, to the extent as they relate to the retired or abandoned
+Page 4 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 facilities:
+2 1. Insurance, scrap, and salvage proceeds;
+3 2. Applicable unamortized regulatory liabilities for excess deferred income
+4 taxes; and
+5 3. The present value of return on all accumulated deferred income taxes
+6 related to pretax costs with respect to the[a] retired or abandoned facility
+7 and related facilities, including those due to bonus and accelerated tax
+8 depreciation and abandonment losses; and
+9 (c) Added to pretax costs the electric utility has previously incurred related to the
+10 retirement or abandonment of an electric generating facility and related
+11 facilities offering before June 29, 2023, including costs associated with:
+12 1. The decommissioning and restoration of the site; and
+13 2. Environmental compliance related to the operation and retirement of the
+14 electric generating facility;
+15 (17)[(16)] "Securitization" means a structured process where interests in debt
+16 instruments [or other receivable income ]are packaged, underwritten, and sold as
+17 asset-backed marketable securities such as bonds;
+18 (18)[(17)] "Securitized bonds" means bonds, debentures, notes, certificates of
+19 participation, certificates of beneficial interest, certificates of ownership, or other
+20 evidences of indebtedness or ownership that have a maturity date as determined
+21 reasonable by the commission, but not later than thirty (30) years from the issue
+22 date, that are issued by an electric utility or assignee pursuant to a financing order,
+23 the proceeds of which are used directly or indirectly to recover, finance, or
+24 refinance capitalized cost assets and financing costs that are secured by or payable
+25 from securitized utility property;
+26 (19)[(18)] "Securitized costs" means any one (1) or more of:[include]
+27 (a) Retired generation costs;[, as well as the]
+Page 5 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 (b) Unamortized book value of deferred[extraordinary] storm costs or other
+2 regulatory assets; or
+3 (c) Undepreciated extra-state generation utility plant balances including but
+4 not limited to environmental control costs associated with an extra-state
+5 generation utility plant, in each case whether before or after
+6 securitization[deferred costs associated with prior incurrences, but does not
+7 include ongoing utility investments or operating costs];
+8 (20)[(19)] "Securitized property" means:
+9 (a) All rights and interests of a utility, its successor, or assignee under a financing
+10 order, including the right to impose, bill, charge, collect, and receive
+11 securitized surcharges authorized under the financing order and to obtain
+12 periodic adjustments to those charges authorized under KRS 278.670 to
+13 278.696 and 65.114 and as provided in the financing order; and
+14 (b) All revenues, collections, claims, rights to payments, payments, moneys, or
+15 proceeds arising from the rights and interests specified in the financing order,
+16 regardless of whether those revenues, collections, claims, rights to payment,
+17 payments, moneys, or proceeds are imposed, billed, received, collected, or
+18 maintained together with or commingled with other revenues, collections,
+19 rights to payment, payments, moneys, or proceeds;
+20 (21)[(20]) "Securitized surcharge" means the amounts authorized by the commission to
+21 repay, finance, or refinance securitized costs and financing costs. Upon
+22 authorization, the securitized surcharges shall be[ that are], except as otherwise
+23 provided for in KRS 278.670 to 278.696 and 65.114:
+24 (a) Nonbypassable and imposed on, and are a part of, all retail customer bills;
+25 (b) Collectable[Collected,] in full in[and separate from] the utility's tariffed rates
+26 by an electric utility or by its successors, assignees, or collection agents, and
+27 separate from the utility's[,] special contract rates[,] or other mechanisms[ by
+Page 6 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 an electric utility or by its successors, assignees, or collection agents]; and
+2 (c) Payable[Paid] by all existing or future retail customers receiving electrical
+3 services, including distribution services,[service] from the electric utility or
+4 its successors or assignees[ under commission-approved rate schedules even if
+5 a retail customer elects to purchase electricity from an alternative electricity
+6 supplier following a fundamental change in regulation of public utilities in the
+7 Commonwealth];[ and]
+8 (22) "Undepreciated extra-state generation utility plant balances" means any
+9 unrecovered capitalized costs of, or any not yet fully depreciated investments in,
+10 one (1) or more fossil fuel-fired electric generating plants that:
+11 (a) Are owned by an electric utility on the effective date of this Act;
+12 (b) Are located outside of the Commonwealth;
+13 (c) Have a nameplate generation capacity in excess of eight hundred (800)
+14 megawatts each; and
+15 (d) Have included in the plant's related supply, transmission, equipment, and
+16 fixtures at a minimum to the:
+17 1. Net book value of assets on the qualifying electric utility's balance
+18 sheet related to the generating plant's related infrastructure and
+19 environmental control costs associated with the extra-state generation
+20 utility plant; and
+21 2. Accrued carrying charges and deferred costs; and
+22 (23)[(21)] "Utility" has the same meaning as in KRS 278.010(3)(a) but shall not include
+23 any utility organized under KRS Chapter 279.
+24 Section 2. KRS 278.672 is amended to read as follows:
+25 (1) An electric utility may apply to the commission for a financing order to finance by
+26 securitized bonds any securitized costs approved by the commission[extraordinary
+27 or other deferred costs from previous events for regulatory assets existing and with
+Page 7 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 a value calculated on June 30, 2023, as:
+2 (a) Greater than two hundred million dollars ($200,000,000) for a single
+3 regulatory asset; or
+4 (b) Having a cumulative total value of greater than two hundred and seventy-five
+5 million ($275,000,000) for multiple regulatory assets].
+6 (2) An application for a financing order shall include:
+7 (a) A description and dollar amount of the extra-state generation utility plant
+8 balances, deferred storm costs, and other regulatory assets that the utility
+9 requests to securitize[of the deferred costs the utility is seeking to securitize.
+10 If more than fifty percent (50%) of the deferred costs are retired generation
+11 costs, the application also shall describe:
+12 1. The electric generating facility or facilities that have been retired; and
+13 2. A copy of all previous commission orders related to the deferral of costs
+14 applicable to the retirement or abandonment of the facility or facilities];
+15 (b) An estimate of the financing costs related to the securitized bonds[The dollar
+16 amount of the deferred costs];
+17 (c) An estimate of the:
+18 1. Securitized surcharges necessary to recover the securitized costs;
+19 2. Financing costs; and
+20 3. Time period needed for the recovery of securitized and financing
+21 costs[A statement of whether the electric utility proposes to finance all
+22 or a portion of deferred costs using securitized bonds. If the electric
+23 utility proposes to finance a portion of the costs, the electric utility shall
+24 identify the specific portion of the deferred costs in the application. By
+25 electing not to finance all or any portion of deferred costs using
+26 securitized bonds, an electric utility shall not be deemed to waive its
+27 right to reflect those costs in its retail rates pursuant to a separate
+Page 8 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 proceeding with the commission. However, at no point shall the electric
+2 utility apply to securitize less than the amounts prescribed in subsection
+3 (1) of this section];
+4 (d) A comparison between the:
+5 1. Net present value of the costs to ratepayers that are estimated to result
+6 from the issuance of securitized bonds; and
+7 2. Cost that would result from an alternative means of providing for the
+8 full recovery of and return on those securitized costs from customers,
+9 using the utility's current or expected weighted average cost of
+10 capital[An estimate of the financing costs related to the securitized
+11 bonds];
+12 (e)[ An estimate of the securitized surcharges necessary to recover the securitized
+13 costs and financing costs and the period for recovery of the costs;
+14 (f) A comparison between the net present value of the costs to ratepayers that are
+15 estimated to result from the issuance of securitized bonds and the cost that
+16 would result from an alternative means of providing for the full recovery of
+17 and return on those securitized costs from customers, using the utility's
+18 current or expected weighted average cost of capital. The comparison should
+19 demonstrate that the issuance of securitized bonds and the imposition of
+20 securitized surcharges are expected to provide quantifiable net present value
+21 benefits to customers;
+22 (g)] A proposed future ratemaking process to reconcile any differences between
+23 securitized costs financed by securitized bonds and the final securitized costs
+24 incurred by the electric utility, successor, or assignee, provided that any
+25 reconciliation shall not affect the amount of securitized bonds or the
+26 associated securitized surcharges paid by customers; and
+27 (f)[(h)] Testimony supporting the application.
+Page 9 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 (3) The commission shall not accept [for filing ]an application for a financing order
+2 tendered pursuant to this section for retired generation costs or undepreciated
+3 extra-state generation utility plant balances unless the electric utility tendering
+4 the application:
+5 (a) Has also filed, on or after January 1, 2026, an application to build or
+6 acquire in-state dispatchable generation pursuant to KRS 278.020; and
+7 (b) Has agreed not to seek an increase in base rates that would become effective
+8 prior to the two (2) years period after the application for a financing order
+9 is filed with the commission.
+10 (4) As used in this subsection, "dispatchable" has the same meaning as provided in
+11 KRS 164.2807(2)(b)[tendered pursuant to this section after December 31, 2024].
+12 Section 3. KRS 278.674 is amended to read as follows:
+13 (1) Proceedings on an application submitted pursuant to KRS 278.672 or Section 1 or 2
+14 of this Act shall begin with the filing of an application by an electric utility and
+15 shall be disposed of in accordance with the requirements of this section and the
+16 rules and administrative regulations promulgated by the commission, except as
+17 follows:
+18 (a) The commission shall establish a procedural schedule that requires that not
+19 later than one hundred eighty (180) days after the application is filed:
+20 1. A decision approving the application, approving the application subject
+21 to conditions, or denying the application is issued; and
+22 2. A financing order is issued if the application is approved and the
+23 conditions are met, if conditions are imposed;[ and]
+24 (b) The commission shall approve the application for a financing order with or
+25 without conditions if the commission finds:
+26 1. The application is in the public interest; and
+27 2. The resulting estimated securitized surcharge and other rates are fair,
+Page 10 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 just, and reasonable; and
+2 (c) The commission shall not require in any financing order for the
+3 securitization of an electric utility's securitized costs that the:
+4 1. Securitized bonds be marketed as a specific type of security; or
+5 2. Assignee be formed as a specific type of entity, including as a series
+6 trust.
+7 (2) Judicial review of a financing order shall only be done in accordance with KRS
+8 278.410.
+9 (3) In performing the responsibilities under KRS 278.670 to 278.696 and 65.114, the
+10 commission may retain counsel, one (1) or more financial advisors, or other
+11 consultants as the commission deems appropriate. Outside counsel, advisors, or
+12 other consultants engaged by the commission shall have no interest in the proposed
+13 securitized bonds and shall not direct the placement or marketing of securitized
+14 bonds. The costs associated with the commission's retaining of counsel,[ or]
+15 advisors, or other consultants shall:
+16 (a) Be paid by the applicant and be included as financing costs in the securitized
+17 surcharge;
+18 (b) Be assigned solely to the subject transaction;[ and]
+19 (c) Not be an obligation of the Commonwealth; and
+20 (d) Not exceed seven hundred fifty thousand dollars ($750,000), except that the
+21 costs may be adjusted for inflation each year after 2026 using a recognized
+22 price index selected by the commission.
+23 (4) The commission may designate one (1) or more representatives from commission
+24 staff who may be advised by one (1) or more financial advisors contracted with the
+25 commission to provide:
+26 (a) Input to and collaboration with the electric utility during the process
+27 undertaken to place the securitized bonds to market; and
+Page 11 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 (b) An opinion to the commission on the reasonableness of the pricing, terms, and
+2 conditions of the securitized bonds on an expedited basis.
+3 (5) The designated commission staff and any financial advisor providing advice to
+4 commission staff shall:
+5 (a) Have no authority to direct how the electric utility places the bonds to market
+6 or whether the bonds are required to be marketed as asset-backed securities,
+7 corporate bonds, or any other type of security;[ and]
+8 (b) Have only the right of input and collaboration on but not decision-making
+9 or approval authority over:
+10 1. Securities law filings;
+11 2. Structuring and marketing documents; or
+12 3. Transactional documents for the securitized bonds; and
+13 (c) Be permitted to attend meetings convened by the electric utility to address
+14 placement of the bonds to market.
+15 (6) If an electric utility's application for a financing order is denied or withdrawn, or for
+16 any reason securitized bonds are not issued, any costs of retaining financial
+17 advisors, consultants, and counsel on behalf of the commission, subject to the
+18 limitations set forth in subsection (5) of this section, shall be:
+19 (a) Paid by the applicant;
+20 (b) Recorded on the books of the utility using appropriate deferral accounting as a
+21 regulatory asset; and
+22 (c) Be eligible for full recovery, including carrying costs, subject to commission
+23 approval.
+24 (7) Prior to the issuance of each series of securitized bonds, the electric utility shall
+25 provide an issuance advice letter to the commission following the determination of
+26 the final terms of the series of securitized bonds no later than three (3) business
+27 days after the pricing of the securitized bonds.
+Page 12 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 (8) The issuance advice letter shall:
+2 (a) Report the initial securitized surcharges and other information specific to the
+3 securitized bonds as required by the commission;
+4 (b) [Be included in the financing order which may contain additional provisions
+5 relating to the issuance advice letter process as the commission deems
+6 appropriate and not inconsistent with KRS 278.670 to 278.696 and 65.114;
+7 (c) ]Indicate the final structure of the securitized bonds; and
+8 (c)[(d)] Provide the best available estimate of total ongoing financing costs.
+9 (9) A form or template issuance advice letter shall be included in the financing order,
+10 which may contain additional provisions relating to the issuance advice letter
+11 process as the commission deems appropriate and not inconsistent with KRS
+12 278.670 to 278.696 and 65.114.
+13 (10) Nothing in this section modifies the requirements of KRS 278.020(6) or relieves
+14 an electric utility of the requirements to obtain the commission's approval prior to
+15 selling or transferring assets, including extra-state generation facilities whose
+16 undepreciated extra-state generation utility plant balances have been securitized
+17 pursuant to this section and Sections 1 and 2 of this Act.
+18 Section 4. KRS 278.678 is amended to read as follows:
+19 (1) Upon the commission issuing a financing order and after the securitized bonds have
+20 been issued, the electric utility shall file with the commission a:
+21 (a) Tariff containing the mechanism for the assessment of a monthly surcharge to
+22 existing rates for the collection of the securitized costs; and
+23 (b) Formula-based true-up mechanism.
+24 (2) The commission, in a financing order and subject to the issuance advice letter
+25 process, shall specify the degree of flexibility to be afforded the electric utility in
+26 establishing:
+27 (a) The terms and conditions for the securitized bonds to accommodate changes
+Page 13 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 in market conditions, including repayment schedules, interest rates, financing
+2 costs, collateral requirements, required debt service, and other reserves; and
+3 (b) At its option, a series of issuances of securitized bonds and correlated
+4 assignments, sales, pledges, or other transfers of securitized property.
+5 (3) The electric utility shall file, at least semiannually, an[ a semiannual] update to its
+6 monthly surcharge, based on estimates of consumption for each rate class and other
+7 mathematical factors, to collect the appropriate amount of securitized costs. The
+8 review by the commission of the [semiannual ]update pursuant to this section shall
+9 be limited to:
+10 (a) Determining whether there are any mathematical or clerical errors in the
+11 application of the formula-based true-up mechanism relating to the
+12 appropriate amount of any over collection or under collection of a securitized
+13 surcharge; and
+14 (b) The amount of an adjustment required to address a mathematical or clerical
+15 error determined pursuant to this section.
+16 (4) The adjustments shall ensure solely for the recovery of:
+17 (a) Revenues sufficient to provide for the payment of principal, interest,
+18 acquisition, defeasance, financing costs, or redemption premium; and
+19 (b) Other fees, costs, and charges with respect to securitized bonds approved
+20 under the financing order.
+21 (5) Within ten (10) days after receiving an electric utility's filing of the billing
+22 adjustment pursuant to this section, the commission shall either:
+23 (a) Affix an official stamp on the filing indicating the commission's review is
+24 complete; or
+25 (b) Inform the electric utility of any mathematical or clerical errors in the electric
+26 utility's calculation.
+27 (6) If the commission informs the electric utility of mathematical or clerical errors in its
+Page 14 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 calculation, the electric utility shall correct its error and refile its [semiannual
+2 ]surcharge update.
+3 (7) The time frames in subsection (5) of this section shall also apply to a refiled
+4 request.
+5 (8) At the time of any transfer of securitized property to an assignee or the issuance of
+6 securitized bonds authorized thereby, whichever is earlier, a financing order shall
+7 be irrevocable and, except for changes made pursuant to the formula-based true-up
+8 mechanism authorized in this section, the commission shall not:
+9 (a) Amend, modify, or terminate the financing order by any subsequent action; or
+10 (b) Reduce, impair, postpone, terminate, or otherwise adjust securitized
+11 surcharges approved in the financing order.
+12 (9) After issuance of a financing order, the electric utility retains sole discretion
+13 regarding whether to:
+14 (a) Assign, sell, or otherwise transfer securitized property; or
+15 (b) Cause securitized bonds to be issued, including the right to defer or postpone
+16 the assignment, sale, transfer, or issuance of securitized bonds.
+17 (10) Any changes made under this section to terms and conditions for the securitized
+18 bonds shall be in conformance with the financing order.
+19 Section 5. KRS 278.682 is amended to read as follows:
+20 (1) If the commission has approved an electric utility's financing order and
+21 securitization bonds are issued on the electric utility's behalf, the electric utility
+22 shall[:
+23 (a) ] explicitly state on the customer's bill the portion of securitized surcharges
+24 applicable to the rate class as approved in the financing order issued to the electric
+25 utility[; and
+26 (b) Include the securitized surcharge on each customer's bill as a separate line item and
+27 include both the base rate for the customer's electricity and the amount of the
+Page 15 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1016
+1 surcharge].
+2 (2) If the securitized property has been transferred to an assignee, the customer bill
+3 shall include a statement that the assignee is the owner of the rights to securitized
+4 surcharges, and the electric utility or other entity, if applicable, is acting as a
+5 collection agent or servicer for the assignee.
+6 (3) Each tariff of the electric utility with a commission-approved financing order shall
+7 indicate the applicable securitized surcharge and the ownership of the surcharge.
+8 Section 6. Whereas the cost of electric energy is rising and the health and safety
+9 of the citizens of the Commonwealth depends on lower cost energy through increased
+10 electric generation, an emergency is declared to exist, and this Act takes effect upon its
+11 passage and approval by the Governor or upon its otherwise becoming a law.
+Page 16 of 16
+BR101600.100 - 1016 - XXXX 2/10/2026 6:37 PM Jacketed
+
+[DELETED:   2  J A W t G A d t r c f e u c w e i i e g f w t b W a u a b e u p t d o d g N B S I a t ( " a m a b i p l o c r a l i ( " s s c t o ( " ( " ( " a]
+[DELETED:   2  J ( " b ( 4 ( A o p e f c i e a c c f s e ( " ( I a a d o r p p o s ( A t t o a i a a o o f d p ( A s 1 S f a a a f t f c f p a u f i d a m f r a f s e l a c f s 2 C 3 A o c n t o e t t p o s b o o a o c p i c w ( A]
+[DELETED:   2  J f t c o s s i a s c w p p ( A s o l t f t g r a o t o s c i c a f w p p ( A c a w p o t c r u 1 A f 2 R c o ( o m f a o o c t p ( " t ( I ( I ( C ( S ( " u a a a o a o p a f t b o b ( " ( " t m m a r o t p s]
+[DELETED:   2  J ( " d l s a c r r a c p a c m c ( " b a b a e o f r c i s c c ( " o a ( " a m u t s f a s c t b c f c o r i f r t w ( " ( P d a 1 T u i i t r o a e g f a i a f a t o u i c 2 C o d a r t s o t e g 3 O 4 A ( R b t t e a t r t t r o a]
+[DELETED:   2  J f 1 I 2 A t 3 T r a d ( A r o a o a e g f a r f 1 T 2 E e ( " m a s p w i i d i a ( " b m b d n c o p c e o i o o t h a m d a d r d t p o w a u d o i t r f o r f ( " ( R]
+[DELETED:   2  J ( U b v o d s c o o r ( U e g u p b i b n l t e c c a w a e g u p i e c w b o a s i ( " ( A o i t r t i b c c a r s s a u t f o a t o p a t t c a u K 2 t 2 ( A p r p m o p a i b r c o m t w o c w o r c r ( " r f o r s c a f c U a p ( N ( C b s]
+[DELETED:   2  J a ( P b a e o f r c r e s i a s C ( " e g u p b m a u o ( A ( A ( H a n g c i e o e h ( m ( H f 1 N b v o a o t q e u b s r t t g p r i a e u 2 A ( " a S ( A s o]
+[DELETED:   2  J a ( G t t h m d ( f a s r ( H m ( A ( A b r I c 1 T 2 A a ( A a ( A 1 S 2 F 3 T p n f t r o s a f c o a p o d c u s b I t e u i e n t f a o a p o d c u s b a e u s n b d t w i r t r t c i i r r p t a s]
+[DELETED:   2  J p u ( ( A 1 N f 2 C f u t u c o e w a c o c e o t f c r t t s b ( A c ( A e w a r o t s c f c u t u c d t t i o s b a t i o s b ( A s i b t e u s o a p t a r s n a t a o s b o t a ( T]
+[DELETED:   2  J ( T t p t t s f r g c o u e g u p b t e u t t ( H a f o o a J 1 2 a a t b o a ( H p i ( A K S ( P o s b d o a w t r o t s a t r a a r p b t c e a f ( T l 1 A t 2 A f o i i i t a i a a t c ( T w 1 T 2 T r e s s a o r a f]
+[DELETED:   2  J j ( T c s n r i a f o f t s 1 S 2 A t ( J 2 ( I c m r c o ( o m f a o o c a t c d a O c a o o s b a s n d t p o m o s b T c a w t c r o c o a ( B s ( B ( N ( N c p ( T s c ( I t a c w t e u d t p u]
+[DELETED:   2  J ( A c ( T d c s a a f a p a t c ( H o c ( H o 1 S 2 S 3 T ( B p t a m c b e u t a p ( I a r s b a n i a c o r f a c a c o b o t c s t t l ( P ( R r ( B a ( P p t d]
+[DELETED:   2  J ( T ( R s ( [ r t t i a l p a t c d a ( ] ( P ( A w m c a p r t t i a l p a t c d a a n i w K 2 ( N a s o t a i e g f w u p S ( U b ( T e ( F ( T c i a f o a s t t i a l p e ( T]
+[DELETED:   2  J i c ( A i o a s o i o s b a c a ( T m m f t c t a o s c T r b ( D w t a a m o c e i t a o t f t m r t t a s ( T e ( T ( R s t p f t p o p i a ( O f c a c w r t s b a u ( W t ( d a r a e u f o t b a ( A a o s o t f i t c r i c ( I u ( I]
+[DELETED:   2  J c t e u s c i e a r i [ ] ( T t f i s ( o t s s a a t a r r ( A s b m ( A ( R i p t o o a s s ( A i o a f o t e u r s d r ( A ( C t ( A b S ( I t c h a a e u f o a s b a i o t e u b t e u s ( ] e s o t c b t p o s s a u ( I i b t b r f t c e a t a o t]
+[DELETED:   2  J s ( I t s p h b t t a a t c b s s a t e u o o e i a i a a a c ( E i S o e p]

@@ -1,0 +1,2143 @@
+UNOFFICIAL COPY 26 RS BR 968
+1 AN ACT relating to the Kentucky statewide health data utility.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) The Kentucky statewide health data utility is established in Sections 1 to 10 of this
+6 Act to effectuate the following purposes:
+7 (a) Create a seamless, transparent, and secure approach to health information
+8 sharing and exchange among broad health care and health care
+9 coordination settings that:
+10 1. Uses health information technology to support health-related
+11 functions, including without limitation:
+12 a. A patient's health care experience;
+13 b. The overall health of the population; and
+14 c. Health care quality and value;
+15 2. Improves patient outcomes and the overall health and well-being of
+16 Kentucky residents by:
+17 a. Creating administrative efficiencies in health care delivery; and
+18 b. Preventing health care errors;
+19 3. Identifies opportunities for savings while improving health outcomes;
+20 4. Informs state health care planning;
+21 5. Improves the accessibility, adequacy, and affordability of health care
+22 and health coverage through the review and dissemination of data;
+23 6. Evaluates the effectiveness of health care programs and services to
+24 improve patient outcomes; and
+25 7. Supports the development of quality improvement initiatives;
+26 (b) Operate and govern a statewide health data utility that:
+27 1. Represents the interests and meets the needs of:
+Page 1 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 a. Patients;
+2 b. The health care sector; and
+3 c. The General Assembly;
+4 2. Ensures the integrity, privacy, and security of personal health
+5 information and other proprietary information related to the collection
+6 and release of data;
+7 3. Promotes best practices for health information sharing and exchange;
+8 4. Provides data to authorized recipients, as allowed by law; and
+9 5. Makes meaningful and relevant information available to the public;
+10 (c) Ensure the creation of clear data governance, privacy, and security policies
+11 to facilitate the sharing and exchange of health information through the
+12 statewide health data utility;
+13 (d) Demonstrate a commitment to respecting personal privacy by establishing
+14 protocols and standards that:
+15 1. Ensure compliance with all applicable state and federal data privacy
+16 and security laws relating to the collection, storage, and release of
+17 data; and
+18 2. Allow an opt-out for patients who choose not to share their personal
+19 data;
+20 (e) Promote a policy of health information sharing and exchange that follows
+21 the patient and improves the health of Kentucky residents; and
+22 (f) Establish a duty for health care professionals, health facilities, health care
+23 payers, and other persons that deliver, administer, or coordinate health care
+24 to share and exchange information for the purpose of optimizing patient
+25 and population health, as allowed by law.
+26 (2) Sections 1 to 10 of this Act shall not be construed to create a health benefit
+27 network or other type of health insurance network.
+Page 2 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 SECTION 2. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+2 READ AS FOLLOWS:
+3 As used in Sections 1 to 10 of this Act:
+4 (1) "Authorized recipient" means any of the following:
+5 (a) The General Assembly, the Legislative Research Commission, or a
+6 committee, task force, or other body established by the General Assembly or
+7 Legislative Research Commission;
+8 (b) Health care professionals;
+9 (c) Health facilities;
+10 (d) Health care payers;
+11 (e) Health care purchasers;
+12 (f) Patients;
+13 (g) The executive director; and
+14 (h) Members of academia engaged in health-related research;
+15 (2) "Board" means the Kentucky Health Information Technology Board established
+16 in Section 7 of this Act;
+17 (3) "Consortium of public health colleges" or "consortium" means the consortium
+18 created in Section 6 of this Act to operate and govern the Kentucky statewide
+19 health data utility;
+20 (4) "Electronic longitudinal health record" means an electronic collection of health
+21 information about the health status of an individual that:
+22 (a) Is compiled over time;
+23 (b) May be derived from multiple sources; and
+24 (c) Includes the individual's:
+25 1. Clinical data;
+26 2. Health care claims data;
+27 3. Social referrals; and
+Page 3 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 4. Designated public health data, including but not limited to
+2 immunizations and laboratory data;
+3 (5) "Executive director" means the executive director of the Office of Data Analytics
+4 created in Section 12 of this Act;
+5 (6) "Federally-qualified health center" has the same meaning as in 42 U.S.C. sec.
+6 1396d, as amended;
+7 (7) "Health care claims data" means data relating to claims made for the payment or
+8 reimbursement of the following types of health care services:
+9 (a) Medical and hospital, which includes without limitation surgical, mental
+10 health, substance use disorder, nursing, habilitative and rehabilitative, and
+11 laboratory;
+12 (b) Dental;
+13 (c) Pharmacy; and
+14 (d) Any other health care services designated by the executive director by
+15 administrative regulation promulgated in accordance with KRS Chapter
+16 13A;
+17 (8) "Health care payer" means any of the following, to the extent the person, plan,
+18 or program makes payments or reimbursements for, or administers the payment
+19 or reimbursement of, health care services:
+20 (a) Medicare;
+21 (b) Medicaid;
+22 (c) The Kentucky Children's Health Insurance Program;
+23 (d) Any state or local government health plan or program regulated, created, or
+24 authorized under Kentucky law, including without limitation:
+25 1. Any plan or program offered or administered under KRS Chapter 205;
+26 and
+27 2. Any governmental plan, as defined in 29 U.S.C. sec. 1002, including
+Page 4 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 any plan offered to the Public Employee Health Insurance Program
+2 for public employees under KRS 18A.225 or 18A.2254;
+3 (e) Any federal health plan or program that provides coverage in Kentucky for
+4 health care services;
+5 (f) Any insurers or administrators offering or administering a plan or program
+6 identified in paragraph (d) or (e) of this subsection;
+7 (g) Any federal, state, or local government cabinet, agency, department, entity,
+8 or official that provides, or contracts with a third-party administrator to
+9 administer, a plan or program identified in paragraph (d) or (e) of this
+10 subsection;
+11 (h) Workers' compensation insurers, including governmental and
+12 nongovernmental workers' compensation self-insurers and self-insured
+13 groups;
+14 (i) Insurers, self-insurers, and self-insured groups, including governmental
+15 and nongovernmental self-insured employers, self-insured health plans, and
+16 self-insured employer-organized associations, that provide:
+17 1. Coverage for health care services;
+18 2. Health care benefits; or
+19 3. Any kind of insurance regulated under KRS Chapter 304;
+20 (j) Health maintenance organizations;
+21 (k) Limited health service organizations;
+22 (l) Provider-sponsored integrated health delivery networks;
+23 (m) Nonprofit hospital, medical-surgical, dental, and health service
+24 corporations;
+25 (n) Administrators, as defined in KRS 304.9-051;
+26 (o) Pharmacy benefit managers;
+27 (p) Any other third-party payor that is subject to regulation under the insurance
+Page 5 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 laws of this state; and
+2 (q) Any vendor or contractor of a person, plan, or program listed in this
+3 subsection;
+4 (9) "Health care professional":
+5 (a) Means any individual who is licensed, certified, or otherwise authorized
+6 under the laws of this state to administer or provide health care services in
+7 the:
+8 1. Ordinary course of business; or
+9 2. Practice of a profession; and
+10 (b) Includes:
+11 1. Pharmacists; and
+12 2. Home medical equipment and services providers;
+13 (10) "Health care purchaser":
+14 (a) Means an entity that purchases, or arranges the purchase of, coverage for
+15 health care services or health care benefits for a defined population; and
+16 (b) Includes without limitation employers, labor unions, associations, and
+17 governmental health benefit programs;
+18 (11) "Health facility":
+19 (a) Has the same meaning as in KRS 216B.015; and
+20 (b) Includes a:
+21 1. Pharmacy;
+22 2. Medical laboratory;
+23 3. Facility that provide habilitative and rehabilitative services, including
+24 without limitation physical, occupational, and speech therapy services;
+25 4. Federally-qualified health center; and
+26 5. Public health agency;
+27 (12) "Health information":
+Page 6 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (a) Means any information, including genetic information, whether oral or
+2 recorded in any form or medium, that:
+3 1. Is created or received by a participant; and
+4 2. Relates to the:
+5 a. Past, present, or future physical or mental health or condition of
+6 an individual;
+7 b. Provision of health care to an individual; or
+8 c. Past, present, or future payment or reimbursement for the
+9 provision of health care to an individual; and
+10 (b) Includes the following:
+11 1. Health information as defined in 45 C.F.R. sec. 160.103, as amended,
+12 that is created or received by a participant;
+13 2. Health care claims data; and
+14 3. Actions taken by a participant in the participant's capacity as a public
+15 health authority under HIPAA or as required or permitted under other
+16 federal or state law relating to public health activities;
+17 (13) "Health information technology":
+18 (a) Means the application of information processing, involving computer
+19 hardware and software, to electronically store, retrieve, share, and use
+20 health information; and
+21 (b) Includes the creation of the following electronic records, functions, and
+22 tools:
+23 1. Electronic longitudinal health records;
+24 2. Personal health records through which an individual or any other
+25 person authorized by the individual can maintain and manage the
+26 individual's health information;
+27 3. Health records that are:
+Page 7 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 a. Used by health care professionals to electronically document,
+2 monitor, and manage health care delivery within a care delivery
+3 organization;
+4 b. The legal record of a patient's encounter with the care delivery
+5 organization; and
+6 c. Owned by the care delivery organization;
+7 4. Diagnostic and treatment services records, including records of the
+8 prescribing and dispensing of medication;
+9 5. Decision support functions to assist health care professionals in
+10 making clinical decisions by providing electronic alerts and reminders
+11 to:
+12 a. Improve compliance with best practices;
+13 b. Promote regular screenings; or
+14 c. Promote other preventive practices to facilitate diagnosis and
+15 treatments; and
+16 6. Tools to allow for the collection, analysis, and reporting of
+17 information or data on:
+18 a. Adverse health events;
+19 b. The quality and efficiency of health care;
+20 c. Patient satisfaction; and
+21 d. Other performance measures related to health care;
+22 (14) "HIPAA" means the federal Health Insurance Portability and Accountability Act
+23 of 1996, Pub. L. No. 104-191, as amended, and any related federal regulations, as
+24 amended;
+25 (15) "Interoperability":
+26 (a) Means the ability of two (2) or more persons, systems, or components to
+27 exchange, and use exchanged, information or data in an accurate, effective,
+Page 8 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 secure, and consistent manner; and
+2 (b) Includes without limitation the:
+3 1. Capacity to connect to a network for the purpose of exchanging
+4 information or data with other users;
+5 2. Ability of a connected, authenticated user to demonstrate appropriate
+6 permissions to participate in an instant transaction over a network;
+7 and
+8 3. Capacity of a connected, authenticated user to access, transmit,
+9 receive, and exchange usable information with other users;
+10 (16) "Kentucky statewide health data utility" or "statewide health data utility" means
+11 the statewide health data utility established in Sections 1 to 10 of this Act;
+12 (17) "Participant" means any of the following:
+13 (a) A health facility;
+14 (b) A health care payer;
+15 (c) An entity engaged in the sharing of community information or social
+16 determinants of health; and
+17 (d) A person that is not required under state or federal law to comply with
+18 Section 8 of this Act, but otherwise elects to submit health information to
+19 the Kentucky statewide health data utility;
+20 (18) "Person" includes:
+21 (a) A natural person;
+22 (b) Any type or form of corporation, company, partnership, proprietorship,
+23 association, plan, program, or other legal entity; and
+24 (c) A government, governmental subdivision or agency, or other body politic;
+25 and
+26 (19) "Public health agency" means an entity that is governed by or contractually
+27 responsible to a local health department, the cabinet, or a state agency to provide
+Page 9 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 services focused on the health status of population groups and their
+2 environments.
+3 SECTION 3. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) The Kentucky statewide health data utility fund is hereby established as a
+6 restricted fund in the State Treasury.
+7 (2) The following shall be deposited into the fund:
+8 (a) All grants, gifts, and funds received or raised under Section 4 of this Act;
+9 (b) Any fees charged to authorized recipients for access to data in the statewide
+10 health data utility;
+11 (c) Any penalties collected under Section 9 of this Act; and
+12 (d) Any appropriations made to the fund by the General Assembly.
+13 (3) Notwithstanding KRS 45.229, moneys in the fund not expended at the close of a
+14 fiscal year shall not lapse but shall be carried forward to the next fiscal year.
+15 (4) Moneys in the fund shall be available to the executive director, who may use or
+16 direct the use of the moneys in the development, implementation, operation, and
+17 maintenance of the Kentucky statewide health data utility.
+18 SECTION 4. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+19 READ AS FOLLOWS:
+20 (1) The executive director shall be responsible for the development, implementation,
+21 operation, and maintenance of the Kentucky statewide health data utility in
+22 accordance with Sections 1 to 10 of this Act.
+23 (2) In carrying out the duties in subsection (1) of this section, the executive director:
+24 (a) Shall make good-faith efforts to:
+25 1. Seek and accept grants or gifts, or raise funds, from any available
+26 source, public or private, to support the development, implementation,
+27 operation, and maintenance of the statewide health data utility; and
+Page 10 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 2. Establish agreements:
+2 a. For voluntary reporting of health information from participants
+3 that are not subject to the mandatory reporting requirements
+4 under Section 8 of this Act; and
+5 b. With the federal Centers for Medicare and Medicaid Services to
+6 obtain Medicare health care claims data and other health
+7 information;
+8 (b) 1. Subject to subparagraph 2. of this paragraph, may establish the
+9 following:
+10 a. Agreements with health data utilities in other states, including
+11 all-payer claims databases, to establish a single application for
+12 access to data by authorized recipients across multiple states;
+13 and
+14 b. Agreements with state and federal agencies and other health
+15 data utilities and health databases to share and receive health
+16 information or other data, including confidential and proprietary
+17 information or data, if:
+18 i. The recipient agrees in a written or electronic record to
+19 maintain any confidential or proprietary status afforded to
+20 the information or data; and
+21 ii. The information or data is shared or received in a manner
+22 that does not violate any applicable laws.
+23 2. Prior to establishing an agreement authorized under subparagraph 1.
+24 of this paragraph, the executive director shall:
+25 a. Submit a draft of the proposed agreement to the board;
+26 b. Provide the board not less than thirty (30) days to review, and
+27 advise the executive director on, the proposed agreement
+Page 11 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 submitted under subdivision a. of this subparagraph; and
+2 c. Determine, after review and comment from the board, that the
+3 agreement:
+4 i. Is consistent with the policies and procedures adopted by
+5 the board under subsection (1)(a) of Section 7 of this Act;
+6 and
+7 ii. Supports the purposes set forth in Section 1 of this Act;
+8 (c) Shall:
+9 1. Within one hundred eighty (180) days after the effective date of the
+10 consortium's organizing documents, contract with the consortium of
+11 public health colleges to operate and govern the statewide health data
+12 utility in accordance with Sections 1 to 10 of this Act;
+13 2. Submit the contract entered into with the consortium under
+14 subparagraph 1. of this paragraph to the Government Contract
+15 Review Committee for review pursuant to KRS 45A.705; and
+16 3. Enforce and ensure compliance with the contract entered into with the
+17 consortium under this paragraph;
+18 (d) Shall monitor, and provide input and oversight to the consortium in, the
+19 operation and governance of the statewide health data utility;
+20 (e) Shall ensure the statewide health data utility is operated in compliance with
+21 all state and federal law, including without limitation:
+22 1. HIPAA; and
+23 2. 42 U.S.C. sec. 290dd-2, as amended, and any related federal
+24 regulations, as amended, including without limitation 42 C.F.R. pt. 2;
+25 (f) Subject to subsection (3) of this section, shall promulgate administrative
+26 regulations in accordance with KRS Chapter 13A to establish policies and
+27 procedures necessary for the administration, operation, and oversight of the
+Page 12 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 statewide health data utility, which shall include:
+2 1. a. Subject to subdivision b. of this subparagraph:
+3 i. Health information sharing and submission requirements
+4 for participants; and
+5 ii. The reporting format, and frequency of submissions, for
+6 health information submitted by participants to the
+7 consortium of public health colleges.
+8 b. The requirements established under this subparagraph shall
+9 comply with:
+10 i. Interoperability guidance published by the federal Centers
+11 for Medicare and Medicaid Services;
+12 ii. Policies and procedures adopted by the board under
+13 subsection (1)(a) of Section 7 of this Act; and
+14 iii. All applicable federal and state data privacy and security
+15 laws, including without limitation HIPAA;
+16 2. Subject to Section 9 of the Act, the schedule of penalties for any
+17 participant that fails to comply with the mandatory reporting
+18 requirements under Section 8 of this Act;
+19 3. a. Subject to subdivisions b. and c. of this subparagraph, the data
+20 elements that will be available to authorized recipients and the
+21 public.
+22 b. Data shall not be made available to an authorized recipient or
+23 the public unless the data:
+24 i. Complies with all applicable federal and state data privacy
+25 and security laws, including without limitation HIPAA;
+26 and
+27 ii. Cannot be used to identify an individual, unless identifying
+Page 13 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 information about an individual is otherwise required to
+2 carry out a purpose set forth in subsection (2)(b)2.b. or c.
+3 of Section 5 of this Act.
+4 c. The Legislative Research Commission shall, for the purpose of
+5 collecting and analyzing data to inform public policy as to health
+6 care access, utilization, cost, safety, and quality in Kentucky, be
+7 provided direct, read-only access to data contained in the
+8 statewide health data utility that:
+9 i. Complies with all applicable federal and state data privacy
+10 and security laws, including without limitation HIPAA;
+11 and
+12 ii. Cannot be used to identify an individual; and
+13 4. Any fees that may be charged to authorized recipients for access to
+14 data in the statewide health data utility, except that a fee or cost of any
+15 kind shall not be charged to or required of the General Assembly, the
+16 Legislative Research Commission, or a committee, task force, or other
+17 body established by the General Assembly or Legislative Research
+18 Commission for those entities to access, receive, or use data contained
+19 in the statewide health data utility; and
+20 (g) May contract with one (1) or more vendors or contractors for any expertise,
+21 service, or function that is necessary to assist the executive director in
+22 carrying out the executive director's duties under Sections 1 to 10 of this
+23 Act.
+24 (3) (a) Prior to making a filing under KRS Chapter 13A, the executive director
+25 shall:
+26 1. Submit drafts of any new, amended, or repealer emergency or
+27 ordinary administrative regulation, along with any forms required
+Page 14 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 under KRS 13A.230, required or authorized under Sections 1 to 10 of
+2 this Act or otherwise related to the statewide health data utility, to the
+3 board; and
+4 2. Provide the board not less than thirty (30) days to review, and advise
+5 the executive director on, the drafts submitted under subparagraph 1.
+6 of this paragraph.
+7 (b) In addition to the requirements of paragraph (a) of this subsection, the
+8 executive director and the consortium of public health colleges shall keep
+9 the board informed about, and consult with the board regarding, the
+10 development, implementation, operation, and maintenance of the statewide
+11 health data utility.
+12 SECTION 5. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+13 READ AS FOLLOWS:
+14 (1) As used in this section:
+15 (a) "All-payer claims database" means a database that systematically collects
+16 health care claims data from health care payers;
+17 (b) "Community information exchange":
+18 1. Means an ecosystem comprised of multidisciplinary network partners
+19 that use standardized technical language, a resource database, and an
+20 integrated technology platform to deliver:
+21 a. Enhanced community care planning; and
+22 b. Tools to enable partners to integrate data from multiple sources
+23 and make bi-directional referrals to create shared longitudinal
+24 records; and
+25 2. Includes any system that:
+26 a. Stores an individual's personal identifiable information in a
+27 database that is shared by a network of one (1) or more health
+Page 15 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 facilities, health care professionals, health care payers, public
+2 agencies, or community-based organizations for referral
+3 purposes; and
+4 b. Encompasses data sets containing personal referral information
+5 captured and stored in a database for use by public and private
+6 entities, including community-based organizations, to provide
+7 services, update referral activity, and close the loop on a referral
+8 by updating downstream systems;
+9 (c) "Health care information exchange" means the movement and exchange
+10 among and between health facilities and health care professionals of health
+11 information electronically across organizations within a state, region,
+12 community, or hospital system; and
+13 (d) "Prescription information exchange" means the movement and exchange
+14 among and between health facilities and health care professionals of health
+15 information consisting of all medications dispensed by a pharmacy and
+16 other related information electronically across organizations within a state,
+17 region, community, or hospital system.
+18 (2) The Kentucky statewide health data utility shall:
+19 (a) Be the sole statewide network for the sharing and exchange of health
+20 information;
+21 (b) Utilize health information technology to:
+22 1. Aggregate health information received from participants;
+23 2. Provide access, in a form and manner that ensures the privacy and
+24 security of personal health information as required under federal and
+25 state law, including without limitation HIPAA, to health information
+26 in the statewide health data utility to authorized recipients for the
+27 purposes of:
+Page 16 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 a. Collecting and analyzing data to inform the authorized recipients
+2 as to health care access, utilization, cost, safety, and quality in
+3 Kentucky;
+4 b. Enabling any health care professional or health facility to
+5 evaluate and monitor care and treatment of patients; and
+6 c. Enabling any patient to access, through a technology enabled
+7 interface, the patient's electronic longitudinal health record; and
+8 3. Make information about health care services available to the public in
+9 a manner that allows consumers to draw meaningful comparisons
+10 between health facilities, health care payers, and other health care
+11 professionals as relevant data is available; and
+12 (c) Contain the following:
+13 1. A health care information exchange;
+14 2. A pharmacy information exchange;
+15 3. An all-payer claims database;
+16 4. A community information exchange; and
+17 5. Other referential sources, including without limitation public health
+18 data and self-generated data.
+19 (3) (a) The information and data acquired by or contained in the statewide health
+20 data utility shall not be subject to disclosure under KRS 61.870 to 61.884.
+21 (b) This subsection shall not be construed to limit or prohibit the public release
+22 of aggregated, deidentified information, reports, analyses, or dashboards by
+23 the statewide health data utility in accordance with Sections 1 to 10 of this
+24 Act.
+25 SECTION 6. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) (a) There is hereby established a consortium between the:
+Page 17 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 1. University of Kentucky College of Public Health;
+2 2. University of Louisville School of Public Health and Information
+3 Services;
+4 3. Eastern Kentucky University College of Health Sciences; and
+5 4. Western Kentucky University Department of Public Health.
+6 (b) Within sixty (60) days after the effective date of this Act, the consortium
+7 shall adopt organizing documents that provide for:
+8 1. A governing board to govern the consortium, consisting of
+9 representatives from each member of the consortium in equal
+10 proportion;
+11 2. The appointment of a director by the governing board to manage the
+12 consortium's daily operations; and
+13 3. The delegation of such powers and responsibilities to the director as
+14 may be necessary for the consortium's efficient operation.
+15 (2) (a) Within one hundred eighty (180) days after the effective date of the
+16 consortium's organizing documents, the consortium shall enter into a
+17 contract with the executive director to operate and govern the Kentucky
+18 statewide health data utility in accordance with Sections 1 to 10 of this Act.
+19 (b) The consortium shall:
+20 1. Not release, publish, or otherwise use any health information, records,
+21 or data to which the consortium, or any vendor or contractor of the
+22 consortium, has access to under Sections 1 to 10 of this Act without
+23 express authorization in a written or electronic record from the
+24 executive director; and
+25 2. Monitor and supervise any vendor or contractor of the consortium to
+26 ensure that the vendor or contractor complies with Sections 1 to 10 of
+27 this Act.
+Page 18 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (3) In operating and governing the statewide health data utility, the consortium
+2 shall:
+3 (a) Ensure that the statewide health data utility:
+4 1. Is value-driven and responsive to the needs of health care, public
+5 health, and community stakeholders;
+6 2._ Provides a variety of services from which to choose to best fit the needs
+7 of authorized recipients;
+8 3. a. Complies with established national standards regarding data
+9 accuracy and quality that shall include periodically conducting,
+10 or contracting to conduct, audits of health information submitted
+11 to the statewide health data utility to corroborate:
+12 i. Compliance with Section 8 of this Act; and
+13 ii. The accuracy, completeness, and timeliness of the
+14 information.
+15 b. Any audits conducted under this subparagraph shall, to the
+16 extent practicable, be coordinated with other audits or
+17 examinations performed by other state or federal agencies or
+18 health utilities or databases;
+19 4. Protects the:
+20 a. Privacy of patients; and
+21 b. Security and confidentiality of health information;
+22 5. Facilitates and supports the secure, electronic exchange of health
+23 information;
+24 6. Promotes interoperability;
+25 7. Provides a mechanism for participants without electronic health
+26 information to provide health information to the statewide health data
+27 utility;
+Page 19 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 8. Has a disaster recovery mechanism that allows access to health
+2 information in the event of a disaster, a use of ransomware, a
+3 cyberattack, or another emergency scenario;
+4 9. Increases the accuracy, completeness, and uniformity of health
+5 information;
+6 10. Allows a patient to opt out from including the patient's electronic
+7 longitudinal health record in the statewide health data utility, except
+8 an opt-out under this subparagraph shall not prevent the statewide
+9 health data utility from including the patient's deidentified or
+10 aggregated health care claims data or encounter data for the purpose
+11 of population health monitoring, public health reporting, academic
+12 research, or policy analysis, if the data cannot reasonably be used to
+13 reidentify the patient; and
+14 11. Provides education to the general public and the health care sector
+15 about the value and benefits of a statewide health data utility;
+16 (b) Operate the statewide health data utility:
+17 1. Efficiently and effectively, using sound business and data governance
+18 practices consistent with the goals of:
+19 a. Public accountability;
+20 b. Transparency; and
+21 c. Improving health outcomes; and
+22 2. Independently in its technical and analytic functions;
+23 (c) Report to the executive director and secretary any finding made, or
+24 information received, by the consortium that:
+25 1. Relates to a person who is required to comply with Section 8 of this
+26 Act; and
+27 2. Indicates that the person referenced in subparagraph 1. of this
+Page 20 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 paragraph has, or may have, materially failed or willfully refused to
+2 comply with Section 8 of this Act;
+3 (d) Ensure that health information is accessible to authorized recipients and
+4 the public in a manner that:
+5 1. For health information that is provided for the purpose of collecting
+6 and analyzing data, allows for comparisons of:
+7 a. Geographic, demographic, and economic factors; and
+8 b. Institutional size; and
+9 2. For health information that is provided to patients and the public, is
+10 consumer friendly;
+11 (e) For data that is made available to authorized recipients and the public,
+12 establish a process for requesting and accessing the data that:
+13 1. Complies with subsection (2)(f)3. and 4. of Section 4 of this Act; and
+14 2. May include requiring authorized recipients to enter into additional
+15 data service agreements or memoranda of understanding prior to
+16 accessing or using health information in the statewide health data
+17 utility;
+18 (f) Prohibit any person, including an authorized recipient, from accessing or
+19 using health information in the statewide health data utility for any of the
+20 following purposes:
+21 1. To obtain or disclose trade secrets;
+22 2. To reidentify or attempt to reidentify an individual's data or
+23 information;
+24 3. To distribute the data or information for a commercial purpose;
+25 4. To take any action in violation of applicable data privacy or security
+26 laws; or
+27 5. For any purpose not identified in subsection (2)(b)2. or 3. of Section 5
+Page 21 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 of this Act;
+2 (g) Require all authorized recipients and the public to agree in a written or
+3 electronic record to comply with paragraph (f) of this subsection prior to
+4 accessing or using health information in the statewide health data utility;
+5 (h) 1. Conduct a risk assessment and prepare a mitigation remediation plan
+6 in the form of a privacy impact assessment, which shall be submitted
+7 to and approved by the board.
+8 2. The assessment and plan shall:
+9 a. Assess risks to an individual's right to privacy within the
+10 statewide health data utility where the individual does not
+11 possess immediate control over the individual's information;
+12 b. Recommend alternatives to both mitigate the risks and achieve
+13 the stated objectives of the statewide health data utility; and
+14 c. Identify those individuals within the consortium who shall be
+15 directly accountable for:
+16 i. The assessment and plan;
+17 ii. The statewide health data utility at the time the assessment
+18 and plan are conducted and prepared; and
+19 iii. The implementation of any approved alternatives and
+20 mitigations as a result of the assessment and plan; and
+21 (i) Administer data governance and HIPAA training to all members of the
+22 board within sixty (60) days of each member's appointment.
+23 SECTION 7. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+24 READ AS FOLLOWS:
+25 (1) There is hereby established the Kentucky Health Information Technology Board,
+26 whose duties shall be to:
+27 (a) Establish policies and procedures for the sharing of health information by
+Page 22 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 participants under Sections 1 to 10 of this Act, including the submission of
+2 health information by participants to the consortium of public health
+3 colleges;
+4 (b) Actively promote improved health data utility governance practices across
+5 the state;
+6 (c) Identify and approve pivotal health data utility governance roles and
+7 responsibilities between government agencies and the private sector, as
+8 permitted by applicable federal and state law;
+9 (d) Advise on, review, and approve the consortium's data control, governance,
+10 and privacy practices in compliance with federal and state information
+11 privacy and security policies and laws;
+12 (e) Drive strategic and timely implementation of the consortium's privacy
+13 policies, related procedures, and processes to operationalize policy-driven
+14 controls and effective risk management methodologies, using industry
+15 standards;
+16 (f) Review and approve the risk assessment and mitigation remediation plan
+17 conducted and prepared by the consortium under Section 6 of this Act; and
+18 (g) Advise on, review, and make recommendations for:
+19 1. The data elements that will be available to authorized recipients and
+20 the public, including specific strategies for ensuring the accessibility
+21 of data related to health care access, utilization, cost, safety, and
+22 quality;
+23 2. The process for authorized recipients to access and request data; and
+24 3. Any other matters submitted to the board relating to the development,
+25 implementation, operation, and maintenance of the statewide health
+26 data utility.
+27 (2) (a) The board shall consist of the following members:
+Page 23 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 1. One (1) individual who has experience in pharmacy informatics;
+2 2. One (1) member of academia with experience in health care data
+3 research;
+4 3. One (1) hospital administrator who is appointed from a list of at least
+5 three (3) candidates submitted by the Kentucky Hospital Association;
+6 4. One (1) representative from the Kentucky Hospital Association;
+7 5. One (1) representative from the Kentucky Medical Association;
+8 6. One (1) representative from the Kentucky Pharmacists Association;
+9 7. One (1) representative from the Kentucky Dental Association;
+10 8. One (1) representative from the Kentucky Primary Care Association;
+11 9. One (1) representative of a Medicaid managed care organization or an
+12 organization that represents Medicaid managed care organizations;
+13 10. One (1) representative of a commercial health care payer or an
+14 organization that represents health insurers;
+15 11. One (1) representative of a health care purchaser or an organization
+16 that represents health care purchasers;
+17 12. One (1) representative of:
+18 a. A property and casualty insurer;
+19 b. A workers' compensation insurer; or
+20 c. An organization that represents property and casualty or
+21 workers' compensation insurers;
+22 13. One (1) individual representing health care consumers; and
+23 14. One (1) privacy officer of a health care payer, health care purchaser,
+24 or health facility;
+25 (b) In addition to the members listed in paragraph (a) of this subsection:
+26 1. The following persons, or their designees, shall serve as voting ex
+27 officio members of the board:
+Page 24 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 a. The commissioner of the Department of Insurance;
+2 b. The executive director of the Commonwealth Office of
+3 Technology;
+4 c. The commissioner of the Department of Employee Insurance;
+5 and
+6 d. The Attorney General;
+7 2. The following persons, or their designees, shall serve as nonvoting ex
+8 officio members:
+9 a. A member of the House of Representatives, who shall be
+10 appointed by the Speaker of the House of Representatives;
+11 b. A member of the Senate, who shall be appointed by the President
+12 of the Senate;
+13 c. The commissioner of the Department for Medicaid Services;
+14 d. The commissioner of the Department for Public Health;
+15 e. The commissioner of the Department for Behavioral Health,
+16 Developmental and Intellectual Disabilities; and
+17 f. The director of the consortium of public health colleges; and
+18 3. The executive director shall serve as chair of the board, but shall not
+19 have a vote unless there is a tie, in which case the executive director
+20 may cast the deciding vote.
+21 (c) The members listed in paragraph (a) of this of this subsection:
+22 1. Shall be appointed by the secretary;
+23 2. Shall serve a term of four (4) years; and
+24 3. May be reappointed.
+25 (d) 1. The secretary shall fill all vacancies under paragraph (a) of this
+26 subsection within sixty (60) days of the vacancy.
+27 2. In the event a representative or person listed in paragraph (a) of this
+Page 25 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 subsection is not available or willing to serve, the secretary shall
+2 appoint a person with expertise or experience in the applicable
+3 referenced industry or subject matter.
+4 (e) Within sixty (60) days of appointment, each board member shall complete
+5 the data governance and HIPAA training administered by the consortium.
+6 (3) The policies and procedures adopted by the board for the sharing and submission
+7 of health information by participants under Sections 1 to 10 of this Act shall:
+8 (a) Set forth:
+9 1. The data elements to be shared and submitted by participants to the
+10 consortium, which shall include without limitation the information
+11 that shall be included in the clinical data captured by participants in
+12 their existing electronic health records;
+13 2. The reporting format for the sharing and submission of health
+14 information, which:
+15 a. May vary based on the type of data reported; and
+16 b. If feasible, shall adopt the reporting format for self-insured
+17 group health plans described in 29 U.S.C. sec. 1191d, as
+18 amended, for the reporting of health care claims data; and
+19 3. The frequency of submissions; and
+20 (b) Comply with:
+21 1. Interoperability guidance published by the federal Centers for
+22 Medicare and Medicaid Services; and
+23 2. All applicable federal and state data privacy and security laws,
+24 including without limitation HIPAA.
+25 (4) The board may seek information from any person if the board deems that the
+26 information is relevant to better inform the board of its duties.
+27 (5) The first meeting of the board shall be held within thirty (30) days after
+Page 26 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 appointment of all of the members.
+2 (6) (a) The board shall meet upon the call of the chair, but not less than quarterly
+3 for the first two (2) years after the date of the first board meeting.
+4 Thereafter, the board shall meet not less than semiannually.
+5 (b) A majority of the voting members, which includes the chair, shall constitute
+6 a quorum to do business.
+7 (c) Actions of the board shall require a:
+8 1. Quorum; and
+9 2. Majority of the voting members present.
+10 (d) A member shall be permitted to participate and vote in board business
+11 through distance communication technology.
+12 (7) The board shall be a budget unit of the cabinet, which shall:
+13 (a) Pay the board's necessary operating expenses; and
+14 (b) Furnish all office space, personnel, equipment, supplies, and technical or
+15 administrative services required by the board in the performance of the
+16 functions established in this section.
+17 (8) Members of the board, other than cabinet employees, shall not receive
+18 compensation from the cabinet for the member's service on the board, but shall
+19 receive actual and necessary travel expenses associated with attending meetings
+20 in accordance with state administrative regulations relating to travel
+21 reimbursement.
+22 SECTION 8. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+23 READ AS FOLLOWS:
+24 (1) To the extent permitted under federal law:
+25 (a) A participant shall comply with all health information sharing and
+26 submission requirements established for the participant by the executive
+27 director in administrative regulations promulgated in accordance with
+Page 27 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 Section 4 of this Act; and
+2 (b) Any person not required to comply with paragraph (a) of this subsection
+3 under state or federal law may elect to voluntarily submit health
+4 information to the Kentucky statewide health data utility.
+5 (2) A person that is required to comply with subsection (1)(a) of this section shall
+6 enter into an agreement with the consortium to submit health information to the
+7 statewide health data utility not later than the last of the following to occur:
+8 (a) Three (3) months after the relevant exchange or database within the
+9 statewide health data utility becomes operational; or
+10 (b) The date the person begins to do business, operate, or otherwise engage in
+11 activity that requires compliance with subsection (1)(a) of this section.
+12 SECTION 9. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+13 READ AS FOLLOWS:
+14 (1) (a) The secretary shall enforce the mandatory reporting requirements in
+15 Section 8 of this Act.
+16 (b) In carrying out the duties under paragraph (a) of this subsection, the
+17 secretary:
+18 1. Has the authority to receive complaints and conduct investigations,
+19 which includes:
+20 a. Receiving sworn statements; and
+21 b. Issuing subpoenas to compel the:
+22 i. Attendance and testimony of witnesses; and
+23 ii. Production of records and other documents;
+24 2. May enter an order assessing a civil penalty in accordance with this
+25 section;
+26 3. Has the power to invoke the aid of the courts through injunction or
+27 other proper process to:
+Page 28 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 a. Enjoin any existing or threatened violation of Section 8 of this
+2 Act; or
+3 b. Enforce any proper order entered under this section; and
+4 4. Shall provide a right to an administrative hearing in accordance with
+5 KRS Chapter 13B prior to the entry of a final order assessing a civil
+6 penalty under this section, except that if a person fails to request an
+7 administrative hearing within twenty (20) days of the date of service of
+8 any notice of intent to assess a civil penalty under this section, the
+9 secretary may enter a final order assessing the civil penalty without
+10 conducting a hearing.
+11 (2) (a) Subject to paragraphs (b), (c), (d), and (e) of this subsection, the executive
+12 director shall promulgate an administrative regulation designating a
+13 schedule of penalties, not to exceed one thousand dollars ($1,000) per day,
+14 for any participant that fails to comply with a mandatory reporting
+15 requirement for that person under Section 8 of this Act.
+16 (b) Local government, state, and federal agencies or entities shall not be subject
+17 to or assessed a civil penalty under this section.
+18 (c) The executive director may, by administrative regulation, adjust the
+19 maximum penalty established under paragraph (a) of this subsection every
+20 two (2) years based on the percent change in the nonseasonally adjusted
+21 annual average Consumer Price Index for All Urban Consumers (CPI-U),
+22 U.S. City Average, Medical Care, between the two (2) most recent calendar
+23 years available, as published by the United States Bureau of Labor
+24 Statistics.
+25 (d) The secretary shall promulgate an administrative regulation designating the
+26 process for notice, hearing, and collection of any penalty assessed under
+27 section.
+Page 29 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (e) The secretary may, upon terms and conditions that are determined by the
+2 secretary to be in the public interest, remit or mitigate any penalty assessed
+3 under section.
+4 (3) Any penalties collected by the secretary under this section shall be deposited into
+5 the Kentucky statewide health data utility fund established in Section 3 of this
+6 Act.
+7 SECTION 10. A NEW SECTION OF KRS CHAPTER 194A IS CREATED
+8 TO READ AS FOLLOWS:
+9 (1) No later than June 1 of each year, the consortium shall submit a written report to
+10 the executive director, and the Legislative Research Commission for referral to
+11 the appropriate interim joint committees or other appropriate committees, that
+12 sets forth the following relating to the statewide health data utility:
+13 (a) The status of any development and implementation efforts;
+14 (b) A detailed summary of the utility's operations for the previous year;
+15 (c) The financial stability of the utility;
+16 (d) An assessment of:
+17 1. The cost, performance, and effectiveness of the utility;
+18 2. The performance of any vendors or contractors that the consortium
+19 has retained; and
+20 3. Whether the utility has advanced the purposes set forth in Sections 1
+21 to 10 of this Act; and
+22 (e) Any recommendations for changes or improvements to the utility.
+23 (2) No later than September 1 of each year, the executive director shall submit a
+24 written report to the Legislative Research Commission for referral to the
+25 appropriate interim joint committees or other appropriate committees that sets
+26 forth the following relating to the statewide health data utility:
+27 (a) A summary of the executive director's oversight and enforcement activities;
+Page 30 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (b) Whether the consortium is in compliance with the contract to operate and
+2 govern the utility;
+3 (c) If the consortium is not in compliance with the contract to operate and
+4 govern the utility, a detailed listing and summary of the compliance issues;
+5 (d) An assessment of:
+6 1. The financial stability of the utility;
+7 2. The cost, performance, and effectiveness of the utility;
+8 3. The performance of any vendors or contractors that the consortium of
+9 public health colleges or executive director has retained; and
+10 4. Whether the utility has advanced the purposes set forth in Sections 1
+11 to 10 of this Act; and
+12 (e) Any recommendations for changes or improvements to the utility.
+13 Section 11. KRS 194A.030 is amended to read as follows:
+14 The cabinet consists of the following major organizational units, which are hereby
+15 created:
+16 (1) Office of the Secretary. Within the Office of the Secretary, there shall be an Office
+17 of Legal Services, an Office of Inspector General, an Office of Public Affairs, an
+18 Office of Human Resource Management, an Office of Finance and Budget, an
+19 Office of Legislative and Regulatory Affairs, an Office of Administrative Services,
+20 an Office of Application Technology Services, an Office of Data Analytics, and an
+21 Office of Medical Cannabis as follows:
+22 (a) The Office of Legal Services shall provide legal advice and assistance to all
+23 units of the cabinet in any legal action in which it may be involved. The
+24 Office of Legal Services shall employ all attorneys of the cabinet who serve
+25 the cabinet in the capacity of attorney, giving legal advice and opinions
+26 concerning the operation of all programs in the cabinet. The Office of Legal
+27 Services shall be headed by a general counsel who shall be appointed by the
+Page 31 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 secretary with the approval of the Governor under KRS 12.050 and 12.210.
+2 The general counsel shall be the chief legal advisor to the secretary and shall
+3 be directly responsible to the secretary. The Attorney General, on the request
+4 of the secretary, may designate the general counsel as an assistant attorney
+5 general under the provisions of KRS 15.105;
+6 (b) The Office of Inspector General shall be headed by an inspector general who
+7 shall be appointed by the secretary with the approval of the Governor. The
+8 inspector general shall be directly responsible to the secretary. The Office of
+9 Inspector General shall be responsible for:
+10 1. The conduct of audits and investigations for detecting the perpetration of
+11 fraud or abuse of any program by any client, or by any vendor of
+12 services with whom the cabinet has contracted; and the conduct of
+13 special investigations requested by the secretary, commissioners, or
+14 office heads of the cabinet into matters related to the cabinet or its
+15 programs;
+16 2. Licensing and regulatory functions as the secretary may delegate;
+17 3. Review of health facilities participating in transplant programs, as
+18 determined by the secretary, for the purpose of determining any
+19 violations of KRS 311.1911 to 311.1959, 311.1961, and 311.1963;
+20 4. The duties, responsibilities, and authority pertaining to the certificate of
+21 need functions and the licensure appeals functions, pursuant to KRS
+22 Chapter 216B;
+23 5. The notification and forwarding of any information relevant to possible
+24 criminal violations to the appropriate prosecuting authority;
+25 6. The oversight of the operations of the Kentucky Health Information
+26 Exchange in accordance with Section 13 of this Act; and
+27 7. The support and guidance to health care providers related to telehealth
+Page 32 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 services, including the development of policy, standards, resources, and
+2 education to expand telehealth services across the Commonwealth;
+3 (c) The Office of Public Affairs shall be headed by an executive director
+4 appointed by the secretary with the approval of the Governor in accordance
+5 with KRS 12.050. The office shall provide information to the public and news
+6 media about the programs, services, and initiatives of the cabinet;
+7 (d) The Office of Human Resource Management shall be headed by an executive
+8 director appointed by the secretary with the approval of the Governor in
+9 accordance with KRS 12.050. The office shall coordinate, oversee, and
+10 execute all personnel, training, and management functions of the cabinet. The
+11 office shall focus on the oversight, development, and implementation of
+12 quality improvement services; curriculum development and delivery of
+13 instruction to staff; the administration, management, and oversight of training
+14 operations; health, safety, and compliance training; and equal employment
+15 opportunity compliance functions;
+16 (e) The Office of Finance and Budget shall be headed by an executive director
+17 appointed by the secretary with the approval of the Governor in accordance
+18 with KRS 12.050. The office shall provide central review and oversight of
+19 budget, contract, and cabinet finances. The office shall provide coordination,
+20 assistance, and support to program departments and independent review and
+21 analysis on behalf of the secretary;
+22 (f) The Office of Legislative and Regulatory Affairs shall be headed by an
+23 executive director appointed by the secretary with the approval of the
+24 Governor in accordance with KRS 12.050. The office shall provide central
+25 review and oversight of legislation, policy, and administrative regulations.
+26 The office shall provide coordination, assistance, and support to program
+27 departments and independent review and analysis on behalf of the secretary;
+Page 33 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (g) The Office of Administrative Services shall be headed by an executive
+2 director appointed by the secretary with the approval of the Governor in
+3 accordance with KRS 12.050. The office shall provide central review and
+4 oversight of procurement, general accounting including grant monitoring, and
+5 facility management. The office shall provide coordination, assistance, and
+6 support to program departments and independent review and analysis on
+7 behalf of the secretary;
+8 (h) The Office of Application Technology Services shall be headed by an
+9 executive director appointed by the secretary with the approval of the
+10 Governor in accordance with KRS 12.050. The office shall provide
+11 application technology services including central review and oversight. The
+12 office shall provide coordination, assistance, and support to program
+13 departments and independent review and analysis on behalf of the secretary;
+14 (i) The Office of Data Analytics shall be headed by an executive director who
+15 shall be appointed by the secretary with the approval of the Governor under
+16 KRS 12.050, and shall:
+17 1. Identify and innovate strategic initiatives to inform public policy
+18 initiatives and provide opportunities for improved health outcomes for
+19 all Kentuckians though data analytics;[. The office shall ]
+20 2. Provide leadership in the redesign of the health care delivery system
+21 using electronic information technology to improve patient care and
+22 reduce medical errors and duplicative services; and
+23 3. Comply with Sections 1 to 10 of this Act;
+24 (j) The Office of Medical Cannabis shall be headed by an executive director
+25 appointed by the Governor in accordance with KRS 12.040 and shall
+26 implement, operate, oversee, and regulate the medicinal cannabis program.
+27 The office shall be composed of the Division of Enforcement and Compliance
+Page 34 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 and the Division of Licensure and Access. Each division in the office shall be
+2 headed by a director appointed by the secretary with the approval of the
+3 Governor in accordance with KRS 12.050.
+4 (2) Department for Medicaid Services. The Department for Medicaid Services shall
+5 serve as the single state agency in the Commonwealth to administer Title XIX of
+6 the Federal Social Security Act. The Department for Medicaid Services shall be
+7 headed by a commissioner for Medicaid services, who shall be appointed by the
+8 secretary with the approval of the Governor under KRS 12.050. The commissioner
+9 for Medicaid services shall be a person who by experience and training in
+10 administration and management is qualified to perform the duties of this office. The
+11 commissioner for Medicaid services shall exercise authority over the Department
+12 for Medicaid Services under the direction of the secretary and shall only fulfill
+13 those responsibilities as delegated by the secretary;
+14 (3) Department for Public Health. The Department for Public Health shall develop and
+15 operate all programs of the cabinet that provide health services and all programs for
+16 assessing the health status of the population for the promotion of health and the
+17 prevention of disease, injury, disability, and premature death. This shall include but
+18 not be limited to oversight of the Division of Women's Health and the Office for
+19 Children with Special Health Care Needs. The duties, responsibilities, and authority
+20 set out in KRS 200.460 to 200.490 shall be performed by the Department for Public
+21 Health. The Department for Public Health shall advocate for the rights of children
+22 with disabilities and, to the extent that funds are available, shall ensure the
+23 administration of services for children with disabilities as are deemed appropriate
+24 by this office pursuant to Title V of the Social Security Act. The Department for
+25 Public Health may promulgate administrative regulations under KRS Chapter 13A
+26 as may be necessary to implement and administer its responsibilities. The Office for
+27 Children with Special Health Care Needs may be headed by an executive director
+Page 35 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 appointed by the secretary with the approval of the Governor in accordance with
+2 KRS 12.050. The Department for Public Health shall be headed by a commissioner
+3 for public health who shall be appointed by the secretary with the approval of the
+4 Governor under KRS 12.050. The commissioner for public health shall be a duly
+5 licensed physician who by experience and training in administration and
+6 management is qualified to perform the duties of this office. The commissioner
+7 shall advise the head of each major organizational unit enumerated in this section
+8 on policies, plans, and programs relating to all matters of public health, including
+9 any actions necessary to safeguard the health of the citizens of the Commonwealth.
+10 The commissioner shall serve as chief medical officer of the Commonwealth. The
+11 commissioner for public health shall exercise authority over the Department for
+12 Public Health under the direction of the secretary and shall only fulfill those
+13 responsibilities as delegated by the secretary;
+14 (4) Department for Behavioral Health, Developmental and Intellectual Disabilities. The
+15 Department for Behavioral Health, Developmental and Intellectual Disabilities shall
+16 develop and administer programs for the prevention of mental illness, intellectual
+17 disabilities, brain injury, developmental disabilities, and substance use disorders
+18 and shall develop and administer an array of services and support for the treatment,
+19 habilitation, and rehabilitation of persons who have a mental illness or emotional
+20 disability, or who have an intellectual disability, brain injury, developmental
+21 disability, or a substance use disorder. The Department for Behavioral Health,
+22 Developmental and Intellectual Disabilities shall be headed by a commissioner for
+23 behavioral health, developmental and intellectual disabilities who shall be
+24 appointed by the secretary with the approval of the Governor under KRS 12.050.
+25 The commissioner for behavioral health, developmental and intellectual disabilities
+26 shall be by training and experience in administration and management qualified to
+27 perform the duties of the office. The commissioner for behavioral health,
+Page 36 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 developmental and intellectual disabilities shall exercise authority over the
+2 department under the direction of the secretary, and shall only fulfill those
+3 responsibilities as delegated by the secretary;
+4 (5) Department for Family Resource Centers and Volunteer Services. The Department
+5 for Family Resource Centers and Volunteer Services shall streamline the various
+6 responsibilities associated with the human services programs for which the cabinet
+7 is responsible. This shall include, but not be limited to, oversight of the Division of
+8 Family Resource and Youth Services Centers and Serve Kentucky. The Department
+9 for Family Resource Centers and Volunteer Services shall be headed by a
+10 commissioner who shall be appointed by the secretary with the approval of the
+11 Governor under KRS 12.050. The commissioner for family resource centers and
+12 volunteer services shall be by training and experience in administration and
+13 management qualified to perform the duties of the office, shall exercise authority
+14 over the department under the direction of the secretary, and shall only fulfill those
+15 responsibilities as delegated by the secretary;
+16 (6) Department for Community Based Services. The Department for Community Based
+17 Services shall administer and be responsible for child and adult protection,
+18 guardianship services, violence prevention resources, foster care and adoption,
+19 permanency, and services to enhance family self-sufficiency, including child care,
+20 social services, public assistance, and family support. The department shall be
+21 headed by a commissioner appointed by the secretary with the approval of the
+22 Governor in accordance with KRS 12.050; and
+23 (7) Department for Aging and Independent Living. The Department for Aging and
+24 Independent Living shall serve as the state unit as designated by the Administration
+25 on Aging Services under the Older Americans Act and shall have responsibility for
+26 administration of the federal community support services, in-home services, meals,
+27 family and caregiver support services, elder rights and legal assistance, senior
+Page 37 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 community services employment program, the state health insurance assistance
+2 program, state home and community based services including home care,
+3 Alzheimer's respite services and the personal care attendant program, certifications
+4 of assisted living facilities, and the state Council on Alzheimer's Disease and other
+5 related disorders. The department shall also administer the Long-Term Care
+6 Ombudsman Program and the Medicaid Home and Community Based Waivers
+7 Participant Directed Services Option (PDS) Program. The department shall serve as
+8 the information and assistance center for aging and disability services and
+9 administer multiple federal grants and other state initiatives. The department shall
+10 be headed by a commissioner appointed by the secretary with the approval of the
+11 Governor in accordance with KRS 12.050.
+12 Section 12. KRS 194A.101 is amended to read as follows:
+13 (1) The Office of Data Analytics is hereby created in the Office of the Secretary. The
+14 office shall:
+15 (a) Provide oversight and strategic direction for, and be responsible for the
+16 coordinating of, the data analysis initiatives of[for] the various departments
+17 that regulate health care and social services to ensure that policy is consistent
+18 with the long-term goals across the Commonwealth; and
+19 (b) Comply with Sections 1 to 10 of this Act.
+20 (2) The office shall have the authority to review all data requests received by the
+21 cabinet from the public, review the requests for content to determine the cabinet's
+22 response, and approve the release of the requested information. The office shall
+23 review data analyses conducted by the departments within the cabinet to ensure the
+24 consistency, quality, and validity of the analysis prior to its use in operational and
+25 policy decisions. The office shall facilitate the process of data integration by
+26 initiating and maintaining data-sharing agreements in order to improve inter-agency
+27 and cross-cabinet collaboration.
+Page 38 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (3) The Office of Data Analytics shall promulgate administrative regulations in
+2 accordance with KRS Chapter 13A to implement this section.
+3 Section 13. KRS 194A.103 is amended to read as follows:
+4 (1) (a) The Division of Kentucky Health Information Exchange is hereby created in
+5 the Office of Inspector General.
+6 (b) The division shall:
+7 1. Continue to operate and support the Kentucky Health Information
+8 Exchange until the Kentucky statewide health data utility established
+9 in Sections 1 to 10 of this Act becomes operational; and
+10 2. Cooperate with, support, and provide assistance to the executive
+11 director of the Office of Data Analytics and the consortium of public
+12 health colleges created in Section 6 of this Act in the implementation
+13 of the health care information exchange and the prescription
+14 information exchange within the Kentucky statewide health data
+15 utility established in Sections 1 to 10 of this Act[provide leadership in
+16 the redesign of the health care delivery system using electronic
+17 information technology as a means to improve patient care and reduce
+18 medical errors and duplicative services].
+19 (2) The Office of Inspector General shall promulgate administrative regulations in
+20 accordance with KRS Chapter 13A to implement the provisions of this section.
+21 Section 14. KRS 194A.095 is amended to read as follows:
+22 (1) There is created in the Cabinet for Health and Family Services a Division of
+23 Women's Health for the purpose of:
+24 (a) Serving as a repository for data and information affecting women's physical
+25 and mental health issues;
+26 (b) Analyzing and communicating trends in women's health issues and mental
+27 health;
+Page 39 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (c) Recommending to the cabinet[ for Health and Family Services] data elements
+2 affecting women's physical and mental health. The division shall advise and
+3 direct which data elements should be collected, analyzed, and reported in a
+4 timely manner under the Kentucky statewide health data utility established
+5 in Sections 1 to 10 of this Act or, to the extent the statewide health data
+6 utility is not operational, under any other operational health data reporting
+7 law of this state[KRS 216.2920 to 216.2929];
+8 (d) Cooperating and collaborating with the cabinet[ for Health and Family
+9 Services] in receiving and disseminating through all forms of media,
+10 including the internet, relevant aggregate data findings that affect women and
+11 are collected from the Kentucky statewide health data utility established in
+12 Sections 1 to 10 of this Act or, to the extent the statewide health data utility
+13 is not operational, under any other operational health data reporting law of
+14 this state[under KRS 216.2920 to 216.2929 which affect women]; and
+15 (e) Planning, developing, and administering a Women's Health Resource Center
+16 within the cabinet[ for Health and Family Services] to focus on targeted
+17 preventive care and comprehensive health education.
+18 (2) The division may accept gifts, grants, and bequests in support of its mission and
+19 duties specified in[ subsection (1) of] this section. All money received shall be
+20 administered by the cabinet, which shall administer these funds through appropriate
+21 trust and agency accounts.
+22 Section 15. KRS 205.640 is amended to read as follows:
+23 (1) The commissioner of Medicaid services shall adopt a disproportionate share
+24 program consistent with the requirements of Title XIX of the Social Security Act
+25 which shall include to the extent possible, but not limited to, the provisions of this
+26 section.
+27 (2) The Medical Assistance Revolving Trust Fund (MART) shall be established in the
+Page 40 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 State Treasury and all provider tax revenues collected pursuant to KRS 142.301 to
+2 142.363 shall be deposited in the State Treasury and transferred on a quarterly basis
+3 to the Department for Medicaid Services for use as specified in this section. All
+4 investment earnings of the fund shall be credited to the fund. Provider tax revenues
+5 collected in accordance with KRS 142.301 to 142.363 may be used to fund the
+6 provisions of Sections 1 to 10 of this Act[KRS 216.2920 to 216.2929] and to
+7 supplement the medical assistance-related general fund appropriations for fiscal
+8 year 1994 and subsequent fiscal years. Notwithstanding the provisions of KRS
+9 48.500 and 48.600, the MART fund shall be exempt from any state budget
+10 reduction acts.
+11 (3) (a) Beginning in state fiscal year 2000-2001 and continuing annually thereafter,
+12 provider tax revenues and state and federal matching funds shall be used to
+13 fund the disproportionate share program established by administrative
+14 regulations promulgated by the Cabinet for Health and Family Services.
+15 Disproportionate share funds shall be divided into three (3) pools for
+16 distribution as follows:
+17 1. An acute care pool, composed of critical access hospitals,
+18 comprehensive physical rehabilitation hospitals, long-term acute
+19 hospitals, and acute care hospitals that do not qualify as a university
+20 hospital, shall receive an initial and a final allocation determined by
+21 subtracting from the state's total DSH allotment:
+22 a. The allocation required in subparagraph 2. of this paragraph for
+23 the psychiatric pool; and
+24 b. The initial or final, as applicable, DSH payments to be made to
+25 hospitals in the university pool in subparagraph 3. of this
+26 paragraph;
+27 2. A psychiatric pool, composed of private psychiatric hospitals and state
+Page 41 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 mental hospitals, shall receive the percentage allowable by federal law
+2 pursuant to 42 U.S.C. sec. 1396r-4(h), up to nineteen and eight-
+3 hundredths percent (19.08%) of the total disproportionate share funds,
+4 with the allocation between each respective group of hospitals
+5 established by the biennial budget; except, however, that the allocation
+6 to state mental hospitals shall not exceed ninety-two and three-tenths
+7 percent (92.3%) of the total allotment to the psychiatric pool. If there are
+8 remaining funds within the psychiatric pool after all private psychiatric
+9 hospitals reach their hospital-specific DSH limit, state mental hospitals
+10 may exceed the ninety-two and three-tenths percent (92.3%) limit but
+11 may not exceed their hospital-specific DSH limit;
+12 3. A university hospital pool, composed of university hospitals, shall
+13 receive thirty-seven percent (37%) of the state's DSH allotment; except,
+14 however, that initial and final DSH payments to university hospitals
+15 shall be determined according to paragraph (e) of this subsection and not
+16 exceed the pool's overall allotment;
+17 4. If there are any remaining disproportionate share funds from the
+18 psychiatric pool, fifty-four percent (54%) of those funds shall be
+19 distributed to the acute care pool and forty-six percent (46%) shall be
+20 distributed to the university pool. If the university hospitals are unable to
+21 absorb additional DSH payment dollars, remaining funds shall be
+22 distributed to the acute care pool; and
+23 5. If, in any year, university hospitals fail to provide state matching funds
+24 necessary to secure federal financial participation for the funds allocated
+25 to university hospitals under this subsection, the portion of the funding
+26 allocation that is not matched by university hospitals shall be made
+27 available to the acute care pool.
+Page 42 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (b) The MART fund shall be used to compensate acute care hospitals, private
+2 psychiatric hospitals, state mental hospitals, critical access hospitals,
+3 comprehensive physical rehabilitation hospitals, long-term acute care
+4 hospitals, and university hospitals participating in the disproportionate share
+5 program for uncompensated care costs.
+6 (c) An individual hospital shall receive distributions if the hospital meets the
+7 requirements of the disproportionate share program pursuant to 42 U.S.C. sec.
+8 1396r-4.
+9 (d) 1. An individual hospital shall not receive an initial DSH payment unless
+10 the hospital submits a Medicaid DSH survey by the deadline established
+11 by subsection (8)(a) of this section, unless the deadline has been
+12 extended by the commissioner of the department. Extension requests
+13 shall be received at least ten (10) days prior to the deadline. Extensions
+14 shall be limited to rare circumstances which prevent the hospital from
+15 meeting the deadline despite due diligence. Extensions shall be granted
+16 for no more than thirty (30) calendar days from the original due date for
+17 the Medicaid DSH survey. Failure to submit a DSH survey in a timely
+18 manner or other required information for receipt of an initial DSH
+19 payment shall result in an individual hospital's final DSH payment being
+20 reduced by twenty percent (20%).
+21 2. A hospital newly enrolled in the Medicaid program, which does not
+22 have at least six (6) months of cost report information necessary to
+23 calculate an initial DSH payment, may submit a limited DSH survey for
+24 the purpose of determining if the hospital is eligible to receive an initial
+25 DSH payment.
+26 (e) Distributions shall be made as follows:
+27 1. For state fiscal year 2018-2019, the department shall use the examined
+Page 43 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 state fiscal year 2014-2015 DSH survey to calculate an initial DSH
+2 payment. Providers who did not receive a DSH payment for state fiscal
+3 year 2014-2015 shall be eligible to submit data for the purpose of the
+4 2019 payment, subject to limited review. For state fiscal year 2019-
+5 2020, and each year thereafter, the department shall use the Medicaid
+6 DSH survey covering the hospital's fiscal year ending in the calendar
+7 year preceding July 1 of the applicable state fiscal year to calculate an
+8 initial DSH payment. Using the surveys submitted in accordance with
+9 this subsection, payments shall be made as follows:
+10 a. Each university hospital in the university pool shall receive an
+11 initial DSH payment equal to one hundred percent (100%) of the
+12 hospital's total uncompensated care costs if the total initial DSH
+13 payments to all hospitals in the university pool do not exceed the
+14 maximum allotment to the university pool as set forth in
+15 subsection (3)(a) of this section. If the total uncompensated care
+16 costs for the pool exceed the pool's maximum allotment, the initial
+17 uncompensated care factor for university hospitals shall be
+18 determined by calculating the percentage of each hospital's total
+19 uncompensated care costs toward the sum of the total
+20 uncompensated care costs of all hospitals in the university pool,
+21 and each hospital's initial DSH payment shall be calculated by
+22 multiplying the hospital's initial uncompensated care factor by the
+23 total funds allocated to the university hospital pool;
+24 b. For each private psychiatric and state mental hospital in the
+25 psychiatric pool, the department shall calculate an initial
+26 uncompensated care factor. The initial uncompensated care factor
+27 for a private psychiatric or state mental hospital shall be
+Page 44 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 determined by calculating the percentage of each hospital's total
+2 uncompensated care costs toward the sum of the total
+3 uncompensated care costs for all private psychiatric or state mental
+4 hospitals in the psychiatric pool, as appropriate. Each hospital's
+5 initial DSH payment shall be calculated by multiplying the
+6 hospital's initial uncompensated care factor by the total funds
+7 allocated to private psychiatric or state mental hospitals in the
+8 psychiatric pool, as appropriate. No individual hospital's initial
+9 DSH payment shall exceed the hospital's hospital-specific DSH
+10 limit;
+11 c. For each hospital in the acute care pool, the department shall make
+12 an initial determination of whether the acute care hospital qualifies
+13 as an essential hospital and calculate an initial uncompensated care
+14 factor for each hospital. The initial uncompensated care factor for
+15 each hospital in the acute care pool shall be determined by
+16 calculating the percentage of each hospital's total uncompensated
+17 care costs toward the sum of the total uncompensated care costs
+18 for all hospitals in the acute care pool except that the initial
+19 uncompensated care factor for an essential hospital shall be
+20 calculated using two hundred percent (200%) of the hospital's total
+21 uncompensated care costs. Each hospital's initial DSH payment
+22 shall be calculated by multiplying the hospital's initial
+23 uncompensated care factor by the total funds allocated to the acute
+24 care pool. No individual hospital's initial DSH payment shall
+25 exceed the hospital's hospital-specific DSH limit;
+26 d. For any hospital that is newly enrolled in the Medicaid program
+27 and lacks at least six (6) months of cost report information, the
+Page 45 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 department shall calculate a proxy amount for the hospital's
+2 uncompensated care costs. A newly enrolled hospital's
+3 uncompensated care costs proxy amount shall be determined by
+4 first dividing the total uncompensated care costs for all non-newly
+5 enrolled hospitals in the appropriate pool by the total number of
+6 hospital beds, excluding swing beds, reported on the Medicaid cost
+7 reports by those hospitals and then multiplying the resulting
+8 uncompensated care cost per bed by the new hospital's total
+9 number of hospital beds, excluding swing beds. Any
+10 uncompensated care costs proxy amounts calculated for newly
+11 enrolled hospitals shall be used in the determination of initial
+12 uncompensated care factors for all other hospitals in the
+13 appropriate pool;
+14 e. The department may make adjustments to a Medicaid DSH survey
+15 filed by a hospital to correct information that is incomplete or
+16 inaccurate as determined by limited review. If the department
+17 makes adjustments to a hospital's Medicaid DSH survey, the
+18 department shall provide written notice to the hospital;
+19 f. If a hospital has a negative uncompensated care cost, its
+20 uncompensated care costs shall be excluded from the calculation
+21 of any uncompensated care costs proxy amount for newly enrolled
+22 hospitals and uncompensated care factors for the appropriate pool;
+23 g. By September 30 of each year, the department shall calculate an
+24 initial DSH payment pursuant to subparagraph 1. of this paragraph
+25 and shall notify each hospital of their calculation. The notice shall,
+26 at minimum, contain the following for each hospital:
+27 i. Uninsured uncompensated care costs;
+Page 46 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 ii. Total uncompensated care costs;
+2 iii. The status of the MIUR and LIUR calculations;
+3 iv. The uncompensated care factor; and
+4 v. The estimated initial annual payment amount;
+5 h. Hospitals shall notify the department by October 31 of any
+6 adjustments in the department's initial calculations;
+7 i. The department shall make any necessary adjustments and shall
+8 issue an initial DSH payment to each hospital in one (1) lump-sum
+9 payment on or before November 30, for the disproportionate share
+10 funds available during the corresponding federal fiscal year. If the
+11 federal disproportionate share allotment for the Commonwealth
+12 has not been published through the Federal Register by November
+13 15, the department may pay a portion but no less than ninety
+14 percent (90%) of the expected annual payment prior to the
+15 publication of the annual federal allotment. If a partial initial
+16 payment is made, the remaining amount shall be paid within sixty
+17 (60) days after the date upon which notice of the Commonwealth's
+18 federal allotment is published through the Federal Register; and
+19 j. An initial DSH payment shall not be subject to appeal;
+20 2. a. Each hospital's total initial DSH payment shall be reconciled to a
+21 final DSH payment using the examined Medicaid DSH surveys
+22 and shall correspond to the applicable state fiscal year DSH
+23 payment year.
+24 b. Using the surveys submitted in accordance with subsection (8)(a)
+25 of this section, the department shall make a final determination of
+26 whether an acute care hospital qualifies as a MIUR or as a LIUR
+27 hospital. Any qualifying hospital will be deemed an essential
+Page 47 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 hospital. Critical access hospital status will also be confirmed to
+2 make a final determination of essential hospital status.
+3 c. The department shall calculate a final DSH payment as follows:
+4 i. Each university hospital shall receive a final DSH payment
+5 equal to one hundred percent (100%) of the hospital's total
+6 uncompensated costs so long as the total final DSH
+7 payments to all university hospitals do not exceed the
+8 maximum allotment to the university pool as set forth in
+9 subsection (3)(a) of this section. If total uncompensated care
+10 cost for the pool exceeds the pool's maximum allotment, the
+11 final uncompensated care factor for university hospitals shall
+12 be determined by calculating the percentage of each
+13 hospital's total uncompensated care costs toward the sum of
+14 the total uncompensated care costs for all hospitals within
+15 the university pool. In this event, each hospital's final DSH
+16 payment shall be calculated by multiplying the hospital's
+17 uncompensated care factor by the total fund allocated to the
+18 hospitals within the respective pool under subsection (3)(a)
+19 of this section;
+20 ii. For hospitals in the acute care pool and the psychiatric pool,
+21 the department shall recalculate each hospital's
+22 uncompensated care factor using examined data. The final
+23 uncompensated care factor for each hospital that qualifies as
+24 an essential hospital shall be computed using two hundred
+25 percent (200%) of the hospital's total uncompensated care
+26 costs using examined data;
+27 iii. If a hospital has a negative uncompensated care cost, their
+Page 48 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 uncompensated care cost will be excluded in the calculation
+2 of uncompensated care factors; and
+3 iv. The department shall compare each hospital's initial DSH
+4 payment with the hospital's final DSH payment and with the
+5 hospital's hospital-specific DSH limit to determine if any
+6 underpayment or an overpayment exists.
+7 d. By September 30 of the fourth year following the year in which an
+8 initial DSH payment is made, the department shall provide each
+9 hospital with a final DSH reconciliation report which, at a
+10 minimum, shall indicate the following:
+11 i. A hospital's final MIUR and LIUR status;
+12 ii. Final uncompensated care factor and underlying data;
+13 iii. Final DSH payment; and
+14 iv. If applicable, the amount of any overpayment to be paid to
+15 the department and the due date for repayment.
+16 e. If an overpayment is identified, repayment shall be made by
+17 January 31 of the following year, which is five (5) years following
+18 the year in which an initial DSH payment is made.
+19 f. Hospitals shall notify the department by October 31 of any
+20 corrections to the department's calculations.
+21 g. If a hospital's initial DSH payment was less than the hospital's
+22 final DSH payment, the department shall pay the hospital the
+23 amount of the difference. Final DSH payments shall be issued by
+24 the department within sixty (60) days of the due date for the
+25 repayment of funds from hospitals with a DSH overpayment. If all
+26 repayments have not yet been received by the due date, the
+27 department shall distribute the funds collected as of the due date,
+Page 49 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 and shall issue additional payments on a timely basis upon
+2 collection of all remaining outstanding overpayments.
+3 h. Any funds remaining after the reconciliation process shall be
+4 redistributed pursuant to subparagraph 3. of this paragraph; and
+5 3. Disproportionate share payments remaining after reconciling each
+6 hospital's initial DSH payment with the hospital's final DSH payment
+7 shall be distributed to other hospitals in the acute care pool, university
+8 pool, or to private psychiatric hospitals in the psychiatric pool as
+9 follows:
+10 a. Funds shall first be distributed to all hospitals in the same pool as
+11 the hospitals from which the overpayments were recovered, and
+12 the funds shall be distributed in a proportional manner in relation
+13 to each hospital's remaining total uncompensated care costs in
+14 accordance with the hospital's examined DSH survey for the
+15 applicable DSH year;
+16 b. In the proportional distribution, the distribution factor for each
+17 hospital that qualifies as an essential hospital shall be computed
+18 using two hundred percent (200%) of the hospital's total remaining
+19 uncompensated care costs; and
+20 c. If DSH funds remain after making this distribution to other
+21 hospitals in the same pool, funds shall be distributed
+22 proportionally to hospitals in the acute care pool, university pool,
+23 and private psychiatric hospitals in the psychiatric pool in relation
+24 to each hospital's remaining total uncompensated care costs in
+25 accordance with the hospital's examined Medicaid DSH survey for
+26 the applicable DSH year.
+27 (4) Notwithstanding any other provision to the contrary, total annual disproportionate
+Page 50 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 share payments made to state mental hospitals, university hospitals, acute care
+2 hospitals, critical access hospitals, comprehensive physical rehabilitation hospitals,
+3 long-term acute care hospitals, and private psychiatric hospitals in each state fiscal
+4 year shall be equal to the maximum amount of disproportionate share payments
+5 established under the Federal Balanced Budget Act of 1997 and any amendments
+6 thereto. Disproportionate share payments made to a hospital shall not exceed the
+7 hospital's total uncompensated costs or the hospital's hospital-specific DSH limit.
+8 (5) The secretary of the Cabinet for Health and Family Services shall promulgate
+9 administrative regulations, pursuant to KRS Chapter 13A, for the administration
+10 and implementation of this section.
+11 (6) All hospitals receiving reimbursement under this section shall display prominently a
+12 sign which reads as follows: "This hospital will accept patients regardless of race,
+13 creed, ethnic background, or ability to pay."
+14 (7) The hospital shall, upon request by the Cabinet for Health and Family Services,
+15 submit any supporting documentation to substantiate compliance with the audit
+16 requirements established by 42 C.F.R. sec. 455.
+17 (8) (a) An in-state hospital participating in the Medicaid Program shall submit a
+18 Medicaid DSH survey corresponding to the hospital's cost reporting period to
+19 the department no later than sixty (60) days following the hospital's
+20 submission of their annual cost report, unless an extension has been granted
+21 by the commissioner. Extension requests shall be received ten (10) days prior
+22 to the deadline. Extensions shall be limited to rare circumstances which
+23 prevent the hospital from meeting the deadline despite its due diligence.
+24 Extensions shall be granted for no more than thirty (30) calendar days from
+25 the original due date. A new in-state hospital lacking six (6) months of cost
+26 report information necessary to calculate an initial DSH payment shall submit
+27 a limited DSH survey to determine eligibility no later than the September 1
+Page 51 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 immediately prior to the department's initial DSH payment calculation. A
+2 hospital may submit corrections to an applicable Medicaid DSH survey prior
+3 to the scheduled start date of the department's desk review.
+4 (b) The department shall notify each hospital in advance of the desk review of the
+5 opportunity to submit corrections to the Medicaid DSH survey.
+6 (c) The department and each Medicaid managed care organization shall supply a
+7 paid claims listing (PCL) to each hospital within ninety (90) days of the last
+8 day of the hospital's fiscal year end date and a second set of data twelve (12)
+9 months after the hospital's fiscal year end date. The PCL shall include all
+10 claims with discharge dates or service dates, as applicable, within the
+11 hospital's fiscal year that are paid from the first day of the hospital's fiscal
+12 year to ninety (90) days or twelve (12) months, respectively, after the end of
+13 the hospital's fiscal year. For all hospitals, the department and each Medicaid
+14 managed care organization shall provide separate reports for adjudicated
+15 claims associated with both inpatient services and outpatient services
+16 provided to eligible members. If the PCL data is inaccurate or unavailable,
+17 providers shall complete the DSH survey using internal data.
+18 (d) The department shall specify a timetable for hospitals to update DSH audit
+19 survey data.
+20 Section 16. KRS 205.6489 is amended to read as follows:
+21 (1) The Kentucky Children's Health Insurance Program shall be administered by the
+22 Cabinet for Health and Family Services in terms of conducting eligibility
+23 determination and providing oversight over enrollment and claims payment.
+24 (2) The program shall include a system of outreach and referral for children who may
+25 be eligible for the Kentucky Children's Health Insurance Program. The program
+26 shall work with the Department for Medicaid Services, the Department for
+27 Community Based Services, schools, pediatricians, public health departments, and
+Page 52 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 other entities interested in the health of children in developing the system of
+2 outreach and referral.
+3 (3) The cabinet shall promulgate administrative regulations in accordance with KRS
+4 Chapter 13A to establish a structure for quality assurance and utilization review
+5 under KRS 205.6481 to 205.6495 and KRS 304.17A-340.
+6 (4) The Kentucky Children's Health Insurance Program shall collect, analyze, and
+7 publicly disseminate comprehensive data on the number of children enrolled in the
+8 program, services received through the program, and the effect on health outcomes
+9 of children served by the program including the special health needs of minority
+10 children. The information collected by the program shall be subject to the Kentucky
+11 statewide health data utility established in Sections 1 to 10 of this Act or, to the
+12 extent the statewide health data utility is not operational, to any other operational
+13 health data reporting law of this state[KRS 216.2927(1)]. The program shall[ have
+14 access to all data collected by the cabinet under KRS 216.2920 to 216.2929 and
+15 shall] coordinate program data collection efforts with the data collection efforts of
+16 the Kentucky statewide health data utility[the cabinet under KRS 216.2920 to
+17 216.2929].
+18 Section 17. KRS 211.474 is amended to read as follows:
+19 The board shall:
+20 (1) Promulgate administrative regulations in accordance with KRS Chapter 13A as
+21 necessary to carry out the provisions of KRS 211.470 to 211.478;
+22 (2) Formulate policies and procedures for determining individual eligibility for
+23 assistance from the trust fund in accordance with the following guidelines:
+24 (a) The trust fund shall serve as a funding source of last resort for residents of the
+25 Commonwealth of Kentucky. To be eligible for assistance from the trust fund,
+26 an individual must have exhausted all other funding sources that cover the
+27 type of services sought through the trust fund. Individuals who have
+Page 53 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 continuing health insurance benefits, including Medicaid, may access the trust
+2 fund for services that are needed but not covered by insurance or any other
+3 funding source. Individuals who qualify for institutional care through
+4 Medicaid shall not qualify for services through the trust fund;
+5 (b) All individuals receiving assistance from the fund shall receive case
+6 management services;
+7 (c) Expenditures on behalf of any one (1) brain-injured individual may not
+8 exceed fifteen thousand dollars ($15,000) for any twelve (12) month period,
+9 and may not exceed a lifetime maximum of sixty thousand dollars ($60,000).
+10 At its discretion and subject to fund availability, the board may waive the
+11 expenditure or time limitations or both in special circumstances;
+12 (d) Services covered by the trust fund shall include:
+13 1. Case management;
+14 2. Community residential services;
+15 3. Structured day program services;
+16 4. Psychological and mental health services;
+17 5. Prevocational services;
+18 6. Supported employment;
+19 7. Companion services;
+20 8. Respite care;
+21 9. Occupational therapy; and
+22 10. Speech and language therapy;
+23 (e) Covered services shall not include institutionalization, hospitalization, or
+24 medications;
+25 (3) Establish a confidential medical registry for traumatic brain and spinal cord injuries
+26 occurring in the Commonwealth of Kentucky, or to residents of the Commonwealth
+27 of Kentucky.
+Page 54 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (a) 1. The board may promulgate administrative regulations requiring licensed
+2 or certified professionals or health services providers to report the
+3 occurrence of brain and spinal cord injuries, relevant medical and
+4 epidemiological information about the injuries, and other information
+5 describing the circumstances of the injury to the board or its designated
+6 agent.
+7 2. The reporting of data by licensed hospitals under this section shall be
+8 limited to that which is:
+9 a. Accessible from the Kentucky statewide health data utility
+10 established in Sections 1 to 10 of this Act; or
+11 b. To the extent the statewide health data utility is not operational,
+12 reported to the cabinet pursuant to any other operational health
+13 data reporting law of this state;[KRS 216.2920 to 216.2929]
+14 and the board shall obtain this data from the cabinet.
+15 3. Each licensed hospital shall grant the board, upon presentation of proper
+16 identification, access to the medical records of patients with reportable
+17 brain and spinal cord injuries for the sole purpose of collecting
+18 additional information that is not available in the data obtained from the
+19 cabinet. All costs associated with copying medical records shall be
+20 borne by the board. No liability of any kind shall arise or be enforced
+21 against any licensed hospital or hospital employee for providing the
+22 board access to a patient's medical record.
+23 (b) The board and its designated agent, if one is appointed, shall observe the same
+24 confidentiality requirements established for the Kentucky birth surveillance
+25 registry in KRS 211.670;
+26 (4) Investigate the needs of brain-injured individuals and identify gaps in current
+27 services;
+Page 55 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (5) Assist the cabinet in developing programs for brain-injured individuals;
+2 (6) Monitor and evaluate services provided by the trust fund; and
+3 (7) Provide the Governor[, the General Assembly,] and the Legislative Research
+4 Commission an annual report by January 1 of each year summarizing the activities
+5 of the board and the trust fund.
+6 Section 18. KRS 214.375 is amended to read as follows:
+7 (1) As used in this section:
+8 (a) "Advisory committee" means the Kentucky Parkinson's Disease Research
+9 Registry Advisory Committee established under subsection (3) of this section;
+10 (b) "Cabinet" means the Cabinet for Health and Family Services;
+11 (c) "Movement disorder center" means a health facility licensed under KRS
+12 Chapter 216B that operates outpatient clinics or ambulatory care facilities that
+13 employ movement disorder health care providers;
+14 (d) "Movement disorder health care provider" means a licensed physician or
+15 osteopath licensed under KRS Chapter 311 that is fellowship trained in
+16 movement disorders as specified by either the American Academy of
+17 Neurology's Movement Disorders Section or the Movement Disorder
+18 Society's Pan American Section;
+19 (e) "Parkinson's disease" means a chronic and progressive neurologic disorder
+20 resulting from a deficiency of the neurotransmitter dopamine as a
+21 consequence of specific degenerative changes in the area of the brain called
+22 the basal ganglia characterized by tremor at rest, slow movements, muscle
+23 rigidity, stooped posture, and unsteady or shuffling gait;
+24 (f) "Parkinsonisms":
+25 1. Means Parkinson's disease-related conditions that cause a combination
+26 of movement abnormalities such as tremor at rest, slow movement,
+27 muscle rigidity, impaired speech, and muscle stiffness, which often
+Page 56 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 overlap with and can evolve from what appears to be Parkinson's
+2 disease; and
+3 2. Includes multiple system atrophy, dementia with Lewy bodies,
+4 corticobasal degeneration, and progressive supranuclear palsy;
+5 (g) "Registry" means the Kentucky Parkinson's Disease Research Registry
+6 established in subsection (2) of this section; and
+7 (h) "Secretary" means the secretary of the cabinet.
+8 (2) The Kentucky Parkinson's Disease Research Registry is hereby established within
+9 the cabinet under the direction of the secretary, who may enter into contracts,
+10 grants, or other agreements as necessary to administer the registry in accordance
+11 with this section.
+12 (3) (a) The secretary shall establish the Kentucky Parkinson's Disease Research
+13 Registry Advisory Committee to assist in the development and
+14 implementation of the registry, determine what data will be collected, and
+15 advise the cabinet.
+16 (b) The advisory committee shall be appointed by the secretary and include at
+17 least one (1):
+18 1. Neurologist;
+19 2. Movement disorder specialist;
+20 3. Primary care provider;
+21 4. Physician informaticist;
+22 5. Patient living with Parkinson's disease;
+23 6. Public health professional;
+24 7. Population health researcher familiar with health data registries;
+25 8. Parkinson's disease researcher;
+26 9. Representative from the University of Kentucky College of Medicine
+27 with specific expertise in Parkinson's disease; and
+Page 57 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 10. Representative from the University of Louisville School of Medicine
+2 with specific expertise in Parkinson's disease.
+3 The secretary may appoint additional members to the advisory committee as
+4 he or she deems necessary.
+5 (4) The cabinet shall:
+6 (a) Promulgate administrative regulations in consultation with the advisory
+7 committee and in accordance with KRS Chapter 13A to:
+8 1. Designate Parkinson's disease and identified Parkinsonisms as diseases
+9 that are required to be reported to the cabinet;
+10 2. Establish a system of collection and dissemination of information on the
+11 incidence and prevalence of Parkinson's disease and Parkinsonisms in
+12 Kentucky and related epidemiological data;
+13 3. Identify specific data points to be collected based on the following four
+14 (4) core categories of data:
+15 a. Patient demographics;
+16 b. Geography;
+17 c. Diagnosis; and
+18 d. Sufficient information to allow for deduplication of patient records
+19 in the registry;
+20 4. Periodically review and revise data points to be collected to ensure data
+21 and data collection procedures adapt to new knowledge and technology;
+22 5. Establish a coding system that removes a patient's name, address, Social
+23 Security number, fingerprints, photograph, and any other information by
+24 which the identity of a patient can be determined with reasonable
+25 accuracy; and
+26 6. Develop guidelines and procedures for reviewing and approving
+27 requests to use registry data for valid scientific research;
+Page 58 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 (b) Receive and collect data for the registry on the incidence and prevalence of
+2 Parkinson's disease and Parkinsonisms in Kentucky and related
+3 epidemiological data, and may enter into data-sharing contracts with data-
+4 reporting entities and their associated medical record system vendors to
+5 securely and confidentially receive information related to Parkinson's disease
+6 testing, diagnosis, and treatment; and
+7 (c) Be responsible for any costs incurred in administering the registry and
+8 implementing this section.
+9 (5) (a) Beginning January 1, 2026, each movement disorder center that treats a
+10 patient with Parkinson's disease and each movement disorder health care
+11 provider who treats or diagnoses Parkinson's disease or Parkinsonisms for a
+12 patient not otherwise reported shall submit a Parkinson's disease report to the
+13 cabinet in a format required or approved by the cabinet.
+14 (b) 1. Movement disorder centers and movement disorder health care
+15 providers shall provide each patient diagnosed with Parkinson's disease
+16 or Parkinsonisms with a notice regarding the reporting and collection of
+17 information and patient data on Parkinson's disease.
+18 2. A patient who does not wish to participate in the collection of data for
+19 the purposes of research in the registry may affirmatively opt out in
+20 writing after an opportunity to review the documents and ask questions.
+21 3. If a patient has chosen not to participate and has opted out under
+22 subparagraph 2. of this paragraph, the movement disorder center and the
+23 movement disorder health care provider shall only report that a
+24 Parkinson's disease case exists and no further data shall be reported to
+25 the cabinet for the purposes of the registry.
+26 4. If a patient has been diagnosed with Parkinson's disease or
+27 Parkinsonsisms in error, the movement disorder center and the
+Page 59 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 movement disorder health care provider shall notify the cabinet and the
+2 cabinet shall remove the patient from the registry.
+3 (c) To ensure compliance with the reporting and notification requirements of this
+4 subsection, the secretary or his or her agent may, upon reasonable notice,
+5 inspect a representative sample of the medical records of patients admitted,
+6 diagnosed, or treated for Parkinson's disease or Parkinsonisms at a movement
+7 disorder center.
+8 (d) A movement disorder center or movement disorder health care provider who
+9 in good faith submits a report in accordance with paragraph (a) of this
+10 subsection is not liable in any cause of action arising from the submission of
+11 the report.
+12 (e) A movement disorder center or movement disorder health care provider may
+13 use automated reporting methods supplied by the cabinet or a[the Kentucky]
+14 health information exchange established under KRS Chapter 194A to meet
+15 the requirements of this subsection.
+16 (6) The cabinet shall make data from the registry, with or without identifiers, available
+17 to researchers that have the approval of an institutional review board in accordance
+18 with requirements of the Federal Policy for the Protection of Human Subjects, 45
+19 C.F.R. pt. 46, and, as applicable, 21 C.F.R. pt. 56, 45 C.F.R. pt. 164,[ KRS
+20 216.2920 to 216.2929, 900 KAR 7:030 and 7:040,] and any other relevant federal
+21 or state requirements.
+22 (7) (a) The cabinet may enter into agreements to furnish data collected in the registry
+23 to other states' Parkinson's disease registries, federal Parkinson's disease
+24 control agencies, local health officers, or health researchers not described in
+25 subsection (6) of this section for the study of Parkinson's disease.
+26 (b) Before confidential information is disclosed pursuant to paragraph (a) of this
+27 subsection, the out-of-state registry, agency, officer, or researcher shall agree
+Page 60 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 in writing to maintain the confidentiality of the information. A researcher
+2 shall also:
+3 1. Obtain approval of the researcher's respective committee for the
+4 protection of human subjects under 45 C.F.R. pt. 46; and
+5 2. Provide documentation to the cabinet that demonstrates to the cabinet's
+6 satisfaction that the researcher has established the procedures and ability
+7 to maintain the confidentiality of the information.
+8 (8) (a) Except as specifically provided in this section, all information collected
+9 pursuant to this section shall be confidential.
+10 (b) Notwithstanding any other provision of law, a disclosure authorized by this
+11 section shall include only the information necessary for the stated purpose of
+12 the requested disclosure, used for the approved purpose, and not be further
+13 disclosed.
+14 (c) Provided the security of confidentiality has been documented, the furnishing
+15 of confidential information to the cabinet or its authorized representative in
+16 accordance with this section shall not expose any person, agency, or entity
+17 furnishing information to liability, and shall not be considered a waiver of any
+18 privilege or a violation of a confidential relationship.
+19 (d) The cabinet shall maintain an accurate record of all persons who are given
+20 access to information collected by the cabinet pursuant to this section, which
+21 shall include:
+22 1. The name of the person authorizing access;
+23 2. Name, title, address, and organizational affiliation of persons given
+24 access;
+25 3. Dates of access; and
+26 4. The specific purpose for which accessed information is to be used.
+27 The record of access shall be open to public inspection during normal
+Page 61 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 operating hours of the cabinet.
+2 (e) Notwithstanding any other provision of law, information collected by the
+3 cabinet pursuant to this section shall not be:
+4 1. Available for subpoena or disclosed, discoverable, or compelled to be
+5 produced in any civil, criminal, administrative, or other proceeding; or
+6 2. Deemed admissible as evidence in any civil, criminal, administrative, or
+7 other proceeding for any reason.
+8 (9) This section does not:
+9 (a) Prohibit the publication by the cabinet of reports and statistical compilations
+10 that do not in any way identify individual patients, cases, or sources of
+11 information;
+12 (b) Restrict in any way a patient's access to his or her own information; or
+13 (c) Prohibit movement disorder center or movement disorder health care
+14 providers from maintaining their own facility-based Parkinson's disease
+15 registries.
+16 (10) (a) Nothing in this section shall be deemed to compel any individual to submit to
+17 any medical examination or supervision by the cabinet, any of its authorized
+18 representatives, or an approved researcher.
+19 (b) A person who seeks information or obtains registry data pursuant to this
+20 section shall not contact a patient on the registry or the patient's family unless
+21 the cabinet has first obtained permission for the contact from the patient or the
+22 patient's family.
+23 (11) The cabinet shall provide notice of the mandatory reporting of Parkinson's disease
+24 and Parkinsonisms required under this section on its website and to professional
+25 associations representing movement disorder center and movement disorder health
+26 care providers.
+27 (12) (a) By October 1, 2027, and October 1 of each year thereafter, the cabinet shall
+Page 62 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 submit to the Legislative Research Commission for referral to the Interim
+2 Joint Committee on Health Services a yearly program summary update that
+3 includes:
+4 1. The incidence and prevalence of Parkinson's disease and Parkinsonisms
+5 in the state by county;
+6 2. The number of records that have been reported to the cabinet and
+7 included in the registry; and
+8 3. Demographic information, including but not limited to patients' age,
+9 gender, and race.
+10 (b) In consultation with the advisory committee, the cabinet may include
+11 recommendations on necessary changes to the registry in the yearly program
+12 summary update.
+13 (c) The cabinet shall publish the yearly program summary update in a
+14 downloadable format on the website created under subsection (13) of this
+15 section.
+16 (13) By October 1, 2027, the cabinet shall create, and update annually thereafter, the
+17 Kentucky Parkinson's Disease Research Registry website where the public can find
+18 information related to the Parkinson's disease and the registry, the yearly program
+19 summary update, and any other information deemed relevant by the advisory
+20 committee.
+21 Section 19. KRS 311A.190 is amended to read as follows:
+22 (1) Each licensed ambulance provider, mobile integrated healthcare program, and
+23 medical first response provider as defined in this chapter shall collect and provide
+24 to the board patient care record data and information required by the board by this
+25 chapter and administrative regulation.
+26 (2) The board shall develop a patient care record form for the use of each class of
+27 ambulance provider, mobile integrated healthcare program, and medical first
+Page 63 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 response provider containing the data required in subsection (1) of this section. An
+2 ambulance provider, mobile integrated healthcare program, or medical first
+3 response provider may utilize any patient care record form it chooses in lieu of or in
+4 addition to the board developed patient care record form. However, the data
+5 captured on the patient care record form utilized by the ambulance service, mobile
+6 integrated healthcare program, or medical first response provider shall include at
+7 least the data that is required by the administrative regulations promulgated
+8 pursuant to subsection (1) of this section.
+9 (3) An ambulance provider, mobile integrated healthcare program, or medical first
+10 response provider shall report the required patient care record data as prescribed
+11 through administrative regulations promulgated by the board by transmitting the
+12 required data and information to the board in an electronic format. If the board
+13 requires the use of a specific electronic format, it shall provide a copy of the file
+14 layout requirements, in either written or electronic format, to the licensed
+15 ambulance provider or medical first response provider at no charge.
+16 (4) The board shall publish a comprehensive annual report reflecting the data collected,
+17 injury and illness data, treatment utilized, and other information deemed important
+18 by the board. The annual report shall not include patient identifying information or
+19 any other information identifying a natural person. A copy of the comprehensive
+20 annual report, if issued, shall be forwarded to the Governor and the General
+21 Assembly.
+22 (5) Ambulance provider, mobile integrated healthcare program and medical first
+23 response provider patient care records and the information transmitted
+24 electronically to the board shall be confidential and in compliance with HIPAA
+25 privacy rules referenced in 45 C.F.R. pt. 164. No person shall make an unauthorized
+26 release of information on an ambulance provider, mobile integrated healthcare
+27 program, or medical first response provider patient care record. Only the patient or
+Page 64 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 the patient's parent or legal guardian if the patient is a minor, or the patient's legal
+2 guardian or person with proper power of attorney if the patient is under legal
+3 disability as being incompetent or mentally ill, or a court of competent jurisdiction
+4 may authorize the release of information on a patient's care record or the inspection
+5 or copying of the patient care record. Any authorization for the release of
+6 information or for inspection or copying of a patient care record shall be in writing.
+7 (6) An ambulance provider or medical first response provider that collects patient data
+8 through electronic means shall have the means of providing a patient care record or
+9 summary report that includes all required data elements to the medical care facility.
+10 A copy of the medical first response patient care record or summary report of the
+11 patient care record and patient information shall be made available to the
+12 ambulance service that transports the patient. A copy of the ambulance
+13 transportation and medical report forms shall be made available to any medical care
+14 facility to which a patient is transported and shall be included in the patient's
+15 medical record by that facility. If a patient is not transported to a medical facility,
+16 the copy of the patient care record that is to be given to the transporting ambulance
+17 provider or medical care facility shall be given to the patient or to the patient's
+18 parent or legal guardian upon request. If the ambulance provider, medical facility,
+19 patient, or patient's legal guardian refuses delivery of their patient care record or is
+20 unavailable to receive the form, that copy of the patient care record shall be
+21 returned to the medical first response provider or ambulance provider and
+22 destroyed.
+23 (7) All ambulance services and mobile integrated healthcare programs shall be required
+24 to keep adequate reports and records to be maintained at the ambulance base
+25 headquarters and to be available for periodic review as deemed necessary by the
+26 board. Required records and reports are as follows:
+27 (a) Employee records, including a resume of each employee's training and
+Page 65 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 experience and evidence of current certification or licensure; and
+2 (b) Health records of all personnel including records of all illnesses or accidents
+3 occurring while on duty.
+4 (8) Data and records generated and kept by the board or its contractors regarding the
+5 evaluation of emergency medical care, mobile integrated healthcare programs, and
+6 trauma care in the Commonwealth, including the identities of patients, emergency
+7 medical services personnel, ambulance providers, medical first-response providers,
+8 and emergency medical facilities, shall be confidential, shall not be subject to
+9 disclosure under KRS 61.805 to 61.850 or KRS 61.870 to 61.884, shall not be
+10 admissible in court for any purpose, and shall not be subject to discovery. However,
+11 nothing in this section shall limit the discoverability or admissibility of patient
+12 medical records regularly and ordinarily kept in the course of a patient's treatment
+13 that otherwise would be admissible or discoverable.
+14 (9) The Cabinet for Health and Family Services shall have complete and immediate
+15 access to all data and records maintained by the board or its contractors and may
+16 use information contained in the data and records to fulfill its responsibilities and
+17 requirements for health facilities and services, including but not limited to those
+18 duties assigned to the cabinet by KRS 194A.101[, 216.2920 to 216.2929,] and
+19 216B.042.
+20 Section 20. The following KRS sections are repealed:
+21 216.2920 Definitions for KRS 216.2920 to 216.2929.
+22 216.2921 Duties of cabinet -- Chief administrative officer -- Secretary or employee not
+23 subject to personal liability.
+24 216.2923 Health data collection powers and duties -- Analysis of health-care and
+25 insurance experience -- Administrative regulations.
+26 216.2925 Administrative regulations -- Reports, lists, forms, and formats required.
+27 216.2927 Types of data not to be published, released, or subject to inspection -- Public-
+Page 66 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 968
+1 use data agreements and privacy rules -- Confidentiality of raw data -- Penalty for
+2 violation.
+3 216.2929 Data on health-care services charges and quality and outcome measures to be
+4 publicly available on cabinet's website -- Reports required.
+5 Section 21. Section 20 of this Act takes effect July 1, 2028.
+6 Section 22. (1) The secretary of the Cabinet for Health and Family Services
+7 shall make all initial appointments under subsection (2)(a) of Section 7 of this Act within
+8 90 days after the effective date of that section.
+9 (2) Notwithstanding subsection (2)(c)2. of Section 7 of this Act, initial
+10 appointments under subsection (2)(a) of Section 7 of this Act shall be staggered so that,
+11 of the initial 14 appointments:
+12 (a) Five of the appointments expire four years after the initial appointment;
+13 (b) Five of the appointments expire three years after the initial appointment; and
+14 (c) Four of the appointments expire two years after the initial appointment.
+15 Section 23. If the Cabinet for Health and Family Services or the Department for
+16 Medicaid Services determines that a state plan amendment, waiver, or any other form of
+17 authorization or approval from any federal agency to implement Section 8 of this Act is
+18 necessary to prevent the loss of federal funds or to comply with federal law, the cabinet
+19 or department:
+20 (1) Shall, within 90 days after the effective date of this section, request the
+21 necessary federal authorization or approval to implement Section 8 of this Act; and
+22 (2) May only delay implementation of the provisions of Section 8 of this Act for
+23 which federal authorization or approval was deemed necessary until the federal
+24 authorization or approval is granted.
+25 Section 24. Sections 8 and 23 of this Act constitute the specific authorization
+26 required under KRS 205.5372(1).
+Page 67 of 67
+BR096800.100 - 968 - XXXX 3/19/2026 4:04 PM Jacketed
+
+[DELETED:   2  J A B S R ( T A ( C s a e a b h c a h c c 1 U h i t t s h f a A b T c H 2 I K a C b P 3 I 4 I 5 I a 6 E t e o h c p a s t i 7 S ( O 1 R]
+[DELETED:   2  J a P b T c T 2 E t i p a s o p h i a 3 P 4 P 5 M ( E t s ( D p 1 E a s l r t t c s a r o d 2 A d ( P t ( E p t s a e f t p o p a ( S 1 t 1 o t A s n b c t c a h b n]
+[DELETED:   2  J S R A ( " ( T G A t L R C o a c L ( H ( H ( H ( H ( P ( T ( M ( " i ( " c i S 6 o A o a g t K s h ( " i ( I ( M ( I 1 C 2 H 3 S]
+[DELETED:   2  J 4 D p h d i b n l t i ( " c ( " 1 ( " r ( M a h w i w l s m h l ( D ( P ( A o h c s d b t e d b a r p i a w K C 1 ( " o o ( M ( M ( T ( A a 1 A a 2 A]
+[DELETED:   2  J a f ( A h ( A i ( A o o t p o c w a t a t a a p o p i i p ( o ( o t s ( W c i i g a n w c s a s g ( I s a s g i g a s 1 C 2 H 3 A ( H ( L ( P ( N h m d a h s c ( A ( P ( A]
+[DELETED:   2  J l ( A v o c o a p p o p l i t s ( " ( M a i w i l c o o a u t 1 O 2 P ( I 1 P 2 H ( " ( M h ( I w l e l u a a g ( " ( H ( I 1 P 2 M 3 F w 4 F 5 P ( "]
+[DELETED:   2  J ( M a i i g i w o o r 1 I 2 R a P a b P c P p o f p o r f t p ( I 1 H t 2 H 3 A h f ( " ( M t a o i p i c h a s t e s r s a u h ( I t c o t f e r f a t 1 E 2 P h r t w a i o a o p a b t i c m a m t i 3 H]
+[DELETED:   2  J a U b h c p t e d m o b T o c O 4 D a t s r i r o t p 5 D s f t a h c p i m t a I b P c P o p p t f d a t 6 T t a f t c a a r o i a A b T c P d O ( " o a ( " ( M t a o ( o m p o c t e]
+[DELETED:   2  J s ( I 1 C t c t a n f t p o e i 2 A p t p i a i t o a n a 3 C o a c a u t a t r ( " t ( " ( A ( A ( A e e i t s o c i o s d (   p t i n r u s o f l t c w S t ( " ( A ( A t o f o c c p p a ( A a ( " h a m a e t i g b o c r]
+[DELETED:   2  J s f o t h s o p g a t e S R ( T K s h d u f i h e a a r ( T ( A ( A h ( A ( A ( N f ( M d m S R ( T o a m o t K s h d u i a ( I ( S 1 S a a g o g o r f f a a s o]
+[DELETED:   2  J 2 E a F t a n s t t m r r u b W o M h c c d a o h i ( 1 S t s 2 o t p m e t f a A a a t d b a r a m s a b A w s a f a a o h d u a d t s a r h i i i T r a i a w o e r t m t i T t 2 P o a S b P a t e d o t p a]
+[DELETED:   2  J s c D a i I t a i S ( S 1 W c p u 2 S t c e i w t c u s 1 o t p t t G C R 3 E c ( S o ( S a 1 H 2 4 U s 2 a a a a r f r ( S t s ( o t s s p a r p]
+[DELETED:   2  J s 1 a S i H a f i T r f a f o s f h i s b p t t c b T r e u t s s c i I f i P a p a b t b u s i A l 2 S t S 9 o t A t s o p f a p t f t c w t m r r 3 a S e p b D t i C a s l i w l H a i C]
+[DELETED:   2  J i a a i i o r t c o c T c c p d r a t d c i t s i C a s l i w l H a i C 4 A d k L b e b t G A o L R C i ( M s o f t i n t a t e d i c A ( ( P t m a f u K C 1 t e d s 1 S d o a n a o r e o o a r a w a f r]
+[DELETED:   2  J u t b 2 P t o ( I a t t r o p ( o t s t e t b i a a c w t b r t d h S R ( A ( " h ( " 1 M t i a E b T a r 2 I a S a i p i i i a d]
+[DELETED:   2  J f h c p h c p p a o c o f r p b E c e i c o t p s b ( " a i e a o w a s r c ( " a i c o a m d b a p a o r ( T ( B t s s n f t s a e o h i ( U 1 A 2 P s s i t s h d u t a r f t p]
+[DELETED:   2  J a C a K b E a h c p o h f t e c E a p t a t a t e i 3 M a m t a c t d m c b h f h c p a o h c p ( C 1 A 2 A 3 A 4 A 5 O d ( ( T d ( T o t A S R ( ( T]
+[DELETED:   2  J 1 U 2 U o L S o P H a I S 3 E 4 W ( W o s 1 A g b t g t c c o r f e m o t c i e p 2 T c 3 T m ( ( W o h e ( d a t e d o t c o d t c s e i a c w t e d t o a g t K s ( T 1 N o c e a i a w o e r f t e 2 M e t]
+[DELETED:   2  J ( I o a g t s h d u t c s ( E 1 I v a r t t n o h c p h 2 P o 3 a C w e n s r d a o t i C i T a c a t o t i b A a c u t s s t t e p b c w o a o e p b o s o f a o h 4 P a P b S 5 F a s t s e e o h i 6 P 7 P a m f p w e h i u]
+[DELETED:   2  J 8 H a d r m t a a t h i i t e o a d a u o r a c 9 I t a c a u o h i 1 A a p t o o f i t p e l a o u t s s n p t s h d u f i t p d o a o p h m p h r a r r 1 P e t t g p a t h c s a ( O 1 E p a P b T c I 2 I ( R t t e d a s a f m o i 1 R A 2 I t t p r i s 1 o t]
+[DELETED:   2  J p c ( E t h i i a t a r a t 1 F a a G b I 2 F c ( F d t i m a t a r a t p e 1 C 2 M i r r t e i a d s a o m o u p t a o u h i i t s h d u ( P u f 1 T 2 T r o a t r a i d o i 3 T 4 T l 5 F]
+[DELETED:   2  J o ( R a a r a t p t a i a w o e a ( 1 C i t 2 T a A r t a i r t p w t s h d u w t i d n p b R t c I t i w t c w s b d i T i T a i T i o a a a a m ( A d g a H t t a m o t b S R ( T w ( E]
+[DELETED:   2  J p h i b p t t c o p h c ( A t ( I a a p h d u g r a r b g a a t p s a p ( A a p p i c w f a s i p ( D s a t i o t c p p r p a p t o p c a e r m m u i s ( R m c ( A 1 T t o d r t h c a u c s a q 2 T 3 A i d ( ( T]
+[DELETED:   2  J 1 O 2 O ( m o a w e i h c d r 3 O t 4 O 5 O 6 O 7 O 8 O 9 O o 1 O ( r o a c h c p o a o 1 O t 1 O a A b A c A o t r p a c o w 1 O 1 O o ( I 1 T f p o t d s s a v e o]
+[DELETED:   2  J a T b T e d o t C O o T c T c o t D o E I a d T 2 T o a A m o t H o R w s b a b A o c T d T e T c o t D f B H D f T 3 T h m ( T 1 S 2 S 3 M ( 1 T s s f a v u p ( o t s 2 I]
+[DELETED:   2  J s i n a o w t s t s s a a p w e o e i t a r ( W t ( T o ( S 1 T c w s i w l t i t t 2 T r f f t s a s o h i a M b I f s a t r f f s g h p d i 2 U s 1 a a 3 T ( C 1 I g p b t f C f M 2 A a f a s d p a s l i ( T i ( T f m o t b s b h w t ( d a]
+[DELETED:   2  J a ( ( T f t f t ( y a t d o t f b m T ( A a ( A 1 Q 2 M ( A m s b p t p a v i b b t ( T ( P ( F a s r b t b i t p o t f ( M o t b o t c e s n r c r i a w s a r r t t r S R ( T ( A p s c w a h i s a s r e f t p b t e d i a r p i a w]
+[DELETED:   2  J S ( A u s o f l m e t v s h i ( A e s ( T ( m a t r e o d w t s ( T a S R ( ( T s s e t m r r i S ( I c o t d u p ( o t s t s 1 H t a t r c a c i w a R b I i A i P 2 M s 3 H o]
+[DELETED:   2  J a E A b E 4 S K p a a n o t a a c p u t s t s c ( ( S d s p a a r d a s f a p t f t c w a m r r ( L t ( T e d m b a r a t m t a U y a a p b t U S B o L S ( T p f n h a c o p a u s]
+[DELETED:   2  J ( T s u ( A t A S T ( N t t a i j c o o a c t s ( T ( A ( T ( A 1 T 2 T h 3 W t ( A ( N l t S 1 o y t e d s s a w r t t L R C f r t t a i j c o o a c t s f ( A]
+[DELETED:   2  J ( W g ( I t c i n i c w t c t o a g ( A 1 T 2 T 3 T p 4 W t ( A S T c c o t f m o u w a h c ( O o O o H R M a O o F a B a O a O ( T u o t c i a l a i w i m b i T O t c i t c o a g l a a o c S]
+[DELETED:   2  J s T b o g ( T s i I 1 T f o a o a p b a c o b a v o s w w t c h c a t c o s i r b t s c o o h o t c i m r t t c o i p 2 L 3 R o h f p i t p a d b t s f t p o d a v 4 T n f a t l a f p t K C 5 T c 6 T o o t o o t K H I E 7 T]
+[DELETED:   2  J s e ( T O o P A s b h b a e d a w m ( T d a b t s w t a o t G i a w K 1 T o s c o a e o s f o t o d a i o q i s c d a d o i o h s a c t a e e o ( T a w b a a ( T O o L a R A s b h b a e d a b t s w t a o t G r a o o l p a a r T o s p c a a s t p d]
+[DELETED:   2  J ( T O o A S s b h b a e d a b t s w t a o t G i a w K 1 T o s p c r a o f m T o s p c a a s t p d a i r a a o b ( T O o A T S s b h b a e d a b t s w t a o t G i a w K 1 T o s p a o s p c a a s t p d ( T s K 1 I a i s i t i p p i a 2 P l i t r o t h c d s u e i t t i p c a r 3 C ( T O o M C s b h b a e d a b t G i a w K 1 a s i o o a r t m c p T]
+[DELETED:   2  J a h b a d a b t s w t a o t G ( D f M S T D f M S s s t h s f M s s b a p w b e a t i a c f M S u t d o t s a s o f t ( D o a p n C s H w d a t t e t f a a s e t a b P a C]
+[DELETED:   2  J a K f G l p w b e a t i a a m i q t p t d o t o T c s o a T c f p h s e a o t D f P H u t d o t s a s o f t r ( D D d d b i d d a s u d a h d o w h a i d b i d d o a s u d T D f B H D b h d a i d w s b a T s p t d o t o T c f b h]
+[DELETED:   2  J d a i d s e a o t d u t d o t s a s o f t r ( D f r i F f F R C a V S s b h b a c w s b a b t s w t a o t G v s s b b t a e i a a m o r ( D S s a a b r f c a a p g s v p r f c a a p s s p a a f s T d s b h b a c a b t s w t a o t G ( D f A a I L T D f A a I o a f a c s s e r a l a s]
+[DELETED:   2  J c s e p t s h i a p s h a c b s i h c A o r d T d s a a t L C O P a t M H a C B W P t i a a c f a a d s a a b G S ( T o ( P o a s d f a b r f t c t w ( C ( T o s h t a t r a d r r b t c r a a t r o t r i T o s r c p d T o s f t p o d i b i a]
+[DELETED:   2  J ( T O o D A s p a r i a S ( ( T t ( T 1 C t o a s t K H I E i 2 C w s a p a t t e d h o t h c i e a t p i e w t K s h d u t r o t h c d s u e i m ( T O o I G s p a r i a S ( T i c i t C f H a F S a D o W ( S a ( A a c t i w h i a m h]
+[DELETED:   2  J ( R a d t i u l ( C a c w t c f H a F S i r a d t a f o m i a S i t ( P w t c f H a F S t f o t p ( T d s i s ( o t s A m r s b a t S ( T c o M s s a a d s p w s ( T]
+[DELETED:   2  J S 1 t i c i a w K 1 t 1 m b u t f p o S 1 t 1 o t A 2 t 2 a t s t m a g f a f f y 1 a s f y N t p o K 4 a 4 t M f s b e f a s b r ( ( B p f t d s p e b a r p b t C f H a F S D s f s b d i t ( p f d 1 A a c p c o c a h c p r h l a h a a c h t d n q a a u h s r a i a a f a d b s a T i t b T h i t u p i s 3 o t p 2 A]
+[DELETED:   2  J m p t 4 U s 1 u t n a e h w t a b e r g o h e t s m h s n e n a t p r h m m 3 A u h p c o u h s r h t i a f D p t u h s e 4 I t a a r d s f f t p p f p ( o t f s b d d a a D p d r f s b d 5 I n t a t i n m b u h s b m a]
+[DELETED:   2  J ( T M f b u t c a c h p p h s m h c a h c p r h l a c h p ( A i h s r d i t h m t r 1 ( 1 A t b s ( o t s u t d h b e b t c o t d E r s s m f t m o o r i f r o a i D p r 2 A h n e i t M p w d n h a l s ( m o c r i n t c t D ( D 1 F]
+[DELETED:   2  J s f y 2 D s t c a i D p y 2 p s t l r F s f y 2 2 D y i t a E u h i t u p s r a i h p m a t t u p a s f i s c u c f f u h s b d u c c t t s o t t u a e h i D p s b c b m t b F e p p a s m h i t p p t d s c a i u f a p p o s m h s b]
+[DELETED:   2  J d u c c t t s o t t u h i t p p a a E h i D p s b c b m t h i u c f b t t f a t p p o s m h i t p p a a N i h i D p s e t h h D l c F a a f e h i t a c p s b d b c c f a h i t a c p e t t i u c f f a e h s b c u c c E h i D p s b c b m t h i u c p N i h i D p s e d F a a i]
+[DELETED:   2  J d s c a p a f t h u c c A n e h u c c p a s b d b f e h r b t h a t m t r u c c p b b t n h t n o h b e s b A u c c p a c f n e h s b u i t d o i u c f f a o h i t a e T f b a h t c i t i i o i a d b l r I t d m a t a h M D s t d f I a h h a n u c c i u o h g B i a a i U]
+[DELETED:   2  J i T i T i T v T h H s n t d b O 3 o a a i T d s m a n a a s i p f f d s a f t C h 1 t d m p a p b n l t n p ( o t e a p p t t p o t a f a I a p i p ( f j A 2 a E f D p u t e M D s a s c t t a s f y D p b U o w h A q h w b d a e]
+[DELETED:   2  J h m c T i E e u c s l a t t f D p t a u h d n e t m a t t u p a s f i s c f b d b c t p o e h t t u c c f a h w t p s b c b m t h u h o i F t d s r e h u c f u e d T f u a e h s b c u t h p ( o t h t u c c i I]
+[DELETED:   2  J u o i T d s c e h i D p h h D l t d i a u d B i h w a f D r r w a a m i A i F i F i I t e I a o i i r s b m b J t f H s n t d b O 3 o a c g I a h i D p w l t t h f D p t d s p t h t a t d w s ( d o t d d f t r r h n y b r b t d d t d]
+[DELETED:   2  J a s i a p o a t b u c h A f r a t r p s b r 3 D s p r a r e h s p o t p p h i t p p a f a F t a t t e h r t u c c i a w t h  e D s f t a b I t p d t d f f e h u u c I D f r a m t d t o h i t s p f s b d p a t e h r t u c c i a t ( N]
+[DELETED:   2  J s p m t s m h u h a c h l y b e t t m a o s p e t h ( T s o t C f H a F S s p a r p t K C 1 f t a a ( A s c ( T s a s d t s c w t a r ( ( A i h p i t M P s s a M t d n l t s ( d f t h s b t t d E s b l t r c w p t h f m t d d i d d E t r a]
+[DELETED:   2  J i p t t d i D p c A h t ( T o ( T p d m a t h f y e d T P s i a c w d d o s d a a w t h y t m c o s p s r f a c a w b i s a o s p p ( T s S ( T C f H a F S i t o c e d ( T b e f t K C H I P T p s w w t D f M S t D f C]
+[DELETED:   2  J o e i i t h o c i d t s o o ( T w C u ( T K C H I P s c a a p p o c s e h a s t K s h d u c u K 2 t 2 S T ( P a r i a w K C 1 a n ( F p a p f d i e f a ( T C a t o s s t t t f I w h]
+[DELETED:   2  J c f f s I w q f i c t M ( A i r a f t f s r c m ( E o b o a o ( b i m n e a A i d a s t f a t b w t e ( S 1 C 2 C 3 S 4 P 5 P 6 S 7 C 8 R 9 O 1 S ( C s s n i i h o m ( E o o]
+[DELETED:   2  J ( 1 T o c p o h s p t r t o o b a s c i r m a e i a t i a o i d a 2 T l a A f t K s h d u e b T r d a 3 E i b a s c i f t s p o c a c A c a w c m r s b b a a l h o h e f p t b ( T c r e f t K b s r ( I t n o b i a i g i c s]
+[DELETED:   2  J ( A ( M ( P t G t G A a t L R C o S ( A ( " c m t K P D R R ( " ( " d c m a h f l u K C e ( " d h c p m a l p o o l u K C 3 t i f t i m d a s b e t A A o N M D S o t M D S ( " d m a c a p n d r f a d o t n d a a c t b g c b t a r s m m r ( " 1 M o m a s a t a r s m m r i s a m s w o]
+[DELETED:   2  J o w a c e f w a t b P d 2 I m s a d w L b c ( " m t K P D R R e ( " ( T t c u t d o t s w m e i c g w ( ( T s s e t K P D R R A C t a i t d a i o t r d w d w b c a a ( T a l 1 N 2 M 3 P 4 P 5 P 6 P 7 P 8 P 9 R f t U o K C o M w]
+[DELETED:   2  J 1 R f t U o L S o M w  T h ( T ( P a r i c w t a c 1 D t 2 E i K 3 I ( a P b G c D d S i 4 P a 5 E S w t i o a p c b d w r a 6 D g a p f r a a r]
+[DELETED:   2  J ( R P d a P i K a r e d a m e i d c w d r e a t a m r s v t s t ( B r f a c i i a t r a i ( ( B J 1 2 e m d c t t a p w P d a e m d h c p p c ( 1 M d c a m d h c p o i 2 A t p o r i t r m a o o i w 3 I a p h c n t p a h o o u s m d h c p s o r t a P t 4 I a p h b d w P d o P i e t m d c a t]
+[DELETED:   2  J m c ( T s t s o h o h a m u r n i d d ( A i g f s a r i a w p ( o t s t ( A u h t ( T t w C p 4 a a a 2 C p 5 4 C p 1 K 2 o ( ( T t o s P d r f P d c s ( B s]
+[DELETED:   2  J i w t m t c o t i A r s 1 O a o t r r c f t p 2 P s t ( ( E a s p i t s a i c p ( N s t d ( P o a f p ( T a s 1 T 2 N t a a o a o p g a 3 D 4 T  T r o a s b o t p i d n]
+[DELETED:   2  J o ( N a o p o l i c b t c 1 A p 2 D o ( T ( P t d n i a w i i p c o s o i ( R ( P m d c o m d h c p f m t o f P d r ( ( N a r ( A p w s i o o r d p t t s t p ( T a a c ( ( B]
+[DELETED:   2  J s t t L R C f r t t I J i 1 T i 2 T n o r t h b r t t c a i 3 D i i b n l t p a g ( I c w t a c t c m i r s ( T c s p t y p s u i a d f o t w c u s ( o t s ( B K i s u a a o i d r b t a c S ( E l a p m i h p a m t c ( T b s d a p c r f t u o c o a p m i h p a m f]
+[DELETED:   2  J r a p m i h p o m f r a t t b d p c r f H t d c i l t d t i r b t a r p p ( A a p m i h p o m f r t a r p b t b b t t r d a i t t b i a e f I t b r l r i e w o e f t t l a ( T i b a a r i i s b f t t G a t G A ( A p m i h p a m f r p p c r a t i t e t t b s b c a i c w H p r o i o a a p m i h p]
+[DELETED:   2  J t g o p w p p o a i t p i u l d m o c o t p c r A a f t r o i ( A t s A p c r a p i s b m a t t a s t t t p A c o t a t f t w a p i t a s b i i t p m t p c f s b g t t p o t t p p p u t r t f t c o t p c r s b r t t m f r p o a p a d ( A t k a r a r t b m a t a b h b ( E r i a r o e e t a]
+[DELETED:   2  J e ( H o ( D e t m a e m f s b c s n b s t d u K 6 t 6 o K 6 t 6 s n b a n i t s s l t d o a o p m t ( T a u r d a t t c b K 1 2 t 2 a 2 S 2 2 s 2 d c p a d - A o h a i 2 2]
+[DELETED:   2  J u v 2 p S S T s 9 ( N s ( o S 7 o t A i a o ( F ( F ( F S M a n o ( S w 9 d a t e d o t s r t n ( M w f a o a w d n u t f a S r]

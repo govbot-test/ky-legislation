@@ -1,0 +1,844 @@
+Title: 1 AN ACT relating to animal health emergencies.
+Official Title: 1 AN ACT relating to animal health emergencies.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 1222
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 39A.020 is amended to read as follows:
+4 As used in KRS Chapters 39A to 39F, unless the context requires otherwise:
+5 (1) "Adjutant General" means the executive head of the Department of Military Affairs
+6 vested with general direction and control authority for the department and the
+7 division of emergency management;
+8 (2) "Animal health emergency" means an incident or situation which poses a major
+9 threat to the safety or health of livestock as defined in KRS 246.010, poultry as
+10 defined in KRS 246.010, or other domesticated animal so as to cause or threaten
+11 to cause the spread of disease, starvation, deadly injury, or other potential loss of
+12 life;
+13 (3) "Catastrophe" means a disaster or series of concurrent disasters which adversely
+14 affect the entire Commonwealth of Kentucky or a major geographical portion
+15 thereof;
+16 (4)[(3)] "Chief executive officer" means a:
+17 (a) County judge/executive of a county;
+18 (b) Mayor of a consolidated local government;
+19 (c) Mayor of an urban-county government;
+20 (d) Chief executive officer of a charter county government;
+21 (e) Chief executive officer of a unified local government; or
+22 (f) Mayor of a city;
+23 (5)[(4)] "Comprehensive emergency management program" means the public safety
+24 program developed, organized, implemented, administered, maintained, and
+25 coordinated by the Division of Emergency Management and local emergency
+26 management agencies created pursuant to the provisions of KRS Chapters 39A to
+27 39F, to assess, mitigate, prepare for, respond to, or recover from, an emergency,
+Page 1 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 declared emergency, disaster, or catastrophe, or threat of any of those, as
+2 contemplated in KRS 39A.010 or as defined in this section;
+3 (6)[(5)] "Coordination" means having and exercising primary state or local executive
+4 branch oversight for the purpose of organizing, planning, and implementing;
+5 (7)[(6)] "County" means a county, urban-county government, charter county
+6 government, consolidated local government, or unified local government;
+7 (8)[(7)] "Declared emergency" means any incident or situation declared to be an
+8 emergency, disaster, or catastrophe by executive order of the Governor, or a county
+9 judge/executive, or a mayor, or the chief executive of other local governments in
+10 the Commonwealth pursuant to the provisions of KRS Chapters 39A to 39F;
+11 (9)[(8)] "Director" means the director of the Division of Emergency Management of
+12 the Department of Military Affairs;
+13 (10)[(9)] "Disaster" means any incident or situation declared as such by executive
+14 action of the Governor, or the President of the United States, pursuant to federal
+15 law;
+16 (11)[(10)] "Disaster and emergency response" means the performance of all emergency
+17 functions, other than war-related functions for which military forces are primarily
+18 responsible, including but not limited to: direction and control, incident command,
+19 or management; communications; fire protection services; police services; medical
+20 and health services; ambulance services; rescue; search and rescue or recovery;
+21 urban search and rescue; engineering; alerting and warning services; resource
+22 management; public works services; nuclear, chemical, biological, or other
+23 hazardous material or substance monitoring, containment, decontamination,
+24 neutralization, and disposal; emergency worker protection, site safety, site
+25 operations and response planning; evacuation of persons; emergency welfare
+26 services; emergency transportation; physical plant protection; temporary restoration
+27 of public utility services; emergency lighting and power services; emergency public
+Page 2 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 information; incident investigation, hazards analysis, and damage assessment; and
+2 other functions related to effective reaction to a disaster or emergency or
+3 catastrophe, or the potential, threatened, or impending threat of any disaster or
+4 emergency or catastrophe, together with all other activities necessary or incidental
+5 to the preparation for and carrying out of the functions set out in this subsection;
+6 (12)[(11)] "Division" means the Division of Emergency Management of the Department
+7 of Military Affairs;
+8 (13)[(12)] "Emergency" means any incident or situation which poses a major threat to
+9 public safety so as to cause, or threaten to cause, loss of life, serious injury,
+10 significant damage to property, or major harm to public health or the environment;
+11 (14)[(13)] (a) "Executive action" means:
+12 1. All orders and guidelines related to a COVID-19 declared emergency
+13 issued by the Governor or any state agency, the President of the United
+14 States or any federal agency, or a local governmental agency; and
+15 2. Industry-specific guidelines related to a COVID-19 declared emergency
+16 adopted by a state agency that govern the industry; and
+17 (b) "Executive action":
+18 1. Does not mean informal or indefinite statements or recommendations
+19 made by government officials; and
+20 2. Does not create a duty of care;
+21 (15)[(14)] "Integrated emergency management system" means the unified and
+22 multidisciplinary disaster and emergency response infrastructure developed in the
+23 Commonwealth, under the coordination of the division, using methods which align
+24 state or local administrative, organizational, and operational resources, to
+25 accomplish the mission, goals, and objectives of the comprehensive emergency
+26 management program of the Commonwealth;
+27 (16)[(15)] "Local disaster and emergency services organization" means that organization
+Page 3 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 of public and private entities developed to carry out the multiagency disaster and
+2 emergency response of a city, county, urban-county or charter county pursuant to
+3 KRS Chapters 39A to 39F;
+4 (17)[(16)] "Local emergency management agency" means the agency created, operated,
+5 and maintained to coordinate the local comprehensive emergency management
+6 program and disaster and emergency response of a city, county, and urban-county
+7 or charter county government pursuant to KRS Chapters 39A to 39F;
+8 (18)[(17)] "Local emergency management director" or "Local director" means the
+9 executive head of the local emergency management agency, appointed pursuant to
+10 the provisions of KRS Chapters 39A to 39F;
+11 (19)[(18)] "State emergency management agency" means the Division of Emergency
+12 Management of the Department of Military Affairs; and
+13 (20)[(19)] "State emergency management director" means the director of the Division of
+14 Emergency Management.
+15 Section 2. KRS 39A.100 is amended to read as follows:
+16 (1) In the event of the occurrence or threatened or impending occurrence of any of the
+17 situations or events enumerated in KRS 39A.010, 39A.020, or 39A.030, the
+18 Governor may declare, in writing, that a state of emergency exists. The Governor
+19 shall have and may exercise the following emergency powers during the period in
+20 which the state of emergency exists:
+21 (a) To enforce all laws, and administrative regulations relating to disaster and
+22 emergency response and to assume direct operational control of all disaster
+23 and emergency response forces and activities in the Commonwealth;
+24 (b) To require state agencies and to request local governments, local agencies,
+25 and special districts to respond to the emergency or disaster in the manner
+26 directed;
+27 (c) To seize, take, or condemn property, for the duration of the emergency, and
+Page 4 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 only for public use as defined in KRS 416.675, excluding firearms and
+2 ammunition, components of firearms and ammunition, or a combination
+3 thereof, for the protection of the public or at the request of the President, the
+4 Armed Forces, or the Federal Emergency Management Agency of the United
+5 States, including:
+6 1. All means of transportation and communication;
+7 2. All stocks of fuel of whatever nature;
+8 3. Food, clothing, equipment, materials, medicines, and all supplies; and
+9 4. Facilities, including buildings and plants, but excluding houses of
+10 worship, except to the extent that such houses have become unsafe to a
+11 degree that would justify condemnation in the absence of a state of
+12 emergency.
+13 Compensation for property seized, taken, or condemned under this paragraph
+14 shall be determined using the process in KRS 416.540 to 416.670 to
+15 determine value;
+16 (d) To sell, lend, give, or distribute any of the property under paragraph (c) of this
+17 subsection among the inhabitants of the Commonwealth and to account to the
+18 State Treasurer for any funds received for the property;
+19 (e) To make compensation for the property seized, taken, or condemned under
+20 paragraph (c) of this subsection;
+21 (f) To exclude all nonessential, unauthorized, disruptive, or otherwise
+22 uncooperative personnel from the scene of the emergency, and to command
+23 those persons or groups assembled at the scene to disperse. A person who
+24 refuses to leave an area in which a written order of evacuation has been issued
+25 in accordance with a written declaration of emergency or a disaster may be
+26 forcibly removed to a place of safety or shelter, or may, if this is resisted, be
+27 arrested by a peace officer. Forcible removal or arrest shall not be exercised as
+Page 5 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 options until all reasonable efforts for voluntary compliance have been
+2 exhausted;
+3 (g) To declare curfews and establish their limits;
+4 (h) To prohibit or limit the sale or consumption of goods, in the event of a
+5 shortage of goods, excluding firearms and ammunition, components of
+6 firearms and ammunition, or a combination thereof, or commodities for the
+7 duration of the emergency;
+8 (i) To grant emergency authority to pharmacists pursuant to KRS 315.500, for
+9 the duration of the emergency;
+10 (j) To request any assistance from agencies of the United States as necessary and
+11 appropriate to meet the needs of the people of the Commonwealth;
+12 (k) Upon the recommendation of the Secretary of State, to declare by executive
+13 order a different time or place for holding elections in an election area for
+14 which a state of emergency has been declared for part or all of the election
+15 area. The election shall be held within thirty-five (35) days from the date of
+16 the suspended or delayed election. The executive order shall remain in effect
+17 until the date of the suspended or delayed election regardless of the time
+18 limitations in KRS 39A.090 and shall not be changed except by action of the
+19 General Assembly. The State Board of Elections shall establish procedures for
+20 election officials to follow. Any procedures established under this paragraph
+21 shall be subject to the approval of the Secretary of State and the Governor by
+22 respective executive orders; and
+23 (l) Except as prohibited by this section or other law, to take action necessary to
+24 execute those powers enumerated in paragraphs (a) to (k) of this subsection.
+25 (2) Within thirty (30) days of a declared emergency, and every thirty (30) days
+26 thereafter, the Governor shall report to the General Assembly, if in session, or to the
+27 Legislative Research Commission if the General Assembly is not in session, on a
+Page 6 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 form provided by the Commission detailing:
+2 (a) All expenditures relating to contracts issued during the emergency under KRS
+3 45A.085 or 45A.095, or under any provision for which a state agency does not
+4 solicit bids or proposals for a contract; and
+5 (b) All revenues received from the federal government in response to the declared
+6 emergency, any expenditures or expenditure plan for the federal funds by
+7 federal program, the state agency or program that was allocated the federal
+8 funds, and any state fund expenditures required to match the federal funds.
+9 (3) In the event of the occurrence or threatened or impending occurrence of any of the
+10 situations or events contemplated by KRS 39A.010, 39A.020, or 39A.030, which in
+11 the judgment of a local chief executive officer is of such severity or complexity as
+12 to require the exercise of extraordinary emergency measures, the county
+13 judge/executive of a county other than an urban-county government, or mayor of a
+14 city or urban-county government, or chief executive of other local governments or
+15 their designees as provided by ordinance of the affected county, city, or urban-
+16 county may declare in writing that a state of emergency exists, and thereafter,
+17 subject to any orders of the Governor, shall have and may exercise for the period as
+18 the state of emergency exists or continues, the following emergency powers:
+19 (a) To enforce all laws and administrative regulations relating to disaster and
+20 emergency response and to direct all local disaster and emergency response
+21 forces and operations in the affected county, city, urban-county, or charter
+22 county;
+23 (b) To exclude all nonessential, unauthorized, disruptive, or uncooperative
+24 personnel from the scene of the emergency, and to command persons or
+25 groups of persons at the scene to disperse. A person who refuses to leave an
+26 area in which a written order of evacuation has been issued in accordance
+27 with a written declaration of emergency or a disaster may be forcibly removed
+Page 7 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 to a place of safety or shelter, or may, if this is resisted, be arrested by a peace
+2 officer. Forcible removal or arrest shall not be exercised as options until all
+3 reasonable efforts for voluntary compliance have been exhausted;
+4 (c) To declare curfews and establish their limits;
+5 (d) To order immediate purchase or rental of, contract for, or otherwise procure,
+6 without regard to procurement codes or budget requirements, the goods and
+7 services essential for protection of public health and safety or to maintain or
+8 to restore essential public services; and
+9 (e) To request emergency assistance from any local government or special district
+10 and, through the Governor, to request emergency assistance from any state
+11 agency and to initiate requests for federal assistance as are necessary for
+12 protection of public health and safety or for continuation of essential public
+13 services.
+14 (4) In the event of the occurrence or threatened or impending occurrence of any
+15 animal health emergency, which in the judgement of the Commissioner of
+16 Agriculture in consultation with the state veterinarian, is of such severity or
+17 complexity as to require the exercise of extraordinary emergency measures, the
+18 Commissioner of Agriculture may declare, in writing, that an animal health
+19 emergency exists and, subject to any order of the Governor, may exercise
+20 emergency powers for the period the animal health emergency exists or continues
+21 to:
+22 (a) Order the immediate purchase or procurement of or contract for veterinary
+23 services from any veterinarian or veterinarian technician licensed in the
+24 Commonwealth or any other state;
+25 (b) Request the secretary of the Transportation Cabinet to issue any permits
+26 and waive any regulatory requirements relating to the transportation of
+27 animal feed stock or medicine, including but not limited to:
+Page 8 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 1. Vehicle weight limits; or
+2 2. Driver safety restrictions;
+3 and the secretary shall not deny the request absent good cause;
+4 (c) Order the quarantine of any livestock, poultry, or other domesticated animal
+5 and any articles or equipment capable of acting as a vector of
+6 communicable disease;
+7 (d) Establish roadblocks on any roadway within the Commonwealth in order to
+8 prevent the transportation of the livestock, poultry, domesticated animal,
+9 article, or equipment ordered quarantined, with the assistance of:
+10 1. State law enforcement;
+11 2. Local law enforcement; or
+12 3. Game wardens employed by the Kentucky Department of Fish and
+13 Wildlife Resources;
+14 (e) Order the immediate purchase, procurement, or rental of or contract for,
+15 without regard to procurement requirements established in KRS Chapter
+16 45A, the goods and services, including materials and services needed to stop
+17 the spread of a communicable disease, essential for the protection of public
+18 health and safety or to maintain or restore essential public services; and
+19 (f) Request any emergency assistance as is necessary for the protection of
+20 public health and safety or for the continuation of essential public services
+21 from:
+22 1. A local government or special district;
+23 2. A state agency; or
+24 3. The Governor in order to initiate any request for federal assistance.
+25 (5) Nothing in this section shall be construed to allow any governmental entity to
+26 impose additional restrictions on:
+27 (a) The lawful possession, transfer, sale, transport, carrying, storage, display, or
+Page 9 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 use of firearms and ammunition or components of firearms and ammunition;
+2 (b) The right of the people to exercise free speech, freedom of the press, to
+3 petition their government for redress of injuries, or to peaceably assemble; or
+4 (c) The right of the people to worship, worship in person, or to act or refuse to act
+5 in a manner motivated by a sincerely held religious belief.
+6 (6)[(5)] Nothing in this section shall be construed to allow any governmental entity to
+7 impose restrictions on the right of the people to:
+8 (a) Peaceably assemble; or
+9 (b) Worship, worship in person, or to act or refuse to act in a manner motivated
+10 by a sincerely held religious belief.
+11 (7)[(6)] (a) A governmental entity shall not prohibit or restrict a religious
+12 organization from operating or engaging in religious services during a
+13 declared emergency to the same or any greater extent than other organizations
+14 or businesses that provide essential services necessary and vital to the health
+15 and welfare of the public are prohibited or restricted.
+16 (b) Paragraph (a) of this subsection shall not prohibit the Governor from requiring
+17 religious organizations to comply with neutral health, safety, or occupancy
+18 requirements that are applicable to all organizations and businesses that
+19 provide essential services. However, no health, safety, or occupancy
+20 requirement may impose a substantial burden on a religious organization or its
+21 services unless applying the burden to the religion or religious service in the
+22 particular instance is essential to further a compelling governmental interest
+23 and is the least restrictive means of furthering that compelling governmental
+24 interest.
+25 (c) A governmental entity shall not take any discriminatory action against a
+26 religious organization.
+27 (8)[(7)] As used in this section:
+Page 10 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 (a) "Discriminatory action" includes any action taken by a governmental entity
+2 wholly or partially on the basis that such organization is religious, operates or
+3 seeks to operate during a state of emergency, or engages in the exercise of
+4 religion as protected under the First Amendment to the Constitution of the
+5 United States to:
+6 1. Adversely alter in any way the tax treatment of, cause any tax, penalty,
+7 or payment to be assessed against, or deny, delay, or otherwise make
+8 unavailable an exemption from taxation;
+9 2. Disallow, deny, or otherwise make unavailable a deduction for state tax
+10 purposes of any charitable contribution made to or by a religious
+11 organization;
+12 3. Impose, levy, or assess a monetary fine, fee, civil or criminal penalty,
+13 damages award, or injunction; or
+14 4. Withhold, reduce, exclude, terminate, adversely alter the terms or
+15 conditions of, or otherwise make unavailable or deny any:
+16 a. State grant, contract, subcontract, cooperative agreement,
+17 guarantee, loan, scholarship, or other similar benefit from or to a
+18 religious organization;
+19 b. Entitlement or benefit under a state benefit program from or to a
+20 religious organization; or
+21 c. License, certification, accreditation, recognition, or other similar
+22 benefit, position, or status from or to any religious organization;
+23 (b) "Governmental entity" means:
+24 1. The Commonwealth or any of its political subdivisions;
+25 2. Any agency of the state described in KRS 12.020;
+26 3. Any person acting under color of state law; and
+27 4. Any private person suing under or attempting to enforce a law, rule, or
+Page 11 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 administrative regulation adopted by the state or any of its political
+2 subdivisions;
+3 (c) "Religious organization" means:
+4 1. A house of worship, including churches, synagogues, shrines, mosques,
+5 and temples;
+6 2. A religious group, corporation, association, educational institution,
+7 ministry, order, society, or similar entity, regardless of whether it is
+8 integrated or affiliated with a church or other house of worship; or
+9 3. Any officer, owner, employee, manager, religious leader, clergy, or
+10 minister of an entity or organization described in this paragraph; and
+11 (d) "Religious services" means a meeting, gathering, or assembly of two (2) or
+12 more persons organized by a religious organization for the purpose of
+13 worship, teaching, training, providing educational services, conducting
+14 religious rituals, or other activities that are deemed necessary by the religious
+15 organization for the exercise of religion.
+16 (9)[(8)] A religious organization may assert a violation of subsection (5)[(4)](c),
+17 (6)[(5)](b), or (7)[(6)] of this section as a claim against a governmental entity in any
+18 judicial or administrative proceeding or as a defense in any judicial or
+19 administrative proceeding without regard to whether the proceeding is brought by
+20 or in the name of the governmental entity, any private person, or any other party.
+21 Sovereign, governmental, and qualified immunity are waived to the extent of
+22 liability created under this section. An action asserting a violation of this section
+23 may be commenced, and relief may be granted, without regard to whether the
+24 religious organization commencing the action has sought or exhausted
+25 administrative remedies.
+26 (10)[(9)] Remedies available to a religious organization under this section against a
+27 governmental entity include:
+Page 12 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 (a) Declaratory relief;
+2 (b) Injunctive relief to prevent or remedy a violation of this section or the effects
+3 of such violation;
+4 (c) Compensatory damages for pecuniary and nonpecuniary losses;
+5 (d) Reasonable attorneys' fees and costs; and
+6 (e) Any other appropriate relief.
+7 (11)[(10)] Remedies available to a religious organization under this section against a
+8 person not acting under color of state law shall be limited to declaratory and
+9 injunctive relief.
+10 (12)[(11)] This section:
+11 (a) Shall be construed in favor of a broad protection of free exercise of religion;
+12 (b) Shall be in addition to the protections provided under state and federal laws
+13 and constitutions. Nothing in this section shall be construed to:
+14 1. Preempt or repeal any state law or local ordinance that is equally or
+15 more protective of free exercise of religion; or
+16 2. Narrow the meaning or application of any state law or local ordinance
+17 protecting free exercise of religion; and
+18 (c) Applies to, and in cases of conflict, supersedes:
+19 1. Each statute of the Commonwealth that infringes upon the free exercise
+20 of religion protected by this section, unless a conflicting statute is
+21 expressly made exempt from the application of this section; and
+22 2. Any ordinance, rule, administrative regulation, order, opinion, decision,
+23 practice, or other exercise of a governmental entity's authority that
+24 infringes upon the free exercise of religion protected by this section.
+25 (13)[(12)] A religious organization shall bring an action to assert a claim under this
+26 section no later than two (2) years from the date the person knew or should have
+27 known that a discriminatory action or other violation of this section was taken
+Page 13 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1222
+1 against that religious organization.
+Page 14 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+[DELETED:   2  J A B S A ( " v w g d a c a f t d a t d ( " t d t l ( " d w a a t e C o K o a m g p t ( " ( C ( M ( M ( C ( C ( M ( " p d o i a m a c b t D o E M a l e m 3]
+[DELETED:   2  J d e d o c o t o a o t a c ( " b ( " m a c u g c c g ( " e m a i o s d t b a e j t ( " t ( " m a i o s d a s b e a l ( " f r o a h s a s r s a r o r u s a r e a a w s r m p w s n c b o o h m o s m c d n a d e w p s s s o a r p e o p e w s o]
+[DELETED:   2  J i o f r t e r t a d o e o c o t p t o i t o a d o e t ( " o ( " p s s a t c o t t c l o l s i s ( ( " 1 A i S 2 I a ( " 1 D n m i o s o r m 2 D ( " e m s m t u a m C s o l a o a o r t a t m g a o o t c e m ( "]
+[DELETED:   2  J o e K ( " a m t c t l c e m p o ( " e m d o " d m t e t ( " e m a m t D o E M ( " E S ( I s o e e i K 3 3 o 3 t G s w ( T e a l a a r r t d a e a ( T a a a d ( T]
+[DELETED:   2  J o f p u a d i K 4 e f a a c o f a a o a c t A S 1 A 2 A 3 F 4 F i b a p b e h o w d t w j c i t a o a s o e  C s b d u t p i K 4 t 4 t d ( T s S ( T p ( T e a n u d o o u t w r i f a]
+[DELETED:   2  J o u a r e f v c h b e ( T ( T p o l t s o c o g i t e o a s o g e f a a c o f d ( T t ( T a ( U o w a t u t d o t s o d e r o t t l G e s r ( E e ( W t ( d o a d e a e t ( d t L]
+[DELETED:   2  J f ( A 4 s ( A e a e o e p f t f f b f f ( I s t t r t e o e e m t c j c t d a p b o o t a c c o u c m d i w t a s o e e a t s t ( T e a l a a r r t d a e f a o i t a c c u o c c ( T e a n u d o u p f t s o t e a t c p o g a i w a w o h b i i a w]
+[DELETED:   2  J t o r ( T ( T w s t ( T a s a a t i r f f a a a n f p s ( I t e o o o t o i o o a a h e w i t j o t C o A i c w t s v i o s s o c C o A m d i w t a a h e e a s t a o o t G m e e t ( O s f a v o v t l i t C ( R t s o T C t i a p a w a r r r t t t o a]
+[DELETED:   2  J 1 V 2 D  a ( O a a a o e c o a a a v o c ( E p t t o t l p d a a 1 S 2 L 3 G w e b t K D o F a W ( O w r t p r e i K C 4 t h ( R a e a a i n f t p o p f 1 A 2 A 3 T ( N i t s s b c t a a g e t i ( T]
+[DELETED:   2  J u ( T r o t p t e f s f o t p t p ( T i ( N i ( P ( W b ( ( A g e s n p o r a r o f o o e i r s d a d o a ( P r o t c w n h s o r t a a t a o a b t p e s H n h s o o r s p a i ( A g e s n t a d a a a r ( A]
+[DELETED:   2  J ( " w s r U 1 A o u 2 D p o a c c m t o b a r o 3 I d 4 W r e t a a t t o c a S g c s c a g r b E r c L c a r o o s b ( " 1 T 2 A 3 A 4 A]
+[DELETED:   2  J a r a b t s o a o i p s ( " 1 A a 2 A r g c a e i m o s o s e r o w i i i 3 A o o e m r l c o m ( " m p o b a r o f t p o w t t p e s c r o ( A r o m a a v o s ( ( j o a p o a a d i a j o a o S g a q i a w t t e o l m b c a r m b g w r t w t r o c t a h s o e a ( R a t a r o u t s a a g]
+[DELETED:   2  J ( D ( I o ( C ( R ( A ( R a t a r o u t s a a p n a u c o s l s b l t d a i ( T ( S ( S a 1 P o r a s l o l o t i e o m 2 N p ( A 1 E o r p b t s u a c s i e 2 A p o o e o a g e a t i ( A r o s b a a t a a c u t s k t a d a o o v o t s w t]
+[DELETED:   2  J a]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 1222
+1 AN ACT relating to animal health emergencies.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 39A.020 is amended to read as follows:
+4 As used in KRS Chapters 39A to 39F, unless the context requires otherwise:
+5 (1) "Adjutant General" means the executive head of the Department of Military Affairs
+6 vested with general direction and control authority for the department and the
+7 division of emergency management;
+8 (2) "Animal health emergency" means an incident or situation which poses a major
+9 threat to the safety or health of livestock as defined in KRS 246.010, poultry as
+10 defined in KRS 246.010, or other domesticated animal so as to cause or threaten
+11 to cause the spread of disease, starvation, deadly injury, or other potential loss of
+12 life;
+13 (3) "Catastrophe" means a disaster or series of concurrent disasters which adversely
+14 affect the entire Commonwealth of Kentucky or a major geographical portion
+15 thereof;
+16 (4)[(3)] "Chief executive officer" means a:
+17 (a) County judge/executive of a county;
+18 (b) Mayor of a consolidated local government;
+19 (c) Mayor of an urban-county government;
+20 (d) Chief executive officer of a charter county government;
+21 (e) Chief executive officer of a unified local government; or
+22 (f) Mayor of a city;
+23 (5)[(4)] "Comprehensive emergency management program" means the public safety
+24 program developed, organized, implemented, administered, maintained, and
+25 coordinated by the Division of Emergency Management and local emergency
+26 management agencies created pursuant to the provisions of KRS Chapters 39A to
+27 39F, to assess, mitigate, prepare for, respond to, or recover from, an emergency,
+Page 1 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 declared emergency, disaster, or catastrophe, or threat of any of those, as
+2 contemplated in KRS 39A.010 or as defined in this section;
+3 (6)[(5)] "Coordination" means having and exercising primary state or local executive
+4 branch oversight for the purpose of organizing, planning, and implementing;
+5 (7)[(6)] "County" means a county, urban-county government, charter county
+6 government, consolidated local government, or unified local government;
+7 (8)[(7)] "Declared emergency" means any incident or situation declared to be an
+8 emergency, disaster, or catastrophe by executive order of the Governor, or a county
+9 judge/executive, or a mayor, or the chief executive of other local governments in
+10 the Commonwealth pursuant to the provisions of KRS Chapters 39A to 39F;
+11 (9)[(8)] "Director" means the director of the Division of Emergency Management of
+12 the Department of Military Affairs;
+13 (10)[(9)] "Disaster" means any incident or situation declared as such by executive
+14 action of the Governor, or the President of the United States, pursuant to federal
+15 law;
+16 (11)[(10)] "Disaster and emergency response" means the performance of all emergency
+17 functions, other than war-related functions for which military forces are primarily
+18 responsible, including but not limited to: direction and control, incident command,
+19 or management; communications; fire protection services; police services; medical
+20 and health services; ambulance services; rescue; search and rescue or recovery;
+21 urban search and rescue; engineering; alerting and warning services; resource
+22 management; public works services; nuclear, chemical, biological, or other
+23 hazardous material or substance monitoring, containment, decontamination,
+24 neutralization, and disposal; emergency worker protection, site safety, site
+25 operations and response planning; evacuation of persons; emergency welfare
+26 services; emergency transportation; physical plant protection; temporary restoration
+27 of public utility services; emergency lighting and power services; emergency public
+Page 2 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 information; incident investigation, hazards analysis, and damage assessment; and
+2 other functions related to effective reaction to a disaster or emergency or
+3 catastrophe, or the potential, threatened, or impending threat of any disaster or
+4 emergency or catastrophe, together with all other activities necessary or incidental
+5 to the preparation for and carrying out of the functions set out in this subsection;
+6 (12)[(11)] "Division" means the Division of Emergency Management of the Department
+7 of Military Affairs;
+8 (13)[(12)] "Emergency" means any incident or situation which poses a major threat to
+9 public safety so as to cause, or threaten to cause, loss of life, serious injury,
+10 significant damage to property, or major harm to public health or the environment;
+11 (14)[(13)] (a) "Executive action" means:
+12 1. All orders and guidelines related to a COVID-19 declared emergency
+13 issued by the Governor or any state agency, the President of the United
+14 States or any federal agency, or a local governmental agency; and
+15 2. Industry-specific guidelines related to a COVID-19 declared emergency
+16 adopted by a state agency that govern the industry; and
+17 (b) "Executive action":
+18 1. Does not mean informal or indefinite statements or recommendations
+19 made by government officials; and
+20 2. Does not create a duty of care;
+21 (15)[(14)] "Integrated emergency management system" means the unified and
+22 multidisciplinary disaster and emergency response infrastructure developed in the
+23 Commonwealth, under the coordination of the division, using methods which align
+24 state or local administrative, organizational, and operational resources, to
+25 accomplish the mission, goals, and objectives of the comprehensive emergency
+26 management program of the Commonwealth;
+27 (16)[(15)] "Local disaster and emergency services organization" means that organization
+Page 3 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 of public and private entities developed to carry out the multiagency disaster and
+2 emergency response of a city, county, urban-county or charter county pursuant to
+3 KRS Chapters 39A to 39F;
+4 (17)[(16)] "Local emergency management agency" means the agency created, operated,
+5 and maintained to coordinate the local comprehensive emergency management
+6 program and disaster and emergency response of a city, county, and urban-county
+7 or charter county government pursuant to KRS Chapters 39A to 39F;
+8 (18)[(17)] "Local emergency management director" or "Local director" means the
+9 executive head of the local emergency management agency, appointed pursuant to
+10 the provisions of KRS Chapters 39A to 39F;
+11 (19)[(18)] "State emergency management agency" means the Division of Emergency
+12 Management of the Department of Military Affairs; and
+13 (20)[(19)] "State emergency management director" means the director of the Division of
+14 Emergency Management.
+15 Section 2. KRS 39A.100 is amended to read as follows:
+16 (1) In the event of the occurrence or threatened or impending occurrence of any of the
+17 situations or events enumerated in KRS 39A.010, 39A.020, or 39A.030, the
+18 Governor may declare, in writing, that a state of emergency exists. The Governor
+19 shall have and may exercise the following emergency powers during the period in
+20 which the state of emergency exists:
+21 (a) To enforce all laws, and administrative regulations relating to disaster and
+22 emergency response and to assume direct operational control of all disaster
+23 and emergency response forces and activities in the Commonwealth;
+24 (b) To require state agencies and to request local governments, local agencies,
+25 and special districts to respond to the emergency or disaster in the manner
+26 directed;
+27 (c) To seize, take, or condemn property, for the duration of the emergency, and
+Page 4 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 only for public use as defined in KRS 416.675, excluding firearms and
+2 ammunition, components of firearms and ammunition, or a combination
+3 thereof, for the protection of the public or at the request of the President, the
+4 Armed Forces, or the Federal Emergency Management Agency of the United
+5 States, including:
+6 1. All means of transportation and communication;
+7 2. All stocks of fuel of whatever nature;
+8 3. Food, clothing, equipment, materials, medicines, and all supplies; and
+9 4. Facilities, including buildings and plants, but excluding houses of
+10 worship, except to the extent that such houses have become unsafe to a
+11 degree that would justify condemnation in the absence of a state of
+12 emergency.
+13 Compensation for property seized, taken, or condemned under this paragraph
+14 shall be determined using the process in KRS 416.540 to 416.670 to
+15 determine value;
+16 (d) To sell, lend, give, or distribute any of the property under paragraph (c) of this
+17 subsection among the inhabitants of the Commonwealth and to account to the
+18 State Treasurer for any funds received for the property;
+19 (e) To make compensation for the property seized, taken, or condemned under
+20 paragraph (c) of this subsection;
+21 (f) To exclude all nonessential, unauthorized, disruptive, or otherwise
+22 uncooperative personnel from the scene of the emergency, and to command
+23 those persons or groups assembled at the scene to disperse. A person who
+24 refuses to leave an area in which a written order of evacuation has been issued
+25 in accordance with a written declaration of emergency or a disaster may be
+26 forcibly removed to a place of safety or shelter, or may, if this is resisted, be
+27 arrested by a peace officer. Forcible removal or arrest shall not be exercised as
+Page 5 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 options until all reasonable efforts for voluntary compliance have been
+2 exhausted;
+3 (g) To declare curfews and establish their limits;
+4 (h) To prohibit or limit the sale or consumption of goods, in the event of a
+5 shortage of goods, excluding firearms and ammunition, components of
+6 firearms and ammunition, or a combination thereof, or commodities for the
+7 duration of the emergency;
+8 (i) To grant emergency authority to pharmacists pursuant to KRS 315.500, for
+9 the duration of the emergency;
+10 (j) To request any assistance from agencies of the United States as necessary and
+11 appropriate to meet the needs of the people of the Commonwealth;
+12 (k) Upon the recommendation of the Secretary of State, to declare by executive
+13 order a different time or place for holding elections in an election area for
+14 which a state of emergency has been declared for part or all of the election
+15 area. The election shall be held within thirty-five (35) days from the date of
+16 the suspended or delayed election. The executive order shall remain in effect
+17 until the date of the suspended or delayed election regardless of the time
+18 limitations in KRS 39A.090 and shall not be changed except by action of the
+19 General Assembly. The State Board of Elections shall establish procedures for
+20 election officials to follow. Any procedures established under this paragraph
+21 shall be subject to the approval of the Secretary of State and the Governor by
+22 respective executive orders; and
+23 (l) Except as prohibited by this section or other law, to take action necessary to
+24 execute those powers enumerated in paragraphs (a) to (k) of this subsection.
+25 (2) Within thirty (30) days of a declared emergency, and every thirty (30) days
+26 thereafter, the Governor shall report to the General Assembly, if in session, or to the
+27 Legislative Research Commission if the General Assembly is not in session, on a
+Page 6 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 form provided by the Commission detailing:
+2 (a) All expenditures relating to contracts issued during the emergency under KRS
+3 45A.085 or 45A.095, or under any provision for which a state agency does not
+4 solicit bids or proposals for a contract; and
+5 (b) All revenues received from the federal government in response to the declared
+6 emergency, any expenditures or expenditure plan for the federal funds by
+7 federal program, the state agency or program that was allocated the federal
+8 funds, and any state fund expenditures required to match the federal funds.
+9 (3) In the event of the occurrence or threatened or impending occurrence of any of the
+10 situations or events contemplated by KRS 39A.010, 39A.020, or 39A.030, which in
+11 the judgment of a local chief executive officer is of such severity or complexity as
+12 to require the exercise of extraordinary emergency measures, the county
+13 judge/executive of a county other than an urban-county government, or mayor of a
+14 city or urban-county government, or chief executive of other local governments or
+15 their designees as provided by ordinance of the affected county, city, or urban-
+16 county may declare in writing that a state of emergency exists, and thereafter,
+17 subject to any orders of the Governor, shall have and may exercise for the period as
+18 the state of emergency exists or continues, the following emergency powers:
+19 (a) To enforce all laws and administrative regulations relating to disaster and
+20 emergency response and to direct all local disaster and emergency response
+21 forces and operations in the affected county, city, urban-county, or charter
+22 county;
+23 (b) To exclude all nonessential, unauthorized, disruptive, or uncooperative
+24 personnel from the scene of the emergency, and to command persons or
+25 groups of persons at the scene to disperse. A person who refuses to leave an
+26 area in which a written order of evacuation has been issued in accordance
+27 with a written declaration of emergency or a disaster may be forcibly removed
+Page 7 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 to a place of safety or shelter, or may, if this is resisted, be arrested by a peace
+2 officer. Forcible removal or arrest shall not be exercised as options until all
+3 reasonable efforts for voluntary compliance have been exhausted;
+4 (c) To declare curfews and establish their limits;
+5 (d) To order immediate purchase or rental of, contract for, or otherwise procure,
+6 without regard to procurement codes or budget requirements, the goods and
+7 services essential for protection of public health and safety or to maintain or
+8 to restore essential public services; and
+9 (e) To request emergency assistance from any local government or special district
+10 and, through the Governor, to request emergency assistance from any state
+11 agency and to initiate requests for federal assistance as are necessary for
+12 protection of public health and safety or for continuation of essential public
+13 services.
+14 (4) In the event of the occurrence or threatened or impending occurrence of any
+15 animal health emergency, which in the judgement of the Commissioner of
+16 Agriculture in consultation with the state veterinarian, is of such severity or
+17 complexity as to require the exercise of extraordinary emergency measures, the
+18 Commissioner of Agriculture may declare, in writing, that an animal health
+19 emergency exists and, subject to any order of the Governor, may exercise
+20 emergency powers for the period the animal health emergency exists or continues
+21 to:
+22 (a) Order the immediate purchase or procurement of or contract for veterinary
+23 services from any veterinarian or veterinarian technician licensed in the
+24 Commonwealth or any other state;
+25 (b) Request the secretary of the Transportation Cabinet to issue any permits
+26 and waive any regulatory requirements relating to the transportation of
+27 animal feed stock or medicine, including but not limited to:
+Page 8 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 1. Vehicle weight limits; or
+2 2. Driver safety restrictions;
+3 and the secretary shall not deny the request absent good cause;
+4 (c) Order the quarantine of any livestock, poultry, or other domesticated animal
+5 and any articles or equipment capable of acting as a vector of
+6 communicable disease;
+7 (d) Establish roadblocks on any roadway within the Commonwealth in order to
+8 prevent the transportation of the livestock, poultry, domesticated animal,
+9 article, or equipment ordered quarantined, with the assistance of:
+10 1. State law enforcement;
+11 2. Local law enforcement; or
+12 3. Game wardens employed by the Kentucky Department of Fish and
+13 Wildlife Resources;
+14 (e) Order the immediate purchase, procurement, or rental of or contract for,
+15 without regard to procurement requirements established in KRS Chapter
+16 45A, the goods and services, including materials and services needed to stop
+17 the spread of a communicable disease, essential for the protection of public
+18 health and safety or to maintain or restore essential public services; and
+19 (f) Request any emergency assistance as is necessary for the protection of
+20 public health and safety or for the continuation of essential public services
+21 from:
+22 1. A local government or special district;
+23 2. A state agency; or
+24 3. The Governor in order to initiate any request for federal assistance.
+25 (5) Nothing in this section shall be construed to allow any governmental entity to
+26 impose additional restrictions on:
+27 (a) The lawful possession, transfer, sale, transport, carrying, storage, display, or
+Page 9 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 use of firearms and ammunition or components of firearms and ammunition;
+2 (b) The right of the people to exercise free speech, freedom of the press, to
+3 petition their government for redress of injuries, or to peaceably assemble; or
+4 (c) The right of the people to worship, worship in person, or to act or refuse to act
+5 in a manner motivated by a sincerely held religious belief.
+6 (6)[(5)] Nothing in this section shall be construed to allow any governmental entity to
+7 impose restrictions on the right of the people to:
+8 (a) Peaceably assemble; or
+9 (b) Worship, worship in person, or to act or refuse to act in a manner motivated
+10 by a sincerely held religious belief.
+11 (7)[(6)] (a) A governmental entity shall not prohibit or restrict a religious
+12 organization from operating or engaging in religious services during a
+13 declared emergency to the same or any greater extent than other organizations
+14 or businesses that provide essential services necessary and vital to the health
+15 and welfare of the public are prohibited or restricted.
+16 (b) Paragraph (a) of this subsection shall not prohibit the Governor from requiring
+17 religious organizations to comply with neutral health, safety, or occupancy
+18 requirements that are applicable to all organizations and businesses that
+19 provide essential services. However, no health, safety, or occupancy
+20 requirement may impose a substantial burden on a religious organization or its
+21 services unless applying the burden to the religion or religious service in the
+22 particular instance is essential to further a compelling governmental interest
+23 and is the least restrictive means of furthering that compelling governmental
+24 interest.
+25 (c) A governmental entity shall not take any discriminatory action against a
+26 religious organization.
+27 (8)[(7)] As used in this section:
+Page 10 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 (a) "Discriminatory action" includes any action taken by a governmental entity
+2 wholly or partially on the basis that such organization is religious, operates or
+3 seeks to operate during a state of emergency, or engages in the exercise of
+4 religion as protected under the First Amendment to the Constitution of the
+5 United States to:
+6 1. Adversely alter in any way the tax treatment of, cause any tax, penalty,
+7 or payment to be assessed against, or deny, delay, or otherwise make
+8 unavailable an exemption from taxation;
+9 2. Disallow, deny, or otherwise make unavailable a deduction for state tax
+10 purposes of any charitable contribution made to or by a religious
+11 organization;
+12 3. Impose, levy, or assess a monetary fine, fee, civil or criminal penalty,
+13 damages award, or injunction; or
+14 4. Withhold, reduce, exclude, terminate, adversely alter the terms or
+15 conditions of, or otherwise make unavailable or deny any:
+16 a. State grant, contract, subcontract, cooperative agreement,
+17 guarantee, loan, scholarship, or other similar benefit from or to a
+18 religious organization;
+19 b. Entitlement or benefit under a state benefit program from or to a
+20 religious organization; or
+21 c. License, certification, accreditation, recognition, or other similar
+22 benefit, position, or status from or to any religious organization;
+23 (b) "Governmental entity" means:
+24 1. The Commonwealth or any of its political subdivisions;
+25 2. Any agency of the state described in KRS 12.020;
+26 3. Any person acting under color of state law; and
+27 4. Any private person suing under or attempting to enforce a law, rule, or
+Page 11 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 administrative regulation adopted by the state or any of its political
+2 subdivisions;
+3 (c) "Religious organization" means:
+4 1. A house of worship, including churches, synagogues, shrines, mosques,
+5 and temples;
+6 2. A religious group, corporation, association, educational institution,
+7 ministry, order, society, or similar entity, regardless of whether it is
+8 integrated or affiliated with a church or other house of worship; or
+9 3. Any officer, owner, employee, manager, religious leader, clergy, or
+10 minister of an entity or organization described in this paragraph; and
+11 (d) "Religious services" means a meeting, gathering, or assembly of two (2) or
+12 more persons organized by a religious organization for the purpose of
+13 worship, teaching, training, providing educational services, conducting
+14 religious rituals, or other activities that are deemed necessary by the religious
+15 organization for the exercise of religion.
+16 (9)[(8)] A religious organization may assert a violation of subsection (5)[(4)](c),
+17 (6)[(5)](b), or (7)[(6)] of this section as a claim against a governmental entity in any
+18 judicial or administrative proceeding or as a defense in any judicial or
+19 administrative proceeding without regard to whether the proceeding is brought by
+20 or in the name of the governmental entity, any private person, or any other party.
+21 Sovereign, governmental, and qualified immunity are waived to the extent of
+22 liability created under this section. An action asserting a violation of this section
+23 may be commenced, and relief may be granted, without regard to whether the
+24 religious organization commencing the action has sought or exhausted
+25 administrative remedies.
+26 (10)[(9)] Remedies available to a religious organization under this section against a
+27 governmental entity include:
+Page 12 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 (a) Declaratory relief;
+2 (b) Injunctive relief to prevent or remedy a violation of this section or the effects
+3 of such violation;
+4 (c) Compensatory damages for pecuniary and nonpecuniary losses;
+5 (d) Reasonable attorneys' fees and costs; and
+6 (e) Any other appropriate relief.
+7 (11)[(10)] Remedies available to a religious organization under this section against a
+8 person not acting under color of state law shall be limited to declaratory and
+9 injunctive relief.
+10 (12)[(11)] This section:
+11 (a) Shall be construed in favor of a broad protection of free exercise of religion;
+12 (b) Shall be in addition to the protections provided under state and federal laws
+13 and constitutions. Nothing in this section shall be construed to:
+14 1. Preempt or repeal any state law or local ordinance that is equally or
+15 more protective of free exercise of religion; or
+16 2. Narrow the meaning or application of any state law or local ordinance
+17 protecting free exercise of religion; and
+18 (c) Applies to, and in cases of conflict, supersedes:
+19 1. Each statute of the Commonwealth that infringes upon the free exercise
+20 of religion protected by this section, unless a conflicting statute is
+21 expressly made exempt from the application of this section; and
+22 2. Any ordinance, rule, administrative regulation, order, opinion, decision,
+23 practice, or other exercise of a governmental entity's authority that
+24 infringes upon the free exercise of religion protected by this section.
+25 (13)[(12)] A religious organization shall bring an action to assert a claim under this
+26 section no later than two (2) years from the date the person knew or should have
+27 known that a discriminatory action or other violation of this section was taken
+Page 13 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1222
+1 against that religious organization.
+Page 14 of 14
+BR122200.100 - 1222 - XXXX 2/12/2026 3:18 PM Jacketed
+
+[DELETED:   2  J A B S A ( " v w g d a c a f t d a t d ( " t d t l ( " d w a a t e C o K o a m g p t ( " ( C ( M ( M ( C ( C ( M ( " p d o i a m a c b t D o E M a l e m 3]
+[DELETED:   2  J d e d o c o t o a o t a c ( " b ( " m a c u g c c g ( " e m a i o s d t b a e j t ( " t ( " m a i o s d a s b e a l ( " f r o a h s a s r s a r o r u s a r e a a w s r m p w s n c b o o h m o s m c d n a d e w p s s s o a r p e o p e w s o]
+[DELETED:   2  J i o f r t e r t a d o e o c o t p t o i t o a d o e t ( " o ( " p s s a t c o t t c l o l s i s ( ( " 1 A i S 2 I a ( " 1 D n m i o s o r m 2 D ( " e m s m t u a m C s o l a o a o r t a t m g a o o t c e m ( "]
+[DELETED:   2  J o e K ( " a m t c t l c e m p o ( " e m d o " d m t e t ( " e m a m t D o E M ( " E S ( I s o e e i K 3 3 o 3 t G s w ( T e a l a a r r t d a e a ( T a a a d ( T]
+[DELETED:   2  J o f p u a d i K 4 e f a a c o f a a o a c t A S 1 A 2 A 3 F 4 F i b a p b e h o w d t w j c i t a o a s o e  C s b d u t p i K 4 t 4 t d ( T s S ( T p ( T e a n u d o o u t w r i f a]
+[DELETED:   2  J o u a r e f v c h b e ( T ( T p o l t s o c o g i t e o a s o g e f a a c o f d ( T t ( T a ( U o w a t u t d o t s o d e r o t t l G e s r ( E e ( W t ( d o a d e a e t ( d t L]
+[DELETED:   2  J f ( A 4 s ( A e a e o e p f t f f b f f ( I s t t r t e o e e m t c j c t d a p b o o t a c c o u c m d i w t a s o e e a t s t ( T e a l a a r r t d a e f a o i t a c c u o c c ( T e a n u d o u p f t s o t e a t c p o g a i w a w o h b i i a w]
+[DELETED:   2  J t o r ( T ( T w s t ( T a s a a t i r f f a a a n f p s ( I t e o o o t o i o o a a h e w i t j o t C o A i c w t s v i o s s o c C o A m d i w t a a h e e a s t a o o t G m e e t ( O s f a v o v t l i t C ( R t s o T C t i a p a w a r r r t t t o a]
+[DELETED:   2  J 1 V 2 D  a ( O a a a o e c o a a a v o c ( E p t t o t l p d a a 1 S 2 L 3 G w e b t K D o F a W ( O w r t p r e i K C 4 t h ( R a e a a i n f t p o p f 1 A 2 A 3 T ( N i t s s b c t a a g e t i ( T]
+[DELETED:   2  J u ( T r o t p t e f s f o t p t p ( T i ( N i ( P ( W b ( ( A g e s n p o r a r o f o o e i r s d a d o a ( P r o t c w n h s o r t a a t a o a b t p e s H n h s o o r s p a i ( A g e s n t a d a a a r ( A]
+[DELETED:   2  J ( " w s r U 1 A o u 2 D p o a c c m t o b a r o 3 I d 4 W r e t a a t t o c a S g c s c a g r b E r c L c a r o o s b ( " 1 T 2 A 3 A 4 A]
+[DELETED:   2  J a r a b t s o a o i p s ( " 1 A a 2 A r g c a e i m o s o s e r o w i i i 3 A o o e m r l c o m ( " m p o b a r o f t p o w t t p e s c r o ( A r o m a a v o s ( ( j o a p o a a d i a j o a o S g a q i a w t t e o l m b c a r m b g w r t w t r o c t a h s o e a ( R a t a r o u t s a a g]
+[DELETED:   2  J ( D ( I o ( C ( R ( A ( R a t a r o u t s a a p n a u c o s l s b l t d a i ( T ( S ( S a 1 P o r a s l o l o t i e o m 2 N p ( A 1 E o r p b t s u a c s i e 2 A p o o e o a g e a t i ( A r o s b a a t a a c u t s k t a d a o o v o t s w t]
+[DELETED:   2  J a]
