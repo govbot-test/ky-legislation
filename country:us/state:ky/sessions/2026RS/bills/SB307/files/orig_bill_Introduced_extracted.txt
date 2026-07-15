@@ -1,0 +1,569 @@
+Title: 1 AN ACT relating to step therapy protocols.
+Official Title: 1 AN ACT relating to step therapy protocols.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 1406
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 304.17A-163 is amended to read as follows:
+4 (1) As used in this section and KRS 304.17A-1631, unless the context requires
+5 otherwise:
+6 (a) "Clinical practice guidelines" means a systematically developed statement to
+7 assist decision making by health care providers and patients about appropriate
+8 healthcare for specific clinical circumstances and conditions;
+9 (b) "Clinical review criteria" means the written screening procedures, decision
+10 abstracts, clinical protocols, and clinical practice guidelines used by the
+11 insurer, health plan, pharmacy benefit manager, or private review agent to
+12 determine the medical necessity and appropriateness of health care services;
+13 (c) "Health plan":
+14 1. Means any state-regulated policy, certificate, contract, or plan that offers
+15 or provides coverage in this state[, by direct payment, reimbursement, or
+16 otherwise,] for prescription drugs pursuant to a step therapy protocol,
+17 regardless of whether:
+18 a. The step therapy protocol is described as a step therapy protocol;
+19 or
+20 b. The coverage is provided:
+21 i. By direct payment, reimbursement, or otherwise; or
+22 ii. On a fully insured or self-insured basis or any combination
+23 thereof; and
+24 2. Shall include but not be limited to a health benefit plan;
+25 (d) "Pharmacy benefit manager" has the same meaning as in KRS 304.9-020;
+26 (e) "Private review agent" has the same meaning as in KRS 304.17A-600;
+27 (f) "Step therapy exception" means a determination that a step therapy protocol
+Page 1 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+UNOFFICIAL COPY 26 RS BR 1406
+1 should be overridden in favor of immediate coverage of the health care
+2 provider's selected prescription drug; and
+3 (g) "Step therapy protocol" means a protocol, policy, or program that establishes
+4 the specific sequence in which prescription drugs that are for a specified
+5 medical condition and medically appropriate for a particular insured are
+6 covered by an insurer or health plan.
+7 (2) (a) Except as provided in paragraph (b) of this subsection, clinical review criteria
+8 developed by an insurer, health plan, pharmacy benefit manager, or private
+9 review agent to establish a step therapy protocol shall be based on clinical
+10 practice guidelines that:
+11 1. Recommend that prescription drugs be taken in the specific sequence
+12 required by the step therapy protocol;
+13 2. Are developed and endorsed by a multidisciplinary panel of experts that
+14 manages conflicts of interest among the members of the writing and
+15 review groups by:
+16 a. Requiring members to:
+17 i. Disclose any potential conflict of interests with entities,
+18 including insurers, health plans, and pharmaceutical
+19 manufacturers; and
+20 ii. Recuse himself or herself from voting if the member has a
+21 conflict of interest;
+22 b. Using a methodologist to work with writing groups to provide
+23 objectivity in data analysis and ranking of evidence through the
+24 preparation of evidence tables and facilitating consensus; and
+25 c. Offering opportunities for public review and comments;
+26 3. Are based on high quality studies, research, and medical practice;
+27 4. Are created by an explicit and transparent process that:
+Page 2 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+UNOFFICIAL COPY 26 RS BR 1406
+1 a. Minimizes biases and conflicts of interest;
+2 b. Explains the relationship between treatment options and outcomes;
+3 c. Rates the quality of the evidence supporting recommendations;
+4 and
+5 d. Considers relevant patient subgroups and preferences; and
+6 5. Are continually updated through a review of new evidence, research,
+7 and newly developed treatments.
+8 (b) In the absence of clinical practice guidelines that meet the requirements of
+9 paragraph (a) of this subsection, an insurer, health plan, pharmacy benefit
+10 manager, or private review agent may use peer-reviewed publications to
+11 establish step therapy protocols.
+12 (c) When establishing clinical review criteria for a step therapy protocol, an
+13 insurer, health plan, pharmacy benefit manager, or private review agent shall
+14 take into account the needs of atypical patient populations and diagnoses.
+15 (d) 1. An insurer, health plan, pharmacy benefit manager, or private review
+16 agent shall, upon written request, provide all specific written clinical
+17 review criteria relating to a particular condition or disease, including
+18 clinical review criteria relating to a step therapy exception
+19 determination.
+20 2. The clinical review criteria and other clinical information shall be made
+21 available:
+22 a. On the insurer's, health plan's, pharmacy benefit manager's, or
+23 private review agent's website; and
+24 b. To a health care professional on behalf of an insured upon written
+25 request.
+26 (e) Nothing in this subsection shall be construed to require an insurer, health plan,
+27 pharmacy benefit manager, or private review agent to establish a new entity to
+Page 3 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+UNOFFICIAL COPY 26 RS BR 1406
+1 develop clinical review criteria used for step therapy protocols.
+2 (3) (a) When coverage of a prescription drug for the treatment of any medical
+3 condition is restricted for use by an insurer, health plan, private review agent,
+4 or a pharmacy benefit manager by a step therapy protocol, the insured and
+5 prescribing provider shall have access to a clear, readily accessible, and
+6 convenient process to request a step therapy exception.
+7 (b) To satisfy the requirements of paragraph (a) of this subsection and subject
+8 to paragraph (d) of this subsection, an insurer, health plan, private review
+9 agent, or pharmacy benefit manager shall:
+10 1. [May use its existing medical exceptions process to satisfy the
+11 requirements of paragraph (a) of this subsection;
+12 2. Shall ]Make the step therapy protocol, including:
+13 a. All rules and criteria related to the step therapy protocol; and
+14 b. The specific information and documentation that must be
+15 submitted by a prescribing provider or insured to be considered a
+16 complete request for a step therapy exception;
+17 easily accessible on its website; and
+18 2.[3.] On or before January 1, 2027, ensure that the electronic process
+19 for requesting and transmitting prior authorization for a drug
+20 required under KRS 304.17A-167 includes the ability for prescribing
+21 providers to electronically transmit a complete request for a step
+22 therapy exception to the insurer, health plan, private review agent, or
+23 pharmacy benefit manager.
+24 (c) The process required under paragraph (b)2. of this subsection shall:
+25 1. Be integrated;
+26 2. Include an electronic list of the grounds for granting a step therapy
+27 exception request, which shall include the grounds set forth in
+Page 4 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+UNOFFICIAL COPY 26 RS BR 1406
+1 subsection (4)(a)2. of this section; and
+2 3. Allow a prescribing provider to submit:
+3 a. The grounds for a step therapy exception request by
+4 electronically selecting one (1) or more options from the list
+5 required under subparagraph 2. of this paragraph;
+6 b. All necessary information required under subsection (4)(a)1. of
+7 this section; and
+8 c. All additional or clinically relevant information required under
+9 subsection (4)(b)2. of this section[Shall, upon request, disclose all
+10 rules and criteria related to the step therapy protocol to all
+11 prescribing providers, including the specific information and
+12 documentation that must be submitted by a prescribing provider or
+13 insured to be considered a complete request for a step therapy
+14 exception].
+15 (d) Paragraph (b)2. of this subsection shall apply to Medicaid and KCHIP
+16 benefits as provided in KRS 205.522 and 205.6485 to the extent authorized
+17 by federal law.
+18 (4) (a) A step therapy exception request, or an internal appeal under KRS 304.17A-
+19 617 of a step therapy exception request denial, shall be granted by the insurer,
+20 health plan, private review agent, or the pharmacy benefit manager within
+21 forty-eight (48) hours if:
+22 1. All necessary information to perform the step therapy exception review,
+23 or make the appeal determination, has been provided; and
+24 2. One (1) of the following apply:
+25 a. The required prescription drug is:
+26 i. Contraindicated or will likely cause an adverse reaction by
+27 physical or mental harm to the insured; or
+Page 5 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+UNOFFICIAL COPY 26 RS BR 1406
+1 ii. Expected to be ineffective based on the known clinical
+2 characteristics of the insured and the prescription drug
+3 regimen;
+4 b. Based on clinical appropriateness, the required prescription drug is
+5 not in the best interest of the insured because the insured's use of
+6 the required prescription drug is expected to:
+7 i. Cause a significant barrier to the insured's adherence to or
+8 compliance with the insured's plan of care;
+9 ii. Worsen a comorbid condition of the insured; or
+10 iii. Decrease the insured's ability to achieve or maintain
+11 reasonable functional ability in performing daily activities;
+12 c. The insured has tried the required prescription drug while under
+13 the insured's current or a previous health plan, or another
+14 prescription drug in the same pharmacologic class or with the
+15 same mechanism of action, and the prescription drug was
+16 discontinued due to lack of efficacy or effectiveness, diminished
+17 effect, or an adverse event; or
+18 d. The insured is stable on the prescription drug selected by the
+19 insured's health care provider for the medical condition under
+20 consideration while under a current or previous health plan.
+21 (b) If a request for a step therapy exception, or an internal appeal under KRS
+22 304.17A-617 of a step therapy exception request denial, is incomplete or
+23 additional clinically relevant information is required, the insurer, health plan,
+24 pharmacy benefit manager, or private review agent shall notify the prescribing
+25 provider within forty-eight (48) hours of submission of the request or appeal:
+26 1. That the request or appeal is incomplete; and
+27 2. What additional or clinically relevant information is required in order to
+Page 6 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+UNOFFICIAL COPY 26 RS BR 1406
+1 approve or deny the step therapy exception.
+2 (5) If a step therapy exception request determination, notification under subsection
+3 (4)(b) of this section, or internal appeal determination under KRS 304.17A-617 of a
+4 step therapy exception request denial by an insurer, health plan, pharmacy benefit
+5 manager, or private review agent is not received by the prescribing provider within
+6 the time period specified in subsection (4) of this section, the step therapy exception
+7 request or internal appeal shall be deemed granted.
+8 (6) An insured or a provider may:
+9 (a) Initiate an internal appeal under KRS 304.17A-617 upon the denial of a step
+10 therapy exception request under this section; and
+11 (b) Request an external review under KRS 304.17A-623 upon the denial of an
+12 internal appeal under paragraph (a) of this subsection.
+13 (7) (a) Subject to paragraph (b) of this subsection, an insurer, health plan, pharmacy
+14 benefit manager, or private review agent[ shall]:
+15 1.[(a)] [Upon the granting of a step therapy exception request, internal
+16 appeal, or external review, authorize]Shall begin coverage for the
+17 prescription drug selected by the insured's health care provider on the
+18 date the provider submits a step therapy exception request;[ or]
+19 2.[(b)] May terminate coverage for the prescription drug selected by the
+20 insured's health care provider:
+21 a. Upon the denial of a step therapy exception request; or
+22 b. Forty-eight (48) hours after the notification required under
+23 subsection (4)(b) of this section is provided to the insured's
+24 health care provider if the provider has not submitted the
+25 additional or clinically relevant information required in the
+26 notification; and
+27 3. Upon the denial of a step therapy exception request or internal appeal,
+Page 7 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+UNOFFICIAL COPY 26 RS BR 1406
+1 shall:
+2 a. Inform the insured of the internal appeal or external review
+3 process, as applicable; and
+4 b. Not retroactively deny, reduce payment for, or seek any refunds
+5 or recoupments for coverage previously provided under this
+6 subsection for a prescription drug.
+7 (b) Paragraph (a) of this subsection shall apply to Medicaid and KCHIP
+8 benefits as provided in KRS 205.522 and 205.6485 to the extent authorized
+9 by federal law.
+10 (8) (a) Except as provided in paragraph (b) of this subsection, the duration of any
+11 step therapy protocol shall not be longer than a period of thirty (30) days if the
+12 treatment is deemed and documented as clinically ineffective by the
+13 prescribing provider.
+14 (b) When the prescribing provider can demonstrate, through sound clinical
+15 evidence, that the originally prescribed medication is likely to require more
+16 than thirty (30) days to provide any relief or an amelioration to the insured,
+17 the step therapy protocol may be extended up to seven (7) additional days.
+18 (9) Nothing in this section shall be construed to prevent:
+19 (a) An insurer, health plan, pharmacy benefit manager, or private review agent
+20 from requiring an insured to try:
+21 1. An AB-rated generic equivalent prior to providing coverage for the
+22 reference listed drug;
+23 2. An interchangeable biological product, as defined in 42 U.S.C. sec.
+24 262(i)(3), prior to providing coverage for the reference product; or
+25 3. A biosimilar biological product, as defined in 42 U.S.C. sec. 262(i)(2),
+26 prior to providing coverage for the reference product;
+27 unless the requirement meets any of the criteria set forth in subsection (4)(a)2.
+Page 8 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+UNOFFICIAL COPY 26 RS BR 1406
+1 of this section pursuant to a step therapy exception request submitted under
+2 subsection (4) of this section;
+3 (b) An insurer, health plan, pharmacy benefit manager, or private review agent
+4 from requiring a pharmacist to effect substitutions of prescription drugs
+5 consistent with KRS 217.814 to 217.896 and 304.17A-535; or
+6 (c) A health care provider from prescribing a prescription drug that is determined
+7 to be medically appropriate.
+8 Section 2. If the Cabinet for Health and Family Services or the Department for
+9 Medicaid Services determines that a state plan amendment, waiver, or any other form of
+10 authorization or approval from any federal agency to implement Section 1 of this Act is
+11 necessary to prevent the loss of federal funds or to comply with federal law, the cabinet
+12 or department:
+13 (1) Shall, within 90 days after the effective date of this section, request the
+14 necessary federal authorization or approval to implement Section 1 of this Act; and
+15 (2) May only delay implementation of the provisions of Section 1 of this Act for
+16 which federal authorization or approval was deemed necessary until the federal
+17 authorization or approval is granted.
+18 Section 3. Sections 1 and 2 of this Act, and KRS 205.522 and 205.6485 shall
+19 constitute the specific authorization required under KRS 205.5372(1).
+20 Section 4. This Act applies to policies, certificates, contracts, and plans issued
+21 or renewed on or after the effective date of this Act.
+Page 9 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+[DELETED:   2  J A B S ( A u i t s a K 3 u t c r o ( " a h ( " r c m t w s p d a c p a c p g u b t i h p p b m o p r a t d ( " 1 M o o r a T o b T i B i O t 2 S ( " ( " ( "]
+[DELETED:   2  J s b o i f o i c o t h c p ( " t s s i w p d t a f a s m c a m a f a p i a c ( ( E d r p 1 R r 2 A m c o i a t m o t w a r a R i D a p c o i w e i i h p a p m i R c b U a m t w w w g t p o p c O 3 A 4 A]
+[DELETED:   2  J a M b E c R t q o t e s r a d C 5 A c u t a r o n e r a ( I p ( o t s a i h p p b m o p r a m u p p t e ( W e c r c f a s t p a i t ( 1 A i p p b m r a s u w r p a s w c r c r t a p c o d i c r c r t a s t e d 2 T a a O t i h p p b m o p b T r ( N p]
+[DELETED:   2  J d ( ( W c o a p d f t t o a m c o p p s h a t a c r a a c ( T t a 1 [ u i e m e p t s t r 2 S a A b T s i a d t m b s c  e 2 O f r a t p a f a d r p t e t a c r f a s t p ( T 1 B 2 I e r w s i t g s f i]
+[DELETED:   2  J s 3 A a T g f a s t e r b e s o ( o m o f t l r b A t c A s r a c r t t s t p t a p p i t s i a d i t b c a c r f a s t e ( P ( o t s s a t M a K b b ( ( A 6 h p p r a o t p b m w f 1 A o 2 O a T i C p]
+[DELETED:   2  J i E t b i b o t k c c o t i a t p d r b B n t i C c i W i D t i a t a o m r c T t i c o a p h p o a p d i t s p c o w t s m o a a t p d w d e d T i i s o t p d s b t i h c p f t m c u c ( I a r f a s t e o i a u K 3 o a s t e r d i i o a p p 1 T 2 W]
+[DELETED:   2  J a ( I a s t e r d n u s ( s m t r ( A ( I t ( R i ( ( S b 1 [ t g o a s t e r i a o e r a b c f t p d 2 M i a U b F ( h a t n r u s ( o t s i p t t i h c p i t p h n s t a o c r i r i t n 3 U]
+[DELETED:   2  J s a I t i o t i a o e r p b N o r f c p p u t s ( P ( o t s s a t M a K b b ( ( E s t i d a d a c i b t p ( W t p p c d t s c e t t ( N ( A f 1 A A g e p t p c f t r 2 A i b p a d i 4 U s 2 3 A p  u]
+[DELETED:   2  J o s ( A f r a p t e s o p d c ( A t S M a n o ( S w 9 d a t e d o t s r t n ( M w f a o a w d n u t f a S c S o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 1406
+1 AN ACT relating to step therapy protocols.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 304.17A-163 is amended to read as follows:
+4 (1) As used in this section and KRS 304.17A-1631, unless the context requires
+5 otherwise:
+6 (a) "Clinical practice guidelines" means a systematically developed statement to
+7 assist decision making by health care providers and patients about appropriate
+8 healthcare for specific clinical circumstances and conditions;
+9 (b) "Clinical review criteria" means the written screening procedures, decision
+10 abstracts, clinical protocols, and clinical practice guidelines used by the
+11 insurer, health plan, pharmacy benefit manager, or private review agent to
+12 determine the medical necessity and appropriateness of health care services;
+13 (c) "Health plan":
+14 1. Means any state-regulated policy, certificate, contract, or plan that offers
+15 or provides coverage in this state[, by direct payment, reimbursement, or
+16 otherwise,] for prescription drugs pursuant to a step therapy protocol,
+17 regardless of whether:
+18 a. The step therapy protocol is described as a step therapy protocol;
+19 or
+20 b. The coverage is provided:
+21 i. By direct payment, reimbursement, or otherwise; or
+22 ii. On a fully insured or self-insured basis or any combination
+23 thereof; and
+24 2. Shall include but not be limited to a health benefit plan;
+25 (d) "Pharmacy benefit manager" has the same meaning as in KRS 304.9-020;
+26 (e) "Private review agent" has the same meaning as in KRS 304.17A-600;
+27 (f) "Step therapy exception" means a determination that a step therapy protocol
+Page 1 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1406
+1 should be overridden in favor of immediate coverage of the health care
+2 provider's selected prescription drug; and
+3 (g) "Step therapy protocol" means a protocol, policy, or program that establishes
+4 the specific sequence in which prescription drugs that are for a specified
+5 medical condition and medically appropriate for a particular insured are
+6 covered by an insurer or health plan.
+7 (2) (a) Except as provided in paragraph (b) of this subsection, clinical review criteria
+8 developed by an insurer, health plan, pharmacy benefit manager, or private
+9 review agent to establish a step therapy protocol shall be based on clinical
+10 practice guidelines that:
+11 1. Recommend that prescription drugs be taken in the specific sequence
+12 required by the step therapy protocol;
+13 2. Are developed and endorsed by a multidisciplinary panel of experts that
+14 manages conflicts of interest among the members of the writing and
+15 review groups by:
+16 a. Requiring members to:
+17 i. Disclose any potential conflict of interests with entities,
+18 including insurers, health plans, and pharmaceutical
+19 manufacturers; and
+20 ii. Recuse himself or herself from voting if the member has a
+21 conflict of interest;
+22 b. Using a methodologist to work with writing groups to provide
+23 objectivity in data analysis and ranking of evidence through the
+24 preparation of evidence tables and facilitating consensus; and
+25 c. Offering opportunities for public review and comments;
+26 3. Are based on high quality studies, research, and medical practice;
+27 4. Are created by an explicit and transparent process that:
+Page 2 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1406
+1 a. Minimizes biases and conflicts of interest;
+2 b. Explains the relationship between treatment options and outcomes;
+3 c. Rates the quality of the evidence supporting recommendations;
+4 and
+5 d. Considers relevant patient subgroups and preferences; and
+6 5. Are continually updated through a review of new evidence, research,
+7 and newly developed treatments.
+8 (b) In the absence of clinical practice guidelines that meet the requirements of
+9 paragraph (a) of this subsection, an insurer, health plan, pharmacy benefit
+10 manager, or private review agent may use peer-reviewed publications to
+11 establish step therapy protocols.
+12 (c) When establishing clinical review criteria for a step therapy protocol, an
+13 insurer, health plan, pharmacy benefit manager, or private review agent shall
+14 take into account the needs of atypical patient populations and diagnoses.
+15 (d) 1. An insurer, health plan, pharmacy benefit manager, or private review
+16 agent shall, upon written request, provide all specific written clinical
+17 review criteria relating to a particular condition or disease, including
+18 clinical review criteria relating to a step therapy exception
+19 determination.
+20 2. The clinical review criteria and other clinical information shall be made
+21 available:
+22 a. On the insurer's, health plan's, pharmacy benefit manager's, or
+23 private review agent's website; and
+24 b. To a health care professional on behalf of an insured upon written
+25 request.
+26 (e) Nothing in this subsection shall be construed to require an insurer, health plan,
+27 pharmacy benefit manager, or private review agent to establish a new entity to
+Page 3 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1406
+1 develop clinical review criteria used for step therapy protocols.
+2 (3) (a) When coverage of a prescription drug for the treatment of any medical
+3 condition is restricted for use by an insurer, health plan, private review agent,
+4 or a pharmacy benefit manager by a step therapy protocol, the insured and
+5 prescribing provider shall have access to a clear, readily accessible, and
+6 convenient process to request a step therapy exception.
+7 (b) To satisfy the requirements of paragraph (a) of this subsection and subject
+8 to paragraph (d) of this subsection, an insurer, health plan, private review
+9 agent, or pharmacy benefit manager shall:
+10 1. [May use its existing medical exceptions process to satisfy the
+11 requirements of paragraph (a) of this subsection;
+12 2. Shall ]Make the step therapy protocol, including:
+13 a. All rules and criteria related to the step therapy protocol; and
+14 b. The specific information and documentation that must be
+15 submitted by a prescribing provider or insured to be considered a
+16 complete request for a step therapy exception;
+17 easily accessible on its website; and
+18 2.[3.] On or before January 1, 2027, ensure that the electronic process
+19 for requesting and transmitting prior authorization for a drug
+20 required under KRS 304.17A-167 includes the ability for prescribing
+21 providers to electronically transmit a complete request for a step
+22 therapy exception to the insurer, health plan, private review agent, or
+23 pharmacy benefit manager.
+24 (c) The process required under paragraph (b)2. of this subsection shall:
+25 1. Be integrated;
+26 2. Include an electronic list of the grounds for granting a step therapy
+27 exception request, which shall include the grounds set forth in
+Page 4 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1406
+1 subsection (4)(a)2. of this section; and
+2 3. Allow a prescribing provider to submit:
+3 a. The grounds for a step therapy exception request by
+4 electronically selecting one (1) or more options from the list
+5 required under subparagraph 2. of this paragraph;
+6 b. All necessary information required under subsection (4)(a)1. of
+7 this section; and
+8 c. All additional or clinically relevant information required under
+9 subsection (4)(b)2. of this section[Shall, upon request, disclose all
+10 rules and criteria related to the step therapy protocol to all
+11 prescribing providers, including the specific information and
+12 documentation that must be submitted by a prescribing provider or
+13 insured to be considered a complete request for a step therapy
+14 exception].
+15 (d) Paragraph (b)2. of this subsection shall apply to Medicaid and KCHIP
+16 benefits as provided in KRS 205.522 and 205.6485 to the extent authorized
+17 by federal law.
+18 (4) (a) A step therapy exception request, or an internal appeal under KRS 304.17A-
+19 617 of a step therapy exception request denial, shall be granted by the insurer,
+20 health plan, private review agent, or the pharmacy benefit manager within
+21 forty-eight (48) hours if:
+22 1. All necessary information to perform the step therapy exception review,
+23 or make the appeal determination, has been provided; and
+24 2. One (1) of the following apply:
+25 a. The required prescription drug is:
+26 i. Contraindicated or will likely cause an adverse reaction by
+27 physical or mental harm to the insured; or
+Page 5 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1406
+1 ii. Expected to be ineffective based on the known clinical
+2 characteristics of the insured and the prescription drug
+3 regimen;
+4 b. Based on clinical appropriateness, the required prescription drug is
+5 not in the best interest of the insured because the insured's use of
+6 the required prescription drug is expected to:
+7 i. Cause a significant barrier to the insured's adherence to or
+8 compliance with the insured's plan of care;
+9 ii. Worsen a comorbid condition of the insured; or
+10 iii. Decrease the insured's ability to achieve or maintain
+11 reasonable functional ability in performing daily activities;
+12 c. The insured has tried the required prescription drug while under
+13 the insured's current or a previous health plan, or another
+14 prescription drug in the same pharmacologic class or with the
+15 same mechanism of action, and the prescription drug was
+16 discontinued due to lack of efficacy or effectiveness, diminished
+17 effect, or an adverse event; or
+18 d. The insured is stable on the prescription drug selected by the
+19 insured's health care provider for the medical condition under
+20 consideration while under a current or previous health plan.
+21 (b) If a request for a step therapy exception, or an internal appeal under KRS
+22 304.17A-617 of a step therapy exception request denial, is incomplete or
+23 additional clinically relevant information is required, the insurer, health plan,
+24 pharmacy benefit manager, or private review agent shall notify the prescribing
+25 provider within forty-eight (48) hours of submission of the request or appeal:
+26 1. That the request or appeal is incomplete; and
+27 2. What additional or clinically relevant information is required in order to
+Page 6 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1406
+1 approve or deny the step therapy exception.
+2 (5) If a step therapy exception request determination, notification under subsection
+3 (4)(b) of this section, or internal appeal determination under KRS 304.17A-617 of a
+4 step therapy exception request denial by an insurer, health plan, pharmacy benefit
+5 manager, or private review agent is not received by the prescribing provider within
+6 the time period specified in subsection (4) of this section, the step therapy exception
+7 request or internal appeal shall be deemed granted.
+8 (6) An insured or a provider may:
+9 (a) Initiate an internal appeal under KRS 304.17A-617 upon the denial of a step
+10 therapy exception request under this section; and
+11 (b) Request an external review under KRS 304.17A-623 upon the denial of an
+12 internal appeal under paragraph (a) of this subsection.
+13 (7) (a) Subject to paragraph (b) of this subsection, an insurer, health plan, pharmacy
+14 benefit manager, or private review agent[ shall]:
+15 1.[(a)] [Upon the granting of a step therapy exception request, internal
+16 appeal, or external review, authorize]Shall begin coverage for the
+17 prescription drug selected by the insured's health care provider on the
+18 date the provider submits a step therapy exception request;[ or]
+19 2.[(b)] May terminate coverage for the prescription drug selected by the
+20 insured's health care provider:
+21 a. Upon the denial of a step therapy exception request; or
+22 b. Forty-eight (48) hours after the notification required under
+23 subsection (4)(b) of this section is provided to the insured's
+24 health care provider if the provider has not submitted the
+25 additional or clinically relevant information required in the
+26 notification; and
+27 3. Upon the denial of a step therapy exception request or internal appeal,
+Page 7 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1406
+1 shall:
+2 a. Inform the insured of the internal appeal or external review
+3 process, as applicable; and
+4 b. Not retroactively deny, reduce payment for, or seek any refunds
+5 or recoupments for coverage previously provided under this
+6 subsection for a prescription drug.
+7 (b) Paragraph (a) of this subsection shall apply to Medicaid and KCHIP
+8 benefits as provided in KRS 205.522 and 205.6485 to the extent authorized
+9 by federal law.
+10 (8) (a) Except as provided in paragraph (b) of this subsection, the duration of any
+11 step therapy protocol shall not be longer than a period of thirty (30) days if the
+12 treatment is deemed and documented as clinically ineffective by the
+13 prescribing provider.
+14 (b) When the prescribing provider can demonstrate, through sound clinical
+15 evidence, that the originally prescribed medication is likely to require more
+16 than thirty (30) days to provide any relief or an amelioration to the insured,
+17 the step therapy protocol may be extended up to seven (7) additional days.
+18 (9) Nothing in this section shall be construed to prevent:
+19 (a) An insurer, health plan, pharmacy benefit manager, or private review agent
+20 from requiring an insured to try:
+21 1. An AB-rated generic equivalent prior to providing coverage for the
+22 reference listed drug;
+23 2. An interchangeable biological product, as defined in 42 U.S.C. sec.
+24 262(i)(3), prior to providing coverage for the reference product; or
+25 3. A biosimilar biological product, as defined in 42 U.S.C. sec. 262(i)(2),
+26 prior to providing coverage for the reference product;
+27 unless the requirement meets any of the criteria set forth in subsection (4)(a)2.
+Page 8 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1406
+1 of this section pursuant to a step therapy exception request submitted under
+2 subsection (4) of this section;
+3 (b) An insurer, health plan, pharmacy benefit manager, or private review agent
+4 from requiring a pharmacist to effect substitutions of prescription drugs
+5 consistent with KRS 217.814 to 217.896 and 304.17A-535; or
+6 (c) A health care provider from prescribing a prescription drug that is determined
+7 to be medically appropriate.
+8 Section 2. If the Cabinet for Health and Family Services or the Department for
+9 Medicaid Services determines that a state plan amendment, waiver, or any other form of
+10 authorization or approval from any federal agency to implement Section 1 of this Act is
+11 necessary to prevent the loss of federal funds or to comply with federal law, the cabinet
+12 or department:
+13 (1) Shall, within 90 days after the effective date of this section, request the
+14 necessary federal authorization or approval to implement Section 1 of this Act; and
+15 (2) May only delay implementation of the provisions of Section 1 of this Act for
+16 which federal authorization or approval was deemed necessary until the federal
+17 authorization or approval is granted.
+18 Section 3. Sections 1 and 2 of this Act, and KRS 205.522 and 205.6485 shall
+19 constitute the specific authorization required under KRS 205.5372(1).
+20 Section 4. This Act applies to policies, certificates, contracts, and plans issued
+21 or renewed on or after the effective date of this Act.
+Page 9 of 9
+XXXX 2/27/2026 7:55 AM Jacketed
+
+[DELETED:   2  J A B S ( A u i t s a K 3 u t c r o ( " a h ( " r c m t w s p d a c p a c p g u b t i h p p b m o p r a t d ( " 1 M o o r a T o b T i B i O t 2 S ( " ( " ( "]
+[DELETED:   2  J s b o i f o i c o t h c p ( " t s s i w p d t a f a s m c a m a f a p i a c ( ( E d r p 1 R r 2 A m c o i a t m o t w a r a R i D a p c o i w e i i h p a p m i R c b U a m t w w w g t p o p c O 3 A 4 A]
+[DELETED:   2  J a M b E c R t q o t e s r a d C 5 A c u t a r o n e r a ( I p ( o t s a i h p p b m o p r a m u p p t e ( W e c r c f a s t p a i t ( 1 A i p p b m r a s u w r p a s w c r c r t a p c o d i c r c r t a s t e d 2 T a a O t i h p p b m o p b T r ( N p]
+[DELETED:   2  J d ( ( W c o a p d f t t o a m c o p p s h a t a c r a a c ( T t a 1 [ u i e m e p t s t r 2 S a A b T s i a d t m b s c  e 2 O f r a t p a f a d r p t e t a c r f a s t p ( T 1 B 2 I e r w s i t g s f i]
+[DELETED:   2  J s 3 A a T g f a s t e r b e s o ( o m o f t l r b A t c A s r a c r t t s t p t a p p i t s i a d i t b c a c r f a s t e ( P ( o t s s a t M a K b b ( ( A 6 h p p r a o t p b m w f 1 A o 2 O a T i C p]
+[DELETED:   2  J i E t b i b o t k c c o t i a t p d r b B n t i C c i W i D t i a t a o m r c T t i c o a p h p o a p d i t s p c o w t s m o a a t p d w d e d T i i s o t p d s b t i h c p f t m c u c ( I a r f a s t e o i a u K 3 o a s t e r d i i o a p p 1 T 2 W]
+[DELETED:   2  J a ( I a s t e r d n u s ( s m t r ( A ( I t ( R i ( ( S b 1 [ t g o a s t e r i a o e r a b c f t p d 2 M i a U b F ( h a t n r u s ( o t s i p t t i h c p i t p h n s t a o c r i r i t n 3 U]
+[DELETED:   2  J s a I t i o t i a o e r p b N o r f c p p u t s ( P ( o t s s a t M a K b b ( ( E s t i d a d a c i b t p ( W t p p c d t s c e t t ( N ( A f 1 A A g e p t p c f t r 2 A i b p a d i 4 U s 2 3 A p  u]
+[DELETED:   2  J o s ( A f r a p t e s o p d c ( A t S M a n o ( S w 9 d a t e d o t s r t n ( M w f a o a w d n u t f a S c S o]

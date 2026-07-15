@@ -1,0 +1,931 @@
+Title: 1 AN ACT relating to data centers.
+Official Title: 1 AN ACT relating to data centers.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS HB 593/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 96 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section and Section 2 of this Act:
+6 (a) "Contract" means the electric service agreement between a municipal
+7 electric utility and a customer that owns or operates a data center;
+8 (b) "Data center" means:
+9 1. A qualified data center project that has been preliminarily approved or
+10 approved for a certificate of exemption under KRS 139.499; or
+11 2. A centralized facility that:
+12 a. Is used primarily or exclusively for electronic information
+13 services, including but not limited to the management, storage,
+14 processing, and dissemination of electronic data and information
+15 through the use of computer systems, servers, networking
+16 equipment, and related components;
+17 b. Has electrical load that is either fixed, portable, or distributable,
+18 including but not limited to structures that are not affixed to the
+19 ground or are easily removed from a location;
+20 c. Has an expected or actual peak of real-time energy demand of
+21 fifteen (15) megawatts or greater; and
+22 d. Has an expected or actual monthly load factor of sixty percent
+23 (60%) or greater;
+24 (c) "Data center customer" means a customer of a municipal electric utility
+25 that owns or operates, or proposes to own or operate, a data center or who is
+26 otherwise responsible for paying for municipal electric utility service for a
+27 data center;
+Page 1 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (d) "Dedicated resource" means one (1) or more sources of electric power or
+2 capacity that is sufficient to serve the contract capacity needs of the data
+3 center from:
+4 1. All or any portion of an electric generation facility that is owned or
+5 leased by the municipal electric utility or, to the extent permitted by
+6 law, the data center customer;
+7 2. Bilateral power and capacity agreements entered into by the municipal
+8 electric utility; or
+9 3. Any combination of both; and
+10 (e) "Municipal electric utility" means any city or municipal corporation that is
+11 engaged in the furnishing of electric utility service to a consumer for
+12 ultimate consumption.
+13 (2) A municipal electric utility shall only provide electric service to a data center
+14 customer through a contract that conforms to the requirements of this section
+15 and Section 2 of this Act.
+16 (3) Within one hundred eighty (180) days of the effective date of this Act, a
+17 municipal electric utility shall issue and maintain a tariff that includes the
+18 following minimum requirements for serving a data center:
+19 (a) A process for submission of an application for service, in the form and
+20 manner required by the municipal electric utility, that sets forth the data
+21 center customer’s:
+22 1. Location for the data center, including the status of the data center
+23 customer’s control over the premises;
+24 2. Requirements for electric service, including a load ramp schedule;
+25 3. Proposed dedicated resource if the data center’s contract capacity
+26 exceeds twenty-five (25) megawatts; and
+27 4. Any other information as the municipal electric utility may determine
+Page 2 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 is necessary to develop a resource supply plan and to conduct
+2 necessary interconnection, infrastructure, and pricing studies for
+3 service to the data center;
+4 (b) Payment of an initial nonrefundable application fee with a minimum fee of
+5 not less than seventy-five thousand dollars ($75,000), provided that:
+6 1. The data center customer shall be required to pay the full actual cost
+7 of the municipal electric utility’s study and development of the
+8 requirements to serve the data center consistent with this section;
+9 2. The municipal electric utility shall require payment of any
+10 supplemental application fees as are necessary to recover its full
+11 actual costs of undertaking activities set forth in this section; and
+12 3. Any overpayment of actual costs beyond the initial application fee
+13 shall be refunded or credited toward satisfying financial obligations
+14 for procurement or interconnection agreements at the same
+15 geographic site; and
+16 (c) Preparation within a reasonable time of load, interconnection, pricing, and
+17 any other studies necessary to determine the manner in which to safely and
+18 efficiently serve the data center’s requirements in a way that does not have
+19 any negative service or rate impact to the municipal electric utility’s non-
+20 data center customer classes and preserves the municipal electric utility’s
+21 existing generation margins and excess capacity.
+22 (4) A contract between a data center customer and a municipal electric utility shall:
+23 (a) Be in the form and manner required by the municipal electric utility;
+24 (b) Be consistent with the results of the studies described in subsection (3)(c) of
+25 this section;
+26 (c) Prevent the subsidization of data center customers by non-data center
+27 customers through rates or by any other means;
+Page 3 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (d) Include terms and conditions to ensure that all fixed and variable capital
+2 and operating costs attributable to serving a data center are fully allocated
+3 to the data center regardless of category, form, purpose, nature, or label;
+4 (e) Require the data center customer to tender prepayment of all estimated
+5 capital costs incurred by the municipal electric utility to invest in new or
+6 existing infrastructure to serve the data center, subject to subsequent
+7 credits, payments, or repayments by the municipal utility if the actual costs
+8 of those investments are less than or greater than the prepayments made by
+9 the data center customer;
+10 (f) Require an identified dedicated resource be available to serve the data
+11 center if the data center’s peak load at any point during the term of the
+12 contract will exceed twenty-five (25) megawatts; and
+13 (g) Allocate any curtailment obligations between a data center and non-data
+14 center customers in a manner that is consistent with the rules and
+15 requirements of the municipal electric utility’s transmission grid operator
+16 and that fairly allocates any mandated curtailment as between a data center
+17 customer and non-data center customer classes.
+18 (5) The requirements of this section shall not apply to:
+19 (a) Distributors of electricity supplied by the Tennessee Valley Authority;
+20 (b) Data centers constructed on sites owned by the United States Department of
+21 Energy; or
+22 (c) An electric service contract entered into prior to the effective date of this
+23 Act.
+24 SECTION 2. A NEW SECTION OF KRS CHAPTER 96 IS CREATED TO
+25 READ AS FOLLOWS:
+26 (1) A municipal utility subject to the requirements of this chapter shall not charge or
+27 allocate any of the costs associated with serving or constructing any new
+Page 4 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 infrastructure to serve a data center to any other customers served by the utility
+2 with regard to the following utility services that it provides to the public for
+3 compensation:
+4 (a) The diverting, developing, pumping, impounding, distributing, or
+5 furnishing of water;
+6 (b) The collection, transmission, or treatment of sewage; or
+7 (c) The production, manufacture, storage, distribution, sale, or furnishing of
+8 natural or manufactured gas, or a mixture of both.
+9 (2) The provisions of this section shall not apply to data centers constructed on sites
+10 owned by the United States Department of Energy.
+11 SECTION 3. A NEW SECTION OF KRS CHAPTER 278 IS CREATED TO
+12 READ AS FOLLOWS:
+13 (1) As used in this section and Section 4 of this Act:
+14 (a) "Contract" means the electric service agreement between a retail electric
+15 supplier and a customer that owns or operates a data center, which for any
+16 retail electric service agreement involving a retail electric supplier formed
+17 under KRS Chapter 279 shall also include the generation and transmission
+18 cooperative from which the retail electric supplier is contractually obligated
+19 to purchase electricity;
+20 (b) "Data center" means:
+21 1. A qualified data center project that has been preliminarily approved or
+22 approved for a certificate of exemption under KRS 139.499; or
+23 2. A centralized facility that:
+24 a. Is used primarily or exclusively for electronic information
+25 services, including but not limited to the management, storage,
+26 processing, and dissemination of electronic data and information
+27 through the use of computer systems, servers, networking
+Page 5 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 equipment, and related components;
+2 b. Has electrical load that is either fixed, portable, or distributable,
+3 including but not limited to structures that are not affixed to the
+4 ground or are easily removed from a location;
+5 c. Has an expected or actual peak of real-time energy demand of
+6 fifteen (15) megawatts or greater; and
+7 d. Has an expected or actual monthly load factor of sixty percent
+8 (60%) or greater;
+9 (c) "Data center customer" means a customer of a retail electric supplier that
+10 owns or operates, or proposes to own or operate, a data center or who is
+11 otherwise responsible for paying for electric utility service for a data center;
+12 (d) "Dedicated resource" means one (1) or more sources of electric power or
+13 capacity that is sufficient to serve the contract capacity needs of the data
+14 center from:
+15 1. All or any portion of an electric generation facility that is owned or
+16 leased by the retail electric supplier or its generation and transmission
+17 cooperative, or to the extent permitted by law, the data center
+18 customer;
+19 2. Bilateral power and capacity agreements entered into by the retail
+20 electric supplier or its generation and transmission cooperative; or
+21 3. Any combination of both;
+22 (e) "Generation and transmission cooperative" has the same meaning as in
+23 KRS 278.010; and
+24 (f) "Retail electric supplier" has the same meaning as in KRS 278.010.
+25 (2) A retail electric supplier shall only provide electric service to a data center
+26 customer through a contract approved by the commission that is consistent with
+27 the retail electric supplier’s data center tariff and this section.
+Page 6 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (3) Within ninety (90) days of the effective date of this Act, the commission shall
+2 promulgate administrative regulations in accordance with KRS Chapter 13A to
+3 require each retail electric supplier to file and maintain a tariff to serve data
+4 centers located within its service territory. Each retail electric supplier shall
+5 thereafter file a data center tariff that conforms to the requirements of the
+6 commission’s administrative regulations within ninety (90) days of the
+7 promulgation of the administrative regulations. The commission shall require
+8 that each data center tariff include the following minimum requirements for
+9 serving a data center:
+10 (a) A process for the submission of an application for service, in the form and
+11 manner required by the retail electric supplier, that sets forth the following
+12 information about the data center:
+13 1. The location for the data center, including the status of the data center
+14 customer’s control over the premises;
+15 2. Requirements for its electric service, including a load ramp schedule;
+16 3. A proposed dedicated resource if the data center’s contract capacity
+17 exceeds two hundred fifty (250) megawatts; and
+18 4. Any other information as the retail electric supplier may determine is
+19 necessary to develop a resource supply plan and conduct necessary
+20 interconnection, infrastructure, and pricing studies for the data
+21 center;
+22 (b) Payment of an initial nonrefundable application fee with a minimum fee of
+23 not less than seventy-five thousand dollars ($75,000), provided that:
+24 1. The data center customer shall be required to pay the full actual cost
+25 of the retail electric supplier’s study, including but not limited to third-
+26 party transmission studies and other third-party costs, and the full
+27 actual costs for the development of the requirements to serve the data
+Page 7 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 center consistent with this section;
+2 2. The retail electric supplier shall require payment of supplemental
+3 application fees as are necessary to recover its full actual costs of
+4 undertaking activities set forth in this section; and
+5 3. Any overpayment of actual costs beyond the initial application fee
+6 shall be refunded or credited toward satisfying financial obligations
+7 for procurement or interconnection agreements at the same
+8 geographic site;
+9 (c) Preparation within a reasonable time of load, interconnection,
+10 infrastructure, pricing and any other studies necessary to determine the
+11 manner in which to safely and efficiently serve the data center’s
+12 requirements in a way that does not have any negative service or rate impact
+13 to the retail electric supplier’s non-data center customer classes and
+14 preserves the retail electric supplier’s existing generation margins and
+15 excess capacity. For a retail electric supplier formed under KRS Chapter
+16 279, the existing generation margins and excess capacity of the generation
+17 and transmission cooperative from which the retail electric supplier is
+18 contractually obligated to purchase electricity shall be preserved; and
+19 (d) An itemization of the types of terms and conditions that shall be included
+20 within each contract.
+21 (4) A contract between a data center customer and a retail electric supplier shall:
+22 (a) Be in the form and manner required by the retail electric supplier and, as
+23 applicable, its generation and transmission cooperative;
+24 (b) Be consistent with the results of the studies described in subsection (3)(c) of
+25 this section;
+26 (c) Prevent the subsidization of data center customers by non-data center
+27 customers through rates or by any other means;
+Page 8 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (d) Include terms and conditions to ensure that all fixed and variable capital
+2 and operating costs attributable to serving a data center are fully allocated
+3 to the data center regardless of category, form, purpose, nature, or label;
+4 (e) Require the data center customer to tender prepayment of all estimated
+5 capital costs incurred by the retail electric supplier, and as applicable, its
+6 generation and transmission cooperative, to invest in new or existing
+7 infrastructure to serve the data center, subject to any subsequent credits,
+8 payments, or repayments by the retail electric supplier, or as applicable the
+9 generation and transmission cooperative, if the actual costs of those
+10 investments are less than or greater than the prepayments made by the data
+11 center customer;
+12 (f) Require an identified dedicated resource be available to serve the data
+13 center if the data center’s peak load at any point during the term of the
+14 contract will exceed two hundred fifty (250) megawatts;
+15 (g) Allocate any curtailment obligations between a data center and non-data
+16 center customers in a manner that is consistent with the rules and
+17 requirements of the transmission grid operator of the retail electric supplier
+18 or, as applicable, its generation and transmission cooperative, and that
+19 fairly allocates any mandated curtailment as between a data center
+20 customer and non-data center customer classes; and
+21 (h) Include any other terms and conditions as the commission may require to
+22 isolate and insulate non-data center customers from the costs, risks and
+23 liabilities incurred by the retail electric supplier or as applicable, its
+24 generation and transmission cooperative, in serving a data center.
+25 (5) If the commission has previously approved the data center tariff of a generation
+26 and transmission cooperative from which a retail electric supplier formed under
+27 KRS Chapter 279 is contractually obligated to purchase electricity, then the retail
+Page 9 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 electric supplier may adopt and incorporate the data center tariff of the
+2 generation and transmission cooperative in lieu of developing and submitting its
+3 own unique tariff to serve data centers as otherwise required by this section.
+4 (6) This section shall not be construed to limit or abrogate a retail electric supplier’s
+5 exclusive right to serve an electric consuming facility pursuant to KRS 278.016,
+6 278.017, and 278.018.
+7 (7) The requirements of this section shall not apply to:
+8 (a) Distributors of electricity supplied by the Tennessee Valley Authority;
+9 (b) Data centers constructed on sites owned by the United States Department of
+10 Energy; or
+11 (c) An electric service contract entered into prior to the effective date of this
+12 Act.
+13 SECTION 4. A NEW SECTION OF KRS CHAPTER 278 IS CREATED TO
+14 READ AS FOLLOWS:
+15 (1) A utility providing a service described in KRS 278.010(3)(b), (d), or (f) to a data
+16 center subject to the requirements of Section 3 of this Act shall not charge or
+17 allocate any of the costs associated with serving or constructing any new
+18 infrastructure to serve the data center to any other customer classes served by the
+19 utility.
+20 (2) The provisions of this section shall not apply to data centers constructed on sites
+21 owned by the United States Department of Energy.
+22 Section 5. KRS 154.20-229 is amended to read as follows:
+23 The authority, with preliminary approval of an eligible company, may execute a
+24 memorandum of agreement with the eligible company. The terms and conditions of the
+25 memorandum of agreement shall be negotiated between the authority and the company.
+26 The terms of the memorandum of agreement shall include but not be limited to the
+27 following provisions:
+Page 10 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (1) The estimated capital investment for the qualified data center project;
+2 (2) That the preliminarily approved company shall provide the authority with all
+3 documentation requested in a manner acceptable to the authority and within the
+4 timeframes required by the authority related to the minimum capital investment
+5 requirement to be used in monitoring compliance of the memorandum of
+6 agreement;
+7 (3) That failure of a preliminarily approved company to meet the minimum capital
+8 investment on or before the fifth anniversary of the preliminary approval shall result
+9 in cancellation of the memorandum of agreement with the preliminarily approved
+10 company;
+11 (4) The term of the agreement, which shall not exceed:
+12 (a) Fifteen (15) years for a qualified data center project of a project organizer; or
+13 (b) 1. Fifty (50) years for a qualified data center project having a capital
+14 investment of at least four hundred fifty million dollars ($450,000,000);
+15 or
+16 2. Twenty-five (25) years for any other qualified data center project;
+17 (5) A provision requiring the preliminarily approved company to notify the authority
+18 immediately if the eligible company sells or otherwise transfers or disposes of the
+19 land on which a qualified data center project is located;
+20 (6) Authorization for the department to issue a certificate of exemption to the
+21 preliminarily approved company under KRS 139.499;
+22 (7) A provision detailing the elimination of the sales and use tax exemption and the
+23 notice of assessment by the department provided under KRS 139.499 that shall
+24 occur if the preliminarily approved company fails to make the minimum capital
+25 investment;
+26 (8) (a) A statement that the memorandum of agreement may remain in effect, even if
+27 there is a future transfer, sale, or disposition, directly or indirectly, of the
+Page 11 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 qualified data center project, upon the adoption of a resolution by the
+2 authority to that effect.
+3 (b) If continuation of the sales and use tax exemption is desired by the subsequent
+4 owner:
+5 1. The memorandum of agreement may be assigned to that owner under
+6 paragraph (a) of this subsection provided the subsequent owner assumes
+7 the prior owner's obligations under that agreement; or
+8 2. The subsequent owner shall enter into a memorandum of agreement
+9 with the authority for the remainder of the eligibility period.
+10 (c) The authority shall notify the department regarding the events that transpire
+11 under paragraphs (a) and (b) of this subsection;
+12 (9) That the approved company shall make available to the authority all of its records
+13 pertaining to the qualified data center project, including but not limited to records
+14 relating to eligible costs and any other records pertaining to the project that the
+15 authority may require;
+16 (10) (a) That the authority may share information with the department; and
+17 (b) That the department may share information with the authority;
+18 for the purposes of monitoring and enforcing the terms of the memorandum of
+19 agreement;
+20 (11) That, if the preliminarily approved company fails to comply with its obligations
+21 under the memorandum of agreement by the fifth anniversary of the preliminary
+22 approval, the authority shall:
+23 (a) Suspend the memorandum of agreement;
+24 (b) Terminate the incentives available to the preliminarily approved company
+25 under the memorandum of agreement;
+26 (c) Notify the department of the authority's actions;
+27 (d) Instruct the department to proceed with the notice of assessment; and
+Page 12 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (e) Pursue any other remedy set forth in the memorandum of agreement or to
+2 which it may be entitled by law;[ and]
+3 (12) A certification from the preliminarily approved company that the data center
+4 project complies or will comply with all applicable local requirements, the
+5 applicable requirements of Sections 1, 2, 3, and 4 of this Act, and any
+6 administrative regulations promulgated thereunder; and
+7 (13) Any other provisions not inconsistent with this subchapter and determined to be
+8 necessary or appropriate by the parties to the memorandum of agreement.
+9 Section 6. KRS 278.466 is amended to read as follows:
+10 (1) Each retail electric supplier shall make net metering available to any eligible
+11 customer-generator that the supplier currently serves or solicits for service. If the
+12 cumulative generating capacity of net metering systems reaches one percent (1%)
+13 of a supplier's single hour peak load during a calendar year, the supplier shall have
+14 no further obligation to offer net metering to any new customer-generator at any
+15 subsequent time. For the purposes of this subsection, the load of a data center as
+16 defined in Section 3 of this Act shall not be considered in determining a retail
+17 electric supplier's single hour peak load.
+18 (2) Each retail electric supplier serving a customer with eligible electric generating
+19 facilities shall use a standard kilowatt-hour meter capable of registering the flow of
+20 electricity in two (2) directions. Any additional meter, meters, or distribution
+21 upgrades needed to monitor the flow in each direction shall be installed at the
+22 customer-generator's expense. If additional meters are installed, the net metering
+23 calculation shall yield the same result as when a single meter is used.
+24 (3) A retail electric supplier serving an eligible customer-generator shall compensate
+25 that customer for all electricity produced by the customer's eligible electric
+26 generating facility that flows to the retail electric supplier, as measured by the
+27 standard kilowatt-hour metering prescribed in subsection (2) of this section. The
+Page 13 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 rate to be used for such compensation shall be set by the commission using the
+2 ratemaking processes under this chapter during a proceeding initiated by a retail
+3 electric supplier or generation and transmission cooperative on behalf of one (1) or
+4 more retail electric suppliers.
+5 (4) Each billing period, compensation provided to an eligible customer-generator shall
+6 be in the form of a dollar-denominated bill credit. If an eligible customer-
+7 generator's bill credit exceeds the amount to be billed to the customer in a billing
+8 period, the amount of the credit in excess of the customer's bill shall carry forward
+9 to the customer's next bill. Excess bill credits shall not be transferable between
+10 customers or premises. If an eligible customer-generator closes his or her account,
+11 no cash refund for accumulated credits shall be paid.
+12 (5) Using the ratemaking process provided by this chapter, each retail electric supplier
+13 shall be entitled to implement rates to recover from its eligible customer-generators
+14 all costs necessary to serve its eligible customer-generators, including but not
+15 limited to fixed and demand-based costs, without regard for the rate structure for
+16 customers who are not eligible customer-generators.
+17 (6) For an eligible electric generating facility in service prior to the effective date of the
+18 initial net metering order by the commission in accordance with subsection (3) of
+19 this section, the net metering tariff provisions in place when the eligible customer-
+20 generator began taking net metering service, including the one-to-one (1:1)
+21 kilowatt-hour denominated energy credit provided for electricity fed into the grid,
+22 shall remain in effect at those premises for a twenty-five (25) year period,
+23 regardless of whether the premises are sold or conveyed during that twenty-five
+24 (25) year period. For any eligible customer-generator to whom this subsection
+25 applies, each net metering contract or tariff under which the customer takes service
+26 shall be identical, with respect to energy rates, rate structure, and monthly charges,
+27 to the contract or tariff to which the same customer would be assigned if the
+Page 14 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 customer were not an eligible customer-generator.
+2 (7) Electric generating systems and interconnecting equipment used by eligible
+3 customer-generators shall meet all applicable safety and power quality standards
+4 established by the National Electrical Code (NEC), Institute of Electrical and
+5 Electronics Engineers (IEEE), and accredited testing laboratories such as
+6 Underwriters Laboratories.
+7 (8) An eligible customer-generator installation is transferable to other persons at the
+8 same premises upon notification to the retail electric supplier and verification that
+9 the installation is in compliance with the applicable safety and power quality
+10 standards in KRS 278.467 and in subsection (7) of this section.
+11 (9) Any upgrade of the interconnection between the retail electric supplier and the
+12 customer-generator that is required by commission-approved tariffs for the purpose
+13 of allowing net metering shall be made at the expense of the customer-generator.
+Page 15 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+[DELETED:   2  G A B S R ( A ( " m t e s a b a m e ( " 1 A a 2 A a I u p o e f e i s p t t u o c s s n e b H i g c H f d H ( ( " c c m a c o a m e u t o d]
+[DELETED:   2  G ( " c c 1 A l l 2 B e 3 A ( " e i t f o e u s t a c f u ( A m e u s o p e s t a d c c a ( W o h e ( d o t e d o t A a m e u s i a m a t t i t f ( A p f s o a a f s i t f a m c 1 L c 2 R 3 P d r i t d c c c e 4 A]
+[DELETED:   2  G i n t d a r s p a t c n i i a p s f s ( P n 1 T o t m e u s a d o t r 2 T m e u s r p o a s a f a a n t r i f a 3 A o o a c b t i a f s f p o i a a t s g ( P a e a d e ( A ( B ( B t ( P t s o d c c b n c c]
+[DELETED:   2  G ( I a t ( R t d c c t t p o a e c e i t s t d c s t s c o t ( R a i d r b a t s t d c c c ( A a c o b a d c a n c c i a m t i c w t r a r a c ( T ( D ( D E ( A A S R ( A a a o t c a w s o c a n]
+[DELETED:   2  G i w r t t f u s t i p t t p f c ( T d d p i d o f ( T ( T n ( T o S R ( A ( " s r u c t ( " 1 A a 2 A a I u p o e f e i s p t t u o c s s n]
+[DELETED:   2  G e b H i g c H f d H ( ( " o o ( " c c 1 A l c o t t e p b l t d c c 2 B p a c a e i b t r e 3 A ( " a t c h t s m a i K ( " ( A r e s s o p e s t a d c c t]
+[DELETED:   2  G ( W n ( d o e d o t A t c s p r e r e s t f a m a t t s d c l w i s t E r e s s t f a d c t t c t t r o t c a r w n ( d o t p o t a r T c s r t e d c t i t f m r f s ( A m i 1 T c 2 R 3 A e 4 A n t d a r s p a c n i i a p s f t d c ( P n 1 T o p t s a o t c a t f a]
+[DELETED:   2  G c 2 T r e s s r p o s a f a a n t r i f a c o u 3 A o o a c b t i a f s f p o i a a t s g ( P w a r t o l i i p a a o s n t d t m i w t s a e s t d c r t t r e s n c c c a p t r e s e g m a e 2 a t c f w t r e s i c ( A w ( A ( B a ( B t ( P t s o d c c b n c c]
+[DELETED:   2  G ( I a t ( R t d c c t t p o a e c g a t c t i i n o e i s t d c s a s c p g a t c i t a c o t i c ( R a i d r b a t s t d c c c ( A a c o b a d c a n c c i a m t i c w t r a r o a a i g a t c a t f a a m c a b a d c c ( I i a i n c c f t c r a l i b t r e s o a a i g ( I a K]
+[DELETED:   2  G e s m a a i t d c t o t g o ( T e 2 ( T ( D ( D E ( A A S R ( A c a a o t c a w s o c a n i u ( T o S T a w p a o a e c m e a m m T t o t m o a s i b n b l t t f]
+[DELETED:   2  G ( T ( T t p a c s p t a w a d r i a m a t t a a w t t r b t a r t t m c i r t b u i m c o t m o a ( T f o a p a c t m t m c i i c ( T ( F ( 1 F ( y f a q d c p h a c i o 2 T ( A i l ( A f t d t i a c o e t t p ( A n o a b t d p u K 1 t s o t p a c f t m t m c i ( ( A t i a f t s o d d o i o t]
+[DELETED:   2  G q d c p u t a o a r b t a ( I o 1 T p t 2 T s o s e i a m o a w ( T u ( T p r t e c a a o r p t t p t t a ( ( T ( T  f t p o m a e t t o t m o a ( T f u a ( S ( T t i a t t p a c u ( N ( I]
+[DELETED:   2  G ( P a o r s f i t m o o t w ( A c f t p a c t t d c p c o w c w a a l r t a r o S 1 2 3 a 4 o t A a a a ( A a n S ( E r e s s m n m a t a e c c o n s d e ( E r e s s a c w e e g f e i t ( d A a m m o d u n t m t f i e d s b i a t c I m c ( A t c f a e p b t c e e g f t f t t r e s a m b t s]
+[DELETED:   2  G r r e m ( E b i t f o a d b c I a e c g p t t c n b E b c s n b t b c n ( U s a c n t s i e c i b n l c ( F i t g b t n m s i t o ( k s r i e a t p f a t ( y p r o t p a s o d t t ( y p F a e c t w t s a s t t c o t t w t s c w b a i t]
+[DELETED:   2  G c ( E g s a i e u b e c e b t N E C ( I o E a E E ( a a t l s a U ( A s t i i i c w t a s a p q s ( A u o t i b t r e s a t c o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 AN ACT relating to data centers.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 96 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section and Section 2 of this Act:
+6 (a) "Contract" means the electric service agreement between a municipal
+7 electric utility and a customer that owns or operates a data center;
+8 (b) "Data center" means:
+9 1. A qualified data center project that has been preliminarily approved or
+10 approved for a certificate of exemption under KRS 139.499; or
+11 2. A centralized facility that:
+12 a. Is used primarily or exclusively for electronic information
+13 services, including but not limited to the management, storage,
+14 processing, and dissemination of electronic data and information
+15 through the use of computer systems, servers, networking
+16 equipment, and related components;
+17 b. Has electrical load that is either fixed, portable, or distributable,
+18 including but not limited to structures that are not affixed to the
+19 ground or are easily removed from a location;
+20 c. Has an expected or actual peak of real-time energy demand of
+21 fifteen (15) megawatts or greater; and
+22 d. Has an expected or actual monthly load factor of sixty percent
+23 (60%) or greater;
+24 (c) "Data center customer" means a customer of a municipal electric utility
+25 that owns or operates, or proposes to own or operate, a data center or who is
+26 otherwise responsible for paying for municipal electric utility service for a
+27 data center;
+Page 1 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (d) "Dedicated resource" means one (1) or more sources of electric power or
+2 capacity that is sufficient to serve the contract capacity needs of the data
+3 center from:
+4 1. All or any portion of an electric generation facility that is owned or
+5 leased by the municipal electric utility or, to the extent permitted by
+6 law, the data center customer;
+7 2. Bilateral power and capacity agreements entered into by the municipal
+8 electric utility; or
+9 3. Any combination of both; and
+10 (e) "Municipal electric utility" means any city or municipal corporation that is
+11 engaged in the furnishing of electric utility service to a consumer for
+12 ultimate consumption.
+13 (2) A municipal electric utility shall only provide electric service to a data center
+14 customer through a contract that conforms to the requirements of this section
+15 and Section 2 of this Act.
+16 (3) Within one hundred eighty (180) days of the effective date of this Act, a
+17 municipal electric utility shall issue and maintain a tariff that includes the
+18 following minimum requirements for serving a data center:
+19 (a) A process for submission of an application for service, in the form and
+20 manner required by the municipal electric utility, that sets forth the data
+21 center customer’s:
+22 1. Location for the data center, including the status of the data center
+23 customer’s control over the premises;
+24 2. Requirements for electric service, including a load ramp schedule;
+25 3. Proposed dedicated resource if the data center’s contract capacity
+26 exceeds twenty-five (25) megawatts; and
+27 4. Any other information as the municipal electric utility may determine
+Page 2 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 is necessary to develop a resource supply plan and to conduct
+2 necessary interconnection, infrastructure, and pricing studies for
+3 service to the data center;
+4 (b) Payment of an initial nonrefundable application fee with a minimum fee of
+5 not less than seventy-five thousand dollars ($75,000), provided that:
+6 1. The data center customer shall be required to pay the full actual cost
+7 of the municipal electric utility’s study and development of the
+8 requirements to serve the data center consistent with this section;
+9 2. The municipal electric utility shall require payment of any
+10 supplemental application fees as are necessary to recover its full
+11 actual costs of undertaking activities set forth in this section; and
+12 3. Any overpayment of actual costs beyond the initial application fee
+13 shall be refunded or credited toward satisfying financial obligations
+14 for procurement or interconnection agreements at the same
+15 geographic site; and
+16 (c) Preparation within a reasonable time of load, interconnection, pricing, and
+17 any other studies necessary to determine the manner in which to safely and
+18 efficiently serve the data center’s requirements in a way that does not have
+19 any negative service or rate impact to the municipal electric utility’s non-
+20 data center customer classes and preserves the municipal electric utility’s
+21 existing generation margins and excess capacity.
+22 (4) A contract between a data center customer and a municipal electric utility shall:
+23 (a) Be in the form and manner required by the municipal electric utility;
+24 (b) Be consistent with the results of the studies described in subsection (3)(c) of
+25 this section;
+26 (c) Prevent the subsidization of data center customers by non-data center
+27 customers through rates or by any other means;
+Page 3 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (d) Include terms and conditions to ensure that all fixed and variable capital
+2 and operating costs attributable to serving a data center are fully allocated
+3 to the data center regardless of category, form, purpose, nature, or label;
+4 (e) Require the data center customer to tender prepayment of all estimated
+5 capital costs incurred by the municipal electric utility to invest in new or
+6 existing infrastructure to serve the data center, subject to subsequent
+7 credits, payments, or repayments by the municipal utility if the actual costs
+8 of those investments are less than or greater than the prepayments made by
+9 the data center customer;
+10 (f) Require an identified dedicated resource be available to serve the data
+11 center if the data center’s peak load at any point during the term of the
+12 contract will exceed twenty-five (25) megawatts; and
+13 (g) Allocate any curtailment obligations between a data center and non-data
+14 center customers in a manner that is consistent with the rules and
+15 requirements of the municipal electric utility’s transmission grid operator
+16 and that fairly allocates any mandated curtailment as between a data center
+17 customer and non-data center customer classes.
+18 (5) The requirements of this section shall not apply to:
+19 (a) Distributors of electricity supplied by the Tennessee Valley Authority;
+20 (b) Data centers constructed on sites owned by the United States Department of
+21 Energy; or
+22 (c) An electric service contract entered into prior to the effective date of this
+23 Act.
+24 SECTION 2. A NEW SECTION OF KRS CHAPTER 96 IS CREATED TO
+25 READ AS FOLLOWS:
+26 (1) A municipal utility subject to the requirements of this chapter shall not charge or
+27 allocate any of the costs associated with serving or constructing any new
+Page 4 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 infrastructure to serve a data center to any other customers served by the utility
+2 with regard to the following utility services that it provides to the public for
+3 compensation:
+4 (a) The diverting, developing, pumping, impounding, distributing, or
+5 furnishing of water;
+6 (b) The collection, transmission, or treatment of sewage; or
+7 (c) The production, manufacture, storage, distribution, sale, or furnishing of
+8 natural or manufactured gas, or a mixture of both.
+9 (2) The provisions of this section shall not apply to data centers constructed on sites
+10 owned by the United States Department of Energy.
+11 SECTION 3. A NEW SECTION OF KRS CHAPTER 278 IS CREATED TO
+12 READ AS FOLLOWS:
+13 (1) As used in this section and Section 4 of this Act:
+14 (a) "Contract" means the electric service agreement between a retail electric
+15 supplier and a customer that owns or operates a data center, which for any
+16 retail electric service agreement involving a retail electric supplier formed
+17 under KRS Chapter 279 shall also include the generation and transmission
+18 cooperative from which the retail electric supplier is contractually obligated
+19 to purchase electricity;
+20 (b) "Data center" means:
+21 1. A qualified data center project that has been preliminarily approved or
+22 approved for a certificate of exemption under KRS 139.499; or
+23 2. A centralized facility that:
+24 a. Is used primarily or exclusively for electronic information
+25 services, including but not limited to the management, storage,
+26 processing, and dissemination of electronic data and information
+27 through the use of computer systems, servers, networking
+Page 5 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 equipment, and related components;
+2 b. Has electrical load that is either fixed, portable, or distributable,
+3 including but not limited to structures that are not affixed to the
+4 ground or are easily removed from a location;
+5 c. Has an expected or actual peak of real-time energy demand of
+6 fifteen (15) megawatts or greater; and
+7 d. Has an expected or actual monthly load factor of sixty percent
+8 (60%) or greater;
+9 (c) "Data center customer" means a customer of a retail electric supplier that
+10 owns or operates, or proposes to own or operate, a data center or who is
+11 otherwise responsible for paying for electric utility service for a data center;
+12 (d) "Dedicated resource" means one (1) or more sources of electric power or
+13 capacity that is sufficient to serve the contract capacity needs of the data
+14 center from:
+15 1. All or any portion of an electric generation facility that is owned or
+16 leased by the retail electric supplier or its generation and transmission
+17 cooperative, or to the extent permitted by law, the data center
+18 customer;
+19 2. Bilateral power and capacity agreements entered into by the retail
+20 electric supplier or its generation and transmission cooperative; or
+21 3. Any combination of both;
+22 (e) "Generation and transmission cooperative" has the same meaning as in
+23 KRS 278.010; and
+24 (f) "Retail electric supplier" has the same meaning as in KRS 278.010.
+25 (2) A retail electric supplier shall only provide electric service to a data center
+26 customer through a contract approved by the commission that is consistent with
+27 the retail electric supplier’s data center tariff and this section.
+Page 6 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (3) Within ninety (90) days of the effective date of this Act, the commission shall
+2 promulgate administrative regulations in accordance with KRS Chapter 13A to
+3 require each retail electric supplier to file and maintain a tariff to serve data
+4 centers located within its service territory. Each retail electric supplier shall
+5 thereafter file a data center tariff that conforms to the requirements of the
+6 commission’s administrative regulations within ninety (90) days of the
+7 promulgation of the administrative regulations. The commission shall require
+8 that each data center tariff include the following minimum requirements for
+9 serving a data center:
+10 (a) A process for the submission of an application for service, in the form and
+11 manner required by the retail electric supplier, that sets forth the following
+12 information about the data center:
+13 1. The location for the data center, including the status of the data center
+14 customer’s control over the premises;
+15 2. Requirements for its electric service, including a load ramp schedule;
+16 3. A proposed dedicated resource if the data center’s contract capacity
+17 exceeds two hundred fifty (250) megawatts; and
+18 4. Any other information as the retail electric supplier may determine is
+19 necessary to develop a resource supply plan and conduct necessary
+20 interconnection, infrastructure, and pricing studies for the data
+21 center;
+22 (b) Payment of an initial nonrefundable application fee with a minimum fee of
+23 not less than seventy-five thousand dollars ($75,000), provided that:
+24 1. The data center customer shall be required to pay the full actual cost
+25 of the retail electric supplier’s study, including but not limited to third-
+26 party transmission studies and other third-party costs, and the full
+27 actual costs for the development of the requirements to serve the data
+Page 7 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 center consistent with this section;
+2 2. The retail electric supplier shall require payment of supplemental
+3 application fees as are necessary to recover its full actual costs of
+4 undertaking activities set forth in this section; and
+5 3. Any overpayment of actual costs beyond the initial application fee
+6 shall be refunded or credited toward satisfying financial obligations
+7 for procurement or interconnection agreements at the same
+8 geographic site;
+9 (c) Preparation within a reasonable time of load, interconnection,
+10 infrastructure, pricing and any other studies necessary to determine the
+11 manner in which to safely and efficiently serve the data center’s
+12 requirements in a way that does not have any negative service or rate impact
+13 to the retail electric supplier’s non-data center customer classes and
+14 preserves the retail electric supplier’s existing generation margins and
+15 excess capacity. For a retail electric supplier formed under KRS Chapter
+16 279, the existing generation margins and excess capacity of the generation
+17 and transmission cooperative from which the retail electric supplier is
+18 contractually obligated to purchase electricity shall be preserved; and
+19 (d) An itemization of the types of terms and conditions that shall be included
+20 within each contract.
+21 (4) A contract between a data center customer and a retail electric supplier shall:
+22 (a) Be in the form and manner required by the retail electric supplier and, as
+23 applicable, its generation and transmission cooperative;
+24 (b) Be consistent with the results of the studies described in subsection (3)(c) of
+25 this section;
+26 (c) Prevent the subsidization of data center customers by non-data center
+27 customers through rates or by any other means;
+Page 8 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (d) Include terms and conditions to ensure that all fixed and variable capital
+2 and operating costs attributable to serving a data center are fully allocated
+3 to the data center regardless of category, form, purpose, nature, or label;
+4 (e) Require the data center customer to tender prepayment of all estimated
+5 capital costs incurred by the retail electric supplier, and as applicable, its
+6 generation and transmission cooperative, to invest in new or existing
+7 infrastructure to serve the data center, subject to any subsequent credits,
+8 payments, or repayments by the retail electric supplier, or as applicable the
+9 generation and transmission cooperative, if the actual costs of those
+10 investments are less than or greater than the prepayments made by the data
+11 center customer;
+12 (f) Require an identified dedicated resource be available to serve the data
+13 center if the data center’s peak load at any point during the term of the
+14 contract will exceed two hundred fifty (250) megawatts;
+15 (g) Allocate any curtailment obligations between a data center and non-data
+16 center customers in a manner that is consistent with the rules and
+17 requirements of the transmission grid operator of the retail electric supplier
+18 or, as applicable, its generation and transmission cooperative, and that
+19 fairly allocates any mandated curtailment as between a data center
+20 customer and non-data center customer classes; and
+21 (h) Include any other terms and conditions as the commission may require to
+22 isolate and insulate non-data center customers from the costs, risks and
+23 liabilities incurred by the retail electric supplier or as applicable, its
+24 generation and transmission cooperative, in serving a data center.
+25 (5) If the commission has previously approved the data center tariff of a generation
+26 and transmission cooperative from which a retail electric supplier formed under
+27 KRS Chapter 279 is contractually obligated to purchase electricity, then the retail
+Page 9 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 electric supplier may adopt and incorporate the data center tariff of the
+2 generation and transmission cooperative in lieu of developing and submitting its
+3 own unique tariff to serve data centers as otherwise required by this section.
+4 (6) This section shall not be construed to limit or abrogate a retail electric supplier’s
+5 exclusive right to serve an electric consuming facility pursuant to KRS 278.016,
+6 278.017, and 278.018.
+7 (7) The requirements of this section shall not apply to:
+8 (a) Distributors of electricity supplied by the Tennessee Valley Authority;
+9 (b) Data centers constructed on sites owned by the United States Department of
+10 Energy; or
+11 (c) An electric service contract entered into prior to the effective date of this
+12 Act.
+13 SECTION 4. A NEW SECTION OF KRS CHAPTER 278 IS CREATED TO
+14 READ AS FOLLOWS:
+15 (1) A utility providing a service described in KRS 278.010(3)(b), (d), or (f) to a data
+16 center subject to the requirements of Section 3 of this Act shall not charge or
+17 allocate any of the costs associated with serving or constructing any new
+18 infrastructure to serve the data center to any other customer classes served by the
+19 utility.
+20 (2) The provisions of this section shall not apply to data centers constructed on sites
+21 owned by the United States Department of Energy.
+22 Section 5. KRS 154.20-229 is amended to read as follows:
+23 The authority, with preliminary approval of an eligible company, may execute a
+24 memorandum of agreement with the eligible company. The terms and conditions of the
+25 memorandum of agreement shall be negotiated between the authority and the company.
+26 The terms of the memorandum of agreement shall include but not be limited to the
+27 following provisions:
+Page 10 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (1) The estimated capital investment for the qualified data center project;
+2 (2) That the preliminarily approved company shall provide the authority with all
+3 documentation requested in a manner acceptable to the authority and within the
+4 timeframes required by the authority related to the minimum capital investment
+5 requirement to be used in monitoring compliance of the memorandum of
+6 agreement;
+7 (3) That failure of a preliminarily approved company to meet the minimum capital
+8 investment on or before the fifth anniversary of the preliminary approval shall result
+9 in cancellation of the memorandum of agreement with the preliminarily approved
+10 company;
+11 (4) The term of the agreement, which shall not exceed:
+12 (a) Fifteen (15) years for a qualified data center project of a project organizer; or
+13 (b) 1. Fifty (50) years for a qualified data center project having a capital
+14 investment of at least four hundred fifty million dollars ($450,000,000);
+15 or
+16 2. Twenty-five (25) years for any other qualified data center project;
+17 (5) A provision requiring the preliminarily approved company to notify the authority
+18 immediately if the eligible company sells or otherwise transfers or disposes of the
+19 land on which a qualified data center project is located;
+20 (6) Authorization for the department to issue a certificate of exemption to the
+21 preliminarily approved company under KRS 139.499;
+22 (7) A provision detailing the elimination of the sales and use tax exemption and the
+23 notice of assessment by the department provided under KRS 139.499 that shall
+24 occur if the preliminarily approved company fails to make the minimum capital
+25 investment;
+26 (8) (a) A statement that the memorandum of agreement may remain in effect, even if
+27 there is a future transfer, sale, or disposition, directly or indirectly, of the
+Page 11 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 qualified data center project, upon the adoption of a resolution by the
+2 authority to that effect.
+3 (b) If continuation of the sales and use tax exemption is desired by the subsequent
+4 owner:
+5 1. The memorandum of agreement may be assigned to that owner under
+6 paragraph (a) of this subsection provided the subsequent owner assumes
+7 the prior owner's obligations under that agreement; or
+8 2. The subsequent owner shall enter into a memorandum of agreement
+9 with the authority for the remainder of the eligibility period.
+10 (c) The authority shall notify the department regarding the events that transpire
+11 under paragraphs (a) and (b) of this subsection;
+12 (9) That the approved company shall make available to the authority all of its records
+13 pertaining to the qualified data center project, including but not limited to records
+14 relating to eligible costs and any other records pertaining to the project that the
+15 authority may require;
+16 (10) (a) That the authority may share information with the department; and
+17 (b) That the department may share information with the authority;
+18 for the purposes of monitoring and enforcing the terms of the memorandum of
+19 agreement;
+20 (11) That, if the preliminarily approved company fails to comply with its obligations
+21 under the memorandum of agreement by the fifth anniversary of the preliminary
+22 approval, the authority shall:
+23 (a) Suspend the memorandum of agreement;
+24 (b) Terminate the incentives available to the preliminarily approved company
+25 under the memorandum of agreement;
+26 (c) Notify the department of the authority's actions;
+27 (d) Instruct the department to proceed with the notice of assessment; and
+Page 12 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 (e) Pursue any other remedy set forth in the memorandum of agreement or to
+2 which it may be entitled by law;[ and]
+3 (12) A certification from the preliminarily approved company that the data center
+4 project complies or will comply with all applicable local requirements, the
+5 applicable requirements of Sections 1, 2, 3, and 4 of this Act, and any
+6 administrative regulations promulgated thereunder; and
+7 (13) Any other provisions not inconsistent with this subchapter and determined to be
+8 necessary or appropriate by the parties to the memorandum of agreement.
+9 Section 6. KRS 278.466 is amended to read as follows:
+10 (1) Each retail electric supplier shall make net metering available to any eligible
+11 customer-generator that the supplier currently serves or solicits for service. If the
+12 cumulative generating capacity of net metering systems reaches one percent (1%)
+13 of a supplier's single hour peak load during a calendar year, the supplier shall have
+14 no further obligation to offer net metering to any new customer-generator at any
+15 subsequent time. For the purposes of this subsection, the load of a data center as
+16 defined in Section 3 of this Act shall not be considered in determining a retail
+17 electric supplier's single hour peak load.
+18 (2) Each retail electric supplier serving a customer with eligible electric generating
+19 facilities shall use a standard kilowatt-hour meter capable of registering the flow of
+20 electricity in two (2) directions. Any additional meter, meters, or distribution
+21 upgrades needed to monitor the flow in each direction shall be installed at the
+22 customer-generator's expense. If additional meters are installed, the net metering
+23 calculation shall yield the same result as when a single meter is used.
+24 (3) A retail electric supplier serving an eligible customer-generator shall compensate
+25 that customer for all electricity produced by the customer's eligible electric
+26 generating facility that flows to the retail electric supplier, as measured by the
+27 standard kilowatt-hour metering prescribed in subsection (2) of this section. The
+Page 13 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 rate to be used for such compensation shall be set by the commission using the
+2 ratemaking processes under this chapter during a proceeding initiated by a retail
+3 electric supplier or generation and transmission cooperative on behalf of one (1) or
+4 more retail electric suppliers.
+5 (4) Each billing period, compensation provided to an eligible customer-generator shall
+6 be in the form of a dollar-denominated bill credit. If an eligible customer-
+7 generator's bill credit exceeds the amount to be billed to the customer in a billing
+8 period, the amount of the credit in excess of the customer's bill shall carry forward
+9 to the customer's next bill. Excess bill credits shall not be transferable between
+10 customers or premises. If an eligible customer-generator closes his or her account,
+11 no cash refund for accumulated credits shall be paid.
+12 (5) Using the ratemaking process provided by this chapter, each retail electric supplier
+13 shall be entitled to implement rates to recover from its eligible customer-generators
+14 all costs necessary to serve its eligible customer-generators, including but not
+15 limited to fixed and demand-based costs, without regard for the rate structure for
+16 customers who are not eligible customer-generators.
+17 (6) For an eligible electric generating facility in service prior to the effective date of the
+18 initial net metering order by the commission in accordance with subsection (3) of
+19 this section, the net metering tariff provisions in place when the eligible customer-
+20 generator began taking net metering service, including the one-to-one (1:1)
+21 kilowatt-hour denominated energy credit provided for electricity fed into the grid,
+22 shall remain in effect at those premises for a twenty-five (25) year period,
+23 regardless of whether the premises are sold or conveyed during that twenty-five
+24 (25) year period. For any eligible customer-generator to whom this subsection
+25 applies, each net metering contract or tariff under which the customer takes service
+26 shall be identical, with respect to energy rates, rate structure, and monthly charges,
+27 to the contract or tariff to which the same customer would be assigned if the
+Page 14 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+UNOFFICIAL COPY 26 RS HB 593/GA
+1 customer were not an eligible customer-generator.
+2 (7) Electric generating systems and interconnecting equipment used by eligible
+3 customer-generators shall meet all applicable safety and power quality standards
+4 established by the National Electrical Code (NEC), Institute of Electrical and
+5 Electronics Engineers (IEEE), and accredited testing laboratories such as
+6 Underwriters Laboratories.
+7 (8) An eligible customer-generator installation is transferable to other persons at the
+8 same premises upon notification to the retail electric supplier and verification that
+9 the installation is in compliance with the applicable safety and power quality
+10 standards in KRS 278.467 and in subsection (7) of this section.
+11 (9) Any upgrade of the interconnection between the retail electric supplier and the
+12 customer-generator that is required by commission-approved tariffs for the purpose
+13 of allowing net metering shall be made at the expense of the customer-generator.
+Page 15 of 15
+HB059310.100 - 1235 - XXXX 3/4/2026 2:35 PM GA
+
+[DELETED:   2  G A B S R ( A ( " m t e s a b a m e ( " 1 A a 2 A a I u p o e f e i s p t t u o c s s n e b H i g c H f d H ( ( " c c m a c o a m e u t o d]
+[DELETED:   2  G ( " c c 1 A l l 2 B e 3 A ( " e i t f o e u s t a c f u ( A m e u s o p e s t a d c c a ( W o h e ( d o t e d o t A a m e u s i a m a t t i t f ( A p f s o a a f s i t f a m c 1 L c 2 R 3 P d r i t d c c c e 4 A]
+[DELETED:   2  G i n t d a r s p a t c n i i a p s f s ( P n 1 T o t m e u s a d o t r 2 T m e u s r p o a s a f a a n t r i f a 3 A o o a c b t i a f s f p o i a a t s g ( P a e a d e ( A ( B ( B t ( P t s o d c c b n c c]
+[DELETED:   2  G ( I a t ( R t d c c t t p o a e c e i t s t d c s t s c o t ( R a i d r b a t s t d c c c ( A a c o b a d c a n c c i a m t i c w t r a r a c ( T ( D ( D E ( A A S R ( A a a o t c a w s o c a n]
+[DELETED:   2  G i w r t t f u s t i p t t p f c ( T d d p i d o f ( T ( T n ( T o S R ( A ( " s r u c t ( " 1 A a 2 A a I u p o e f e i s p t t u o c s s n]
+[DELETED:   2  G e b H i g c H f d H ( ( " o o ( " c c 1 A l c o t t e p b l t d c c 2 B p a c a e i b t r e 3 A ( " a t c h t s m a i K ( " ( A r e s s o p e s t a d c c t]
+[DELETED:   2  G ( W n ( d o e d o t A t c s p r e r e s t f a m a t t s d c l w i s t E r e s s t f a d c t t c t t r o t c a r w n ( d o t p o t a r T c s r t e d c t i t f m r f s ( A m i 1 T c 2 R 3 A e 4 A n t d a r s p a c n i i a p s f t d c ( P n 1 T o p t s a o t c a t f a]
+[DELETED:   2  G c 2 T r e s s r p o s a f a a n t r i f a c o u 3 A o o a c b t i a f s f p o i a a t s g ( P w a r t o l i i p a a o s n t d t m i w t s a e s t d c r t t r e s n c c c a p t r e s e g m a e 2 a t c f w t r e s i c ( A w ( A ( B a ( B t ( P t s o d c c b n c c]
+[DELETED:   2  G ( I a t ( R t d c c t t p o a e c g a t c t i i n o e i s t d c s a s c p g a t c i t a c o t i c ( R a i d r b a t s t d c c c ( A a c o b a d c a n c c i a m t i c w t r a r o a a i g a t c a t f a a m c a b a d c c ( I i a i n c c f t c r a l i b t r e s o a a i g ( I a K]
+[DELETED:   2  G e s m a a i t d c t o t g o ( T e 2 ( T ( D ( D E ( A A S R ( A c a a o t c a w s o c a n i u ( T o S T a w p a o a e c m e a m m T t o t m o a s i b n b l t t f]
+[DELETED:   2  G ( T ( T t p a c s p t a w a d r i a m a t t a a w t t r b t a r t t m c i r t b u i m c o t m o a ( T f o a p a c t m t m c i i c ( T ( F ( 1 F ( y f a q d c p h a c i o 2 T ( A i l ( A f t d t i a c o e t t p ( A n o a b t d p u K 1 t s o t p a c f t m t m c i ( ( A t i a f t s o d d o i o t]
+[DELETED:   2  G q d c p u t a o a r b t a ( I o 1 T p t 2 T s o s e i a m o a w ( T u ( T p r t e c a a o r p t t p t t a ( ( T ( T  f t p o m a e t t o t m o a ( T f u a ( S ( T t i a t t p a c u ( N ( I]
+[DELETED:   2  G ( P a o r s f i t m o o t w ( A c f t p a c t t d c p c o w c w a a l r t a r o S 1 2 3 a 4 o t A a a a ( A a n S ( E r e s s m n m a t a e c c o n s d e ( E r e s s a c w e e g f e i t ( d A a m m o d u n t m t f i e d s b i a t c I m c ( A t c f a e p b t c e e g f t f t t r e s a m b t s]
+[DELETED:   2  G r r e m ( E b i t f o a d b c I a e c g p t t c n b E b c s n b t b c n ( U s a c n t s i e c i b n l c ( F i t g b t n m s i t o ( k s r i e a t p f a t ( y p r o t p a s o d t t ( y p F a e c t w t s a s t t c o t t w t s c w b a i t]
+[DELETED:   2  G c ( E g s a i e u b e c e b t N E C ( I o E a E E ( a a t l s a U ( A s t i i i c w t a s a p q s ( A u o t i b t r e s a t c o]

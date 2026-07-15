@@ -1,0 +1,2589 @@
+Title: 1 AN ACT relating to the education assessment and accountability system.
+Official Title: 1 AN ACT relating to the education assessment and accountability system.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 41 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 1141
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Locally developed indicators of quality" means measures or indicators
+7 created or adopted by a local school district that:
+8 1. Are aligned with the academic standards established in Section 2 of
+9 this Act;
+10 2. Allow students to demonstrate their ability to apply grade-appropriate,
+11 standards-driven knowledge, content, and skills in real-world
+12 applications; and
+13 3. May include additional locally identified indicators related to priorities
+14 established by the local community that serve to complement the
+15 requirements in subparagraphs 1. and 2. of this paragraph. These
+16 indicators may include student well-being, fiscal responsibility, or
+17 school safety; and
+18 (b) "Vibrant learning" means an educational experience characterized by
+19 student agency and the application of knowledge and skills aligned with the
+20 academic standards established in Section 2 of this Act and are:
+21 1. Developed in partnership with students' families, local communities,
+22 and the local workforce; and
+23 2. Demonstrated through personalized projects, outputs, experiences, or
+24 other produced results reflecting each individual student's academic
+25 and career interests.
+26 (2) Each local school district may develop and implement a system of locally
+27 developed indicators of quality in accordance with administrative regulations
+Page 1 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 promulgated by the Kentucky Board of Education. The locally developed
+2 indicators of quality shall include:
+3 (a) Student participation in vibrant learning experiences; and
+4 (b) Locally developed indicators of performance.
+5 (3) A local school district utilizing a system of locally developed indicators of quality
+6 shall:
+7 (a) When an indicator involves student data, include student performance data
+8 for all students, disaggregated by individual subgroups, where permissible;
+9 and
+10 (b) Develop a publicly available, online display that clearly communicates each
+11 applicable school and the district's performance on the locally developed
+12 indicators, disaggregated by individual subgroups, where permissible.
+13 (4) The Kentucky Department of Education:
+14 (a) Shall offer technical assistance to local school districts in their development
+15 of locally developed indicators of quality; and
+16 (b) May offer an annual incentive to encourage local districts to develop locally
+17 developed indicators of quality, which may include a financial incentive. A
+18 financial incentive provided under this paragraph shall not exceed an
+19 amount equal to ten thousand dollars ($10,000) per district plus three
+20 dollars ($3) per student.
+21 (5) (a) When the commissioner of education determines that more than sixty
+22 percent (60%) of local school districts have elected to develop and
+23 implement a system of locally developed indicators of quality in accordance
+24 with subsection (2) of this section, all local school districts shall be required
+25 to adopt a system of locally developed indicators of quality in accordance
+26 with the requirements of subsection (2) of this section.
+27 (b) A local school district required to adopt a system of locally developed
+Page 2 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 indicators of quality in accordance with paragraph (a) of this subsection
+2 shall comply with the requirement by the school year that occurs two (2)
+3 years after the commissioner's determination that the threshold has been
+4 met.
+5 (6) The Kentucky Board of Education is authorized to promulgate administrative
+6 regulations in accordance with KRS Chapter 13A necessary to administer the
+7 provisions of this section.
+8 Section 2. KRS 158.6453 (Effective July 1, 2026) is amended to read as
+9 follows:
+10 (1) As used in this section:
+11 (a) "Accelerated learning" means an organized way of helping students meet
+12 individual academic goals by providing direct instruction to eliminate student
+13 performance deficiencies or enable students to move more quickly through
+14 course requirements and pursue higher level skill development;
+15 (b) "Advanced coursework" means educational programs or opportunities
+16 designed to challenge students with more rigorous content beyond the
+17 standard curriculum, including but not limited to advanced placement,
+18 International Baccalaureate, and honors courses;
+19 (c) "Constructed-response items" or "performance-based items" means individual
+20 test items that require the student to create an answer rather than select a
+21 response and may include fill-in-the-blank, short-answer, extended-answer,
+22 open-response, and writing-on-demand formats;
+23 (d) "Criterion-referenced test" means a test that is aligned with defined academic
+24 content standards and measures an individual student's level of performance
+25 against the standards;
+26 (e) "Formative assessment" means a process used by teachers and students during
+27 instruction to adjust ongoing teaching and learning to improve students'
+Page 3 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 achievement of intended instructional outcomes. Formative assessments may
+2 include the use of commercial assessments, curriculum-embedded
+3 assessments, classroom observations, teacher-designed [classroom tests and
+4 ]assessments, and other processes and assignments to gain information about
+5 individual student learning that reflects developmentally appropriate grade-
+6 level performance;
+7 (f) "Interim assessments" means assessments that are given periodically
+8 throughout the year to provide diagnostic information and to show individual
+9 student performance against content standards;
+10 (g) "Summative assessment" means an assessment given at the end of the school
+11 year, semester, or other period of time to evaluate students' performance
+12 against academic[content] standards within a unit of instruction or a course;
+13 and
+14 (h) "Writing" means a purposeful act of thinking and expression that uses
+15 language to explore ideas and communicate meaning to others. Writing is a
+16 complex, multifaceted act of communication and is distinct from basic
+17 handwriting or penmanship.
+18 (2) (a) Every six (6) years, the Kentucky Department of Education shall implement a
+19 process for reviewing Kentucky's academic standards and the alignment of
+20 corresponding assessments for possible revision or replacement to ensure
+21 alignment with transition readiness standards necessary for global
+22 competitiveness, state career and technical education standards, and KRS
+23 158.196.
+24 (b) The revisions to the academic[content] standards shall:
+25 1. Focus on critical knowledge, skills, and capacities needed for success in
+26 the global economy;
+27 2. Result in fewer but more in-depth standards to facilitate mastery
+Page 4 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 learning;
+2 3. Communicate expectations more clearly and concisely to teachers,
+3 parents, students, and citizens;
+4 4. Be based on evidence-based research;
+5 5. Consider international benchmarks; and
+6 6. Ensure that the standards are aligned from elementary to high school to
+7 postsecondary education so that students can be successful at each
+8 education level.
+9 (c) 1. The department shall establish four (4) standards and assessments
+10 review committees, with each committee composed of a minimum of six
+11 (6) Kentucky public school teachers and a minimum of two (2)
+12 representatives from Kentucky institutions of higher education,
+13 including at least one (1) representative from a public institution of
+14 higher education. Each committee member shall teach in the subject
+15 area that his or her committee is assigned to review and have no prior or
+16 current affiliation with a curriculum or assessment resources vendor.
+17 2. One (1) of the four (4) committees shall be assigned to focus on the
+18 review of reading[language arts] and writing academic standards and
+19 corresponding assessments in reading, one (1) on the review of
+20 mathematics academic standards and assessments, one (1) on the review
+21 of science academic standards and assessments, and one (1) on the
+22 review of social studies academic standards and assessments.
+23 (d) 1. The department shall establish twelve (12) advisory panels to advise and
+24 assist each of the four (4) standards and assessments review committees.
+25 2. Three (3) advisory panels shall be assigned to each standards and
+26 assessments review committee. One (1) panel shall review the standards
+27 and assessments for kindergarten through grade five (5), one (1) shall
+Page 5 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 review the standards and assessments for grades six (6) through eight
+2 (8), and one (1) shall review the standards and assessments for grades
+3 nine (9) through twelve (12).
+4 3. Each advisory panel shall be composed of at least one (1) representative
+5 from a Kentucky institution of higher education and a minimum of six
+6 (6) Kentucky public school teachers who teach in the grade level and
+7 subject reviewed by the advisory panel to which they are assigned and
+8 have no prior or current affiliation with a curriculum or assessment
+9 resources vendor.
+10 (e) The commissioner of education and the president of the Council on
+11 Postsecondary Education shall also provide consultants for the standards and
+12 assessments review committees and the advisory panels who are business and
+13 industry professionals actively engaged in career fields that depend on the
+14 various content areas.
+15 (f) 1. The standards and assessments process review committee is hereby
+16 established and shall be composed of the commissioner of education or
+17 designee as a nonvoting member and nine (9) voting representatives of
+18 public schools, of whom at least two (2) shall be parents of public
+19 school students, appointed by the Governor and confirmed by the Senate
+20 in accordance with KRS 11.160 as follows:
+21 a. One (1) language arts teacher;
+22 b. One (1) math teacher;
+23 c. One (1) science teacher;
+24 d. One (1) social studies teacher;
+25 e. Two (2) school principals;
+26 f. Two (2) school superintendents; and
+27 g. One (1) school board member.
+Page 6 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 2. On making appointments to the committee, the Governor shall ensure
+2 broad geographical urban and rural representation and representation of
+3 elementary, middle, and high school levels; ensure equal representation
+4 of the two (2) sexes, inasmuch as possible; and ensure that appointments
+5 reflect the minority racial composition of the Commonwealth.
+6 3. The review of the committee shall be limited to the procedural aspects
+7 of the review process undertaken prior to its consideration.
+8 4. Notwithstanding KRS 12.028, the committee shall not be subject to
+9 reorganization by the Governor.
+10 (g) 1. The review process implemented under this subsection shall be an open,
+11 transparent process that allows all Kentuckians an opportunity to
+12 participate. The department shall ensure the public's assistance in
+13 reviewing and suggesting changes to the standards and alignment
+14 adjustments to corresponding state assessments by establishing a
+15 website dedicated to collecting comments by the public and educators.
+16 An independent third party, which has no prior or current affiliation with
+17 a curriculum or assessment resources vendor, shall be selected by the
+18 department to collect and transmit the comments to the department for
+19 dissemination to the appropriate advisory panel for review and
+20 consideration.
+21 2. Each advisory panel shall review the standards and assessments for its
+22 assigned subject matter and grade level and the suggestions made by the
+23 public and educators. After completing its review, each advisory panel
+24 shall make recommendations for changes to the standards and alignment
+25 adjustments for assessments to the appropriate standards and
+26 assessments review committee.
+27 3. Each standards and assessments review committee shall review the
+Page 7 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 findings and make recommendations to revise or replace existing
+2 standards and to adjust alignment of assessments.
+3 4. The recommendations shall be published on the website established in
+4 this subsection for the purpose of gathering additional feedback from the
+5 public. The commissioner shall subsequently present the
+6 recommendations and the public feedback to the Interim Joint
+7 Committee on Education.
+8 5. The commissioner shall subsequently provide a report to the standards
+9 and assessments process review committee summarizing the process
+10 conducted under this subsection and the resulting recommendations. The
+11 report shall include but not be limited to the timeline of the review
+12 process, public feedback, and responses from the Interim Joint
+13 Committee on Education.
+14 6. After receiving the commissioner's report, the standards and assessments
+15 process review committee shall either concur that stakeholders have had
+16 adequate opportunity to provide input on standards and the
+17 corresponding alignment of state assessments or find the input process
+18 deficient. If the process is found deficient, the recommendations may be
+19 returned to the appropriate standards and assessments review committee
+20 for review as described in subparagraph 3. of this paragraph. If the
+21 process is found sufficient, the recommendations shall be forwarded
+22 without amendment to the Kentucky Board of Education.
+23 (h) The Kentucky Board of Education shall promulgate administrative regulations
+24 in accordance with KRS Chapter 13A as may be needed for the administration
+25 of the review process, including staggering the timing and sequence of the
+26 review process by subject area and remuneration of the review committees
+27 and advisory panels described in paragraphs (c) and (d) of this subsection.
+Page 8 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 (i) 1. The Kentucky Board of Education shall consider for approval the
+2 revisions to academic standards for a content area and the alignment of
+3 the corresponding state assessment once recommendations are received
+4 from the standards and assessments process review committee. Existing
+5 state academic standards shall remain in place until the board approves
+6 new standards.
+7 2. Any revision to, or replacement of, the academic standards and
+8 assessments as a result of the review process conducted under this
+9 subsection shall be implemented in Kentucky public schools no later
+10 than the second academic year following the review process. Existing
+11 academic standards shall be used until new standards are implemented.
+12 3. The Department of Education shall disseminate the academic [content
+13 ]standards to the schools and teacher preparation programs.
+14 (j) The Department of Education shall provide or facilitate statewide training
+15 sessions for existing teachers and administrators on how to:
+16 1. Integrate the revised academic[content] standards into classroom
+17 instruction;
+18 2. Better integrate performance assessment of students within their
+19 instructional practices; and
+20 3. Help all students use higher-order thinking and communication skills.
+21 (k) The Education Professional Standards Board in cooperation with the
+22 Kentucky Board of Education and the Council on Postsecondary Education
+23 shall coordinate information and training sessions for faculty and staff in all of
+24 the teacher preparation programs in the use of the revised academic [content
+25 ]standards. The Education Professional Standards Board shall ensure that each
+26 teacher preparation program includes use of the academic standards in the
+27 pre-service education programs and that all teacher interns will have
+Page 9 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 experience planning classroom instruction based on the revised standards.
+2 (l) The Council on Postsecondary Education in cooperation with the Kentucky
+3 Department of Education and the postsecondary education institutions in the
+4 state shall coordinate information sessions regarding the academic [content
+5 ]standards for faculty who teach in the various content areas.
+6 (m) The Education Professional Standards Board shall, as a condition of program
+7 approval, require teacher preparation programs to align curriculum with the
+8 expectations set forth in the state's academic [content ]standards.
+9 (3) (a) The Kentucky Board of Education shall be responsible for creating and
+10 implementing a balanced statewide assessment program that measures the
+11 students', schools', and districts' achievement of the goals set forth in KRS
+12 158.645 and 158.6451, to ensure compliance with the federal Every Student
+13 Succeeds Act of 2015, Pub. L. No. 114-95, or its successor, and to ensure
+14 school accountability.
+15 (b) The board shall revise the annual statewide assessment program as needed in
+16 accordance with revised academic standards and corresponding assessment
+17 alignment adjustments approved by the board under subsection (2) of this
+18 section.
+19 (c) The statewide assessments shall not include any academic standards not
+20 approved by the board under subsection (2) of this section.
+21 (d) The board shall seek the advice of the Office of Education Accountability; the
+22 School Curriculum, Assessment, and Accountability Council; the Education
+23 Assessment and Accountability Review Subcommittee, and the department's
+24 technical advisory committee in the development of the assessment program.
+25 The statewide assessment program shall not include measurement of a
+26 student's ability to become a self-sufficient individual or to become a
+27 responsible member of a family, work group, or community.
+Page 10 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 (4) (a) The academic components of the statewide assessment program shall be
+2 composed of annual student summative tests, which may include a
+3 combination of multiple competency-based assessment and performance
+4 measures approved by the Kentucky Board of Education.
+5 (b) The annual student summative tests shall:
+6 1. Measure individual student achievement in [language, ]reading,
+7 [English, ]mathematics, science, and social studies at designated grades;
+8 2. Provide teachers and parents a valid and reliable comprehensive analysis
+9 of skills mastered by individual students;
+10 3. Provide diagnostic information that identifies strengths and academic
+11 deficiencies of individual students in the content areas;
+12 4. Provide information to teachers that can enable them to improve
+13 instruction for current and future students;
+14 5. Provide longitudinal profiles for students; and
+15 6. Ensure school and district accountability for student achievement of the
+16 goals set forth in KRS 158.645 and 158.6451, except the statewide
+17 assessment program shall not include measurement of a student's ability
+18 to become a self-sufficient individual or to become a responsible
+19 member of a family, work group, or community.
+20 (5) The state student assessments shall include the following components:
+21 (a) Elementary and middle grades requirements are:
+22 1. A criterion-referenced test each in mathematics and reading in grades
+23 three (3) through eight (8) that is valid and reliable for an individual
+24 student and that measures the depth and breadth of the[Kentucky's]
+25 academic [content ]standards; and
+26 2. A criterion-referenced test each in science and social studies that is valid
+27 and reliable for an individual student as necessary to measure the depth
+Page 11 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 and breadth of the[Kentucky's] academic [content ]standards to be
+2 administered one (1) time within the elementary and middle grades,
+3 respectively;[
+4 3. An on-demand assessment of student writing to be administered one (1)
+5 time within the elementary grades and one (1) time within the middle
+6 grades; and
+7 4. An editing and mechanics test relating to writing, using multiple choice
+8 and constructed response items, to be administered one (1) time within
+9 the elementary and the middle grades, respectively;]
+10 (b) High school requirements are:
+11 1. A criterion-referenced test in mathematics, reading, and science that is
+12 valid and reliable for an individual student and that measures the depth
+13 and breadth of Kentucky's academic content standards to be
+14 administered one (1) time within the high school grades;
+15 2. A criterion-referenced test in social studies that is valid and reliable for
+16 an individual student as necessary to measure the depth and breadth of
+17 the[Kentucky's] academic [content ]standards to be administered one (1)
+18 time within the high school grades; and
+19 3. [An on-demand assessment of student writing to be administered one (1)
+20 time within the high school grades;
+21 4. An editing and mechanics test relating to writing, using multiple choice
+22 and constructed response items, to be administered one (1) time within
+23 the high school grades; and
+24 5. ]A college admissions examination to assess English, reading,
+25 mathematics, and science in the spring of grade eleven (11);
+26 (c) The Kentucky Board of Education shall add any other component necessary
+27 to comply with the Every Student Succeeds Act of 2015, Pub. L. No. 114-95,
+Page 12 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 or its successor, as determined by the United States Department of Education;
+2 (d) The criterion-referenced components required in this subsection shall be
+3 composed of constructed response items and multiple choice items; and
+4 (e) The results of the assessment program developed under this subsection shall
+5 be used by schools and districts to determine appropriate instructional
+6 modifications for all students in order for students to make continuous
+7 progress, including that needed by advanced learners.
+8 (6) Each school district shall administer the statewide student assessment during the
+9 last fourteen (14) days of school in the district's instructional calendar. The
+10 Kentucky Board of Education may change the testing window to allow for
+11 innovative assessment systems or other online test administration and shall
+12 promulgate administrative regulations that minimize the number of days of testing
+13 and outline the procedures to be used during the testing process to ensure test
+14 security, including procedures for testing makeup days, and to comply with federal
+15 assessment requirements.
+16 (7) A student enrolled in a district-operated or district-contracted alternative program
+17 shall participate in the appropriate assessments required by this section.
+18 (8) A local school district may select and use commercial interim or formative
+19 assessments or develop and use its own formative assessments to provide data on
+20 how well its students are growing toward mastery of Kentucky academic standards,
+21 so long as the district's local school board develops a policy minimizing the
+22 reduction in instructional time related to the administration of the interim
+23 assessments. Nothing in this section precludes teachers from using ongoing teacher-
+24 developed formative processes.
+25 (9) Each school that enrolls primary students shall use diagnostic assessments and
+26 prompts that measure readiness in reading and mathematics for its primary students
+27 as determined by the school to be developmentally appropriate. The schools may
+Page 13 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 use commercial products, use products and procedures developed by the district, or
+2 develop their own diagnostic procedures. The results shall be used to inform the
+3 teachers and parents or guardians of each student's skill level.
+4 (10) The state board shall ensure that a technically sound longitudinal comparison of the
+5 assessment results for the same students shall be made available.
+6 (11) The following provisions shall apply to the college admissions examination
+7 described in subsection (5)(b)3.[5.] of this section:
+8 (a) The cost of the college admissions examination administered to students in
+9 high school shall be paid for by the Kentucky Department of Education. The
+10 costs of additional college admissions examinations shall be the responsibility
+11 of the student;
+12 (b) If funds are available, the Kentucky Department of Education shall provide a
+13 college admissions examination preparation program to all public high school
+14 juniors. The department may contract for necessary services; and
+15 (c) Accommodations provided to a student with a disability taking the college
+16 admissions assessment under this subsection shall consist of:
+17 1. Accommodations provided in a manner allowed by the college
+18 admissions assessment provider when results in test scores are
+19 reportable to a postsecondary institution for admissions and placement
+20 purposes, except as provided in subparagraph 2. of this paragraph; or
+21 2. Accommodations provided in a manner allowed by a student's
+22 individualized education program as defined in KRS 158.281 for a
+23 student whose disability precludes valid assessment of his or her
+24 academic abilities using the accommodations provided under
+25 subparagraph 1. of this paragraph when the student's scores are not
+26 reportable to a postsecondary institution for admissions and placement
+27 purposes.
+Page 14 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 (12) Kentucky teachers shall have a significant role in providing feedback about the
+2 design of the assessments, except for the college admissions exam described in
+3 subsection (5)(b)3.[5.] of this section. The assessments shall be designed to:
+4 (a) Measure developmentally appropriate grade-level performance aligned to
+5 the academic standards[grade appropriate core academic content, basic skills,
+6 and higher-order thinking skills and their application];
+7 (b) Provide valid and reliable scores for schools. If scores are reported for
+8 students individually, they shall be valid and reliable; and
+9 (c) Minimize the time spent by teachers and students on assessment[; and
+10 (d) Assess Kentucky academic standards only].
+11 (13) The results from assessment under subsections (3) and (5) of this section shall be
+12 reported to the school districts and schools no later than seventy-five (75) days
+13 following the last day the assessment can be administered. Assessment reports
+14 provided to the school districts and schools shall include an electronic copy of an
+15 operational subset of test items from each assessment administered to their students
+16 and the results for each of those test items by student and by school.
+17 (14) The Department of Education shall gather information to establish the validity of
+18 the assessment and accountability program. It shall develop a biennial plan for
+19 validation studies that shall include but not be limited to the consistency of student
+20 results across multiple measures, the congruence of school scores with documented
+21 improvements in instructional practice and the school learning environment, and the
+22 potential for all scores to yield fair, consistent, and accurate student performance
+23 level and school accountability decisions. Validation activities shall take place in a
+24 timely manner and shall include a review of the accuracy of scores assigned to
+25 students and schools, as well as of the testing materials. The plan shall be submitted
+26 to the Commission by July 1 of the first year of each biennium. A summary of the
+27 findings shall be submitted to the Legislative Research Commission by September
+Page 15 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 1 of the second year of the biennium.
+2 (15) The Department of Education and the state board shall offer optional assistance to
+3 local school districts and schools in developing and using continuous assessment
+4 strategies needed to ensure student progress. The continuous assessment shall
+5 provide diagnostic information to improve instruction to meet the needs of
+6 individual students.
+7 (16) The Administration Code for Kentucky's Assessment Program shall include
+8 prohibitions of inappropriate test preparation activities by school district employees
+9 charged with test administration and oversight, including but not limited to the issue
+10 of teachers being required to do test practice in lieu of regular classroom instruction
+11 and test practice outside the normal work day. The code shall include disciplinary
+12 sanctions that may be taken toward a school or individuals.
+13 (17) The Kentucky Board of Education, after the Department of Education has received
+14 advice from the Office of Education Accountability; the School Curriculum,
+15 Assessment, and Accountability Council; and the department's technical advisory
+16 committee, shall promulgate an administrative regulation under KRS Chapter 13A
+17 to establish the components of a reporting structure for assessments administered
+18 under this section. The reporting structure shall include the following components:
+19 (a) A school report card that clearly communicates with parents and the public
+20 about school performance. The school report card shall be sent to the parents
+21 of the students of the districts, and information on electronic access to a
+22 summary of the results for the district shall be published in the newspaper
+23 with the largest circulation in the county. It shall include but not be limited to
+24 the following components reported by race, gender, and disability when
+25 appropriate:
+26 1. Student academic achievement, including the results from each of the
+27 assessments administered under this section;
+Page 16 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 2. For Advanced Placement, Cambridge Advanced International, and
+2 International Baccalaureate, the courses offered, the number of students
+3 enrolled, completing, and taking the examination for each course, and
+4 the percentage of examinees receiving a score of three (3) or better on
+5 AP examinations, a score of "e" or better on Cambridge Advanced
+6 International examinations, or a score of four (4) or better on IB
+7 examinations. The data shall be disaggregated by gender, race, students
+8 with disabilities, and economic status;
+9 3. Nonacademic achievement, including the school's attendance, retention,
+10 graduation rates, and student transition to postsecondary;
+11 4. School learning environment, including measures of parental
+12 involvement; and
+13 5. Any other school performance data required by the Every Student
+14 Succeeds Act of 2015, Pub. L. No. 114-95, or its successor;
+15 (b) An individual student report to parents for each student in grades three (3)
+16 through eight (8) summarizing the student's skills in reading, science, social
+17 studies, and mathematics. The school's staff shall develop a plan for
+18 accelerated learning for any student with identified deficiencies or strengths;
+19 and
+20 (c) A student's score on the college admissions assessment administered under
+21 subsection (5)(b)3.[5.] of this section.
+22 (18) (a) Every six (6) years, the Kentucky Department of Education shall implement a
+23 comprehensive process for reviewing and revising the academic standards in
+24 visual and performing arts and practical living skills and career studies for all
+25 levels and in world[foreign] language for middle and high schools. The
+26 department shall develop review committees for the standards for each of the
+27 content areas that include representation from certified specialist public
+Page 17 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 school teachers and postsecondary teachers in those subject areas.
+2 (b) The academic standards in practical living skills for elementary, middle, and
+3 high school levels shall include a focus on drug abuse prevention, with an
+4 emphasis on the prescription drug epidemic and the connection between
+5 prescription opioid abuse and addiction to other drugs, such as heroin and
+6 synthetic drugs.
+7 (c) The department shall provide to all schools guidelines for programs that
+8 incorporate the adopted academic standards in visual and performing arts and
+9 practical living and career studies. The department shall provide to middle and
+10 high schools guidelines for including a foreign language program. The
+11 guidelines shall address program length and time, courses offered, staffing,
+12 resources, and facilities.
+13 (d) The Kentucky Department of Education, in consultation with certified public
+14 school teachers of visual and performing arts, may develop program standards
+15 for the visual and performing arts.
+16 (19) (a) The Kentucky Department of Education shall develop and distribute[provide]
+17 to all school districts guidelines for including an effective writing program
+18 across the content areas aligned to the academic standards. The department
+19 shall provide professional learning opportunities to support authentic and
+20 disciplinary-specific writing across the curriculum for school-based
+21 decision making councils, principals, teachers, and teacher preparation
+22 programs[within the curriculum].
+23 (b) Each school-based decision making council, or if there is no school council
+24 a committee appointed by the principal, shall adopt policies that determine
+25 the writing program for the school and ensure the writing program policy is
+26 published on the school's website. The writing program shall include
+27 disciplinary-specific writing across the curriculum and incorporate a variety
+Page 18 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 of language resources, technological tools, and multiple opportunities for
+2 students to develop complex communication skills for a variety of purposes.
+3 (20) (a) The Kentucky Department of Education, in consultation with the review
+4 committees described in subsection (18) of this section, shall develop a school
+5 profile report to be used by all schools to document how they will address the
+6 adopted academic standards in their implementation of the programs as
+7 described in subsection (18) of this section, which may include student
+8 opportunities and experiences in extracurricular activities. The department
+9 shall include the essential workplace ethics program on the school profile
+10 report.
+11 (b) By October 1 of each year, each school principal shall complete the school
+12 profile report, which shall be signed by the members of the school council, or
+13 the principal if no school council exists, and the superintendent. The report
+14 shall be electronically transmitted to the Kentucky Department of Education,
+15 and the original shall be maintained on file at the local board office and made
+16 available to the public upon request. The department shall include a link to
+17 each school's profile report on its website.
+18 (c) If a school staff member, student, or a student's parent has concerns regarding
+19 deficiencies in a school's implementation of the programs described in
+20 subsection (18) of this section, he or she may submit a written inquiry to the
+21 school council.
+22 (21) (a) No later than December 1, 2025, each local board of education shall adopt a
+23 district plan establishing clear policies on the promotion of advanced
+24 coursework or accelerated learning in language arts, mathematics, social
+25 studies, and science by grade level for students in grades four (4) to twelve
+26 (12).
+27 (b) The district plan required by paragraph (a) of this subsection shall:
+Page 19 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 1. Be published on a publicly accessible location on the district website;
+2 2. Describe the strategies and approach to advanced coursework or
+3 accelerated learning options by grade level for language arts,
+4 mathematics, social studies, and science; and
+5 3. Require that the service delivery options for students identified as gifted
+6 and talented in language arts, mathematics, social studies, and science
+7 include the following for each grade level and subject area:
+8 a. i. Accelerated learning; or
+9 ii. Advanced coursework; and
+10 b. At least one (1) of the following service delivery options:
+11 i. Collaborative teaching and consultation services;
+12 ii. Special counseling services;
+13 iii. Differentiated study experiences for individuals and cluster
+14 groups in the regular classroom;
+15 iv. Distance learning;
+16 v. Enrichment services that are not extracurricular during the
+17 school day;
+18 vi. Independent study;
+19 vii. Mentorships;
+20 viii. Resource services delivered in a pull-out classroom or other
+21 appropriate instructional setting;
+22 ix. Seminars;
+23 x. Travel study options; or
+24 xi. Special schools or self-contained classrooms for students in
+25 grades four (4) through twelve (12) only.
+26 (c) The district plan required by paragraph (a) of this subsection may:
+27 1. Automatically enroll a student who scores distinguished in any subject
+Page 20 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 area on the most recent statewide assessment for which scores are
+2 available in available advanced coursework for that subject area and any
+3 corresponding subject area designated by the local board of education;
+4 2. Include eligibility criteria for qualification for available advanced
+5 coursework for all other students;
+6 3. Require written consent from a parent or guardian of a student to
+7 withdraw or exclude a student that is eligible for advanced coursework
+8 according to the district plan from that advanced coursework. If a
+9 student requests to withdraw from advanced coursework to pursue
+10 another educational opportunity, a principal may withdraw the student
+11 without written consent from a parent or guardian only after a good-faith
+12 attempt to contact the parent or guardian is unsuccessful; and
+13 4. Permit a principal to withdraw a student from advanced coursework
+14 without written consent from his or her parent or guardian if the
+15 student's participation in advanced coursework would have an adverse
+16 educational impact on a student, including interference with his or her
+17 career pathway, access to career and technical education coursework, or
+18 another educational opportunity.
+19 (22) [(a) ]The Kentucky Board of Education may promulgate administrative
+20 regulations in accordance with KRS Chapter 13A to administer the provisions
+21 of subsection (21) of this section.[
+22 (b) By December 1, 2025, the Kentucky Department of Education, in
+23 collaboration with local school districts, shall establish school district
+24 recommendations for the consistent use of preliminary assessment data and
+25 other criteria to identify students prepared for advanced coursework. ]
+26 Section 3. KRS 158.6455 is amended to read as follows:
+27 It is the intent of the General Assembly that schools succeed with all students and receive
+Page 21 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 the appropriate consequences in proportion to that success.
+2 (1) (a) The Kentucky Board of Education shall create an accountability system to
+3 classify districts and schools in accordance with the academic standards and
+4 student assessment program developed pursuant to KRS 158.6453.
+5 (b) The state accountability system shall include an annual meaningful
+6 differentiation of all public schools in the state using multiple measures that
+7 describe the overall performance of each district, school, and student
+8 subgroup. Beginning with data from the 2026-2027 school year,
+9 performance shall be based on a combination of academic and school quality
+10 indicators and measures, hereinafter called "state indicators." The state
+11 indicators shall exclusively include:
+12 1. Student assessment results;
+13 2. Measures of individual student growth in reading and mathematics;
+14 3. Progress toward achieving English proficiency by limited English
+15 proficiency students;
+16 4.[3.] Student engagement as measured by chronic absenteeism, which shall
+17 be defined as a student missing ten percent (10%) or more of yearly
+18 school time for excused or unexcused reasons throughout the school
+19 year[Quality of school climate and safety];
+20 5.[4.] High school graduation rates;
+21 6.[5.] Postsecondary readiness for each high school student, which shall be
+22 included as an academic indicator, and shall be measured by one (1) of
+23 the following:
+24 a. Meeting or exceeding a college readiness benchmark score on the
+25 college admissions examination used as the statewide assessment
+26 in KRS 158.6453(5)(b)3.[5.] or a college placement examination
+27 approved by the Council on Postsecondary Education. The college
+Page 22 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 readiness benchmark score shall be established by the Council on
+2 Postsecondary Education;
+3 b. Achieving a minimum of three (3) hours of dual credit by
+4 completing a course approved by the Kentucky Board of
+5 Education or qualifying for a minimum of three (3) hours of
+6 postsecondary articulated credit associated with a statewide
+7 articulation agreement;
+8 c. Achieving a benchmark score on an Advanced Placement,
+9 International Baccalaureate, Cambridge Advanced International,
+10 or other nationally recognized exam approved by the Kentucky
+11 Board of Education that generally qualifies the student for three
+12 (3) or more hours of college credit;
+13 d. Completing a required number of hours or achieving a benchmark
+14 within an apprenticeship, cooperative, or internship that is:
+15 i. Not required to be offered as a high school course or during
+16 the regular school day, week, or year;
+17 ii. Aligned with a credential or associate degree; and
+18 iii. Approved by the Kentucky Board of Education after
+19 receiving input from the Local Superintendents Advisory
+20 Council; or
+21 e. Achieving any industry-recognized certifications, licensures, or
+22 credentials, with more weight in accountability for industry-
+23 recognized certifications, licensures, or credentials identified as
+24 high demand in accordance with the process described in
+25 paragraph (e) of this subsection. Eligible industry-recognized
+26 certifications, licensures, or credentials shall not be limited to
+27 those earned in conjunction with a minimum sequence of courses.
+Page 23 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 Each high school shall publicly report the credits, hours, and
+2 credentials on an annual basis; and
+3 7.[6.] Any other factor mandated by the federal Every Student Succeeds Act
+4 of 2015, Pub. L. No. 114-95, or its successor.
+5 (c) 1. [Beginning with data from the 2020-2021 and 2021-2022 school years,
+6 the accountability system performance for each district, school, and
+7 student subgroup determined by the state indicators shall be based on a
+8 combination of annual performance, hereinafter called "status," and
+9 improvement over time, hereinafter called "change."
+10 2. Status and change shall receive equal weight in determining overall
+11 performance. For all students as a group and separately for individual
+12 subgroups, status shall be determined, beginning with the data from the
+13 2020-2021 academic year, by using the current year performance and
+14 change shall be determined, beginning with the data from the 2021-2022
+15 academic year, by using the difference in performance from the prior to
+16 current year, except change shall be based on the difference in
+17 performance for the prior three (3) years for the purpose of determining
+18 the lowest-performing five percent (5%) of schools under KRS
+19 160.346(2) and (3).
+20 3. For each state indicator, there shall be five (5) status levels ranging from very
+21 high to very low and five (5) change levels ranging from increased
+22 significantly to declined significantly.
+23 4. The percentile cut scores for status and change levels shall be based on
+24 distribution and shall be approved by the Kentucky Department of
+25 Education and the Local Superintendents Advisory Council. The cut
+26 scores shall remain in place for at least six (6) years unless existing cut
+27 scores no longer support meaningful differentiation of schools as
+Page 24 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 required by the federal Every Student Succeeds Act of 2015, Pub. L. No.
+2 114-95, or its successor.
+3 (d) Beginning in the fall of 2022, ]The Kentucky Department of Education shall
+4 develop an online display of the state accountability system results
+5 hereinafter called a "dashboard." A color-coded performance level for
+6 each state indicator and overall performance shall be displayed in a
+7 straightforward manner on the dashboard [for overall performance,
+8 status, and change ]by district, school, and individual subgroups. Overall
+9 performance shall aggregate all available data for the state indicators.
+10 2. The percentile cut scores for the color-coded performance level for
+11 each state indicator and overall performance shall be based on
+12 distribution and shall be approved by the Kentucky Department of
+13 Education and the Local Superintendents Advisory Council. The cut
+14 scores shall remain in place for at least six (6) years unless existing
+15 cut scores no longer support a meaningful differentiation of schools
+16 as required by the federal Every Student Succeeds Act of 2015, Pub. L.
+17 No. 114-95, or its successor.
+18 (d)[(e)] Based on data from the Kentucky Center for Education and Workforce
+19 Statistics, each local workforce investment board, in conjunction with local
+20 economic development organizations from its state regional sector, shall
+21 annually compile a list of industry-recognized certifications, licensures, and
+22 credentials specific to the state and regional workforce area, rank them by
+23 demand for the state and regional area, and provide the list to the Kentucky
+24 Workforce Innovation Board. The Kentucky Workforce Innovation Board, in
+25 conjunction with the Kentucky Department of Education, may revise the lists
+26 before the Kentucky Department of Education disseminates the lists to all
+27 school districts to be used as postsecondary readiness indicators.
+Page 25 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 (e)[(f)] 1. The Kentucky Department of Education shall pay for the cost of
+2 an assessment taken by a high school student for attaining an industry-
+3 recognized certification, credential, or licensure if the student
+4 consecutively completes at least two (2) related career pathway courses
+5 approved by the department prior to taking the assessment.
+6 2. If a high school student has not completed the two (2) course
+7 requirement described in subparagraph 1. of this paragraph but meets
+8 performance-based experience eligibility and passes an assessment, the
+9 department shall provide a weighted reimbursement amount to the
+10 school district for the cost of the assessment based on the level of
+11 demand of the certificate, credential, or license earned. The Kentucky
+12 Board of Education shall promulgate regulations establishing the
+13 performance-based experience eligibility requirements and weighted
+14 reimbursement amounts.
+15 (f)[(g)] Prior to promulgating administrative regulations to revise the
+16 accountability system, the board shall seek advice from the School
+17 Curriculum, Assessment, and Accountability Council; the Office of Education
+18 Accountability; the Education Assessment and Accountability Review
+19 Subcommittee; and the department's technical advisory committee.
+20 (2) A student's test scores shall be counted in the accountability measure of:
+21 (a) 1. The school in which the student is currently enrolled if the student has
+22 been enrolled in that school for at least a full academic year as defined
+23 by the Kentucky Board of Education; or
+24 2. The school in which the student was previously enrolled if the student
+25 was enrolled in that school for at least a full academic year as defined by
+26 the Kentucky Board of Education; and
+27 (b) The school district if the student is enrolled in the district for at least a full
+Page 26 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 academic year as defined by the Kentucky Board of Education; and
+2 (c) The state if the student is enrolled in a Kentucky public school prior to the
+3 beginning of the statewide testing period.
+4 (3) After receiving the advice of the Office of Education Accountability; the School
+5 Curriculum, Assessment, and Accountability Council; and the department's
+6 technical advisory committee, the Kentucky Board of Education shall promulgate
+7 an administrative regulation in conformity with KRS 158.6471 and 158.6472 and
+8 KRS Chapter 13A to establish more rigorous action, intervention, and appropriate
+9 consequences for schools that fail to exit comprehensive support and improvement
+10 status described in KRS 160.346. The consequences shall be designed to improve
+11 the academic performance and learning environment of identified schools and may
+12 include but not be limited to:
+13 (a) A review and audit process to determine the appropriateness of a school's or
+14 district's classification and to recommend needed assistance;
+15 (b) School and district improvement plans;
+16 (c) Eligibility to receive Commonwealth school improvement funds under KRS
+17 158.805;
+18 (d) Education assistance from highly skilled certified staff; and
+19 (e) Observation of school personnel.
+20 (4) All students who drop out of school during a school year shall be included in a
+21 school's annual average school graduation rate calculation.
+22 (5) After receiving the advice of the Education Assessment and Accountability Review
+23 Subcommittee, the Office of Education Accountability; the School Curriculum,
+24 Assessment, and Accountability Council; and the department's technical advisory
+25 committee, the Kentucky Board of Education may promulgate by administrative
+26 regulation, in conformity with KRS 158.6471 and 158.6472 and KRS Chapter 13A,
+27 a system of district accountability that includes establishing a formula for
+Page 27 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 accountability, goals for improvement over a three (3) year period, rewards for
+2 leadership in improving teaching and learning in the district, and consequences that
+3 address the problems and provide assistance when one (1) or more schools in the
+4 district fail to exit comprehensive support and improvement status after three (3)
+5 consecutive years of implementing the turnaround intervention process described in
+6 KRS 160.346.
+7 (6) After receiving the advice of the Office of Education Accountability; the School
+8 Curriculum, Assessment, and Accountability Council; and the department's
+9 technical advisory committee, the Kentucky Board of Education shall promulgate
+10 administrative regulations in conformity with KRS 158.6471 and 158.6472 and
+11 KRS Chapter 13A to establish a process whereby a school or school district shall be
+12 allowed to appeal any performance judgment made by the department under this
+13 section or KRS 160.346 of a principal, superintendent, school, or school district
+14 which it considers grossly unfair. Upon appeal, an administrative hearing shall be
+15 conducted in accordance with KRS Chapter 13B. The state board may adjust a
+16 performance judgment on appeal when evidence of unusual circumstances warrants
+17 the conclusion that the performance judgment is based on fraud or a mistake in
+18 computations, is arbitrary, is lacking any reasonable basis, or when there are
+19 significant new circumstances occurring during the three (3) year assessment period
+20 which are beyond the control of the appellant school or school district.
+21 (7) Advice and recommendations provided by the department's technical advisory
+22 committee shall be summarized and reported by the department by July 1 and
+23 December 1 of each year to the Office of Education Accountability. The report shall
+24 include:
+25 (a) Advice and recommendations provided by panel members relating to:
+26 1. Development and modification to the assessment and accountability
+27 system;
+Page 28 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 2. The development of administrative regulations governing the
+2 assessment and accountability system;
+3 3. The setting of standards used in the assessment and accountability
+4 system; and
+5 4. KRS 158.6453, 158.6455, 158.782, or 158.860; and
+6 (b) Any documentation used by the panel in support of the panel's advice and
+7 recommendations.
+8 Upon receipt of the report, the Office of Education Accountability shall forward the
+9 report to the Education Assessment and Accountability Review Subcommittee and
+10 the co-chairs of the Interim Joint Committee on Education.
+11 Section 4. KRS 158.6459 is amended to read as follows:
+12 (1) A high school student whose highest score on the college admissions examination
+13 under KRS 158.6453(5)(b)3.[5.] in English, reading, or mathematics is below the
+14 systemwide standard established by the Council on Postsecondary Education for
+15 entry into a credit-bearing course at a public postsecondary institution without
+16 placement in a remedial course or an entry-level course with supplementary
+17 academic support shall be provided the opportunity to participate in accelerated
+18 learning designed to address his or her identified academic deficiencies prior to
+19 high school graduation.
+20 (2) A high school, in collaboration with its school district, shall develop and implement
+21 accelerated learning that:
+22 (a) Allows a student's learning plan to be individualized to meet the student's
+23 academic needs based on an assessment of test results and consultation among
+24 parents, teachers, and the student; and
+25 (b) May include changes in a student's class schedule.
+26 (3) The Kentucky Department of Education, the Council on Postsecondary Education,
+27 and public postsecondary institutions shall offer support and technical assistance to
+Page 29 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 schools and school districts in the development of accelerated learning.
+2 Section 5. KRS 164.7874 is amended to read as follows:
+3 As used in KRS 164.7871 to 164.7885:
+4 (1) "Academic term" means a semester or other time period specified in an
+5 administrative regulation promulgated by the authority;
+6 (2) "Academic year" means a period consisting of at least the minimum school term, as
+7 defined in KRS 158.070;
+8 (3) "ACT score" means the composite score achieved on the American College Test at
+9 a national test site on a national test date or the college admissions examination
+10 administered statewide under KRS 158.6453(5)(b)3.[5.] if the exam is the ACT, or
+11 an equivalent score, as determined by the authority, on the SAT administered by the
+12 College Board, Inc.;
+13 (4) "Authority" means the Kentucky Higher Education Assistance Authority;
+14 (5) "Award period" means the fall and spring consecutive academic terms within one
+15 (1) academic year;
+16 (6) "Council" means the Council on Postsecondary Education created under KRS
+17 164.011;
+18 (7) "Eligible high school student" means any person who:
+19 (a) Is a citizen, national, or permanent resident of the United States and Kentucky
+20 resident;
+21 (b) Was enrolled after July 1, 1998:
+22 1. In a Kentucky high school for at least one hundred forty (140) days of
+23 the minimum school term unless exempted by the authority's executive
+24 director upon documentation of extreme hardship, while meeting the
+25 KEES curriculum requirements, and was enrolled in a Kentucky high
+26 school at the end of the academic year;
+27 2. In a Kentucky high school for the fall academic term of the senior year
+Page 30 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 and who:
+2 a. Was enrolled during the entire academic term;
+3 b. Completed the high school's graduation requirements during the
+4 fall academic term; and
+5 c. Was not enrolled in a secondary school during any other academic
+6 term of that academic year; or
+7 3. In the Gatton Academy of Mathematics and Science in Kentucky, the
+8 Craft Academy for Excellence in Science and Mathematics, or in high
+9 school at a model and practice school under KRS 164.380 while meeting
+10 the Kentucky educational excellence scholarship curriculum
+11 requirements;
+12 (c) Has a grade point average of 2.5 or above at the end of any academic year
+13 beginning after July 1, 1998, or at the end of the fall academic term for a
+14 student eligible under paragraph (b)[ ]2. of this subsection; and
+15 (d) Is not a convicted felon;
+16 (8) "Eligible postsecondary student" means a citizen, national, or permanent resident of
+17 the United States and Kentucky resident, as determined by the participating
+18 institution in accordance with criteria established by the council for the purposes of
+19 admission and tuition assessment, who:
+20 (a) Earned a KEES award;
+21 (b) Has the required postsecondary GPA and credit hours required under KRS
+22 164.7881;
+23 (c) Has remaining semesters of eligibility under KRS 164.7881;
+24 (d) Is enrolled in a participating institution as a part-time or full-time student; and
+25 (e) Is not a convicted felon;
+26 (9) "Full-time student" means a student enrolled in a postsecondary program of study
+27 that meets the full-time student requirements of the participating institution in
+Page 31 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 which the student is enrolled;
+2 (10) "Grade point average" or "GPA" means the grade point average earned by an
+3 eligible student and reported by the high school or participating institution in which
+4 the student was enrolled based on a scale of 4.0 or its equivalent if the high school
+5 or participating institution that the student attends does not use the 4.0 grade scale;
+6 (11) "High school" means any Kentucky public high school, the Gatton Academy of
+7 Mathematics and Science in Kentucky, the Craft Academy for Excellence in
+8 Science and Mathematics, a high school of a model and practice school under KRS
+9 164.380, and any private, parochial, or church school located in Kentucky that has
+10 been certified by the Kentucky Board of Education as voluntarily complying with
+11 curriculum, certification, and textbook standards established by the Kentucky Board
+12 of Education under KRS 156.160;
+13 (12) "KEES" or "Kentucky educational excellence scholarship" means a scholarship
+14 provided under KRS 164.7871 to 164.7885;
+15 (13) "KEES award" means:
+16 (a) For an eligible high school student, the sum of the KEES base amount for
+17 each academic year of high school plus any KEES supplemental amount, as
+18 adjusted pursuant to KRS 164.7881; and
+19 (b) For a student eligible under KRS 164.7879(3)(e), the KEES supplemental
+20 amount as adjusted pursuant to KRS 164.7881;
+21 (14) "KEES award maximum" means the sum of the KEES base amount earned in each
+22 academic year of high school plus any KEES supplemental amount earned;
+23 (15) "KEES base amount" or "base amount" means the amount earned by an eligible
+24 high school student based on the student's GPA pursuant to KRS 164.7879;
+25 (16) "KEES curriculum" means five (5) courses of study, except for students who meet
+26 the criteria of subsection (7)(b)2. of this section, in an academic year as determined
+27 in accordance with an administrative regulation promulgated by the authority;
+Page 32 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 (17) "KEES supplemental amount" means the amount earned by an eligible student
+2 based on the student's ACT score pursuant to KRS 164.7879;
+3 (18) "KEES trust fund" means the Wallace G. Wilkinson Kentucky educational
+4 excellence scholarship trust fund;
+5 (19) "On track to graduate" means the number of cumulative credit hours earned as
+6 compared to the number of hours determined by the postsecondary education
+7 institution as necessary to complete a bachelor's degree by the end of eight (8)
+8 academic terms or ten (10) academic terms if a student is enrolled in an
+9 undergraduate program that requires five (5) years of study;
+10 (20) "Participating institution" means an "institution" as defined in KRS 164.001 that is
+11 eligible to participate in the federal Pell Grant program, executes a contract with the
+12 authority on terms the authority deems necessary or appropriate for the
+13 administration of its programs, and:
+14 (a) 1. Is publicly operated;
+15 2. Is licensed by the Commonwealth of Kentucky and has operated for at
+16 least ten (10) years, offers an associate or baccalaureate degree program
+17 of study not comprised solely of sectarian instruction, and admits as
+18 regular students only high school graduates, recipients of a High School
+19 Equivalency Diploma, or students transferring from another accredited
+20 degree granting institution; or
+21 3. Is designated by the authority as an approved out-of-state institution that
+22 offers a degree program in a field of study that is not offered at any
+23 institution in the Commonwealth; and
+24 (b) Continues to commit financial resources to student financial assistance
+25 programs; and
+26 (21) "Part-time student" means a student enrolled in a postsecondary program of study
+27 who does not meet the full-time student requirements of the participating institution
+Page 33 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 in which the student is enrolled and who is enrolled for at least six (6) credit hours,
+2 or the equivalent for an institution that does not use credit hours.
+3 Section 6. KRS 157.069 is amended to read as follows:
+4 (1) As used in this section:
+5 (a) "Administrative operations costs" means costs associated with the operations
+6 and staffing of a state-operated area technology center, including but not
+7 limited to personnel, facility costs, building utilities and maintenance, and
+8 custodial and office supplies;
+9 (b) "Approved career and technical education dual credit" means earning a grade
+10 of "C" or higher for a Kentucky Department of Education-approved career
+11 and technical education dual credit course equivalent to three (3) hours of
+12 college credit;
+13 (c) "Approved career and technical education pathway" means a four (4) course
+14 career and technical education pathway approved by the Kentucky
+15 Department of Education that provides a coherent, articulated sequence of
+16 rigorous academic and career-related courses within a career and technical
+17 education program area, and leads to an associate degree, an industry-
+18 recognized certificate or license, or a baccalaureate or higher degree;
+19 (d) "Concentrator" means a student who has earned at least two (2) credits for no
+20 less than two (2) courses in a single career and technical education pathway;
+21 (e) "Converted career and technical education center" means a center providing
+22 locally operated career and technical education for which a local district
+23 assumed authority from the state for the management and control of the center
+24 during the 2020-2021, 2021-2022, or 2022-2023 academic years;
+25 (f) "General-cost career and technical education program" means a career and
+26 technical education program or pathway in which high-cost technical
+27 equipment, materials, or facilities are not required;
+Page 34 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 (g) "General-cost full-time equivalents" means the total number of secondary
+2 students enrolled in general-cost career and technical education programs,
+3 multiplied by the number of hours those students are enrolled, and divided by
+4 six (6) hours;
+5 (h) "High-cost career and technical education program" means a career and
+6 technical education program or pathway in which high-cost equipment,
+7 materials, or facilities are required;
+8 (i) "Locally operated career and technical education" means a district program
+9 that provides secondary students with one (1) or more approved career and
+10 technical education pathways;
+11 (j) "State-operated area technology center" means a state-operated secondary
+12 school facility with the primary purpose of offering approved career and
+13 technical education pathways;
+14 (k) "Supplemental funding" or "supplemental funds" means moneys appropriated
+15 by the General Assembly to support qualifying locally operated career and
+16 technical education centers and programs and state-operated area technology
+17 centers and programs based on enrollment and incentive criteria;
+18 (l) "Technical skill attainment" means earning an industry-recognized
+19 certification, licensure, or credential as identified by the Kentucky Workforce
+20 Innovation Board pursuant to KRS 158.6455(1)(d)[(e)] or passing an end-of-
+21 program assessment for articulated postsecondary credit as designated by the
+22 Kentucky Department of Education Office of Career and Technical
+23 Education;
+24 (m) "Weighted high-cost full-time equivalents" means the total number of
+25 secondary students enrolled in high-cost career and technical education
+26 programs, multiplied by the number of credit hours in which those students
+27 are enrolled, divided by six (6) hours, and multiplied by one and one-half
+Page 35 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 (1.5); and
+2 (n) "Work-based learning program" means a cooperative education program,
+3 internship, or registered apprenticeship within the student's chosen approved
+4 career and technical education pathway.
+5 (2) The Kentucky Department of Education shall provide funds from the department's
+6 annual general fund appropriation to support the administrative operations costs of
+7 state-operated area technology centers and converted career and technical education
+8 centers.
+9 (3) For converted career and technical education centers, beginning with fiscal year
+10 2024-2025, the Kentucky Department of Education shall deduct from funds
+11 designated for the state-operated area technology centers an amount equal to the
+12 administrative operations costs of each converted career and technical education
+13 center in the amount received by the center in the most recent fiscal year that the
+14 center was under state management and control. The funds for each converted
+15 career and technical education center shall be divided as follows:
+16 (a) Seventy-five percent (75%) of the funds shall be sent to the local district that
+17 has assumed management and control of the center; and
+18 (b) Twenty-five percent (25%) of the funds shall be sent to the career and
+19 technical education innovation and support fund established in subsection (4)
+20 of this section.
+21 (4) (a) There is hereby established in the State Treasury a restricted fund to be known
+22 as the career and technical education innovation and support fund to receive
+23 the funds allocated under subsection (3)(b) of this section. The fund shall
+24 consist of moneys received from state appropriations, gifts, grants, and federal
+25 funds. The fund shall be administered by the Office of Career and Technical
+26 Education. Amounts deposited in the fund shall be used for:
+27 1. Supporting innovation in new or emerging career fields;
+Page 36 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 2. Supporting state-operated area technology centers that may experience
+2 hardship or natural disasters;
+3 3. Personnel costs to provide technical assistance to local districts
+4 providing locally operated career and technical education, including
+5 technical assistance relating to the monitoring and oversight on the use
+6 of supplemental career and technical education funding; and
+7 4. Any other purposes reasonably related to improving student outcomes in
+8 career and technical education.
+9 (b) Notwithstanding KRS 45.229, fund amounts not expended at the close of a
+10 fiscal year shall not lapse but shall be carried forward into the next fiscal year.
+11 (5) Beginning with the 2024-2025 fiscal year and for each fiscal year thereafter, the
+12 Kentucky Department of Education shall distribute to local districts providing
+13 locally operated career and technical education and to state-operated area
+14 technology centers all general funds designated as supplemental funds to career and
+15 technical education programs, subject to the following:
+16 (a) A local district providing locally operated career and technical education or a
+17 state-operated area technology center shall maintain eligibility for receipt of
+18 federal funding pursuant to the Strengthening Career and Technical Education
+19 for the 21st Century Act, Pub. L. No. 115-224, to be eligible to receive
+20 supplemental funding pursuant to this subsection;
+21 (b) All supplemental funds distributed pursuant to this subsection shall be used to
+22 improve student outcomes in career and technical education pathways for
+23 students in grades nine (9) through twelve (12), including but not limited to
+24 student supplies, resources, materials, and equipment that is designed for
+25 enhanced quality of instruction in a career and technical education pathway,
+26 the purchase and maintenance of industry standard equipment, assisting
+27 students with achieving technical skill attainment, and supporting career and
+Page 37 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 technical student organization participation;
+2 (c) 1. Supplemental funds for career and technical education shall be divided
+3 and allocated to each local district providing locally operated career and
+4 technical education and to each state-operated area technology center,
+5 with sixty percent (60%) dedicated for enrollment-based funding and
+6 forty percent (40%) for incentive-based funding.
+7 2. The sixty percent (60%) enrollment-based funding shall be based on a
+8 statewide full-time equivalent calculation of the total weighted high-cost
+9 full-time equivalents and general-cost full-time equivalents during the
+10 prior school year, subject to the following:
+11 a. The department shall then distribute the enrollment-based funds
+12 for each state-operated area technology center or local district
+13 providing locally operated career and technical education based on
+14 the center's or district's proportional share of the combined
+15 weighted high-cost full-time equivalents and general-cost full-time
+16 equivalents of the prior year;
+17 b. The department shall distribute the state-operated area technology
+18 center fund portion to the respective state-operated area
+19 technology centers and the local district fund portion to the
+20 respective local districts; and
+21 c. The department shall classify qualifying programs as either a high-
+22 cost career and technical education program or a general-cost
+23 career and technical education program.
+24 3. The forty percent (40%) incentives-based funding shall be based on an
+25 annual statewide calculation of the total number of qualifying student
+26 incentives. The calculation shall only use students that are in grade
+27 twelve (12) and use the total incentives earned by those students during
+Page 38 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 secondary education at a state-operated area technology center or within
+2 a local district. Once a student has been included in a year's calculation,
+3 that student shall not be included in any subsequent year's calculation,
+4 subject to the following:
+5 a. Qualifying student incentives for students in their grade twelve
+6 (12) year shall include:
+7 i. Reaching the designation of a concentrator;
+8 ii. Technical skill attainment;
+9 iii. Completing a required number of hours or achieving a
+10 benchmark within a work-based learning program; and
+11 iv. Earning an approved career and technical education dual
+12 credit;
+13 b. The incentives in subdivision a. of this subparagraph shall be
+14 allotted to the state-operated area technology center or local
+15 district in which it was earned. Each type of incentive shall only be
+16 counted once per student at state-operated area technology centers
+17 and once per student at local districts for a maximum of four (4)
+18 incentives per student at state-operated area technology centers
+19 and four (4) incentives at local districts throughout their secondary
+20 career and technical education. For incentive criteria that is
+21 achieved more than once at state-operated area technology centers,
+22 the incentive shall be counted for the state-operated area
+23 technology center where it was first achieved. For incentive
+24 criteria that is achieved more than once at local districts, the
+25 incentive shall be counted for the local district where it was first
+26 achieved;
+27 c. The department shall distribute incentives-based funds for each
+Page 39 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 state-operated area technology center or local district based on the
+2 center's or district's proportional share of the combined number of
+3 qualifying student incentives achieved by students in grade twelve
+4 (12) at a state-operated area technology center or within a local
+5 district throughout their secondary career and technical education.
+6 The incentives-based funds shall be distributed to the state-
+7 operated area technology center or local district in which the
+8 incentive was achieved; and
+9 d. The department shall distribute the state-operated area technology
+10 center fund portion to the respective state-operated area
+11 technology centers and the local district fund portion to the
+12 respective local districts;
+13 (d) There shall be no mid-year adjustment to the allocation of career and technical
+14 education supplemental funding for a center or local district; and
+15 (e) Notwithstanding the restriction in paragraph (b) of this subsection, a district
+16 may submit a waiver request to the Office of Career and Technical Education
+17 to use a portion of its allocation of supplemental funds for career and
+18 technical education programming for students in grades (5) through eight (8).
+19 The district shall submit a request which details the district's plan for career
+20 and technical education programming for students in grades five (5) through
+21 eight (8). In reviewing the request, the Office of Career and Technical
+22 Education shall consider whether:
+23 1. The district details a plan for orientation and exploration of broad-based
+24 industries by giving students knowledge and experience regarding
+25 careers within these industries and exploratory or hands-on skills used in
+26 the industry;
+27 2. There is direct alignment between middle and secondary career and
+Page 40 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 1141
+1 technical education pathways within the requesting district; and
+2 3. Such designation of supplemental funding for programming for students
+3 in grades five (5) through eight (8) does not have a significant
+4 detrimental impact on the programming available for students in
+5 secondary grades.
+6 (6) The Office of Career and Technical Education shall monitor and provide oversight
+7 of state funds distributed pursuant to this section to ensure that the use of funding
+8 by eligible recipients meets the approved criteria as described in this section.
+9 (7) The Kentucky Board of Education shall promulgate administrative regulations in
+10 accordance with KRS Chapter 13A as may be needed in the administration of this
+11 section and for disbursement of moneys.
+12 (8) The Kentucky Department of Education shall publish on the department's website:
+13 (a) The list of all career and technical education programs available to students
+14 and the program's designation as a high-cost career and technical education
+15 program or as a general-cost career and technical education program;
+16 (b) A report of the supplemental funding amounts provided to each local district
+17 and to each state-operated area technology center, including an explanation of
+18 the amount designated as enrollment-based funding and as incentives-based
+19 funding; and
+20 (c) A report of the administrative operations costs provided to each state-operated
+21 area technology center and to each converted career and technical education
+22 center, as well as the amount contributed toward the career and technical
+23 education innovation and support fund.
+Page 41 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+[DELETED:   2  J A B S R ( A ( " d i o q m m o i c 1 A t 2 A s k c a s i r a 3 M e b t l c t s t c t r i s 1 a 2 o t p T i m i s w f r o s ( " l m a e e c b s a 1 D a 2 D o a ( E l s d m d a i a s o l d i o q i a w a r]
+[DELETED:   2  J p b t K B o E T l d i ( S ( L ( A s ( W f a ( D a s a t d p o t l d i ( T ( S o ( M d f i p u t p s n e a a e t t t d ( p d p t d ( ( W t c o e d t m t s p ( o l s d h e t d a i w t w ( A l s d r t a a s o l d]
+[DELETED:   2  J i o i a w p ( o s s y m ( T K B o E i a t p a r i a w K C 1 n t a t p S 2   K 1 ( J 1 2 i a t r a f ( A ( " l m a o w o h s m i p m c ( " c m e p o o d t c s w m r c b t s c i b n l t a p I ( " t i t r t s t c a a r t s a r a m i f s e o ( " c a ( " i t a o t a l t i s]
+[DELETED:   2  J a i t u o c a c a c o t [ t a ] i l ( " a m a t a g p t s ( " y s o o p o t t e s p a a ( " m a p a o t a e t u l c m a o c a i d f b h ( ( E p f r K a s a t a o c a f p r o r t e a w t r s n f g c s c a t e s a K 1 ( T 1 F t 2 R i f b m i s t f m]
+[DELETED:   2  J l 3 C e m c a c t t p 4 B 5 C 6 E p e s t s c b s a e e ( 1 T d s e f ( s a a r ( K p s t a a m o t ( r f K i o h e i a l o ( r f a p i o h e E c m s t i t s a c 2 O c t r o r a a w a s a c a i r o ( o t r o m o s a s a a a o ( o t r ( 1 T a 2 T ( a p s b a t e s a a a]
+[DELETED:   2  J r ( n 3 E f ( s h n p o c a w a c o a r ( T c o e a t p o t C o P a i p a e i c f t d o t v ( 1 T s a a p r c i h e d p s o w a l t ( s b p o p s i a O b O c O d O e T f T g O]
+[DELETED:   2  J 2 O b e o r 3 T o 4 N K 1 t c s n b s t r ( 1 T t p t a a K a o t p T d s e t p a i r a s c t t s a a a t c s a b e a w A a d d t t a a p f r a c 2 E a p s a f a t t a s a a 3 E s a a r c s r t]
+[DELETED:   2  J f a m r t r o r e s 4 T t p T c s s p t r a t p f t t I J C 5 T a a p r c s t p c r s i b n b l t t t o t r p p f a r f t I J C 6 A p a o t p i o s a t c d r f r a d i s 3 o t p I t p i f s t r s b f w ( T i o r a]
+[DELETED:   2  J ( 1 T K B o E s c f a t r t f s n 2 A r t o r o t a s a a a a r o t r p c u t s s b i i K p s n l t a 3 T ] ( T D o E s p o f s t s 1 I t r a s i c i 2 B i p a o s w t i 3 H ( T E P S B i c w t K s t ] t p p i u o t a s i t p e p a t a t i w h]
+[DELETED:   2  J e ( T D s s c i s r t a [ ] ( T a e ( ( T K B o E s b r f c a i a b s a p t m t s K 1 S s ( T a w r a s a c a a a a b t b u s ( o t s ( T s a s n i a a s n a ( T S A t T s a p s n i m o a s a t b a s i o t b a r]
+[DELETED:   2  J ( ( T a c o t s a p s b c o a s s t w m i a c o m c a a p m ( T 1 M i s a i [ ] [ 2 P o 3 P d i t i s a a d 4 P i t t t c e t t i i 5 P 6 E g s f i K 1 a 1 e t s a t b a s i o t b a r m ( T ( E 1 A t e ( a s a t m t d a b o t a 2 A a]
+[DELETED:   2  J a b o t a [ ] t b a o ( t w t e a m g r 3 A t g 4 A a t ( H 1 A v a b o K a c s t b a 2 A a t t 3 [ t 4 A a t 5 ] c a e t a E r m ( T t]
+[DELETED:   2  J o ( T c c r i t s s b c ( T b u b s a d t d a i m f a s i o f s t m c p ( E l f ( d o s i t d i c T K B o E m c t t w t a f i a s o o o t a a s p a o t p t b u d t t p t e t s a ( A s ( A l s d m s a u c i o f a h s l a t d l s b d a p m t r i i t r t t a o t i a d ( E s t e p s s u d a a p a]
+[DELETED:   2  J u d t ( T a ( T f p s a t t c a e d ( T h c o ( I c j ( A p t a s w a t c a 1 A p i a m a b t c a a p w r i t s a r p 2 A p i a m a b a s i e p a d i K 1 f a s w d p v a o h o h a a u t a p u s 1 o t p w t s s a n r p]
+[DELETED:   2  J ( K t s h a s r i p f a t d o t a e f t c a e d i s ( M d a g p a t t a ( P v a r s f s I s a r f s ( M ( A ( T r t t s d a s n l t s ( d f t l d t a c b a A r p o a ( T t a a a p I s d a b p f v r i p l t m a s i a r o t a o s a t s t f]
+[DELETED:   2  J 1 ( T l s n t e s p T c a s p d i t i i t m t n o i ( T A C f K A P s i p c o a s ( T a f t O o E A t S C A c t u ( A a o t s o t d a i o e a t a s w t f c r b r g a d w a 1 S a]
+[DELETED:   2  J 2 F A P C A I a I e t A e a s o " o b o C A I e o a s o f ( o b o I e w 3 N g 4 S l e i m o p i 5 A o s p d r b t E S S ( A t s a m T s s s d a p f a a ( A a s ( ( E c v l a i w l f m a h s T d c a t i r f c s p]
+[DELETED:   2  J s ( T h e o t p d e a t c b p o a a a t o d s a h a s ( T d s p t a s g f p t i p h s g f i a f l p T g r ( T s f ( ( T t a s d w a t c f s d m c p t a t p p ( E a t p o t s w T w p s i d]
+[DELETED:   2  J o s ( ( T K D o E i c w t r c p a a s i t i o t p a d i s ( o t s w m i s o a e i e a T d s i t e w e p o t s p r ( B p t s a a e ( I d i a s i o t p d i s s ( ( N d p e c p o t p o a c o a l i l a m s s ( ( T]
+[DELETED:   2  J 1 B 2 D t s a a t a c o a l o b g l f l a m 3 R a i a i A i A b A i C i S i D g i D v E s t a n e d t s v I v M v R a i S x T x S g ( T 1 A]
+[DELETED:   2  J a o t m r s a f w s a a c 2 I e c f q f a a c 3 R w c f a p o g o a s t w a t t d p f t a c I a s r t w f a c t p a w a 4 P a p t w a s f a c w w c f h o h p o g i t s e c a ( [ ] K B o E m p a r o ( B D 1 2 t K D o E i c w l s d s e s d r o S I]
+[DELETED:   2  J t ( ( T K B o E s c a a s t c s ( T s a s s i a a m d d t o p o e d s a s s B w d f t 2 s y p i a m h c " i T s i 1 S 2 M 3 P t a E p b l E p 4 b s y 5 6 r f e h s s w s b i t a M c i a]
+[DELETED:   2  J r P b A a m o t ( h o d c b c a c a b t K B o E o q f a m o t ( h o p a c a w a s a c A a b s o a A P I B C A I o o n r e a b t K B ( d C w i N t i A i A b t K B o E a r i f t L S A C e A a i c l o c w m w i a f i r c l o c i a h d i a w t p d i p ( o t s E i c l o c s n b l t t]
+[DELETED:   2  J E h s s p r t c h a c 7 o ( 1 [ t a s p f e d s a s c o a p h c " a i 2 S a c s r e w i d o p s 2 c a c y e c s b b o t d i p t l f p ( o s u K 1 3 F h t v l a f ( c l r f i s 4 T p c s f s a c l s b b o d a s b a b t K D o E a t L S A C T c s s n l s m d o s a]
+[DELETED:   2  J r 1 ( B d a o d o t s a s r h e s i a o p s b d i a s m o t d [ o p s p 2 T p c s f t c p l f e s i a o p s b b o d a s b a b t K D o E s c a N ( B S e d o f i s r s s a c s t t s a r w a r t b d W c b t K D o E d t l t a s]
+[DELETED:   2  J ( 1 T a r c c o l i t s c a 2 I a h s s h n c t t ( c r p d s p a w r a t t s d f t c o t a b o t l o d B o E s p r e t p e e r a w r ( P t p a r t r t a s t b s s a f t S C A t E A a A R S ( A ( 1 T b b 2 T w t ( T]
+[DELETED:   2  J a ( T b ( A C A a A C a t d t a K c s t i ( A d ( S ( E 1 ( E ( O ( A s ( A S t O o E A t S C A c t K B E m p b a r a s o d a t i e a f f]
+[DELETED:   2  J a g f i o a t ( y p r f l a d c K ( A C A a A C a t d t a r i c w K 1 a 1 a K a s w c i a w K C 1 T s b m a a p t c t t j i b o f o i c i a i l a r b o w t a s w ( A a r p b t d t a c s b s a r b t d b J 1 a D i ( A 1 D a m t t a a a s]
+[DELETED:   2  J 2 T d o a r g t a 3 T s o s u i t a a a s 4 K ( A a r  U r t S ( A u s s b t C o P f e i a c c a a p p i w p i a r c o a e c w s a s s b p t o t p i a l d t a h o h i a d p t h ( A a ( A a s l p t b i t m t s a p ( M ( T a]
+[DELETED:   2  J s S A ( " t m a s o o t p s i a a ( " d ( " a a a C ( " ( " ( ( " m t C o P E c u K 1 ( " ( I r ( W 1 I t d u d o e h w m t K s 2 I]
+[DELETED:   2  J a a W b C t h s g r d t f c W t 3 I C s t K e e s c r ( H b s ( I ( " t U S a K r a d b t p i a ( E ( H a 1 ( H ( I ( I ( " t m t f s r o t p i i]
+[DELETED:   2  J w ( " p a o " m t g p a e b a e t o ( " s m a K p h s t G A o M a S i K t C A f E i S 1 b c o ( " o " e e s m a s p ( " ( F e a ( F a s e u K 1 t K s a ( " a ( " h ( " t i]
+[DELETED:   2  J ( " s a m t a e b a e s b ( " t f m t W G W K e e ( " t t g m t n o c c h e a c t t n o h d b t p e i a n t c a b d b t e o e ( a t o t ( a t i a s i e i a u ( " e a o t t a d n o a f t a ( 1 I 2 I l o s n c s o s i a a a r E d 3 I o a i ( C t c f r t s f a p ( " w]
+[DELETED:   2  J i o S ( A ( " a s o a s a t c i b n l t p f c b u a m a c ( " o K a t e d c c e t t ( h o c ( " c a t e p a b t K D o E t p a c a s o r a a c c w a c a t e p a a l t a a d a i r ( " l ( " l o c a t e f w a l d a d ( " c a t e p m a c a t e p o p i w h t e]
+[DELETED:   2  J ( " f e m t t n o s s e i g c a t e p m s ( " c a t e p m a c a t e p o p i w h e m ( " t t ( " a t c m a s s s f w t p p o o a c a t ( " b l t c ( " s a m e a i c I p K D o E O o C a T E ( " h f e m t t n o s s e i h c a t e p a e d b s ( h a m b o a o]
+[DELETED:   2  J ( ( " l p m a c e p i c ( T a s c ( F c c a t e c b w f y 2 t K D o E s d f f d a o c o e c c a t e c c w u s m a c T f f e c c ( S h ( T p ( o t f s b s t t c a t o ( ( T a t f a u s ( o t s T f s c f E 1 S]
+[DELETED:   2  J 2 S h 3 P c t p t a t l d p l o c a t e i t o 4 A c ( N f ( B K D o E s d t l d p l o c a t e a t s a t t ( A s f f t 2 C A P L N 1 t b e t r s ( A i s o i c a t e p f s s s r m a e t i d f e t p a m o i s e a s]
+[DELETED:   2  J t ( 1 S a t w s p ( d f e f a f 2 T s f f e p a T d s t d t e f f e s a t c o l d p t c o d p s o t c w e b T c f p t t r s a t c a t l d f p t t r c T c c a t e p o a g c 3 T a i T c s o u s t a i g t]
+[DELETED:   2  J s a t s a Q s i f s i t g t ( i R i T i C a r n o h o a a b i E a a c a t e d c b T i i s a o t s s b a t t s a t c o l d c a i p s a s a t c a c a t e F i c t i a t i s b c f t s a t c w i w f a F i c t i a m t o a l d t i a c T d s d i f f e]
+[DELETED:   2  J s c q ( a c o d T i f s b d t t s o a t c o l d i w t i d T c f p t t r s a t c a t l d f p t t r ( T e ( N m t u a p o i a o s f f c a t T a e ( I r t r t O o C a T E 1 T i b g s k a e r c t 2 T i d a b m a s c a]
+[DELETED:   2  J t 3 S i g f ( t e ( d n h a s d i o t p a f s i s ( T o b ( T a s ( T ( T a p ( A a t f ( A a c a w a t a c t t c a t e]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 1141
+1 AN ACT relating to the education assessment and accountability system.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Locally developed indicators of quality" means measures or indicators
+7 created or adopted by a local school district that:
+8 1. Are aligned with the academic standards established in Section 2 of
+9 this Act;
+10 2. Allow students to demonstrate their ability to apply grade-appropriate,
+11 standards-driven knowledge, content, and skills in real-world
+12 applications; and
+13 3. May include additional locally identified indicators related to priorities
+14 established by the local community that serve to complement the
+15 requirements in subparagraphs 1. and 2. of this paragraph. These
+16 indicators may include student well-being, fiscal responsibility, or
+17 school safety; and
+18 (b) "Vibrant learning" means an educational experience characterized by
+19 student agency and the application of knowledge and skills aligned with the
+20 academic standards established in Section 2 of this Act and are:
+21 1. Developed in partnership with students' families, local communities,
+22 and the local workforce; and
+23 2. Demonstrated through personalized projects, outputs, experiences, or
+24 other produced results reflecting each individual student's academic
+25 and career interests.
+26 (2) Each local school district may develop and implement a system of locally
+27 developed indicators of quality in accordance with administrative regulations
+Page 1 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 promulgated by the Kentucky Board of Education. The locally developed
+2 indicators of quality shall include:
+3 (a) Student participation in vibrant learning experiences; and
+4 (b) Locally developed indicators of performance.
+5 (3) A local school district utilizing a system of locally developed indicators of quality
+6 shall:
+7 (a) When an indicator involves student data, include student performance data
+8 for all students, disaggregated by individual subgroups, where permissible;
+9 and
+10 (b) Develop a publicly available, online display that clearly communicates each
+11 applicable school and the district's performance on the locally developed
+12 indicators, disaggregated by individual subgroups, where permissible.
+13 (4) The Kentucky Department of Education:
+14 (a) Shall offer technical assistance to local school districts in their development
+15 of locally developed indicators of quality; and
+16 (b) May offer an annual incentive to encourage local districts to develop locally
+17 developed indicators of quality, which may include a financial incentive. A
+18 financial incentive provided under this paragraph shall not exceed an
+19 amount equal to ten thousand dollars ($10,000) per district plus three
+20 dollars ($3) per student.
+21 (5) (a) When the commissioner of education determines that more than sixty
+22 percent (60%) of local school districts have elected to develop and
+23 implement a system of locally developed indicators of quality in accordance
+24 with subsection (2) of this section, all local school districts shall be required
+25 to adopt a system of locally developed indicators of quality in accordance
+26 with the requirements of subsection (2) of this section.
+27 (b) A local school district required to adopt a system of locally developed
+Page 2 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 indicators of quality in accordance with paragraph (a) of this subsection
+2 shall comply with the requirement by the school year that occurs two (2)
+3 years after the commissioner's determination that the threshold has been
+4 met.
+5 (6) The Kentucky Board of Education is authorized to promulgate administrative
+6 regulations in accordance with KRS Chapter 13A necessary to administer the
+7 provisions of this section.
+8 Section 2. KRS 158.6453 (Effective July 1, 2026) is amended to read as
+9 follows:
+10 (1) As used in this section:
+11 (a) "Accelerated learning" means an organized way of helping students meet
+12 individual academic goals by providing direct instruction to eliminate student
+13 performance deficiencies or enable students to move more quickly through
+14 course requirements and pursue higher level skill development;
+15 (b) "Advanced coursework" means educational programs or opportunities
+16 designed to challenge students with more rigorous content beyond the
+17 standard curriculum, including but not limited to advanced placement,
+18 International Baccalaureate, and honors courses;
+19 (c) "Constructed-response items" or "performance-based items" means individual
+20 test items that require the student to create an answer rather than select a
+21 response and may include fill-in-the-blank, short-answer, extended-answer,
+22 open-response, and writing-on-demand formats;
+23 (d) "Criterion-referenced test" means a test that is aligned with defined academic
+24 content standards and measures an individual student's level of performance
+25 against the standards;
+26 (e) "Formative assessment" means a process used by teachers and students during
+27 instruction to adjust ongoing teaching and learning to improve students'
+Page 3 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 achievement of intended instructional outcomes. Formative assessments may
+2 include the use of commercial assessments, curriculum-embedded
+3 assessments, classroom observations, teacher-designed [classroom tests and
+4 ]assessments, and other processes and assignments to gain information about
+5 individual student learning that reflects developmentally appropriate grade-
+6 level performance;
+7 (f) "Interim assessments" means assessments that are given periodically
+8 throughout the year to provide diagnostic information and to show individual
+9 student performance against content standards;
+10 (g) "Summative assessment" means an assessment given at the end of the school
+11 year, semester, or other period of time to evaluate students' performance
+12 against academic[content] standards within a unit of instruction or a course;
+13 and
+14 (h) "Writing" means a purposeful act of thinking and expression that uses
+15 language to explore ideas and communicate meaning to others. Writing is a
+16 complex, multifaceted act of communication and is distinct from basic
+17 handwriting or penmanship.
+18 (2) (a) Every six (6) years, the Kentucky Department of Education shall implement a
+19 process for reviewing Kentucky's academic standards and the alignment of
+20 corresponding assessments for possible revision or replacement to ensure
+21 alignment with transition readiness standards necessary for global
+22 competitiveness, state career and technical education standards, and KRS
+23 158.196.
+24 (b) The revisions to the academic[content] standards shall:
+25 1. Focus on critical knowledge, skills, and capacities needed for success in
+26 the global economy;
+27 2. Result in fewer but more in-depth standards to facilitate mastery
+Page 4 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 learning;
+2 3. Communicate expectations more clearly and concisely to teachers,
+3 parents, students, and citizens;
+4 4. Be based on evidence-based research;
+5 5. Consider international benchmarks; and
+6 6. Ensure that the standards are aligned from elementary to high school to
+7 postsecondary education so that students can be successful at each
+8 education level.
+9 (c) 1. The department shall establish four (4) standards and assessments
+10 review committees, with each committee composed of a minimum of six
+11 (6) Kentucky public school teachers and a minimum of two (2)
+12 representatives from Kentucky institutions of higher education,
+13 including at least one (1) representative from a public institution of
+14 higher education. Each committee member shall teach in the subject
+15 area that his or her committee is assigned to review and have no prior or
+16 current affiliation with a curriculum or assessment resources vendor.
+17 2. One (1) of the four (4) committees shall be assigned to focus on the
+18 review of reading[language arts] and writing academic standards and
+19 corresponding assessments in reading, one (1) on the review of
+20 mathematics academic standards and assessments, one (1) on the review
+21 of science academic standards and assessments, and one (1) on the
+22 review of social studies academic standards and assessments.
+23 (d) 1. The department shall establish twelve (12) advisory panels to advise and
+24 assist each of the four (4) standards and assessments review committees.
+25 2. Three (3) advisory panels shall be assigned to each standards and
+26 assessments review committee. One (1) panel shall review the standards
+27 and assessments for kindergarten through grade five (5), one (1) shall
+Page 5 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 review the standards and assessments for grades six (6) through eight
+2 (8), and one (1) shall review the standards and assessments for grades
+3 nine (9) through twelve (12).
+4 3. Each advisory panel shall be composed of at least one (1) representative
+5 from a Kentucky institution of higher education and a minimum of six
+6 (6) Kentucky public school teachers who teach in the grade level and
+7 subject reviewed by the advisory panel to which they are assigned and
+8 have no prior or current affiliation with a curriculum or assessment
+9 resources vendor.
+10 (e) The commissioner of education and the president of the Council on
+11 Postsecondary Education shall also provide consultants for the standards and
+12 assessments review committees and the advisory panels who are business and
+13 industry professionals actively engaged in career fields that depend on the
+14 various content areas.
+15 (f) 1. The standards and assessments process review committee is hereby
+16 established and shall be composed of the commissioner of education or
+17 designee as a nonvoting member and nine (9) voting representatives of
+18 public schools, of whom at least two (2) shall be parents of public
+19 school students, appointed by the Governor and confirmed by the Senate
+20 in accordance with KRS 11.160 as follows:
+21 a. One (1) language arts teacher;
+22 b. One (1) math teacher;
+23 c. One (1) science teacher;
+24 d. One (1) social studies teacher;
+25 e. Two (2) school principals;
+26 f. Two (2) school superintendents; and
+27 g. One (1) school board member.
+Page 6 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 2. On making appointments to the committee, the Governor shall ensure
+2 broad geographical urban and rural representation and representation of
+3 elementary, middle, and high school levels; ensure equal representation
+4 of the two (2) sexes, inasmuch as possible; and ensure that appointments
+5 reflect the minority racial composition of the Commonwealth.
+6 3. The review of the committee shall be limited to the procedural aspects
+7 of the review process undertaken prior to its consideration.
+8 4. Notwithstanding KRS 12.028, the committee shall not be subject to
+9 reorganization by the Governor.
+10 (g) 1. The review process implemented under this subsection shall be an open,
+11 transparent process that allows all Kentuckians an opportunity to
+12 participate. The department shall ensure the public's assistance in
+13 reviewing and suggesting changes to the standards and alignment
+14 adjustments to corresponding state assessments by establishing a
+15 website dedicated to collecting comments by the public and educators.
+16 An independent third party, which has no prior or current affiliation with
+17 a curriculum or assessment resources vendor, shall be selected by the
+18 department to collect and transmit the comments to the department for
+19 dissemination to the appropriate advisory panel for review and
+20 consideration.
+21 2. Each advisory panel shall review the standards and assessments for its
+22 assigned subject matter and grade level and the suggestions made by the
+23 public and educators. After completing its review, each advisory panel
+24 shall make recommendations for changes to the standards and alignment
+25 adjustments for assessments to the appropriate standards and
+26 assessments review committee.
+27 3. Each standards and assessments review committee shall review the
+Page 7 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 findings and make recommendations to revise or replace existing
+2 standards and to adjust alignment of assessments.
+3 4. The recommendations shall be published on the website established in
+4 this subsection for the purpose of gathering additional feedback from the
+5 public. The commissioner shall subsequently present the
+6 recommendations and the public feedback to the Interim Joint
+7 Committee on Education.
+8 5. The commissioner shall subsequently provide a report to the standards
+9 and assessments process review committee summarizing the process
+10 conducted under this subsection and the resulting recommendations. The
+11 report shall include but not be limited to the timeline of the review
+12 process, public feedback, and responses from the Interim Joint
+13 Committee on Education.
+14 6. After receiving the commissioner's report, the standards and assessments
+15 process review committee shall either concur that stakeholders have had
+16 adequate opportunity to provide input on standards and the
+17 corresponding alignment of state assessments or find the input process
+18 deficient. If the process is found deficient, the recommendations may be
+19 returned to the appropriate standards and assessments review committee
+20 for review as described in subparagraph 3. of this paragraph. If the
+21 process is found sufficient, the recommendations shall be forwarded
+22 without amendment to the Kentucky Board of Education.
+23 (h) The Kentucky Board of Education shall promulgate administrative regulations
+24 in accordance with KRS Chapter 13A as may be needed for the administration
+25 of the review process, including staggering the timing and sequence of the
+26 review process by subject area and remuneration of the review committees
+27 and advisory panels described in paragraphs (c) and (d) of this subsection.
+Page 8 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 (i) 1. The Kentucky Board of Education shall consider for approval the
+2 revisions to academic standards for a content area and the alignment of
+3 the corresponding state assessment once recommendations are received
+4 from the standards and assessments process review committee. Existing
+5 state academic standards shall remain in place until the board approves
+6 new standards.
+7 2. Any revision to, or replacement of, the academic standards and
+8 assessments as a result of the review process conducted under this
+9 subsection shall be implemented in Kentucky public schools no later
+10 than the second academic year following the review process. Existing
+11 academic standards shall be used until new standards are implemented.
+12 3. The Department of Education shall disseminate the academic [content
+13 ]standards to the schools and teacher preparation programs.
+14 (j) The Department of Education shall provide or facilitate statewide training
+15 sessions for existing teachers and administrators on how to:
+16 1. Integrate the revised academic[content] standards into classroom
+17 instruction;
+18 2. Better integrate performance assessment of students within their
+19 instructional practices; and
+20 3. Help all students use higher-order thinking and communication skills.
+21 (k) The Education Professional Standards Board in cooperation with the
+22 Kentucky Board of Education and the Council on Postsecondary Education
+23 shall coordinate information and training sessions for faculty and staff in all of
+24 the teacher preparation programs in the use of the revised academic [content
+25 ]standards. The Education Professional Standards Board shall ensure that each
+26 teacher preparation program includes use of the academic standards in the
+27 pre-service education programs and that all teacher interns will have
+Page 9 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 experience planning classroom instruction based on the revised standards.
+2 (l) The Council on Postsecondary Education in cooperation with the Kentucky
+3 Department of Education and the postsecondary education institutions in the
+4 state shall coordinate information sessions regarding the academic [content
+5 ]standards for faculty who teach in the various content areas.
+6 (m) The Education Professional Standards Board shall, as a condition of program
+7 approval, require teacher preparation programs to align curriculum with the
+8 expectations set forth in the state's academic [content ]standards.
+9 (3) (a) The Kentucky Board of Education shall be responsible for creating and
+10 implementing a balanced statewide assessment program that measures the
+11 students', schools', and districts' achievement of the goals set forth in KRS
+12 158.645 and 158.6451, to ensure compliance with the federal Every Student
+13 Succeeds Act of 2015, Pub. L. No. 114-95, or its successor, and to ensure
+14 school accountability.
+15 (b) The board shall revise the annual statewide assessment program as needed in
+16 accordance with revised academic standards and corresponding assessment
+17 alignment adjustments approved by the board under subsection (2) of this
+18 section.
+19 (c) The statewide assessments shall not include any academic standards not
+20 approved by the board under subsection (2) of this section.
+21 (d) The board shall seek the advice of the Office of Education Accountability; the
+22 School Curriculum, Assessment, and Accountability Council; the Education
+23 Assessment and Accountability Review Subcommittee, and the department's
+24 technical advisory committee in the development of the assessment program.
+25 The statewide assessment program shall not include measurement of a
+26 student's ability to become a self-sufficient individual or to become a
+27 responsible member of a family, work group, or community.
+Page 10 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 (4) (a) The academic components of the statewide assessment program shall be
+2 composed of annual student summative tests, which may include a
+3 combination of multiple competency-based assessment and performance
+4 measures approved by the Kentucky Board of Education.
+5 (b) The annual student summative tests shall:
+6 1. Measure individual student achievement in [language, ]reading,
+7 [English, ]mathematics, science, and social studies at designated grades;
+8 2. Provide teachers and parents a valid and reliable comprehensive analysis
+9 of skills mastered by individual students;
+10 3. Provide diagnostic information that identifies strengths and academic
+11 deficiencies of individual students in the content areas;
+12 4. Provide information to teachers that can enable them to improve
+13 instruction for current and future students;
+14 5. Provide longitudinal profiles for students; and
+15 6. Ensure school and district accountability for student achievement of the
+16 goals set forth in KRS 158.645 and 158.6451, except the statewide
+17 assessment program shall not include measurement of a student's ability
+18 to become a self-sufficient individual or to become a responsible
+19 member of a family, work group, or community.
+20 (5) The state student assessments shall include the following components:
+21 (a) Elementary and middle grades requirements are:
+22 1. A criterion-referenced test each in mathematics and reading in grades
+23 three (3) through eight (8) that is valid and reliable for an individual
+24 student and that measures the depth and breadth of the[Kentucky's]
+25 academic [content ]standards; and
+26 2. A criterion-referenced test each in science and social studies that is valid
+27 and reliable for an individual student as necessary to measure the depth
+Page 11 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 and breadth of the[Kentucky's] academic [content ]standards to be
+2 administered one (1) time within the elementary and middle grades,
+3 respectively;[
+4 3. An on-demand assessment of student writing to be administered one (1)
+5 time within the elementary grades and one (1) time within the middle
+6 grades; and
+7 4. An editing and mechanics test relating to writing, using multiple choice
+8 and constructed response items, to be administered one (1) time within
+9 the elementary and the middle grades, respectively;]
+10 (b) High school requirements are:
+11 1. A criterion-referenced test in mathematics, reading, and science that is
+12 valid and reliable for an individual student and that measures the depth
+13 and breadth of Kentucky's academic content standards to be
+14 administered one (1) time within the high school grades;
+15 2. A criterion-referenced test in social studies that is valid and reliable for
+16 an individual student as necessary to measure the depth and breadth of
+17 the[Kentucky's] academic [content ]standards to be administered one (1)
+18 time within the high school grades; and
+19 3. [An on-demand assessment of student writing to be administered one (1)
+20 time within the high school grades;
+21 4. An editing and mechanics test relating to writing, using multiple choice
+22 and constructed response items, to be administered one (1) time within
+23 the high school grades; and
+24 5. ]A college admissions examination to assess English, reading,
+25 mathematics, and science in the spring of grade eleven (11);
+26 (c) The Kentucky Board of Education shall add any other component necessary
+27 to comply with the Every Student Succeeds Act of 2015, Pub. L. No. 114-95,
+Page 12 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 or its successor, as determined by the United States Department of Education;
+2 (d) The criterion-referenced components required in this subsection shall be
+3 composed of constructed response items and multiple choice items; and
+4 (e) The results of the assessment program developed under this subsection shall
+5 be used by schools and districts to determine appropriate instructional
+6 modifications for all students in order for students to make continuous
+7 progress, including that needed by advanced learners.
+8 (6) Each school district shall administer the statewide student assessment during the
+9 last fourteen (14) days of school in the district's instructional calendar. The
+10 Kentucky Board of Education may change the testing window to allow for
+11 innovative assessment systems or other online test administration and shall
+12 promulgate administrative regulations that minimize the number of days of testing
+13 and outline the procedures to be used during the testing process to ensure test
+14 security, including procedures for testing makeup days, and to comply with federal
+15 assessment requirements.
+16 (7) A student enrolled in a district-operated or district-contracted alternative program
+17 shall participate in the appropriate assessments required by this section.
+18 (8) A local school district may select and use commercial interim or formative
+19 assessments or develop and use its own formative assessments to provide data on
+20 how well its students are growing toward mastery of Kentucky academic standards,
+21 so long as the district's local school board develops a policy minimizing the
+22 reduction in instructional time related to the administration of the interim
+23 assessments. Nothing in this section precludes teachers from using ongoing teacher-
+24 developed formative processes.
+25 (9) Each school that enrolls primary students shall use diagnostic assessments and
+26 prompts that measure readiness in reading and mathematics for its primary students
+27 as determined by the school to be developmentally appropriate. The schools may
+Page 13 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 use commercial products, use products and procedures developed by the district, or
+2 develop their own diagnostic procedures. The results shall be used to inform the
+3 teachers and parents or guardians of each student's skill level.
+4 (10) The state board shall ensure that a technically sound longitudinal comparison of the
+5 assessment results for the same students shall be made available.
+6 (11) The following provisions shall apply to the college admissions examination
+7 described in subsection (5)(b)3.[5.] of this section:
+8 (a) The cost of the college admissions examination administered to students in
+9 high school shall be paid for by the Kentucky Department of Education. The
+10 costs of additional college admissions examinations shall be the responsibility
+11 of the student;
+12 (b) If funds are available, the Kentucky Department of Education shall provide a
+13 college admissions examination preparation program to all public high school
+14 juniors. The department may contract for necessary services; and
+15 (c) Accommodations provided to a student with a disability taking the college
+16 admissions assessment under this subsection shall consist of:
+17 1. Accommodations provided in a manner allowed by the college
+18 admissions assessment provider when results in test scores are
+19 reportable to a postsecondary institution for admissions and placement
+20 purposes, except as provided in subparagraph 2. of this paragraph; or
+21 2. Accommodations provided in a manner allowed by a student's
+22 individualized education program as defined in KRS 158.281 for a
+23 student whose disability precludes valid assessment of his or her
+24 academic abilities using the accommodations provided under
+25 subparagraph 1. of this paragraph when the student's scores are not
+26 reportable to a postsecondary institution for admissions and placement
+27 purposes.
+Page 14 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 (12) Kentucky teachers shall have a significant role in providing feedback about the
+2 design of the assessments, except for the college admissions exam described in
+3 subsection (5)(b)3.[5.] of this section. The assessments shall be designed to:
+4 (a) Measure developmentally appropriate grade-level performance aligned to
+5 the academic standards[grade appropriate core academic content, basic skills,
+6 and higher-order thinking skills and their application];
+7 (b) Provide valid and reliable scores for schools. If scores are reported for
+8 students individually, they shall be valid and reliable; and
+9 (c) Minimize the time spent by teachers and students on assessment[; and
+10 (d) Assess Kentucky academic standards only].
+11 (13) The results from assessment under subsections (3) and (5) of this section shall be
+12 reported to the school districts and schools no later than seventy-five (75) days
+13 following the last day the assessment can be administered. Assessment reports
+14 provided to the school districts and schools shall include an electronic copy of an
+15 operational subset of test items from each assessment administered to their students
+16 and the results for each of those test items by student and by school.
+17 (14) The Department of Education shall gather information to establish the validity of
+18 the assessment and accountability program. It shall develop a biennial plan for
+19 validation studies that shall include but not be limited to the consistency of student
+20 results across multiple measures, the congruence of school scores with documented
+21 improvements in instructional practice and the school learning environment, and the
+22 potential for all scores to yield fair, consistent, and accurate student performance
+23 level and school accountability decisions. Validation activities shall take place in a
+24 timely manner and shall include a review of the accuracy of scores assigned to
+25 students and schools, as well as of the testing materials. The plan shall be submitted
+26 to the Commission by July 1 of the first year of each biennium. A summary of the
+27 findings shall be submitted to the Legislative Research Commission by September
+Page 15 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 1 of the second year of the biennium.
+2 (15) The Department of Education and the state board shall offer optional assistance to
+3 local school districts and schools in developing and using continuous assessment
+4 strategies needed to ensure student progress. The continuous assessment shall
+5 provide diagnostic information to improve instruction to meet the needs of
+6 individual students.
+7 (16) The Administration Code for Kentucky's Assessment Program shall include
+8 prohibitions of inappropriate test preparation activities by school district employees
+9 charged with test administration and oversight, including but not limited to the issue
+10 of teachers being required to do test practice in lieu of regular classroom instruction
+11 and test practice outside the normal work day. The code shall include disciplinary
+12 sanctions that may be taken toward a school or individuals.
+13 (17) The Kentucky Board of Education, after the Department of Education has received
+14 advice from the Office of Education Accountability; the School Curriculum,
+15 Assessment, and Accountability Council; and the department's technical advisory
+16 committee, shall promulgate an administrative regulation under KRS Chapter 13A
+17 to establish the components of a reporting structure for assessments administered
+18 under this section. The reporting structure shall include the following components:
+19 (a) A school report card that clearly communicates with parents and the public
+20 about school performance. The school report card shall be sent to the parents
+21 of the students of the districts, and information on electronic access to a
+22 summary of the results for the district shall be published in the newspaper
+23 with the largest circulation in the county. It shall include but not be limited to
+24 the following components reported by race, gender, and disability when
+25 appropriate:
+26 1. Student academic achievement, including the results from each of the
+27 assessments administered under this section;
+Page 16 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 2. For Advanced Placement, Cambridge Advanced International, and
+2 International Baccalaureate, the courses offered, the number of students
+3 enrolled, completing, and taking the examination for each course, and
+4 the percentage of examinees receiving a score of three (3) or better on
+5 AP examinations, a score of "e" or better on Cambridge Advanced
+6 International examinations, or a score of four (4) or better on IB
+7 examinations. The data shall be disaggregated by gender, race, students
+8 with disabilities, and economic status;
+9 3. Nonacademic achievement, including the school's attendance, retention,
+10 graduation rates, and student transition to postsecondary;
+11 4. School learning environment, including measures of parental
+12 involvement; and
+13 5. Any other school performance data required by the Every Student
+14 Succeeds Act of 2015, Pub. L. No. 114-95, or its successor;
+15 (b) An individual student report to parents for each student in grades three (3)
+16 through eight (8) summarizing the student's skills in reading, science, social
+17 studies, and mathematics. The school's staff shall develop a plan for
+18 accelerated learning for any student with identified deficiencies or strengths;
+19 and
+20 (c) A student's score on the college admissions assessment administered under
+21 subsection (5)(b)3.[5.] of this section.
+22 (18) (a) Every six (6) years, the Kentucky Department of Education shall implement a
+23 comprehensive process for reviewing and revising the academic standards in
+24 visual and performing arts and practical living skills and career studies for all
+25 levels and in world[foreign] language for middle and high schools. The
+26 department shall develop review committees for the standards for each of the
+27 content areas that include representation from certified specialist public
+Page 17 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 school teachers and postsecondary teachers in those subject areas.
+2 (b) The academic standards in practical living skills for elementary, middle, and
+3 high school levels shall include a focus on drug abuse prevention, with an
+4 emphasis on the prescription drug epidemic and the connection between
+5 prescription opioid abuse and addiction to other drugs, such as heroin and
+6 synthetic drugs.
+7 (c) The department shall provide to all schools guidelines for programs that
+8 incorporate the adopted academic standards in visual and performing arts and
+9 practical living and career studies. The department shall provide to middle and
+10 high schools guidelines for including a foreign language program. The
+11 guidelines shall address program length and time, courses offered, staffing,
+12 resources, and facilities.
+13 (d) The Kentucky Department of Education, in consultation with certified public
+14 school teachers of visual and performing arts, may develop program standards
+15 for the visual and performing arts.
+16 (19) (a) The Kentucky Department of Education shall develop and distribute[provide]
+17 to all school districts guidelines for including an effective writing program
+18 across the content areas aligned to the academic standards. The department
+19 shall provide professional learning opportunities to support authentic and
+20 disciplinary-specific writing across the curriculum for school-based
+21 decision making councils, principals, teachers, and teacher preparation
+22 programs[within the curriculum].
+23 (b) Each school-based decision making council, or if there is no school council
+24 a committee appointed by the principal, shall adopt policies that determine
+25 the writing program for the school and ensure the writing program policy is
+26 published on the school's website. The writing program shall include
+27 disciplinary-specific writing across the curriculum and incorporate a variety
+Page 18 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 of language resources, technological tools, and multiple opportunities for
+2 students to develop complex communication skills for a variety of purposes.
+3 (20) (a) The Kentucky Department of Education, in consultation with the review
+4 committees described in subsection (18) of this section, shall develop a school
+5 profile report to be used by all schools to document how they will address the
+6 adopted academic standards in their implementation of the programs as
+7 described in subsection (18) of this section, which may include student
+8 opportunities and experiences in extracurricular activities. The department
+9 shall include the essential workplace ethics program on the school profile
+10 report.
+11 (b) By October 1 of each year, each school principal shall complete the school
+12 profile report, which shall be signed by the members of the school council, or
+13 the principal if no school council exists, and the superintendent. The report
+14 shall be electronically transmitted to the Kentucky Department of Education,
+15 and the original shall be maintained on file at the local board office and made
+16 available to the public upon request. The department shall include a link to
+17 each school's profile report on its website.
+18 (c) If a school staff member, student, or a student's parent has concerns regarding
+19 deficiencies in a school's implementation of the programs described in
+20 subsection (18) of this section, he or she may submit a written inquiry to the
+21 school council.
+22 (21) (a) No later than December 1, 2025, each local board of education shall adopt a
+23 district plan establishing clear policies on the promotion of advanced
+24 coursework or accelerated learning in language arts, mathematics, social
+25 studies, and science by grade level for students in grades four (4) to twelve
+26 (12).
+27 (b) The district plan required by paragraph (a) of this subsection shall:
+Page 19 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 1. Be published on a publicly accessible location on the district website;
+2 2. Describe the strategies and approach to advanced coursework or
+3 accelerated learning options by grade level for language arts,
+4 mathematics, social studies, and science; and
+5 3. Require that the service delivery options for students identified as gifted
+6 and talented in language arts, mathematics, social studies, and science
+7 include the following for each grade level and subject area:
+8 a. i. Accelerated learning; or
+9 ii. Advanced coursework; and
+10 b. At least one (1) of the following service delivery options:
+11 i. Collaborative teaching and consultation services;
+12 ii. Special counseling services;
+13 iii. Differentiated study experiences for individuals and cluster
+14 groups in the regular classroom;
+15 iv. Distance learning;
+16 v. Enrichment services that are not extracurricular during the
+17 school day;
+18 vi. Independent study;
+19 vii. Mentorships;
+20 viii. Resource services delivered in a pull-out classroom or other
+21 appropriate instructional setting;
+22 ix. Seminars;
+23 x. Travel study options; or
+24 xi. Special schools or self-contained classrooms for students in
+25 grades four (4) through twelve (12) only.
+26 (c) The district plan required by paragraph (a) of this subsection may:
+27 1. Automatically enroll a student who scores distinguished in any subject
+Page 20 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 area on the most recent statewide assessment for which scores are
+2 available in available advanced coursework for that subject area and any
+3 corresponding subject area designated by the local board of education;
+4 2. Include eligibility criteria for qualification for available advanced
+5 coursework for all other students;
+6 3. Require written consent from a parent or guardian of a student to
+7 withdraw or exclude a student that is eligible for advanced coursework
+8 according to the district plan from that advanced coursework. If a
+9 student requests to withdraw from advanced coursework to pursue
+10 another educational opportunity, a principal may withdraw the student
+11 without written consent from a parent or guardian only after a good-faith
+12 attempt to contact the parent or guardian is unsuccessful; and
+13 4. Permit a principal to withdraw a student from advanced coursework
+14 without written consent from his or her parent or guardian if the
+15 student's participation in advanced coursework would have an adverse
+16 educational impact on a student, including interference with his or her
+17 career pathway, access to career and technical education coursework, or
+18 another educational opportunity.
+19 (22) [(a) ]The Kentucky Board of Education may promulgate administrative
+20 regulations in accordance with KRS Chapter 13A to administer the provisions
+21 of subsection (21) of this section.[
+22 (b) By December 1, 2025, the Kentucky Department of Education, in
+23 collaboration with local school districts, shall establish school district
+24 recommendations for the consistent use of preliminary assessment data and
+25 other criteria to identify students prepared for advanced coursework. ]
+26 Section 3. KRS 158.6455 is amended to read as follows:
+27 It is the intent of the General Assembly that schools succeed with all students and receive
+Page 21 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 the appropriate consequences in proportion to that success.
+2 (1) (a) The Kentucky Board of Education shall create an accountability system to
+3 classify districts and schools in accordance with the academic standards and
+4 student assessment program developed pursuant to KRS 158.6453.
+5 (b) The state accountability system shall include an annual meaningful
+6 differentiation of all public schools in the state using multiple measures that
+7 describe the overall performance of each district, school, and student
+8 subgroup. Beginning with data from the 2026-2027 school year,
+9 performance shall be based on a combination of academic and school quality
+10 indicators and measures, hereinafter called "state indicators." The state
+11 indicators shall exclusively include:
+12 1. Student assessment results;
+13 2. Measures of individual student growth in reading and mathematics;
+14 3. Progress toward achieving English proficiency by limited English
+15 proficiency students;
+16 4.[3.] Student engagement as measured by chronic absenteeism, which shall
+17 be defined as a student missing ten percent (10%) or more of yearly
+18 school time for excused or unexcused reasons throughout the school
+19 year[Quality of school climate and safety];
+20 5.[4.] High school graduation rates;
+21 6.[5.] Postsecondary readiness for each high school student, which shall be
+22 included as an academic indicator, and shall be measured by one (1) of
+23 the following:
+24 a. Meeting or exceeding a college readiness benchmark score on the
+25 college admissions examination used as the statewide assessment
+26 in KRS 158.6453(5)(b)3.[5.] or a college placement examination
+27 approved by the Council on Postsecondary Education. The college
+Page 22 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 readiness benchmark score shall be established by the Council on
+2 Postsecondary Education;
+3 b. Achieving a minimum of three (3) hours of dual credit by
+4 completing a course approved by the Kentucky Board of
+5 Education or qualifying for a minimum of three (3) hours of
+6 postsecondary articulated credit associated with a statewide
+7 articulation agreement;
+8 c. Achieving a benchmark score on an Advanced Placement,
+9 International Baccalaureate, Cambridge Advanced International,
+10 or other nationally recognized exam approved by the Kentucky
+11 Board of Education that generally qualifies the student for three
+12 (3) or more hours of college credit;
+13 d. Completing a required number of hours or achieving a benchmark
+14 within an apprenticeship, cooperative, or internship that is:
+15 i. Not required to be offered as a high school course or during
+16 the regular school day, week, or year;
+17 ii. Aligned with a credential or associate degree; and
+18 iii. Approved by the Kentucky Board of Education after
+19 receiving input from the Local Superintendents Advisory
+20 Council; or
+21 e. Achieving any industry-recognized certifications, licensures, or
+22 credentials, with more weight in accountability for industry-
+23 recognized certifications, licensures, or credentials identified as
+24 high demand in accordance with the process described in
+25 paragraph (e) of this subsection. Eligible industry-recognized
+26 certifications, licensures, or credentials shall not be limited to
+27 those earned in conjunction with a minimum sequence of courses.
+Page 23 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 Each high school shall publicly report the credits, hours, and
+2 credentials on an annual basis; and
+3 7.[6.] Any other factor mandated by the federal Every Student Succeeds Act
+4 of 2015, Pub. L. No. 114-95, or its successor.
+5 (c) 1. [Beginning with data from the 2020-2021 and 2021-2022 school years,
+6 the accountability system performance for each district, school, and
+7 student subgroup determined by the state indicators shall be based on a
+8 combination of annual performance, hereinafter called "status," and
+9 improvement over time, hereinafter called "change."
+10 2. Status and change shall receive equal weight in determining overall
+11 performance. For all students as a group and separately for individual
+12 subgroups, status shall be determined, beginning with the data from the
+13 2020-2021 academic year, by using the current year performance and
+14 change shall be determined, beginning with the data from the 2021-2022
+15 academic year, by using the difference in performance from the prior to
+16 current year, except change shall be based on the difference in
+17 performance for the prior three (3) years for the purpose of determining
+18 the lowest-performing five percent (5%) of schools under KRS
+19 160.346(2) and (3).
+20 3. For each state indicator, there shall be five (5) status levels ranging from very
+21 high to very low and five (5) change levels ranging from increased
+22 significantly to declined significantly.
+23 4. The percentile cut scores for status and change levels shall be based on
+24 distribution and shall be approved by the Kentucky Department of
+25 Education and the Local Superintendents Advisory Council. The cut
+26 scores shall remain in place for at least six (6) years unless existing cut
+27 scores no longer support meaningful differentiation of schools as
+Page 24 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 required by the federal Every Student Succeeds Act of 2015, Pub. L. No.
+2 114-95, or its successor.
+3 (d) Beginning in the fall of 2022, ]The Kentucky Department of Education shall
+4 develop an online display of the state accountability system results
+5 hereinafter called a "dashboard." A color-coded performance level for
+6 each state indicator and overall performance shall be displayed in a
+7 straightforward manner on the dashboard [for overall performance,
+8 status, and change ]by district, school, and individual subgroups. Overall
+9 performance shall aggregate all available data for the state indicators.
+10 2. The percentile cut scores for the color-coded performance level for
+11 each state indicator and overall performance shall be based on
+12 distribution and shall be approved by the Kentucky Department of
+13 Education and the Local Superintendents Advisory Council. The cut
+14 scores shall remain in place for at least six (6) years unless existing
+15 cut scores no longer support a meaningful differentiation of schools
+16 as required by the federal Every Student Succeeds Act of 2015, Pub. L.
+17 No. 114-95, or its successor.
+18 (d)[(e)] Based on data from the Kentucky Center for Education and Workforce
+19 Statistics, each local workforce investment board, in conjunction with local
+20 economic development organizations from its state regional sector, shall
+21 annually compile a list of industry-recognized certifications, licensures, and
+22 credentials specific to the state and regional workforce area, rank them by
+23 demand for the state and regional area, and provide the list to the Kentucky
+24 Workforce Innovation Board. The Kentucky Workforce Innovation Board, in
+25 conjunction with the Kentucky Department of Education, may revise the lists
+26 before the Kentucky Department of Education disseminates the lists to all
+27 school districts to be used as postsecondary readiness indicators.
+Page 25 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 (e)[(f)] 1. The Kentucky Department of Education shall pay for the cost of
+2 an assessment taken by a high school student for attaining an industry-
+3 recognized certification, credential, or licensure if the student
+4 consecutively completes at least two (2) related career pathway courses
+5 approved by the department prior to taking the assessment.
+6 2. If a high school student has not completed the two (2) course
+7 requirement described in subparagraph 1. of this paragraph but meets
+8 performance-based experience eligibility and passes an assessment, the
+9 department shall provide a weighted reimbursement amount to the
+10 school district for the cost of the assessment based on the level of
+11 demand of the certificate, credential, or license earned. The Kentucky
+12 Board of Education shall promulgate regulations establishing the
+13 performance-based experience eligibility requirements and weighted
+14 reimbursement amounts.
+15 (f)[(g)] Prior to promulgating administrative regulations to revise the
+16 accountability system, the board shall seek advice from the School
+17 Curriculum, Assessment, and Accountability Council; the Office of Education
+18 Accountability; the Education Assessment and Accountability Review
+19 Subcommittee; and the department's technical advisory committee.
+20 (2) A student's test scores shall be counted in the accountability measure of:
+21 (a) 1. The school in which the student is currently enrolled if the student has
+22 been enrolled in that school for at least a full academic year as defined
+23 by the Kentucky Board of Education; or
+24 2. The school in which the student was previously enrolled if the student
+25 was enrolled in that school for at least a full academic year as defined by
+26 the Kentucky Board of Education; and
+27 (b) The school district if the student is enrolled in the district for at least a full
+Page 26 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 academic year as defined by the Kentucky Board of Education; and
+2 (c) The state if the student is enrolled in a Kentucky public school prior to the
+3 beginning of the statewide testing period.
+4 (3) After receiving the advice of the Office of Education Accountability; the School
+5 Curriculum, Assessment, and Accountability Council; and the department's
+6 technical advisory committee, the Kentucky Board of Education shall promulgate
+7 an administrative regulation in conformity with KRS 158.6471 and 158.6472 and
+8 KRS Chapter 13A to establish more rigorous action, intervention, and appropriate
+9 consequences for schools that fail to exit comprehensive support and improvement
+10 status described in KRS 160.346. The consequences shall be designed to improve
+11 the academic performance and learning environment of identified schools and may
+12 include but not be limited to:
+13 (a) A review and audit process to determine the appropriateness of a school's or
+14 district's classification and to recommend needed assistance;
+15 (b) School and district improvement plans;
+16 (c) Eligibility to receive Commonwealth school improvement funds under KRS
+17 158.805;
+18 (d) Education assistance from highly skilled certified staff; and
+19 (e) Observation of school personnel.
+20 (4) All students who drop out of school during a school year shall be included in a
+21 school's annual average school graduation rate calculation.
+22 (5) After receiving the advice of the Education Assessment and Accountability Review
+23 Subcommittee, the Office of Education Accountability; the School Curriculum,
+24 Assessment, and Accountability Council; and the department's technical advisory
+25 committee, the Kentucky Board of Education may promulgate by administrative
+26 regulation, in conformity with KRS 158.6471 and 158.6472 and KRS Chapter 13A,
+27 a system of district accountability that includes establishing a formula for
+Page 27 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 accountability, goals for improvement over a three (3) year period, rewards for
+2 leadership in improving teaching and learning in the district, and consequences that
+3 address the problems and provide assistance when one (1) or more schools in the
+4 district fail to exit comprehensive support and improvement status after three (3)
+5 consecutive years of implementing the turnaround intervention process described in
+6 KRS 160.346.
+7 (6) After receiving the advice of the Office of Education Accountability; the School
+8 Curriculum, Assessment, and Accountability Council; and the department's
+9 technical advisory committee, the Kentucky Board of Education shall promulgate
+10 administrative regulations in conformity with KRS 158.6471 and 158.6472 and
+11 KRS Chapter 13A to establish a process whereby a school or school district shall be
+12 allowed to appeal any performance judgment made by the department under this
+13 section or KRS 160.346 of a principal, superintendent, school, or school district
+14 which it considers grossly unfair. Upon appeal, an administrative hearing shall be
+15 conducted in accordance with KRS Chapter 13B. The state board may adjust a
+16 performance judgment on appeal when evidence of unusual circumstances warrants
+17 the conclusion that the performance judgment is based on fraud or a mistake in
+18 computations, is arbitrary, is lacking any reasonable basis, or when there are
+19 significant new circumstances occurring during the three (3) year assessment period
+20 which are beyond the control of the appellant school or school district.
+21 (7) Advice and recommendations provided by the department's technical advisory
+22 committee shall be summarized and reported by the department by July 1 and
+23 December 1 of each year to the Office of Education Accountability. The report shall
+24 include:
+25 (a) Advice and recommendations provided by panel members relating to:
+26 1. Development and modification to the assessment and accountability
+27 system;
+Page 28 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 2. The development of administrative regulations governing the
+2 assessment and accountability system;
+3 3. The setting of standards used in the assessment and accountability
+4 system; and
+5 4. KRS 158.6453, 158.6455, 158.782, or 158.860; and
+6 (b) Any documentation used by the panel in support of the panel's advice and
+7 recommendations.
+8 Upon receipt of the report, the Office of Education Accountability shall forward the
+9 report to the Education Assessment and Accountability Review Subcommittee and
+10 the co-chairs of the Interim Joint Committee on Education.
+11 Section 4. KRS 158.6459 is amended to read as follows:
+12 (1) A high school student whose highest score on the college admissions examination
+13 under KRS 158.6453(5)(b)3.[5.] in English, reading, or mathematics is below the
+14 systemwide standard established by the Council on Postsecondary Education for
+15 entry into a credit-bearing course at a public postsecondary institution without
+16 placement in a remedial course or an entry-level course with supplementary
+17 academic support shall be provided the opportunity to participate in accelerated
+18 learning designed to address his or her identified academic deficiencies prior to
+19 high school graduation.
+20 (2) A high school, in collaboration with its school district, shall develop and implement
+21 accelerated learning that:
+22 (a) Allows a student's learning plan to be individualized to meet the student's
+23 academic needs based on an assessment of test results and consultation among
+24 parents, teachers, and the student; and
+25 (b) May include changes in a student's class schedule.
+26 (3) The Kentucky Department of Education, the Council on Postsecondary Education,
+27 and public postsecondary institutions shall offer support and technical assistance to
+Page 29 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 schools and school districts in the development of accelerated learning.
+2 Section 5. KRS 164.7874 is amended to read as follows:
+3 As used in KRS 164.7871 to 164.7885:
+4 (1) "Academic term" means a semester or other time period specified in an
+5 administrative regulation promulgated by the authority;
+6 (2) "Academic year" means a period consisting of at least the minimum school term, as
+7 defined in KRS 158.070;
+8 (3) "ACT score" means the composite score achieved on the American College Test at
+9 a national test site on a national test date or the college admissions examination
+10 administered statewide under KRS 158.6453(5)(b)3.[5.] if the exam is the ACT, or
+11 an equivalent score, as determined by the authority, on the SAT administered by the
+12 College Board, Inc.;
+13 (4) "Authority" means the Kentucky Higher Education Assistance Authority;
+14 (5) "Award period" means the fall and spring consecutive academic terms within one
+15 (1) academic year;
+16 (6) "Council" means the Council on Postsecondary Education created under KRS
+17 164.011;
+18 (7) "Eligible high school student" means any person who:
+19 (a) Is a citizen, national, or permanent resident of the United States and Kentucky
+20 resident;
+21 (b) Was enrolled after July 1, 1998:
+22 1. In a Kentucky high school for at least one hundred forty (140) days of
+23 the minimum school term unless exempted by the authority's executive
+24 director upon documentation of extreme hardship, while meeting the
+25 KEES curriculum requirements, and was enrolled in a Kentucky high
+26 school at the end of the academic year;
+27 2. In a Kentucky high school for the fall academic term of the senior year
+Page 30 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 and who:
+2 a. Was enrolled during the entire academic term;
+3 b. Completed the high school's graduation requirements during the
+4 fall academic term; and
+5 c. Was not enrolled in a secondary school during any other academic
+6 term of that academic year; or
+7 3. In the Gatton Academy of Mathematics and Science in Kentucky, the
+8 Craft Academy for Excellence in Science and Mathematics, or in high
+9 school at a model and practice school under KRS 164.380 while meeting
+10 the Kentucky educational excellence scholarship curriculum
+11 requirements;
+12 (c) Has a grade point average of 2.5 or above at the end of any academic year
+13 beginning after July 1, 1998, or at the end of the fall academic term for a
+14 student eligible under paragraph (b)[ ]2. of this subsection; and
+15 (d) Is not a convicted felon;
+16 (8) "Eligible postsecondary student" means a citizen, national, or permanent resident of
+17 the United States and Kentucky resident, as determined by the participating
+18 institution in accordance with criteria established by the council for the purposes of
+19 admission and tuition assessment, who:
+20 (a) Earned a KEES award;
+21 (b) Has the required postsecondary GPA and credit hours required under KRS
+22 164.7881;
+23 (c) Has remaining semesters of eligibility under KRS 164.7881;
+24 (d) Is enrolled in a participating institution as a part-time or full-time student; and
+25 (e) Is not a convicted felon;
+26 (9) "Full-time student" means a student enrolled in a postsecondary program of study
+27 that meets the full-time student requirements of the participating institution in
+Page 31 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 which the student is enrolled;
+2 (10) "Grade point average" or "GPA" means the grade point average earned by an
+3 eligible student and reported by the high school or participating institution in which
+4 the student was enrolled based on a scale of 4.0 or its equivalent if the high school
+5 or participating institution that the student attends does not use the 4.0 grade scale;
+6 (11) "High school" means any Kentucky public high school, the Gatton Academy of
+7 Mathematics and Science in Kentucky, the Craft Academy for Excellence in
+8 Science and Mathematics, a high school of a model and practice school under KRS
+9 164.380, and any private, parochial, or church school located in Kentucky that has
+10 been certified by the Kentucky Board of Education as voluntarily complying with
+11 curriculum, certification, and textbook standards established by the Kentucky Board
+12 of Education under KRS 156.160;
+13 (12) "KEES" or "Kentucky educational excellence scholarship" means a scholarship
+14 provided under KRS 164.7871 to 164.7885;
+15 (13) "KEES award" means:
+16 (a) For an eligible high school student, the sum of the KEES base amount for
+17 each academic year of high school plus any KEES supplemental amount, as
+18 adjusted pursuant to KRS 164.7881; and
+19 (b) For a student eligible under KRS 164.7879(3)(e), the KEES supplemental
+20 amount as adjusted pursuant to KRS 164.7881;
+21 (14) "KEES award maximum" means the sum of the KEES base amount earned in each
+22 academic year of high school plus any KEES supplemental amount earned;
+23 (15) "KEES base amount" or "base amount" means the amount earned by an eligible
+24 high school student based on the student's GPA pursuant to KRS 164.7879;
+25 (16) "KEES curriculum" means five (5) courses of study, except for students who meet
+26 the criteria of subsection (7)(b)2. of this section, in an academic year as determined
+27 in accordance with an administrative regulation promulgated by the authority;
+Page 32 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 (17) "KEES supplemental amount" means the amount earned by an eligible student
+2 based on the student's ACT score pursuant to KRS 164.7879;
+3 (18) "KEES trust fund" means the Wallace G. Wilkinson Kentucky educational
+4 excellence scholarship trust fund;
+5 (19) "On track to graduate" means the number of cumulative credit hours earned as
+6 compared to the number of hours determined by the postsecondary education
+7 institution as necessary to complete a bachelor's degree by the end of eight (8)
+8 academic terms or ten (10) academic terms if a student is enrolled in an
+9 undergraduate program that requires five (5) years of study;
+10 (20) "Participating institution" means an "institution" as defined in KRS 164.001 that is
+11 eligible to participate in the federal Pell Grant program, executes a contract with the
+12 authority on terms the authority deems necessary or appropriate for the
+13 administration of its programs, and:
+14 (a) 1. Is publicly operated;
+15 2. Is licensed by the Commonwealth of Kentucky and has operated for at
+16 least ten (10) years, offers an associate or baccalaureate degree program
+17 of study not comprised solely of sectarian instruction, and admits as
+18 regular students only high school graduates, recipients of a High School
+19 Equivalency Diploma, or students transferring from another accredited
+20 degree granting institution; or
+21 3. Is designated by the authority as an approved out-of-state institution that
+22 offers a degree program in a field of study that is not offered at any
+23 institution in the Commonwealth; and
+24 (b) Continues to commit financial resources to student financial assistance
+25 programs; and
+26 (21) "Part-time student" means a student enrolled in a postsecondary program of study
+27 who does not meet the full-time student requirements of the participating institution
+Page 33 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 in which the student is enrolled and who is enrolled for at least six (6) credit hours,
+2 or the equivalent for an institution that does not use credit hours.
+3 Section 6. KRS 157.069 is amended to read as follows:
+4 (1) As used in this section:
+5 (a) "Administrative operations costs" means costs associated with the operations
+6 and staffing of a state-operated area technology center, including but not
+7 limited to personnel, facility costs, building utilities and maintenance, and
+8 custodial and office supplies;
+9 (b) "Approved career and technical education dual credit" means earning a grade
+10 of "C" or higher for a Kentucky Department of Education-approved career
+11 and technical education dual credit course equivalent to three (3) hours of
+12 college credit;
+13 (c) "Approved career and technical education pathway" means a four (4) course
+14 career and technical education pathway approved by the Kentucky
+15 Department of Education that provides a coherent, articulated sequence of
+16 rigorous academic and career-related courses within a career and technical
+17 education program area, and leads to an associate degree, an industry-
+18 recognized certificate or license, or a baccalaureate or higher degree;
+19 (d) "Concentrator" means a student who has earned at least two (2) credits for no
+20 less than two (2) courses in a single career and technical education pathway;
+21 (e) "Converted career and technical education center" means a center providing
+22 locally operated career and technical education for which a local district
+23 assumed authority from the state for the management and control of the center
+24 during the 2020-2021, 2021-2022, or 2022-2023 academic years;
+25 (f) "General-cost career and technical education program" means a career and
+26 technical education program or pathway in which high-cost technical
+27 equipment, materials, or facilities are not required;
+Page 34 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 (g) "General-cost full-time equivalents" means the total number of secondary
+2 students enrolled in general-cost career and technical education programs,
+3 multiplied by the number of hours those students are enrolled, and divided by
+4 six (6) hours;
+5 (h) "High-cost career and technical education program" means a career and
+6 technical education program or pathway in which high-cost equipment,
+7 materials, or facilities are required;
+8 (i) "Locally operated career and technical education" means a district program
+9 that provides secondary students with one (1) or more approved career and
+10 technical education pathways;
+11 (j) "State-operated area technology center" means a state-operated secondary
+12 school facility with the primary purpose of offering approved career and
+13 technical education pathways;
+14 (k) "Supplemental funding" or "supplemental funds" means moneys appropriated
+15 by the General Assembly to support qualifying locally operated career and
+16 technical education centers and programs and state-operated area technology
+17 centers and programs based on enrollment and incentive criteria;
+18 (l) "Technical skill attainment" means earning an industry-recognized
+19 certification, licensure, or credential as identified by the Kentucky Workforce
+20 Innovation Board pursuant to KRS 158.6455(1)(d)[(e)] or passing an end-of-
+21 program assessment for articulated postsecondary credit as designated by the
+22 Kentucky Department of Education Office of Career and Technical
+23 Education;
+24 (m) "Weighted high-cost full-time equivalents" means the total number of
+25 secondary students enrolled in high-cost career and technical education
+26 programs, multiplied by the number of credit hours in which those students
+27 are enrolled, divided by six (6) hours, and multiplied by one and one-half
+Page 35 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 (1.5); and
+2 (n) "Work-based learning program" means a cooperative education program,
+3 internship, or registered apprenticeship within the student's chosen approved
+4 career and technical education pathway.
+5 (2) The Kentucky Department of Education shall provide funds from the department's
+6 annual general fund appropriation to support the administrative operations costs of
+7 state-operated area technology centers and converted career and technical education
+8 centers.
+9 (3) For converted career and technical education centers, beginning with fiscal year
+10 2024-2025, the Kentucky Department of Education shall deduct from funds
+11 designated for the state-operated area technology centers an amount equal to the
+12 administrative operations costs of each converted career and technical education
+13 center in the amount received by the center in the most recent fiscal year that the
+14 center was under state management and control. The funds for each converted
+15 career and technical education center shall be divided as follows:
+16 (a) Seventy-five percent (75%) of the funds shall be sent to the local district that
+17 has assumed management and control of the center; and
+18 (b) Twenty-five percent (25%) of the funds shall be sent to the career and
+19 technical education innovation and support fund established in subsection (4)
+20 of this section.
+21 (4) (a) There is hereby established in the State Treasury a restricted fund to be known
+22 as the career and technical education innovation and support fund to receive
+23 the funds allocated under subsection (3)(b) of this section. The fund shall
+24 consist of moneys received from state appropriations, gifts, grants, and federal
+25 funds. The fund shall be administered by the Office of Career and Technical
+26 Education. Amounts deposited in the fund shall be used for:
+27 1. Supporting innovation in new or emerging career fields;
+Page 36 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 2. Supporting state-operated area technology centers that may experience
+2 hardship or natural disasters;
+3 3. Personnel costs to provide technical assistance to local districts
+4 providing locally operated career and technical education, including
+5 technical assistance relating to the monitoring and oversight on the use
+6 of supplemental career and technical education funding; and
+7 4. Any other purposes reasonably related to improving student outcomes in
+8 career and technical education.
+9 (b) Notwithstanding KRS 45.229, fund amounts not expended at the close of a
+10 fiscal year shall not lapse but shall be carried forward into the next fiscal year.
+11 (5) Beginning with the 2024-2025 fiscal year and for each fiscal year thereafter, the
+12 Kentucky Department of Education shall distribute to local districts providing
+13 locally operated career and technical education and to state-operated area
+14 technology centers all general funds designated as supplemental funds to career and
+15 technical education programs, subject to the following:
+16 (a) A local district providing locally operated career and technical education or a
+17 state-operated area technology center shall maintain eligibility for receipt of
+18 federal funding pursuant to the Strengthening Career and Technical Education
+19 for the 21st Century Act, Pub. L. No. 115-224, to be eligible to receive
+20 supplemental funding pursuant to this subsection;
+21 (b) All supplemental funds distributed pursuant to this subsection shall be used to
+22 improve student outcomes in career and technical education pathways for
+23 students in grades nine (9) through twelve (12), including but not limited to
+24 student supplies, resources, materials, and equipment that is designed for
+25 enhanced quality of instruction in a career and technical education pathway,
+26 the purchase and maintenance of industry standard equipment, assisting
+27 students with achieving technical skill attainment, and supporting career and
+Page 37 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 technical student organization participation;
+2 (c) 1. Supplemental funds for career and technical education shall be divided
+3 and allocated to each local district providing locally operated career and
+4 technical education and to each state-operated area technology center,
+5 with sixty percent (60%) dedicated for enrollment-based funding and
+6 forty percent (40%) for incentive-based funding.
+7 2. The sixty percent (60%) enrollment-based funding shall be based on a
+8 statewide full-time equivalent calculation of the total weighted high-cost
+9 full-time equivalents and general-cost full-time equivalents during the
+10 prior school year, subject to the following:
+11 a. The department shall then distribute the enrollment-based funds
+12 for each state-operated area technology center or local district
+13 providing locally operated career and technical education based on
+14 the center's or district's proportional share of the combined
+15 weighted high-cost full-time equivalents and general-cost full-time
+16 equivalents of the prior year;
+17 b. The department shall distribute the state-operated area technology
+18 center fund portion to the respective state-operated area
+19 technology centers and the local district fund portion to the
+20 respective local districts; and
+21 c. The department shall classify qualifying programs as either a high-
+22 cost career and technical education program or a general-cost
+23 career and technical education program.
+24 3. The forty percent (40%) incentives-based funding shall be based on an
+25 annual statewide calculation of the total number of qualifying student
+26 incentives. The calculation shall only use students that are in grade
+27 twelve (12) and use the total incentives earned by those students during
+Page 38 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 secondary education at a state-operated area technology center or within
+2 a local district. Once a student has been included in a year's calculation,
+3 that student shall not be included in any subsequent year's calculation,
+4 subject to the following:
+5 a. Qualifying student incentives for students in their grade twelve
+6 (12) year shall include:
+7 i. Reaching the designation of a concentrator;
+8 ii. Technical skill attainment;
+9 iii. Completing a required number of hours or achieving a
+10 benchmark within a work-based learning program; and
+11 iv. Earning an approved career and technical education dual
+12 credit;
+13 b. The incentives in subdivision a. of this subparagraph shall be
+14 allotted to the state-operated area technology center or local
+15 district in which it was earned. Each type of incentive shall only be
+16 counted once per student at state-operated area technology centers
+17 and once per student at local districts for a maximum of four (4)
+18 incentives per student at state-operated area technology centers
+19 and four (4) incentives at local districts throughout their secondary
+20 career and technical education. For incentive criteria that is
+21 achieved more than once at state-operated area technology centers,
+22 the incentive shall be counted for the state-operated area
+23 technology center where it was first achieved. For incentive
+24 criteria that is achieved more than once at local districts, the
+25 incentive shall be counted for the local district where it was first
+26 achieved;
+27 c. The department shall distribute incentives-based funds for each
+Page 39 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 state-operated area technology center or local district based on the
+2 center's or district's proportional share of the combined number of
+3 qualifying student incentives achieved by students in grade twelve
+4 (12) at a state-operated area technology center or within a local
+5 district throughout their secondary career and technical education.
+6 The incentives-based funds shall be distributed to the state-
+7 operated area technology center or local district in which the
+8 incentive was achieved; and
+9 d. The department shall distribute the state-operated area technology
+10 center fund portion to the respective state-operated area
+11 technology centers and the local district fund portion to the
+12 respective local districts;
+13 (d) There shall be no mid-year adjustment to the allocation of career and technical
+14 education supplemental funding for a center or local district; and
+15 (e) Notwithstanding the restriction in paragraph (b) of this subsection, a district
+16 may submit a waiver request to the Office of Career and Technical Education
+17 to use a portion of its allocation of supplemental funds for career and
+18 technical education programming for students in grades (5) through eight (8).
+19 The district shall submit a request which details the district's plan for career
+20 and technical education programming for students in grades five (5) through
+21 eight (8). In reviewing the request, the Office of Career and Technical
+22 Education shall consider whether:
+23 1. The district details a plan for orientation and exploration of broad-based
+24 industries by giving students knowledge and experience regarding
+25 careers within these industries and exploratory or hands-on skills used in
+26 the industry;
+27 2. There is direct alignment between middle and secondary career and
+Page 40 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1141
+1 technical education pathways within the requesting district; and
+2 3. Such designation of supplemental funding for programming for students
+3 in grades five (5) through eight (8) does not have a significant
+4 detrimental impact on the programming available for students in
+5 secondary grades.
+6 (6) The Office of Career and Technical Education shall monitor and provide oversight
+7 of state funds distributed pursuant to this section to ensure that the use of funding
+8 by eligible recipients meets the approved criteria as described in this section.
+9 (7) The Kentucky Board of Education shall promulgate administrative regulations in
+10 accordance with KRS Chapter 13A as may be needed in the administration of this
+11 section and for disbursement of moneys.
+12 (8) The Kentucky Department of Education shall publish on the department's website:
+13 (a) The list of all career and technical education programs available to students
+14 and the program's designation as a high-cost career and technical education
+15 program or as a general-cost career and technical education program;
+16 (b) A report of the supplemental funding amounts provided to each local district
+17 and to each state-operated area technology center, including an explanation of
+18 the amount designated as enrollment-based funding and as incentives-based
+19 funding; and
+20 (c) A report of the administrative operations costs provided to each state-operated
+21 area technology center and to each converted career and technical education
+22 center, as well as the amount contributed toward the career and technical
+23 education innovation and support fund.
+Page 41 of 41
+XXXX 1/7/2026 2:21 PM Jacketed
+
+[DELETED:   2  J A B S R ( A ( " d i o q m m o i c 1 A t 2 A s k c a s i r a 3 M e b t l c t s t c t r i s 1 a 2 o t p T i m i s w f r o s ( " l m a e e c b s a 1 D a 2 D o a ( E l s d m d a i a s o l d i o q i a w a r]
+[DELETED:   2  J p b t K B o E T l d i ( S ( L ( A s ( W f a ( D a s a t d p o t l d i ( T ( S o ( M d f i p u t p s n e a a e t t t d ( p d p t d ( ( W t c o e d t m t s p ( o l s d h e t d a i w t w ( A l s d r t a a s o l d]
+[DELETED:   2  J i o i a w p ( o s s y m ( T K B o E i a t p a r i a w K C 1 n t a t p S 2   K 1 ( J 1 2 i a t r a f ( A ( " l m a o w o h s m i p m c ( " c m e p o o d t c s w m r c b t s c i b n l t a p I ( " t i t r t s t c a a r t s a r a m i f s e o ( " c a ( " i t a o t a l t i s]
+[DELETED:   2  J a i t u o c a c a c o t [ t a ] i l ( " a m a t a g p t s ( " y s o o p o t t e s p a a ( " m a p a o t a e t u l c m a o c a i d f b h ( ( E p f r K a s a t a o c a f p r o r t e a w t r s n f g c s c a t e s a K 1 ( T 1 F t 2 R i f b m i s t f m]
+[DELETED:   2  J l 3 C e m c a c t t p 4 B 5 C 6 E p e s t s c b s a e e ( 1 T d s e f ( s a a r ( K p s t a a m o t ( r f K i o h e i a l o ( r f a p i o h e E c m s t i t s a c 2 O c t r o r a a w a s a c a i r o ( o t r o m o s a s a a a o ( o t r ( 1 T a 2 T ( a p s b a t e s a a a]
+[DELETED:   2  J r ( n 3 E f ( s h n p o c a w a c o a r ( T c o e a t p o t C o P a i p a e i c f t d o t v ( 1 T s a a p r c i h e d p s o w a l t ( s b p o p s i a O b O c O d O e T f T g O]
+[DELETED:   2  J 2 O b e o r 3 T o 4 N K 1 t c s n b s t r ( 1 T t p t a a K a o t p T d s e t p a i r a s c t t s a a a t c s a b e a w A a d d t t a a p f r a c 2 E a p s a f a t t a s a a 3 E s a a r c s r t]
+[DELETED:   2  J f a m r t r o r e s 4 T t p T c s s p t r a t p f t t I J C 5 T a a p r c s t p c r s i b n b l t t t o t r p p f a r f t I J C 6 A p a o t p i o s a t c d r f r a d i s 3 o t p I t p i f s t r s b f w ( T i o r a]
+[DELETED:   2  J ( 1 T K B o E s c f a t r t f s n 2 A r t o r o t a s a a a a r o t r p c u t s s b i i K p s n l t a 3 T ] ( T D o E s p o f s t s 1 I t r a s i c i 2 B i p a o s w t i 3 H ( T E P S B i c w t K s t ] t p p i u o t a s i t p e p a t a t i w h]
+[DELETED:   2  J e ( T D s s c i s r t a [ ] ( T a e ( ( T K B o E s b r f c a i a b s a p t m t s K 1 S s ( T a w r a s a c a a a a b t b u s ( o t s ( T s a s n i a a s n a ( T S A t T s a p s n i m o a s a t b a s i o t b a r]
+[DELETED:   2  J ( ( T a c o t s a p s b c o a s s t w m i a c o m c a a p m ( T 1 M i s a i [ ] [ 2 P o 3 P d i t i s a a d 4 P i t t t c e t t i i 5 P 6 E g s f i K 1 a 1 e t s a t b a s i o t b a r m ( T ( E 1 A t e ( a s a t m t d a b o t a 2 A a]
+[DELETED:   2  J a b o t a [ ] t b a o ( t w t e a m g r 3 A t g 4 A a t ( H 1 A v a b o K a c s t b a 2 A a t t 3 [ t 4 A a t 5 ] c a e t a E r m ( T t]
+[DELETED:   2  J o ( T c c r i t s s b c ( T b u b s a d t d a i m f a s i o f s t m c p ( E l f ( d o s i t d i c T K B o E m c t t w t a f i a s o o o t a a s p a o t p t b u d t t p t e t s a ( A s ( A l s d m s a u c i o f a h s l a t d l s b d a p m t r i i t r t t a o t i a d ( E s t e p s s u d a a p a]
+[DELETED:   2  J u d t ( T a ( T f p s a t t c a e d ( T h c o ( I c j ( A p t a s w a t c a 1 A p i a m a b t c a a p w r i t s a r p 2 A p i a m a b a s i e p a d i K 1 f a s w d p v a o h o h a a u t a p u s 1 o t p w t s s a n r p]
+[DELETED:   2  J ( K t s h a s r i p f a t d o t a e f t c a e d i s ( M d a g p a t t a ( P v a r s f s I s a r f s ( M ( A ( T r t t s d a s n l t s ( d f t l d t a c b a A r p o a ( T t a a a p I s d a b p f v r i p l t m a s i a r o t a o s a t s t f]
+[DELETED:   2  J 1 ( T l s n t e s p T c a s p d i t i i t m t n o i ( T A C f K A P s i p c o a s ( T a f t O o E A t S C A c t u ( A a o t s o t d a i o e a t a s w t f c r b r g a d w a 1 S a]
+[DELETED:   2  J 2 F A P C A I a I e t A e a s o " o b o C A I e o a s o f ( o b o I e w 3 N g 4 S l e i m o p i 5 A o s p d r b t E S S ( A t s a m T s s s d a p f a a ( A a s ( ( E c v l a i w l f m a h s T d c a t i r f c s p]
+[DELETED:   2  J s ( T h e o t p d e a t c b p o a a a t o d s a h a s ( T d s p t a s g f p t i p h s g f i a f l p T g r ( T s f ( ( T t a s d w a t c f s d m c p t a t p p ( E a t p o t s w T w p s i d]
+[DELETED:   2  J o s ( ( T K D o E i c w t r c p a a s i t i o t p a d i s ( o t s w m i s o a e i e a T d s i t e w e p o t s p r ( B p t s a a e ( I d i a s i o t p d i s s ( ( N d p e c p o t p o a c o a l i l a m s s ( ( T]
+[DELETED:   2  J 1 B 2 D t s a a t a c o a l o b g l f l a m 3 R a i a i A i A b A i C i S i D g i D v E s t a n e d t s v I v M v R a i S x T x S g ( T 1 A]
+[DELETED:   2  J a o t m r s a f w s a a c 2 I e c f q f a a c 3 R w c f a p o g o a s t w a t t d p f t a c I a s r t w f a c t p a w a 4 P a p t w a s f a c w w c f h o h p o g i t s e c a ( [ ] K B o E m p a r o ( B D 1 2 t K D o E i c w l s d s e s d r o S I]
+[DELETED:   2  J t ( ( T K B o E s c a a s t c s ( T s a s s i a a m d d t o p o e d s a s s B w d f t 2 s y p i a m h c " i T s i 1 S 2 M 3 P t a E p b l E p 4 b s y 5 6 r f e h s s w s b i t a M c i a]
+[DELETED:   2  J r P b A a m o t ( h o d c b c a c a b t K B o E o q f a m o t ( h o p a c a w a s a c A a b s o a A P I B C A I o o n r e a b t K B ( d C w i N t i A i A b t K B o E a r i f t L S A C e A a i c l o c w m w i a f i r c l o c i a h d i a w t p d i p ( o t s E i c l o c s n b l t t]
+[DELETED:   2  J E h s s p r t c h a c 7 o ( 1 [ t a s p f e d s a s c o a p h c " a i 2 S a c s r e w i d o p s 2 c a c y e c s b b o t d i p t l f p ( o s u K 1 3 F h t v l a f ( c l r f i s 4 T p c s f s a c l s b b o d a s b a b t K D o E a t L S A C T c s s n l s m d o s a]
+[DELETED:   2  J r 1 ( B d a o d o t s a s r h e s i a o p s b d i a s m o t d [ o p s p 2 T p c s f t c p l f e s i a o p s b b o d a s b a b t K D o E s c a N ( B S e d o f i s r s s a c s t t s a r w a r t b d W c b t K D o E d t l t a s]
+[DELETED:   2  J ( 1 T a r c c o l i t s c a 2 I a h s s h n c t t ( c r p d s p a w r a t t s d f t c o t a b o t l o d B o E s p r e t p e e r a w r ( P t p a r t r t a s t b s s a f t S C A t E A a A R S ( A ( 1 T b b 2 T w t ( T]
+[DELETED:   2  J a ( T b ( A C A a A C a t d t a K c s t i ( A d ( S ( E 1 ( E ( O ( A s ( A S t O o E A t S C A c t K B E m p b a r a s o d a t i e a f f]
+[DELETED:   2  J a g f i o a t ( y p r f l a d c K ( A C A a A C a t d t a r i c w K 1 a 1 a K a s w c i a w K C 1 T s b m a a p t c t t j i b o f o i c i a i l a r b o w t a s w ( A a r p b t d t a c s b s a r b t d b J 1 a D i ( A 1 D a m t t a a a s]
+[DELETED:   2  J 2 T d o a r g t a 3 T s o s u i t a a a s 4 K ( A a r  U r t S ( A u s s b t C o P f e i a c c a a p p i w p i a r c o a e c w s a s s b p t o t p i a l d t a h o h i a d p t h ( A a ( A a s l p t b i t m t s a p ( M ( T a]
+[DELETED:   2  J s S A ( " t m a s o o t p s i a a ( " d ( " a a a C ( " ( " ( ( " m t C o P E c u K 1 ( " ( I r ( W 1 I t d u d o e h w m t K s 2 I]
+[DELETED:   2  J a a W b C t h s g r d t f c W t 3 I C s t K e e s c r ( H b s ( I ( " t U S a K r a d b t p i a ( E ( H a 1 ( H ( I ( I ( " t m t f s r o t p i i]
+[DELETED:   2  J w ( " p a o " m t g p a e b a e t o ( " s m a K p h s t G A o M a S i K t C A f E i S 1 b c o ( " o " e e s m a s p ( " ( F e a ( F a s e u K 1 t K s a ( " a ( " h ( " t i]
+[DELETED:   2  J ( " s a m t a e b a e s b ( " t f m t W G W K e e ( " t t g m t n o c c h e a c t t n o h d b t p e i a n t c a b d b t e o e ( a t o t ( a t i a s i e i a u ( " e a o t t a d n o a f t a ( 1 I 2 I l o s n c s o s i a a a r E d 3 I o a i ( C t c f r t s f a p ( " w]
+[DELETED:   2  J i o S ( A ( " a s o a s a t c i b n l t p f c b u a m a c ( " o K a t e d c c e t t ( h o c ( " c a t e p a b t K D o E t p a c a s o r a a c c w a c a t e p a a l t a a d a i r ( " l ( " l o c a t e f w a l d a d ( " c a t e p m a c a t e p o p i w h t e]
+[DELETED:   2  J ( " f e m t t n o s s e i g c a t e p m s ( " c a t e p m a c a t e p o p i w h e m ( " t t ( " a t c m a s s s f w t p p o o a c a t ( " b l t c ( " s a m e a i c I p K D o E O o C a T E ( " h f e m t t n o s s e i h c a t e p a e d b s ( h a m b o a o]
+[DELETED:   2  J ( ( " l p m a c e p i c ( T a s c ( F c c a t e c b w f y 2 t K D o E s d f f d a o c o e c c a t e c c w u s m a c T f f e c c ( S h ( T p ( o t f s b s t t c a t o ( ( T a t f a u s ( o t s T f s c f E 1 S]
+[DELETED:   2  J 2 S h 3 P c t p t a t l d p l o c a t e i t o 4 A c ( N f ( B K D o E s d t l d p l o c a t e a t s a t t ( A s f f t 2 C A P L N 1 t b e t r s ( A i s o i c a t e p f s s s r m a e t i d f e t p a m o i s e a s]
+[DELETED:   2  J t ( 1 S a t w s p ( d f e f a f 2 T s f f e p a T d s t d t e f f e s a t c o l d p t c o d p s o t c w e b T c f p t t r s a t c a t l d f p t t r c T c c a t e p o a g c 3 T a i T c s o u s t a i g t]
+[DELETED:   2  J s a t s a Q s i f s i t g t ( i R i T i C a r n o h o a a b i E a a c a t e d c b T i i s a o t s s b a t t s a t c o l d c a i p s a s a t c a c a t e F i c t i a t i s b c f t s a t c w i w f a F i c t i a m t o a l d t i a c T d s d i f f e]
+[DELETED:   2  J s c q ( a c o d T i f s b d t t s o a t c o l d i w t i d T c f p t t r s a t c a t l d f p t t r ( T e ( N m t u a p o i a o s f f c a t T a e ( I r t r t O o C a T E 1 T i b g s k a e r c t 2 T i d a b m a s c a]
+[DELETED:   2  J t 3 S i g f ( t e ( d n h a s d i o t p a f s i s ( T o b ( T a s ( T ( T a p ( A a t f ( A a c a w a t a c t t c a t e]
