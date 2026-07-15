@@ -1,0 +1,707 @@
+Title: AN ACT relating to prior authorization.
+Official Title: AN ACT relating to prior authorization.
+Number of Sections: 52
+Source: versions - Acts Chapter 102
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 102 1
+CHAPTER 102
+( HB 176 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+SECTION 1. A NEW SECTION OF KRS 304.17A-600 TO 304.17A-633 IS CREATED TO READ AS
+FOLLOWS:
+(1) As used in this section:
+(a) "Covered health care service" means a health care service furnished or proposed to be furnished to a
+covered person that is specifically available or included as a covered benefit in the covered person's
+health benefit plan;
+(b) "Electronic health record" has the same meaning as in 42 U.S.C. sec. 17921, as amended;
+(c) "Evaluation period" means a twelve (12) month period of time for which a health care provider's
+prior authorization experience is evaluated by an insurer or private review agent;
+(d) "Health care provider" has the same meaning as in KRS 304.17A-005, except for purposes of this
+
+Section 2:
+section the term includes, if practicing independently, any:
+
+Section 3:
+1. Licensed clinical alcohol and drug counselor licensed under KRS Chapter 309;
+
+Section 4:
+2. Licensed psychologist, licensed psychological practitioner, or certified psychologist with
+autonomous functioning licensed or certified under the provisions of KRS Chapter 319;
+
+Section 5:
+3. Licensed professional clinical counselor licensed under KRS Chapter 335;
+
+Section 6:
+4. Licensed marriage and family therapist licensed under KRS Chapter 335;
+
+Section 7:
+5. Licensed professional art therapist licensed under KRS Chapter 309; and
+
+Section 8:
+6. Licensed clinical social worker licensed under KRS Chapter 335;
+(e) "Health care provider group" means two (2) or more health care providers that provide health care
+services within an entity that shares a common:
+
+Section 9:
+1. Group provider number; or
+
+Section 10:
+2. Tax identification number;
+(f) "Health care service" has the same meaning as in KRS 304.17A-005, except for purposes of this
+
+Section 11:
+section the term:
+
+Section 12:
+1. Includes procedures, treatments, and services rendered by a health care provider as defined in
+this section; and
+
+Section 13:
+2. Does not include the provision of prescription drugs;
+(g) "Interoperability standards" means the technical standards set forth in 45 C.F.R. sec. 170.215, as
+amended;
+(h) "Participating provider":
+
+Section 14:
+1. Means a health care provider that has entered into a participating provider contract; and
+
+Section 15:
+2. Includes a health care provider group if the insurer has elected to offer an exemption to the
+health care provider group under subsection (4)(b)2. of this section;
+(i) "Participating provider contract" means a contract between a health care provider, either directly or
+through a health care provider group, and an insurer for the provision of health care services under
+a health benefit plan;
+(j) "Utilization" means the number of claims submitted for a particular health care service under a
+health benefit plan by a participating provider; and
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(k) "Value-based care agreement" means a contractual agreement between a health care provider,
+either directly or through a health care provider group, and an insurer that:
+
+Section 16:
+1. Incentivizes or rewards the provider based on one (1) or more of the following:
+a. Quality of care;
+b. Safety;
+c. Patient outcomes;
+d. Efficiency;
+e. Cost reduction; or
+f. Other factors; and
+
+Section 17:
+2. May, but is not required to, include shared financial risk and rewards based on performance
+metrics.
+(2) An insurer or its private review agent shall not require a covered person, authorized person, or participating
+provider to obtain a prior authorization for a particular health care service under a health benefit plan if, at
+the time the health care service was provided, the provider had a prior authorization exemption for that
+particular health care service under a program offered under subsection (3) of this section.
+(3) Every insurer shall offer a program under which a participating provider may qualify for an exemption
+from the requirement to obtain prior authorization for any covered health care service that requires prior
+authorization.
+(4) The program offered under subsection (3) of this section:
+(a) Shall:
+
+Section 18:
+1. Provide that a participating provider, for an evaluation period established by the insurer or
+private review agent, receive a prior authorization exemption for a particular health care
+service if, during the previous evaluation period, the provider met program terms and
+conditions established by the insurer or private review agent that are not in violation of this
+
+Section 19:
+section;
+
+Section 20:
+2. Not condition a prior authorization exemption upon the provider exceeding a ninety-three
+percent (93%) approval rate for prior authorization requests submitted by the provider for that
+health care service during an evaluation period;
+
+Section 21:
+3. Require the insurer or its private review agent to evaluate, on an annual basis, whether a
+participating provider qualifies to receive a prior authorization exemption for each covered
+health care service for which the insurer requires prior authorization;
+
+Section 22:
+4. Require each annual evaluation required under subparagraph 3. of this paragraph to be
+conducted on:
+a. For participating provider contracts that have a performance period of one (1) year, the
+contract's renewal date; or
+b. For participating provider contracts that have a performance period of greater than one
+(1) year, the annual anniversary date of the contract renewal;
+
+Section 23:
+5. Require an insurer or its private review agent to notify each participating provider that
+qualifies for a prior authorization exemption within thirty (30) days after conducting the
+annual evaluation required under subparagraph 3. of this paragraph;
+
+Section 24:
+6. Require an insurer or its private review agent to make available to a health care provider
+during the contracting process the requirements that the provider must meet to participate in
+the program; and
+
+Section 25:
+7. Comply with any administrative regulation promulgated under KRS 304.2-110 for or as an aid
+to the effectuation of this section; and
+(b) May:
+
+Section 26:
+1. Offer a prior authorization exemption for any prescription drug;
+CHAPTER 102 3
+
+Section 27:
+2. Offer a prior authorization exemption to a health care provider group in lieu of each
+participating provider practicing within a health care provider group;
+
+Section 28:
+3. Condition a participating provider's eligibility to participate in the program on the provider
+satisfying one (1) or more of the following:
+a. The provider has entered into, either directly or through a health care provider group, a
+value-based care agreement with the insurer;
+b. The provider has been a participating provider for a minimum period of time
+established by the insurer or private review agent, except an established minimum
+period of time shall not be more than one (1) year; or
+c. The provider:
+i. Complies with interoperability standards; and
+ii. Has entered into, either directly or through a health care provider group, an
+electronic health record access agreement with the insurer or private review
+agent;
+
+Section 29:
+4. Provide that a participating provider shall not qualify for a prior authorization exemption for
+any particular health care service unless the provider's utilization for that health care service
+during the previous evaluation period meets any utilization requirement established by the
+insurer or private review agent, except an established utilization requirement shall not:
+a. Require a minimum utilization of more than twenty-four (24); or
+b. Impose a maximum utilization of less than one hundred ten percent (110%) of the
+participating provider's utilization for that particular health care service during the
+previous evaluation period; and
+
+Section 30:
+5. Provide that an insurer or its private review agent may revoke a participating provider's prior
+authorization exemption for any particular health care service, or suspend or revoke a
+participating provider's participation in the program, if:
+a. The insurer or private review agent has evidence that the provider has engaged in fraud
+or abuse; or
+b. The provider's utilization meets or exceeds a maximum utilization imposed under
+subparagraph 4.b. of this paragraph.
+(5) If an insurer or its private review agent determines that a participating provider is eligible to participate in
+the program offered under subsection (3) of this section, the insurer or private review agent shall send a
+notice to the provider that includes:
+(a) A statement that the provider is eligible to participate in the program; and
+(b) A list of each health care service that is subject to the elimination of prior authorization requirements
+under the program.
+(6) For all forms and notices sent to a participating provider in accordance with this section, or any
+administrative regulations promulgated under KRS 304.2-110 for or as an aid to the effectuation of this
+
+Section 31:
+section, the insurer or its private review agent shall:
+(a) Provide a process for the provider to designate and update the provider's preferred manner for
+receiving the forms and notices; and
+(b) Send the forms and notices to the provider in the manner designated under paragraph (a) of this
+subsection.
+(7) This section shall not be construed to:
+(a) Prevent an insurer or its private review agent from requesting a health care provider to provide
+additional information about a health care service rendered to a covered person; or
+(b) Require coverage of a noncovered health care service under a covered person's health benefit plan.
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+SECTION 2. A NEW SECTION OF KRS 304.17A-600 TO 304.17A-633 IS CREATED TO READ AS
+FOLLOWS:
+The commissioner shall:
+(1) (a) Submit a written report not later than September 30 of each year to the Legislative Research
+Commission for referral to the Interim Joint Committees on Banking and Insurance and Health
+Services relating to prior authorization in the provision of health care benefits under this chapter.
+(b) The report required under paragraph (a) of this subsection shall include:
+
+Section 32:
+1. Information relating to the implementation and effectuation of Section 1 of this Act;
+
+Section 33:
+2. The number of insurers and private review agents offering a program required under Section
+1 of this Act;
+
+Section 34:
+3. The number of providers, by provider group, specialty, and county, participating in one (1) or
+more programs offered under Section 1 of this Act;
+
+Section 35:
+4. A list of health care services, which shall include a description and Current Procedural
+Terminology code for each service, for which exemptions have been granted under the
+programs required under Section 1 of this Act;
+
+Section 36:
+5. The number of programs offered under Section 1 of this Act, which shall include:
+a. The number of programs that grant exemptions for one (1) or more prescription drugs;
+and
+b. A list of the drugs for which exemptions are granted under a program reported under
+subdivision a. of this subparagraph; and
+
+Section 37:
+6. With respect to any health insurance policy, certificate, plan, or contract required to comply
+with KRS 304.17A-600 to 304.17A-633:
+a. A list of all services, procedures, and other treatments, including prescription drugs,
+that require prior authorization;
+b. The percentage of prior authorization requests for nonurgent health care services in
+aggregate and by specific service, procedure, prescription drug, and other treatment:
+i. That were approved without an extension;
+ii. For which the review was extended and the request approved; and
+iii. That were denied, which may include the reason or reasons for the denials;
+c. The percentage of prior authorization requests for urgent health care services that
+were:
+i. Approved; and
+ii. Denied, which may include the reason or reasons for the denials; and
+d. The average and median time between submission of a prior authorization request and
+the prior authorization decision for:
+i. Nonurgent health care services; and
+ii. Urgent health care services;
+(2) Provide the Interim Joint Committees on Banking and Insurance and Health Services with a detailed
+briefing, upon request, to discuss and explain any report submitted under subsection (1) of this section; and
+(3) Promulgate any administrative regulation, including an emergency administrative regulation, in
+accordance with KRS Chapter 13A that the commissioner deems necessary to implement this section.
+Section 3. KRS 304.17A-605 is amended to read as follows:
+(1) (a) Except as provided in paragraph (b) of this subsection, KRS 304.17A-600, 304.17A-603, 304.17A-
+605, 304.17A-607, 304.17A-609, 304.17A-611, 304.17A-613, and 304.17A-615 set forth the
+requirements and procedures regarding utilization review and shall apply to:
+CHAPTER 102 5
+
+Section 38:
+1.[(a)] Any insurer or its private review agent that provides or performs utilization review in connection
+with a health benefit plan or a limited health service benefit plan; and
+
+Section 39:
+2.[(b)] Any private review agent that performs utilization review functions on behalf of any person
+providing or administering health benefit plans or limited health service benefit plans.
+(b) Section 1 of this Act sets forth additional requirements for prior authorization and shall apply to:
+
+Section 40:
+1. Any insurer or its private review agent that provides or performs utilization review in
+connection with a health benefit plan; and
+
+Section 41:
+2. Any private review agent that performs utilization review functions on behalf of any person
+providing and administering health benefit plans.
+(2) Where an insurer or its agent provides or performs utilization review, and in all instances where internal
+appeals as set forth in KRS 304.17A-617 are involved, the insurer or its agent shall be responsible for:
+(a) Monitoring all utilization reviews and internal appeals carried out by or on behalf of the insurer;
+(b) Ensuring that all requirements of KRS 304.17A-600 to 304.17A-633 are met;
+(c) Ensuring that all administrative regulations promulgated in accordance with KRS 304.17A-609,
+
+Section 42:
+304.17A-613, and 304.17A-629 are complied with; and
+(d) Ensuring that appropriate personnel have operational responsibility for the performance of the insurer's
+utilization review plan.
+(3) A private review agent that operates solely under contract with the federal government for utilization review or
+patients eligible for hospital services under Title XVIII of the Social Security Act shall not be subject to the
+registration requirements set forth in KRS 304.17A-607, 304.17A-609, and 304.17A-613.
+Section 4. KRS 304.17A-611 is amended to read as follows:
+(1) A utilization review decision shall not retrospectively deny coverage for health care services provided to a
+covered person when prior approval has been obtained from the insurer or its designee for those services,
+unless the approval was based upon fraudulent, materially inaccurate, or misrepresented information submitted
+by the covered person, authorized person, or the provider.
+(2) An insurer of a health benefit plan shall not require or conduct a prospective or concurrent review for a
+prescription drug:
+(a) That:
+
+Section 43:
+1. Is used in the treatment of alcohol or opioid use disorder; and
+
+Section 44:
+2. Contains Methadone, Buprenorphine, an opioid antagonist, or Naltrexone; or
+(b) That was approved before January 1, 2022, by the United States Food and Drug Administration for the
+mitigation of opioid withdrawal symptoms.
+(3) Notwithstanding any other law to the contrary:
+(a) An insurer or its private review agent shall not conduct a retrospective review that is based solely on
+a participating provider having a prior authorization exemption under a program offered under
+subsection (3) of Section 1 of this Act except to determine if the provider continues to qualify for the
+exemption; and
+(b) The timeframes for rendering a utilization review decision under KRS 304.17A-607 shall not apply to
+a retrospective review conducted for the purpose of determining if a participating provider qualifies
+for an initial or continuing prior authorization exemption under a program offered under subsection
+(3) of Section 1 of this Act.
+SECTION 5. A NEW SECTION OF KRS CHAPTER 205 IS CREATED TO READ AS FOLLOWS:
+The commissioner of the Department for Medicaid Services shall:
+(1) (a) Submit a written report not later than September 30 of each year to the Legislative Research
+Commission for referral to the Interim Joint Committees on Banking and Insurance and Health
+Services relating to prior authorization in the provision of Medicaid benefits in Kentucky.
+Legislative Research Commission PDF Version
+6 ACTS OF THE GENERAL ASSEMBLY
+(b) The report required under paragraph (a) of this subsection shall include the following, categorized
+by Medicaid managed care organization and fee for service:
+
+Section 45:
+1. A list of all services, procedures, and other treatments, including prescription drugs, that
+require prior authorization;
+
+Section 46:
+2. The percentage of prior authorization requests for nonurgent health care services in aggregate
+and by specific service, procedure, prescription drug, and other treatment:
+a. That were approved without an extension;
+b. For which the review was extended and the request approved; and
+c. That were denied, which may include the reason or reasons for the denials;
+
+Section 47:
+3. The percentage of prior authorization requests for urgent health care services that were:
+a. Approved; and
+b. Denied, which may include the reason or reasons for the denials; and
+
+Section 48:
+4. The average and median time between submission of a prior authorization request and a prior
+authorization decision for:
+a. Nonurgent health care services; and
+b. Urgent health care services;
+(2) Provide the Interim Joint Committees on Banking and Insurance and Health Services with a detailed
+briefing, upon request, to discuss and explain any report submitted under subsection (1) of this section; and
+(3) Promulgate any administrative regulation, including an emergency administrative regulation, in
+accordance with KRS Chapter 13A that the commissioner deems necessary to implement this section.
+Section 6. KRS 205.536 is amended to read as follows:
+(1) Except as provided in subsection (4) of this section, a Medicaid managed care organization shall have a
+utilization review plan, as defined in KRS 304.17A-600, that meets the requirements established in 42 C.F.R.
+pts. 431, 438, and 456. If the Medicaid managed care organization utilizes a private review agent, as defined in
+KRS 304.17A-600, the agent shall comply with all applicable requirements of KRS 304.17A-600 to 304.17A-
+
+Section 49:
+633.
+(2) In conducting utilization reviews for Medicaid benefits, each Medicaid managed care organization shall use
+the medical necessity criteria selected by the Department of Insurance pursuant to KRS 304.38-240, for
+making determinations of medical necessity and clinical appropriateness pursuant to the utilization review plan
+required by subsection (1) of this section.
+(3) To the extent consistent with the federal regulations referenced in subsection (1) of this section, the
+Department for Medicaid Services or any managed care organization contracted to provide Medicaid benefits
+pursuant to KRS Chapter 205 shall not require or conduct a prospective or concurrent review, as defined in
+KRS 304.17A-600, for a prescription drug:
+(a) That:
+
+Section 50:
+1. Is used in the treatment of alcohol or opioid use disorder; and
+
+Section 51:
+2. Contains Methadone, Buprenorphine, an opioid antagonist, or Naltrexone; or
+(b) That was approved before January 1, 2022, by the United States Food and Drug Administration for the
+mitigation of opioid withdrawal symptoms.
+(4) This chapter shall not be construed to require, with respect to the administration and provision of Medicaid
+benefits pursuant to this chapter, the Department for Medicaid Services, any managed care organization
+contracted to provide Medicaid benefits pursuant to this chapter, including any private review agent utilized
+by the Medicaid managed care organization, or the state's medical assistance program to comply with
+
+Section 52:
+Section 1 of this Act.
+Section 7. Sections 1 to 4 of this Act apply to contracts delivered, entered, renewed, extended, or amended
+on or after January 1, 2028.
+Section 8. Section 5 of this Act takes effect January 1, 2027.
+CHAPTER 102 7
+Section 9. Sections 1, 2, 3, 4, 6, and 7 of this Act take effect January 1, 2028.
+Signed by Governor April 13, 2026.
+Legislative Research Commission PDF Version
+[DELETED:  A " " " " L L p l p p o c p w L L L L " G T " I D " " M I " "]
+[DELETED:  " c a m a c a b a h c p I Q S P E C O M A E T S P r a r a p a e f a p h c i d t p e p t p m p t a N R R e a e r u s 3 o t p t b F F R a i o i p r a t n e p p t f a p a e w t ( d a c t R C M O]
+[DELETED:  O a p a e t a h c p g i l o e C T T p h b a p p f a m p o t b t i o p r a e a e m T C H h r a a w t i o p r P R I h p u f t p h c s d t P e f a p h c s o s o r a T T p u m o e a m u i u I A A F a f a n s t a p p i a w t s o a P a p f t p t d a u t p p m f S T P R]
+[DELETED:  ( S a w r n l t S 3 o e y t t L R T I T T A l o h c s w s i a d a C P c f e s f w e h b g u t T T A W A T T F T T p o p a r f u h c s t A D T N U P t I J C o B a a H S w a d P a a r i a e a r i ( E 3 3 3 3 a 3 s f t]
+[DELETED:  S A i o i p r a t p o p u r i A W M E E t a a r p i a w K 3 E A A A T I C T N A p p h a p a e u a p o u T ( S a w r n l t S 3 o e y t t L R]
+[DELETED:  T A l o a s p a o t i p d t T T F T T A D T N U P t I J C o B a a H S w a d P a a r i a e a r i E I m n c s b t D o I p t K 3 f T t e c w t f r r i s ( o t s t T I C T T]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 102 1
+CHAPTER 102
+( HB 176 )
+AN ACT relating to prior authorization.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+SECTION 1. A NEW SECTION OF KRS 304.17A-600 TO 304.17A-633 IS CREATED TO READ AS
+FOLLOWS:
+(1) As used in this section:
+(a) "Covered health care service" means a health care service furnished or proposed to be furnished to a
+covered person that is specifically available or included as a covered benefit in the covered person's
+health benefit plan;
+(b) "Electronic health record" has the same meaning as in 42 U.S.C. sec. 17921, as amended;
+(c) "Evaluation period" means a twelve (12) month period of time for which a health care provider's
+prior authorization experience is evaluated by an insurer or private review agent;
+(d) "Health care provider" has the same meaning as in KRS 304.17A-005, except for purposes of this
+section the term includes, if practicing independently, any:
+1. Licensed clinical alcohol and drug counselor licensed under KRS Chapter 309;
+2. Licensed psychologist, licensed psychological practitioner, or certified psychologist with
+autonomous functioning licensed or certified under the provisions of KRS Chapter 319;
+3. Licensed professional clinical counselor licensed under KRS Chapter 335;
+4. Licensed marriage and family therapist licensed under KRS Chapter 335;
+5. Licensed professional art therapist licensed under KRS Chapter 309; and
+6. Licensed clinical social worker licensed under KRS Chapter 335;
+(e) "Health care provider group" means two (2) or more health care providers that provide health care
+services within an entity that shares a common:
+1. Group provider number; or
+2. Tax identification number;
+(f) "Health care service" has the same meaning as in KRS 304.17A-005, except for purposes of this
+section the term:
+1. Includes procedures, treatments, and services rendered by a health care provider as defined in
+this section; and
+2. Does not include the provision of prescription drugs;
+(g) "Interoperability standards" means the technical standards set forth in 45 C.F.R. sec. 170.215, as
+amended;
+(h) "Participating provider":
+1. Means a health care provider that has entered into a participating provider contract; and
+2. Includes a health care provider group if the insurer has elected to offer an exemption to the
+health care provider group under subsection (4)(b)2. of this section;
+(i) "Participating provider contract" means a contract between a health care provider, either directly or
+through a health care provider group, and an insurer for the provision of health care services under
+a health benefit plan;
+(j) "Utilization" means the number of claims submitted for a particular health care service under a
+health benefit plan by a participating provider; and
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(k) "Value-based care agreement" means a contractual agreement between a health care provider,
+either directly or through a health care provider group, and an insurer that:
+1. Incentivizes or rewards the provider based on one (1) or more of the following:
+a. Quality of care;
+b. Safety;
+c. Patient outcomes;
+d. Efficiency;
+e. Cost reduction; or
+f. Other factors; and
+2. May, but is not required to, include shared financial risk and rewards based on performance
+metrics.
+(2) An insurer or its private review agent shall not require a covered person, authorized person, or participating
+provider to obtain a prior authorization for a particular health care service under a health benefit plan if, at
+the time the health care service was provided, the provider had a prior authorization exemption for that
+particular health care service under a program offered under subsection (3) of this section.
+(3) Every insurer shall offer a program under which a participating provider may qualify for an exemption
+from the requirement to obtain prior authorization for any covered health care service that requires prior
+authorization.
+(4) The program offered under subsection (3) of this section:
+(a) Shall:
+1. Provide that a participating provider, for an evaluation period established by the insurer or
+private review agent, receive a prior authorization exemption for a particular health care
+service if, during the previous evaluation period, the provider met program terms and
+conditions established by the insurer or private review agent that are not in violation of this
+section;
+2. Not condition a prior authorization exemption upon the provider exceeding a ninety-three
+percent (93%) approval rate for prior authorization requests submitted by the provider for that
+health care service during an evaluation period;
+3. Require the insurer or its private review agent to evaluate, on an annual basis, whether a
+participating provider qualifies to receive a prior authorization exemption for each covered
+health care service for which the insurer requires prior authorization;
+4. Require each annual evaluation required under subparagraph 3. of this paragraph to be
+conducted on:
+a. For participating provider contracts that have a performance period of one (1) year, the
+contract's renewal date; or
+b. For participating provider contracts that have a performance period of greater than one
+(1) year, the annual anniversary date of the contract renewal;
+5. Require an insurer or its private review agent to notify each participating provider that
+qualifies for a prior authorization exemption within thirty (30) days after conducting the
+annual evaluation required under subparagraph 3. of this paragraph;
+6. Require an insurer or its private review agent to make available to a health care provider
+during the contracting process the requirements that the provider must meet to participate in
+the program; and
+7. Comply with any administrative regulation promulgated under KRS 304.2-110 for or as an aid
+to the effectuation of this section; and
+(b) May:
+1. Offer a prior authorization exemption for any prescription drug;
+
+CHAPTER 102 3
+2. Offer a prior authorization exemption to a health care provider group in lieu of each
+participating provider practicing within a health care provider group;
+3. Condition a participating provider's eligibility to participate in the program on the provider
+satisfying one (1) or more of the following:
+a. The provider has entered into, either directly or through a health care provider group, a
+value-based care agreement with the insurer;
+b. The provider has been a participating provider for a minimum period of time
+established by the insurer or private review agent, except an established minimum
+period of time shall not be more than one (1) year; or
+c. The provider:
+i. Complies with interoperability standards; and
+ii. Has entered into, either directly or through a health care provider group, an
+electronic health record access agreement with the insurer or private review
+agent;
+4. Provide that a participating provider shall not qualify for a prior authorization exemption for
+any particular health care service unless the provider's utilization for that health care service
+during the previous evaluation period meets any utilization requirement established by the
+insurer or private review agent, except an established utilization requirement shall not:
+a. Require a minimum utilization of more than twenty-four (24); or
+b. Impose a maximum utilization of less than one hundred ten percent (110%) of the
+participating provider's utilization for that particular health care service during the
+previous evaluation period; and
+5. Provide that an insurer or its private review agent may revoke a participating provider's prior
+authorization exemption for any particular health care service, or suspend or revoke a
+participating provider's participation in the program, if:
+a. The insurer or private review agent has evidence that the provider has engaged in fraud
+or abuse; or
+b. The provider's utilization meets or exceeds a maximum utilization imposed under
+subparagraph 4.b. of this paragraph.
+(5) If an insurer or its private review agent determines that a participating provider is eligible to participate in
+the program offered under subsection (3) of this section, the insurer or private review agent shall send a
+notice to the provider that includes:
+(a) A statement that the provider is eligible to participate in the program; and
+(b) A list of each health care service that is subject to the elimination of prior authorization requirements
+under the program.
+(6) For all forms and notices sent to a participating provider in accordance with this section, or any
+administrative regulations promulgated under KRS 304.2-110 for or as an aid to the effectuation of this
+section, the insurer or its private review agent shall:
+(a) Provide a process for the provider to designate and update the provider's preferred manner for
+receiving the forms and notices; and
+(b) Send the forms and notices to the provider in the manner designated under paragraph (a) of this
+subsection.
+(7) This section shall not be construed to:
+(a) Prevent an insurer or its private review agent from requesting a health care provider to provide
+additional information about a health care service rendered to a covered person; or
+(b) Require coverage of a noncovered health care service under a covered person's health benefit plan.
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+SECTION 2. A NEW SECTION OF KRS 304.17A-600 TO 304.17A-633 IS CREATED TO READ AS
+FOLLOWS:
+The commissioner shall:
+(1) (a) Submit a written report not later than September 30 of each year to the Legislative Research
+Commission for referral to the Interim Joint Committees on Banking and Insurance and Health
+Services relating to prior authorization in the provision of health care benefits under this chapter.
+(b) The report required under paragraph (a) of this subsection shall include:
+1. Information relating to the implementation and effectuation of Section 1 of this Act;
+2. The number of insurers and private review agents offering a program required under Section
+1 of this Act;
+3. The number of providers, by provider group, specialty, and county, participating in one (1) or
+more programs offered under Section 1 of this Act;
+4. A list of health care services, which shall include a description and Current Procedural
+Terminology code for each service, for which exemptions have been granted under the
+programs required under Section 1 of this Act;
+5. The number of programs offered under Section 1 of this Act, which shall include:
+a. The number of programs that grant exemptions for one (1) or more prescription drugs;
+and
+b. A list of the drugs for which exemptions are granted under a program reported under
+subdivision a. of this subparagraph; and
+6. With respect to any health insurance policy, certificate, plan, or contract required to comply
+with KRS 304.17A-600 to 304.17A-633:
+a. A list of all services, procedures, and other treatments, including prescription drugs,
+that require prior authorization;
+b. The percentage of prior authorization requests for nonurgent health care services in
+aggregate and by specific service, procedure, prescription drug, and other treatment:
+i. That were approved without an extension;
+ii. For which the review was extended and the request approved; and
+iii. That were denied, which may include the reason or reasons for the denials;
+c. The percentage of prior authorization requests for urgent health care services that
+were:
+i. Approved; and
+ii. Denied, which may include the reason or reasons for the denials; and
+d. The average and median time between submission of a prior authorization request and
+the prior authorization decision for:
+i. Nonurgent health care services; and
+ii. Urgent health care services;
+(2) Provide the Interim Joint Committees on Banking and Insurance and Health Services with a detailed
+briefing, upon request, to discuss and explain any report submitted under subsection (1) of this section; and
+(3) Promulgate any administrative regulation, including an emergency administrative regulation, in
+accordance with KRS Chapter 13A that the commissioner deems necessary to implement this section.
+Section 3. KRS 304.17A-605 is amended to read as follows:
+(1) (a) Except as provided in paragraph (b) of this subsection, KRS 304.17A-600, 304.17A-603, 304.17A-
+605, 304.17A-607, 304.17A-609, 304.17A-611, 304.17A-613, and 304.17A-615 set forth the
+requirements and procedures regarding utilization review and shall apply to:
+
+CHAPTER 102 5
+1.[(a)] Any insurer or its private review agent that provides or performs utilization review in connection
+with a health benefit plan or a limited health service benefit plan; and
+2.[(b)] Any private review agent that performs utilization review functions on behalf of any person
+providing or administering health benefit plans or limited health service benefit plans.
+(b) Section 1 of this Act sets forth additional requirements for prior authorization and shall apply to:
+1. Any insurer or its private review agent that provides or performs utilization review in
+connection with a health benefit plan; and
+2. Any private review agent that performs utilization review functions on behalf of any person
+providing and administering health benefit plans.
+(2) Where an insurer or its agent provides or performs utilization review, and in all instances where internal
+appeals as set forth in KRS 304.17A-617 are involved, the insurer or its agent shall be responsible for:
+(a) Monitoring all utilization reviews and internal appeals carried out by or on behalf of the insurer;
+(b) Ensuring that all requirements of KRS 304.17A-600 to 304.17A-633 are met;
+(c) Ensuring that all administrative regulations promulgated in accordance with KRS 304.17A-609,
+304.17A-613, and 304.17A-629 are complied with; and
+(d) Ensuring that appropriate personnel have operational responsibility for the performance of the insurer's
+utilization review plan.
+(3) A private review agent that operates solely under contract with the federal government for utilization review or
+patients eligible for hospital services under Title XVIII of the Social Security Act shall not be subject to the
+registration requirements set forth in KRS 304.17A-607, 304.17A-609, and 304.17A-613.
+Section 4. KRS 304.17A-611 is amended to read as follows:
+(1) A utilization review decision shall not retrospectively deny coverage for health care services provided to a
+covered person when prior approval has been obtained from the insurer or its designee for those services,
+unless the approval was based upon fraudulent, materially inaccurate, or misrepresented information submitted
+by the covered person, authorized person, or the provider.
+(2) An insurer of a health benefit plan shall not require or conduct a prospective or concurrent review for a
+prescription drug:
+(a) That:
+1. Is used in the treatment of alcohol or opioid use disorder; and
+2. Contains Methadone, Buprenorphine, an opioid antagonist, or Naltrexone; or
+(b) That was approved before January 1, 2022, by the United States Food and Drug Administration for the
+mitigation of opioid withdrawal symptoms.
+(3) Notwithstanding any other law to the contrary:
+(a) An insurer or its private review agent shall not conduct a retrospective review that is based solely on
+a participating provider having a prior authorization exemption under a program offered under
+subsection (3) of Section 1 of this Act except to determine if the provider continues to qualify for the
+exemption; and
+(b) The timeframes for rendering a utilization review decision under KRS 304.17A-607 shall not apply to
+a retrospective review conducted for the purpose of determining if a participating provider qualifies
+for an initial or continuing prior authorization exemption under a program offered under subsection
+(3) of Section 1 of this Act.
+SECTION 5. A NEW SECTION OF KRS CHAPTER 205 IS CREATED TO READ AS FOLLOWS:
+The commissioner of the Department for Medicaid Services shall:
+(1) (a) Submit a written report not later than September 30 of each year to the Legislative Research
+Commission for referral to the Interim Joint Committees on Banking and Insurance and Health
+Services relating to prior authorization in the provision of Medicaid benefits in Kentucky.
+Legislative Research Commission PDF Version
+
+6 ACTS OF THE GENERAL ASSEMBLY
+(b) The report required under paragraph (a) of this subsection shall include the following, categorized
+by Medicaid managed care organization and fee for service:
+1. A list of all services, procedures, and other treatments, including prescription drugs, that
+require prior authorization;
+2. The percentage of prior authorization requests for nonurgent health care services in aggregate
+and by specific service, procedure, prescription drug, and other treatment:
+a. That were approved without an extension;
+b. For which the review was extended and the request approved; and
+c. That were denied, which may include the reason or reasons for the denials;
+3. The percentage of prior authorization requests for urgent health care services that were:
+a. Approved; and
+b. Denied, which may include the reason or reasons for the denials; and
+4. The average and median time between submission of a prior authorization request and a prior
+authorization decision for:
+a. Nonurgent health care services; and
+b. Urgent health care services;
+(2) Provide the Interim Joint Committees on Banking and Insurance and Health Services with a detailed
+briefing, upon request, to discuss and explain any report submitted under subsection (1) of this section; and
+(3) Promulgate any administrative regulation, including an emergency administrative regulation, in
+accordance with KRS Chapter 13A that the commissioner deems necessary to implement this section.
+Section 6. KRS 205.536 is amended to read as follows:
+(1) Except as provided in subsection (4) of this section, a Medicaid managed care organization shall have a
+utilization review plan, as defined in KRS 304.17A-600, that meets the requirements established in 42 C.F.R.
+pts. 431, 438, and 456. If the Medicaid managed care organization utilizes a private review agent, as defined in
+KRS 304.17A-600, the agent shall comply with all applicable requirements of KRS 304.17A-600 to 304.17A-
+633.
+(2) In conducting utilization reviews for Medicaid benefits, each Medicaid managed care organization shall use
+the medical necessity criteria selected by the Department of Insurance pursuant to KRS 304.38-240, for
+making determinations of medical necessity and clinical appropriateness pursuant to the utilization review plan
+required by subsection (1) of this section.
+(3) To the extent consistent with the federal regulations referenced in subsection (1) of this section, the
+Department for Medicaid Services or any managed care organization contracted to provide Medicaid benefits
+pursuant to KRS Chapter 205 shall not require or conduct a prospective or concurrent review, as defined in
+KRS 304.17A-600, for a prescription drug:
+(a) That:
+1. Is used in the treatment of alcohol or opioid use disorder; and
+2. Contains Methadone, Buprenorphine, an opioid antagonist, or Naltrexone; or
+(b) That was approved before January 1, 2022, by the United States Food and Drug Administration for the
+mitigation of opioid withdrawal symptoms.
+(4) This chapter shall not be construed to require, with respect to the administration and provision of Medicaid
+benefits pursuant to this chapter, the Department for Medicaid Services, any managed care organization
+contracted to provide Medicaid benefits pursuant to this chapter, including any private review agent utilized
+by the Medicaid managed care organization, or the state's medical assistance program to comply with
+Section 1 of this Act.
+Section 7. Sections 1 to 4 of this Act apply to contracts delivered, entered, renewed, extended, or amended
+on or after January 1, 2028.
+Section 8. Section 5 of this Act takes effect January 1, 2027.
+
+CHAPTER 102 7
+Section 9. Sections 1, 2, 3, 4, 6, and 7 of this Act take effect January 1, 2028.
+Signed by Governor April 13, 2026.
+Legislative Research Commission PDF Version
+
+[DELETED:  A " " " " L L p l p p o c p w L L L L " G T " I D " " M I " "]
+[DELETED:  " c a m a c a b a h c p I Q S P E C O M A E T S P r a r a p a e f a p h c i d t p e p t p m p t a N R R e a e r u s 3 o t p t b F F R a i o i p r a t n e p p t f a p a e w t ( d a c t R C M O]
+[DELETED:  O a p a e t a h c p g i l o e C T T p h b a p p f a m p o t b t i o p r a e a e m T C H h r a a w t i o p r P R I h p u f t p h c s d t P e f a p h c s o s o r a T T p u m o e a m u i u I A A F a f a n s t a p p i a w t s o a P a p f t p t d a u t p p m f S T P R]
+[DELETED:  ( S a w r n l t S 3 o e y t t L R T I T T A l o h c s w s i a d a C P c f e s f w e h b g u t T T A W A T T F T T p o p a r f u h c s t A D T N U P t I J C o B a a H S w a d P a a r i a e a r i ( E 3 3 3 3 a 3 s f t]
+[DELETED:  S A i o i p r a t p o p u r i A W M E E t a a r p i a w K 3 E A A A T I C T N A p p h a p a e u a p o u T ( S a w r n l t S 3 o e y t t L R]
+[DELETED:  T A l o a s p a o t i p d t T T F T T A D T N U P t I J C o B a a H S w a d P a a r i a e a r i E I m n c s b t D o I p t K 3 f T t e c w t f r r i s ( o t s t T I C T T]

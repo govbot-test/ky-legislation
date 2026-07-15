@@ -1,0 +1,466 @@
+Title: 1 AN ACT relating to pari-mutuel wagering.
+Official Title: 1 AN ACT relating to pari-mutuel wagering.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 26 RS BR 483
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 230.210 is amended to read as follows:
+4 As used in this chapter, unless the context requires otherwise:
+5 (1) "Advance deposit account wagering" means a form of pari-mutuel wagering in
+6 which an individual may establish an account with a person or entity licensed by the
+7 corporation, and may place a pari-mutuel wager through that account that is
+8 permitted by law;
+9 (2) "Advance deposit account wagering licensee" means a person or entity licensed by
+10 the corporation to conduct advance deposit account wagering and accept deposits
+11 and wagers, issue a receipt or other confirmation to the account holder evidencing
+12 such deposits and wagers, and transfer credits and debits to and from accounts;
+13 (3) "Amateur youth sporting event" means any sporting event in which an individual:
+14 (a) Shall be less than eighteen (18) years of age to participate; and
+15 (b) Is prohibited, as a condition of participating in the sporting event, from
+16 receiving direct or indirect compensation for the use of the individual's
+17 athletic skill in any manner with respect to the sport in which the particular
+18 sporting event is conducted;
+19 (4) "Appaloosa race" or "Appaloosa racing" means that form of horse racing in which
+20 each horse participating in the race is registered with the Appaloosa Horse Club of
+21 Moscow, Idaho, and is mounted by a jockey;
+22 (5) "Arabian" means a horse that is registered with the Arabian Horse Registry of
+23 Denver, Colorado;
+24 (6) "Association" means any person licensed by the Kentucky Horse Racing and
+25 Gaming Corporation under KRS 230.300 and engaged in the conduct of a
+26 recognized horse race meeting;
+27 (7) "Charitable gaming" means gaming licensed by the corporation on and after July 1,
+Page 1 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 483
+1 2025, as authorized under this chapter and KRS Chapter 238;
+2 (8) "Corporation" means the Kentucky Horse Racing and Gaming Corporation;
+3 (9) "Geofence" means a virtual geographic boundary defined by Global Positioning
+4 System (GPS) or Radio Frequency Identification (RFID) technology;
+5 (10) "Harness race" or "harness racing" means trotting and pacing races of the
+6 standardbred horses;
+7 (11) "Horse race meeting" means horse racing run at an association licensed and
+8 regulated by the Kentucky Horse Racing and Gaming Corporation, and may include
+9 Thoroughbred, harness, Appaloosa, Arabian, paint, and quarter horse racing;
+10 (12) "Host track" means the track conducting racing and offering its racing for intertrack
+11 wagering, or, in the case of interstate wagering, means the Kentucky track
+12 conducting racing and offering simulcasts of races conducted in other states or
+13 foreign countries;
+14 (13) "Interstate wagering" means pari-mutuel wagering on simulcast horse races from a
+15 track located in another state or foreign country by patrons at a receiving track or
+16 simulcast facility;
+17 (14) "Intertrack wagering" means pari-mutuel wagering on simulcast horse races from a
+18 host track by patrons at a receiving track;
+19 (15) "Kentucky paint horse, Appaloosa, and Arabian purse fund" means a purse fund
+20 established to receive funds as specified in KRS 230.3771 for purse programs
+21 established in KRS 230.446 to supplement purses for paint horse, Appaloosa, and
+22 Arabian horse races. The purse program shall be administered by the Kentucky
+23 Horse Racing and Gaming Corporation;
+24 (16) "Kentucky quarter horse purse fund" means a purse fund established to receive
+25 funds as specified in KRS 230.3771 for purse programs established in KRS 230.407
+26 to supplement purses for quarter horse races. The purse program shall be
+27 administered by the Kentucky Horse Racing and Gaming Corporation;
+Page 2 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 483
+1 (17) "Kentucky resident" means:
+2 (a) An individual domiciled within this state;
+3 (b) An individual who maintains a place of abode in this state and spends, in the
+4 aggregate, more than one hundred eighty-three (183) days of the calendar year
+5 in this state; or
+6 (c) An individual who lists a Kentucky address as his or her principal place of
+7 residence when applying for an account to participate in advance deposit
+8 account wagering;
+9 (18) "Licensed facility for sports wagering" means the designated areas to conduct
+10 sports wagering for a track licensed to conduct sports wagering pursuant to KRS
+11 230.811;
+12 (19) "Licensed premises" means a track or simulcast facility licensed by the corporation
+13 under this chapter;
+14 (20) "Paint horse" means a horse registered with the American Paint Horse Association
+15 of Fort Worth, Texas;
+16 (21) "Pari-mutuel wagering," "pari-mutuel system of wagering," or "mutuel wagering"
+17 each means any method of wagering in which patrons are wagering among
+18 themselves on any aspect of[previously or hereafter approved by the corporation in
+19 which one (1) or more patrons wager on] a horse race or races, whether live,
+20 simulcast, or previously run. Amounts wagered shall be placed in one (1) or more
+21 designated pari-mutuel pools from which winning wagers are paid out in
+22 proportion to the individual winning wagers, after deductions and adjustments to
+23 the pool are made, as required by statute or authorized by the corporation. Access
+24 to pari-mutuel pools shall be made available to all patrons on equitable terms,
+25 and no patron or class of patrons shall be afforded preferential pricing, rebates,
+26 access, information, technology, latency, or other advantages not uniformly
+27 available to all patrons placing wagers of the same type into the same pari-mutuel
+Page 3 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 483
+1 pool[Wagers shall be placed in one (1) or more wagering pools, and wagers on
+2 different races or sets of races may be pooled together. Patrons may establish odds
+3 or payouts, and winning patrons share in amounts wagered including any carryover
+4 amounts, plus any amounts provided by an association less any deductions required,
+5 as approved by the corporation and permitted by law. Pools may be paid out
+6 incrementally over time as approved by the corporation];
+7 (22) "Person" means an individual, sole proprietorship, partnership, association,
+8 fiduciary, corporation, limited liability company, or any other business entity;
+9 (23) "President" means the president of the Kentucky Horse Racing and Gaming
+10 Corporation, who shall serve as chief executive officer of the corporation;
+11 (24) "Principal" means any of the following individuals associated with a partnership,
+12 trust, association, limited liability company, or corporation that is licensed to
+13 conduct a horse race meeting or an applicant for a license to conduct a horse race
+14 meeting:
+15 (a) The chairman and all members of the board of directors of a corporation;
+16 (b) All partners of a partnership and all participating members of a limited
+17 liability company;
+18 (c) All trustees and trust beneficiaries of an association;
+19 (d) The president or chief executive officer and all other officers, managers, and
+20 employees who have policymaking or fiduciary responsibility within the
+21 organization;
+22 (e) All stockholders or other individuals who own, hold, or control, either directly
+23 or indirectly, five percent (5%) or more of stock or financial interest in the
+24 collective organization; and
+25 (f) Any other employee, agent, guardian, personal representative, or lender or
+26 holder of indebtedness who has the power to exercise a significant influence
+27 over the applicant's or licensee's operation;
+Page 4 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 483
+1 (25) "Proof of wagers" includes any paper, card, certificate, token, or ticket, which
+2 indicates the details of one (1) or more pari-mutuel wagers that were placed and, if
+3 such wagers are successful, that winnings are due to the ticket holder from the
+4 track;
+5 (26) "Quarter horse" means a horse that is registered with the American Quarter Horse
+6 Association of Amarillo, Texas;
+7 (27) "Receiving track" means a track where simulcasts are displayed for wagering
+8 purposes. A track that submits an application for intertrack wagering shall meet all
+9 the regulatory criteria for granting an association license of the same breed as the
+10 host track, and shall have a heated and air-conditioned facility that meets all state
+11 and local life safety code requirements and seats a number of patrons at least equal
+12 to the average daily attendance for intertrack wagering on the requested breed in the
+13 county in which the track is located during the immediately preceding calendar
+14 year;
+15 (28) "Simulcast facility" means any facility approved pursuant to KRS 230.380 to
+16 simulcast live racing and conduct pari-mutuel wagering on live racing;
+17 (29) "Simulcasting" means the telecast of live audio and visual signals of horse races for
+18 the purpose of pari-mutuel wagering;
+19 (30) "Sporting event" means an event at which two (2) or more persons participate in
+20 athletic contests, or an event that takes place in relation to athletic contests as
+21 approved by the corporation, but shall not include horse racing or amateur youth
+22 sports or athletic events in which the majority of participants are under the age of
+23 eighteen (18) years;
+24 (31) "Sports governing body" means the organization, league, or association that
+25 oversees a sport, prescribes final rules, and enforces codes of conduct with respect
+26 to such sport and participants therein;
+27 (32) "Sports wagering" means the wagering conducted under this chapter on sporting
+Page 5 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 483
+1 events or portions of sporting events, or on the individual performance statistics of
+2 athletes in a sporting event or combination of sporting events, in conformance with
+3 federal law and as authorized by the corporation pursuant to this chapter;
+4 (33) "Sports wagering device":
+5 (a) Means a mechanical, electrical, or computerized contrivance, terminal,
+6 device, apparatus, software, piece of equipment, or supply approved by the
+7 corporation for conducting sports wagering under this chapter; and
+8 (b) Includes a personal computer, mobile device, or other device used in
+9 connection with sports wagering not conducted at a licensed facility for sports
+10 wagering;
+11 (34) "Sports wagering service provider" or "service provider" means a person authorized
+12 to conduct or manage sports wagering through an agreement with a track and
+13 provide these services at a licensed facility for sports wagering, simulcast facility,
+14 or through a website or mobile interface approved by the corporation;
+15 (35) "Telephone account wagering" means a form of pari-mutuel wagering where an
+16 individual may deposit money in an account at a track and may place a wager by
+17 direct telephone call or by communication through other electronic media owned by
+18 the holder of the account to the track;
+19 (36) "Thoroughbred race" or "Thoroughbred racing" means a form of horse racing in
+20 which each horse participating in the race is a Thoroughbred, (i.e., meeting the
+21 requirements of and registered with The Jockey Club of New York) and is mounted
+22 by a jockey;
+23 (37) "Track" means any association duly licensed by the Kentucky Horse Racing and
+24 Gaming Corporation to conduct horse racing and includes:
+25 (a) For facilities in operation as of 2010, the location and physical plant described
+26 in the "Commonwealth of Kentucky Initial/Renewal Application for License
+27 to Conduct Live Horse Racing, Simulcasting, and Pari-Mutuel Wagering,"
+Page 6 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 483
+1 filed for racing to be conducted in 2010;
+2 (b) Real property of an association, if the association received or receives
+3 approval from the corporation after 2010 for a location at which live racing is
+4 to be conducted; or
+5 (c) One (1) facility or real property that is:
+6 1. Owned, leased, or purchased by an association within a sixty (60) mile
+7 radius of the association's racetrack but not contiguous to racetrack
+8 premises, upon corporation approval; and
+9 2. Not within a sixty (60) mile radius of another licensed track premise
+10 where live racing is conducted and not within a forty (40) mile radius of
+11 a simulcast facility, unless any affected track or simulcast facility agrees
+12 in writing to permit a noncontiguous facility within the protected
+13 geographic area;
+14 (38) "Unclaimed pari-mutuel winning ticket":
+15 (a) Means the proof of wager that would require payment of winnings upon
+16 submission to the track, but has been presumed abandoned under KRS
+17 230.361; and
+18 (b) Includes proof of wagers from live racing and simulcasting; and
+19 (39) "Unredeemed pari-mutuel voucher":
+20 (a) Means a voucher issued by a licensed track that evidences the value of funds
+21 or credits available that a patron may use for placing pari-mutuel wagers on
+22 live or previously run horse races, or which the patron may redeem for cash,
+23 but has been presumed abandoned under KRS 230.361; and
+24 (b) Does not include:
+25 1. Any proof of wagers or any other information related to specific wagers
+26 placed on live or historical horse racing; or
+27 2. Any vouchers that were voluntarily surrendered for donation to charity
+Page 7 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+UNOFFICIAL COPY 26 RS BR 483
+1 or similar purposes.
+Page 8 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+[DELETED:   2  J A B S A ( " d a w m a f o p w i w c a m p a p w t t a t i p ( " t a s ( " ( S ( I p a a c o p i t s e f r d o i c f t u o t i a s ( " e M ( " m a h t i r w t A H R o D ( " m a p l b t K H R a G C u K 2 a e i t c o a r ( "]
+[DELETED:   2  J 2 ( " ( " m a v g b d b G P S ( " r o " r m t a p r o t s ( " r m m h r r a a a l a r T ( " w o i t c o i w m t K t c r a o s o r c i o s o f ( " t s ( " h ( " e t r f a s i K 2 f p p e A h r T p p s b a b t K H ( " q h p f m a p f e t r f t s p f q h r T p p s b a]
+[DELETED:   2  J ( " ( A ( A a i ( A r w a f a a t p i a d a ( " f f s w m t d a t c s 2 ( " u ( " o ( " e m a m o w i w p a w a t w o ( o m p w o a h r o r w l s d p p f w w w a p o i p t t a a i t l o o a n u a]
+[DELETED:   2  J p s b p i o ( o w p a w o d o a a a b t c a p b l P m b p o i ( " m a i s p p a f ( " m t p o t K H R a G C ( " t a l l c o c t i l t c m ( T ( A p o a p a a p m o a l l ( A ( T e w h p o f r w t o ( A o c ( A o e a g p r o l o h o]
+[DELETED:   2  J ( " o w i a p c c t o t w i s w a s t w a d t t t h f t t ( " A ( " t m a t w s a d f w p t h a t c i w t t i l d t i p c y ( " f m a f a p t K 2 t s ( " t ( " a c o a e t t p i r t a c a a s e ( " g b m t o l o a t o t ( "]
+[DELETED:   2  J e a f ( " ( M a m e o c c t d c ( I a p c m d o o d u i c w ( " t c o m s w t a a w a t a p o ( " a w m a f o p w w a i d t ( " w e h p i t r i a T ( m t r b ( " G ( F i t C L H R S a P W]
+[DELETED:   2  J f ( R p o a a i t a r o r a t ( O 1 O r o t a r b n c t r p 2 N ( m w a i w t p a n f w t p g ( " ( M t p o w t w r p o w u s t t t b h b p a u K 2 ( I ( " ( M o l b ( D 1 A p 2 A]
+[DELETED:   2  J o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 26 RS BR 483
+1 AN ACT relating to pari-mutuel wagering.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 230.210 is amended to read as follows:
+4 As used in this chapter, unless the context requires otherwise:
+5 (1) "Advance deposit account wagering" means a form of pari-mutuel wagering in
+6 which an individual may establish an account with a person or entity licensed by the
+7 corporation, and may place a pari-mutuel wager through that account that is
+8 permitted by law;
+9 (2) "Advance deposit account wagering licensee" means a person or entity licensed by
+10 the corporation to conduct advance deposit account wagering and accept deposits
+11 and wagers, issue a receipt or other confirmation to the account holder evidencing
+12 such deposits and wagers, and transfer credits and debits to and from accounts;
+13 (3) "Amateur youth sporting event" means any sporting event in which an individual:
+14 (a) Shall be less than eighteen (18) years of age to participate; and
+15 (b) Is prohibited, as a condition of participating in the sporting event, from
+16 receiving direct or indirect compensation for the use of the individual's
+17 athletic skill in any manner with respect to the sport in which the particular
+18 sporting event is conducted;
+19 (4) "Appaloosa race" or "Appaloosa racing" means that form of horse racing in which
+20 each horse participating in the race is registered with the Appaloosa Horse Club of
+21 Moscow, Idaho, and is mounted by a jockey;
+22 (5) "Arabian" means a horse that is registered with the Arabian Horse Registry of
+23 Denver, Colorado;
+24 (6) "Association" means any person licensed by the Kentucky Horse Racing and
+25 Gaming Corporation under KRS 230.300 and engaged in the conduct of a
+26 recognized horse race meeting;
+27 (7) "Charitable gaming" means gaming licensed by the corporation on and after July 1,
+Page 1 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 483
+1 2025, as authorized under this chapter and KRS Chapter 238;
+2 (8) "Corporation" means the Kentucky Horse Racing and Gaming Corporation;
+3 (9) "Geofence" means a virtual geographic boundary defined by Global Positioning
+4 System (GPS) or Radio Frequency Identification (RFID) technology;
+5 (10) "Harness race" or "harness racing" means trotting and pacing races of the
+6 standardbred horses;
+7 (11) "Horse race meeting" means horse racing run at an association licensed and
+8 regulated by the Kentucky Horse Racing and Gaming Corporation, and may include
+9 Thoroughbred, harness, Appaloosa, Arabian, paint, and quarter horse racing;
+10 (12) "Host track" means the track conducting racing and offering its racing for intertrack
+11 wagering, or, in the case of interstate wagering, means the Kentucky track
+12 conducting racing and offering simulcasts of races conducted in other states or
+13 foreign countries;
+14 (13) "Interstate wagering" means pari-mutuel wagering on simulcast horse races from a
+15 track located in another state or foreign country by patrons at a receiving track or
+16 simulcast facility;
+17 (14) "Intertrack wagering" means pari-mutuel wagering on simulcast horse races from a
+18 host track by patrons at a receiving track;
+19 (15) "Kentucky paint horse, Appaloosa, and Arabian purse fund" means a purse fund
+20 established to receive funds as specified in KRS 230.3771 for purse programs
+21 established in KRS 230.446 to supplement purses for paint horse, Appaloosa, and
+22 Arabian horse races. The purse program shall be administered by the Kentucky
+23 Horse Racing and Gaming Corporation;
+24 (16) "Kentucky quarter horse purse fund" means a purse fund established to receive
+25 funds as specified in KRS 230.3771 for purse programs established in KRS 230.407
+26 to supplement purses for quarter horse races. The purse program shall be
+27 administered by the Kentucky Horse Racing and Gaming Corporation;
+Page 2 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 483
+1 (17) "Kentucky resident" means:
+2 (a) An individual domiciled within this state;
+3 (b) An individual who maintains a place of abode in this state and spends, in the
+4 aggregate, more than one hundred eighty-three (183) days of the calendar year
+5 in this state; or
+6 (c) An individual who lists a Kentucky address as his or her principal place of
+7 residence when applying for an account to participate in advance deposit
+8 account wagering;
+9 (18) "Licensed facility for sports wagering" means the designated areas to conduct
+10 sports wagering for a track licensed to conduct sports wagering pursuant to KRS
+11 230.811;
+12 (19) "Licensed premises" means a track or simulcast facility licensed by the corporation
+13 under this chapter;
+14 (20) "Paint horse" means a horse registered with the American Paint Horse Association
+15 of Fort Worth, Texas;
+16 (21) "Pari-mutuel wagering," "pari-mutuel system of wagering," or "mutuel wagering"
+17 each means any method of wagering in which patrons are wagering among
+18 themselves on any aspect of[previously or hereafter approved by the corporation in
+19 which one (1) or more patrons wager on] a horse race or races, whether live,
+20 simulcast, or previously run. Amounts wagered shall be placed in one (1) or more
+21 designated pari-mutuel pools from which winning wagers are paid out in
+22 proportion to the individual winning wagers, after deductions and adjustments to
+23 the pool are made, as required by statute or authorized by the corporation. Access
+24 to pari-mutuel pools shall be made available to all patrons on equitable terms,
+25 and no patron or class of patrons shall be afforded preferential pricing, rebates,
+26 access, information, technology, latency, or other advantages not uniformly
+27 available to all patrons placing wagers of the same type into the same pari-mutuel
+Page 3 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 483
+1 pool[Wagers shall be placed in one (1) or more wagering pools, and wagers on
+2 different races or sets of races may be pooled together. Patrons may establish odds
+3 or payouts, and winning patrons share in amounts wagered including any carryover
+4 amounts, plus any amounts provided by an association less any deductions required,
+5 as approved by the corporation and permitted by law. Pools may be paid out
+6 incrementally over time as approved by the corporation];
+7 (22) "Person" means an individual, sole proprietorship, partnership, association,
+8 fiduciary, corporation, limited liability company, or any other business entity;
+9 (23) "President" means the president of the Kentucky Horse Racing and Gaming
+10 Corporation, who shall serve as chief executive officer of the corporation;
+11 (24) "Principal" means any of the following individuals associated with a partnership,
+12 trust, association, limited liability company, or corporation that is licensed to
+13 conduct a horse race meeting or an applicant for a license to conduct a horse race
+14 meeting:
+15 (a) The chairman and all members of the board of directors of a corporation;
+16 (b) All partners of a partnership and all participating members of a limited
+17 liability company;
+18 (c) All trustees and trust beneficiaries of an association;
+19 (d) The president or chief executive officer and all other officers, managers, and
+20 employees who have policymaking or fiduciary responsibility within the
+21 organization;
+22 (e) All stockholders or other individuals who own, hold, or control, either directly
+23 or indirectly, five percent (5%) or more of stock or financial interest in the
+24 collective organization; and
+25 (f) Any other employee, agent, guardian, personal representative, or lender or
+26 holder of indebtedness who has the power to exercise a significant influence
+27 over the applicant's or licensee's operation;
+Page 4 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 483
+1 (25) "Proof of wagers" includes any paper, card, certificate, token, or ticket, which
+2 indicates the details of one (1) or more pari-mutuel wagers that were placed and, if
+3 such wagers are successful, that winnings are due to the ticket holder from the
+4 track;
+5 (26) "Quarter horse" means a horse that is registered with the American Quarter Horse
+6 Association of Amarillo, Texas;
+7 (27) "Receiving track" means a track where simulcasts are displayed for wagering
+8 purposes. A track that submits an application for intertrack wagering shall meet all
+9 the regulatory criteria for granting an association license of the same breed as the
+10 host track, and shall have a heated and air-conditioned facility that meets all state
+11 and local life safety code requirements and seats a number of patrons at least equal
+12 to the average daily attendance for intertrack wagering on the requested breed in the
+13 county in which the track is located during the immediately preceding calendar
+14 year;
+15 (28) "Simulcast facility" means any facility approved pursuant to KRS 230.380 to
+16 simulcast live racing and conduct pari-mutuel wagering on live racing;
+17 (29) "Simulcasting" means the telecast of live audio and visual signals of horse races for
+18 the purpose of pari-mutuel wagering;
+19 (30) "Sporting event" means an event at which two (2) or more persons participate in
+20 athletic contests, or an event that takes place in relation to athletic contests as
+21 approved by the corporation, but shall not include horse racing or amateur youth
+22 sports or athletic events in which the majority of participants are under the age of
+23 eighteen (18) years;
+24 (31) "Sports governing body" means the organization, league, or association that
+25 oversees a sport, prescribes final rules, and enforces codes of conduct with respect
+26 to such sport and participants therein;
+27 (32) "Sports wagering" means the wagering conducted under this chapter on sporting
+Page 5 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 483
+1 events or portions of sporting events, or on the individual performance statistics of
+2 athletes in a sporting event or combination of sporting events, in conformance with
+3 federal law and as authorized by the corporation pursuant to this chapter;
+4 (33) "Sports wagering device":
+5 (a) Means a mechanical, electrical, or computerized contrivance, terminal,
+6 device, apparatus, software, piece of equipment, or supply approved by the
+7 corporation for conducting sports wagering under this chapter; and
+8 (b) Includes a personal computer, mobile device, or other device used in
+9 connection with sports wagering not conducted at a licensed facility for sports
+10 wagering;
+11 (34) "Sports wagering service provider" or "service provider" means a person authorized
+12 to conduct or manage sports wagering through an agreement with a track and
+13 provide these services at a licensed facility for sports wagering, simulcast facility,
+14 or through a website or mobile interface approved by the corporation;
+15 (35) "Telephone account wagering" means a form of pari-mutuel wagering where an
+16 individual may deposit money in an account at a track and may place a wager by
+17 direct telephone call or by communication through other electronic media owned by
+18 the holder of the account to the track;
+19 (36) "Thoroughbred race" or "Thoroughbred racing" means a form of horse racing in
+20 which each horse participating in the race is a Thoroughbred, (i.e., meeting the
+21 requirements of and registered with The Jockey Club of New York) and is mounted
+22 by a jockey;
+23 (37) "Track" means any association duly licensed by the Kentucky Horse Racing and
+24 Gaming Corporation to conduct horse racing and includes:
+25 (a) For facilities in operation as of 2010, the location and physical plant described
+26 in the "Commonwealth of Kentucky Initial/Renewal Application for License
+27 to Conduct Live Horse Racing, Simulcasting, and Pari-Mutuel Wagering,"
+Page 6 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 483
+1 filed for racing to be conducted in 2010;
+2 (b) Real property of an association, if the association received or receives
+3 approval from the corporation after 2010 for a location at which live racing is
+4 to be conducted; or
+5 (c) One (1) facility or real property that is:
+6 1. Owned, leased, or purchased by an association within a sixty (60) mile
+7 radius of the association's racetrack but not contiguous to racetrack
+8 premises, upon corporation approval; and
+9 2. Not within a sixty (60) mile radius of another licensed track premise
+10 where live racing is conducted and not within a forty (40) mile radius of
+11 a simulcast facility, unless any affected track or simulcast facility agrees
+12 in writing to permit a noncontiguous facility within the protected
+13 geographic area;
+14 (38) "Unclaimed pari-mutuel winning ticket":
+15 (a) Means the proof of wager that would require payment of winnings upon
+16 submission to the track, but has been presumed abandoned under KRS
+17 230.361; and
+18 (b) Includes proof of wagers from live racing and simulcasting; and
+19 (39) "Unredeemed pari-mutuel voucher":
+20 (a) Means a voucher issued by a licensed track that evidences the value of funds
+21 or credits available that a patron may use for placing pari-mutuel wagers on
+22 live or previously run horse races, or which the patron may redeem for cash,
+23 but has been presumed abandoned under KRS 230.361; and
+24 (b) Does not include:
+25 1. Any proof of wagers or any other information related to specific wagers
+26 placed on live or historical horse racing; or
+27 2. Any vouchers that were voluntarily surrendered for donation to charity
+Page 7 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 483
+1 or similar purposes.
+Page 8 of 8
+XXXX 1/5/2026 5:48 PM Jacketed
+
+[DELETED:   2  J A B S A ( " d a w m a f o p w i w c a m p a p w t t a t i p ( " t a s ( " ( S ( I p a a c o p i t s e f r d o i c f t u o t i a s ( " e M ( " m a h t i r w t A H R o D ( " m a p l b t K H R a G C u K 2 a e i t c o a r ( "]
+[DELETED:   2  J 2 ( " ( " m a v g b d b G P S ( " r o " r m t a p r o t s ( " r m m h r r a a a l a r T ( " w o i t c o i w m t K t c r a o s o r c i o s o f ( " t s ( " h ( " e t r f a s i K 2 f p p e A h r T p p s b a b t K H ( " q h p f m a p f e t r f t s p f q h r T p p s b a]
+[DELETED:   2  J ( " ( A ( A a i ( A r w a f a a t p i a d a ( " f f s w m t d a t c s 2 ( " u ( " o ( " e m a m o w i w p a w a t w o ( o m p w o a h r o r w l s d p p f w w w a p o i p t t a a i t l o o a n u a]
+[DELETED:   2  J p s b p i o ( o w p a w o d o a a a b t c a p b l P m b p o i ( " m a i s p p a f ( " m t p o t K H R a G C ( " t a l l c o c t i l t c m ( T ( A p o a p a a p m o a l l ( A ( T e w h p o f r w t o ( A o c ( A o e a g p r o l o h o]
+[DELETED:   2  J ( " o w i a p c c t o t w i s w a s t w a d t t t h f t t ( " A ( " t m a t w s a d f w p t h a t c i w t t i l d t i p c y ( " f m a f a p t K 2 t s ( " t ( " a c o a e t t p i r t a c a a s e ( " g b m t o l o a t o t ( "]
+[DELETED:   2  J e a f ( " ( M a m e o c c t d c ( I a p c m d o o d u i c w ( " t c o m s w t a a w a t a p o ( " a w m a f o p w w a i d t ( " w e h p i t r i a T ( m t r b ( " G ( F i t C L H R S a P W]
+[DELETED:   2  J f ( R p o a a i t a r o r a t ( O 1 O r o t a r b n c t r p 2 N ( m w a i w t p a n f w t p g ( " ( M t p o w t w r p o w u s t t t b h b p a u K 2 ( I ( " ( M o l b ( D 1 A p 2 A]
+[DELETED:   2  J o]
