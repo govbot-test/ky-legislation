@@ -1,0 +1,121 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB340",
+  "title": "AN ACT relating to the Kentucky all-payer claims database.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Administrative Regulations And Proceedings",
+    "Advisory Boards, Commissions, And Committees",
+    "Data Protection",
+    "Federal Laws And Regulations",
+    "Funds",
+    "Health And Medical Services",
+    "Insurance",
+    "Insurance, Health",
+    "Insurance, Motor Vehicle",
+    "Local Government",
+    "Local Mandate",
+    "Medicaid",
+    "Public Health",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 194A to establish the Kentucky all-payer claims database; establish purposes, definitions, and a restricted fund for the database; require the executive director of the Office of Data Analytics to develop, implement, operate, and maintain the database and promulgate administrative regulations to carry out those duties; establish an advisory council to make recommendations to the executive director; establish requirements for database administration and operations; require state-regulated health payers to report to the database; amend KRS 194A.030, 194A.101, and 304.2-100 to conform; create a new section of Subtitle 99 of KRS Chapter 304 to require the commissioner of insurance to enforce reporting requirements; establish time for making initial appointments and provide for staggered appointments to the advisory council; require the Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval if it is determined that such approval is necessary; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1)."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb340"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Funke Frommeyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Funke Frommeyer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb340/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb340/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb340.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1392"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

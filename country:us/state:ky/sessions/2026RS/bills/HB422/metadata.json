@@ -1,0 +1,956 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB422",
+  "title": "AN ACT relating to crimes and punishments.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections And Correctional Facilities, State",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Mental Health",
+    "Probation And Parole",
+    "Public Safety",
+    "Reports Mandated",
+    "Short Titles And Popular Names"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 439.3401 to provide that a violent offender who has received a life sentence and has not been sentenced to 35 years without probation or parole or imprisonment for life without the benefit of probation or parole shall not be released on probation or parole until he or she has served at least 30 years; amend KRS 439.3406 to prohibit a person who has been convicted of a Class B felony or a person who is a violent offender who has been unanimously denied discretionary parole from qualifying for mandatory reentry supervisions; provide that the Department of Corrections shall provide an annual report on the results of the mandatory reentry supervision program to the Legislative Research Commission by February 1 of each year; amend KRS 504.150 to require a treating professional for a defendant who has received a sentence of guilty but mentally ill to file a petition for involuntary hospitalization under KRS Chapter 202A or 202B; amend KRS 532.025 to provide that if a defendant has been found guilty of intentional murder, the jury or court does not have to find any aggravating circumstance to sentence a defendant to imprisonment for life without benefit of probation or parole or imprisonment for life without benefit of probation or parole for 35 years; amend KRS 532.030 to enhance the sentence of imprisonment for life without benefit of probation or parole for 25 years to 35 years; amend KRS 532.110 to provide that sentences of a defendant convicted of 2 or more capital offenses, Class A felonies, Class B felonies, or a combination of those offenses or 2 or more violent offenses involving 2 or more victims shall run consecutively; amend various KRS sections to conform; repeal KRS 504.020 and 504.030; provide that the Act may be cited as Logan's Law."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb422"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "2nd reading, to Rules",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "posted for passage in the Regular Orders of the Day for Tuesday, February 24 2026",
+      "date": "2026-02-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "3rd reading, passed 93-1 with Committee Substitute (1)",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "received in Senate",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Judiciary (S)",
+      "date": "2026-03-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "reported favorably, 1st reading, to Consent Calendar with Committee Substitute (1)",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "floor amendment (1) filed to Committee Substitute",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "2nd reading, to Rules as a consent bill",
+      "date": "2026-03-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "posted for passage in the Regular Orders of the Day for Tuesday, March 31 2026",
+      "date": "2026-03-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "3rd reading, passed 38-0 with Committee Substitute (1) and  Floor Amendment (1)",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "received in House",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Rules (H)",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "posted for passage for concurrence in Senate Committee Substitute (1) and  Floor Amendment (1)",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "posted for passage for concurrence in Senate",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "House concurred in Committee Substitute (1) and  Floor Amendment (1)",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "passed 87-3",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "enrolled, signed by Speaker of the House",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "enrolled, signed by President of the Senate",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "delivered to Governor",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "signed by Governor (Acts Ch. 14)",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "D. Fister",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Fister\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Roberts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Aull",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Aull\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Baker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Baker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Banta",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Banta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bauman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Bauman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Bivens",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Bivens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Blanton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Blanton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Bowling",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Bowling\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Branscum",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Branscum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Bratcher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Bratcher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Brown Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Brown Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Callaway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"E. Callaway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Calloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Calloway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Decker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Decker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Dietz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Dietz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Dotson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Dotson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Duvall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Duvall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Elliott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Elliott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "P. Flannery",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"P. Flannery\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Fleming",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Fleming\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Freeland",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Freeland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Fugate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Fugate\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Gooch Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Gooch Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Gordon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Gordon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "P. Griffee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"P. Griffee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Grossberg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Grossberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "V. Grossl",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"V. Grossl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Hale",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Hale\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Hart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Hart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Hodgson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Hodgson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Holloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Holloway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Huff",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Huff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Imes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Imes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Jackson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DJ Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DJ Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. King",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Koch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Koch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Lewis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Lewis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Lewis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lockett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Lockett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Massaroni",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Massaroni\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. McCool",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. McCool\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. McPherson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. McPherson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Meade",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Meade\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Moser",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Moser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Neighbors",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Neighbors\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Nemes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Nemes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Osborne",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Osborne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Payne",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Payne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Pollock",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Pollock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Proctor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Proctor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Raymer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Raymer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Riley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Riley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Sharp",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Sharp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"N. Tate\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Thomas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"W. Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Tipton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Tipton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Truett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Truett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Wesley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Wesley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Whitaker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Whitaker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"W. Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"N. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Witten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Witten\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Acts Chapter 14",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/law/acts/26RS/documents/0014.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Current/Final",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb422/bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb422/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Proposed House Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/HB422/HCS1.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Senate Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/HB422/SCS1.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Senate Floor Amendment 1",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/HB422/SFA1.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb422.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1413"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

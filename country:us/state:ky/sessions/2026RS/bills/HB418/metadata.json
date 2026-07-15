@@ -1,0 +1,270 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB418",
+  "title": "AN ACT relating to domestic violence.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children And Minors",
+    "Civil Actions",
+    "Civil Procedure",
+    "Courts",
+    "Courts, Circuit",
+    "Courts, Family",
+    "Domestic Relations",
+    "Guardians",
+    "Parental Rights"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 403 to prohibit the removal from custody or the reduction in parenting time of a party solely for improvement of relationship between the child and the other party where the court has made a finding of domestic violence or abuse; require the court to make considerations of scientific validity prior to ordering therapy for reunification; require orders remediating the resistance of a child to contact with a violent or abusive parent to primarily address the behavior of that parent; amend KRS 403.270 to require a court to consider allegations of domestic violence or abuse and make written findings on the record prior to consideration of other factors relevant to determination of custody; add malicious false allegations of child abuse as a factor to be considered in custody determinations; amend KRS 403.290 to require paid visitation supervisors and parenting coordinators in custody proceedings to receive specialized training; amend KRS 403.315 to provide for a rebuttable presumption that joint custody and shared equal parenting time are not in the best interests of the child where the court finds that a party has committed 2 or more acts of domestic violence or abuse against another party; require a parent found to have committed 2 or more acts of domestic violence or abuse against another party to undergo counseling or treatment prior to being awarded custody of a child; amend KRS 403.727 to require guardians ad litem to receive specialized training for proceedings involving petitions for orders of protection for minors; allow victim advocates to attend evidentiary hearings in orders of protection proceedings involving minors; amend KRS 456.035 to require guardians ad litem to receive specialized training for proceedings involving interpersonal orders of protection for minors; allow victim advocates to attend evidentiary hearings on interpersonal orders of protection proceedings involving minors."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb418"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Families & Children (H)",
+      "date": "2026-01-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "2nd reading, to Rules",
+      "date": "2026-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "posted for passage in the Regular Orders of the Day for Wednesday, March 04 2026",
+      "date": "2026-03-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "3rd reading, passed 96-1 with Committee Substitute (1)",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "received in Senate",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "taken from Committee on Committees (S)",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "1st reading",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "returned to Committee on Committees (S)",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Nemes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Nemes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Brown Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Brown Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Chester-Burton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Chester-Burton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "V. Grossl",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"V. Grossl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Holloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Holloway\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current/Final",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb418/bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb418/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Proposed House Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/HB418/HCS1.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb418.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1124"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

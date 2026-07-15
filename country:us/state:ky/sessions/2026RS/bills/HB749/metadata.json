@@ -1,0 +1,159 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB749",
+  "title": "AN ACT relating to the establishment of the Office of Public Defense.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Firearms And Weapons",
+    "Funds",
+    "Homeland Security",
+    "Military Affairs And Civil Defense",
+    "Police, State",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 16 to define terms; establish the Office of Public Defense within the Department of Kentucky State Police to acquire and transfer machine guns to qualified persons; establish the duties of the office and its director; require the director or designee to issue a transfer certificate upon transfer of a machine gun to a qualified person; require a qualified person who becomes ineligible to possess a firearm to return a machine gun to the office within 7 days of learning of his or her prohibited status; allow a qualified person to transfer a machine gun to another qualified person; establish the public defense fund; provide civil immunity to the Commonwealth, the office, and the office's director, officers, and employees in the performance of their duties; provide that the Commonwealth, the office, and the office's director, officers, and employees shall not be civilly or criminally liable for acts or omissions of qualified persons; amend KRS 12.020 and 15A.020 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb749"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Roberts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Doan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Doan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Calloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Calloway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Dotson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Dotson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Hodgson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Hodgson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Huff",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Huff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Wesley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Wesley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb749/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb749.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2302"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

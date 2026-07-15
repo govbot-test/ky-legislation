@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB310",
+  "title": "AN ACT relating to lump-sum line of duty death payments.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Budget And Financial Administration",
+    "Corrections And Correctional Facilities, State",
+    "Firefighters And Fire Departments",
+    "Jails And Jailers",
+    "Local Mandate",
+    "Police, City And County",
+    "Police, State",
+    "Public Officers And Employees",
+    "Retroactive Legislation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 61.315 to define \"public safety officer,\"  \"public safety officer in training,\" \"retired public safety officer\" and \"post-service act in the line of duty\"; provide a lump-sum payment of $80,000 to the families of public safety officers in training who die in the line of duty and retired public safety officers who die as a result of an attack related to their prior service as a public safety officer; make technical and clerical changes; provide that the benefit is effective for deaths occurring on or after the effective date of the Act, except that provisions impacting retired public safety officers shall be retroactive to deaths occuring on or after August 1, 2012, and provisions impacting public safety officers in training shall be retroactive to deaths occuring on or after November 1, 2024; RETROACTIVE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb310"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "D. Carroll",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Carroll\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb310/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb310/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb310.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1642"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

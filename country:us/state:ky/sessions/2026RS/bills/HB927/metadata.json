@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB927",
+  "title": "AN ACT relating to disability retirement benefits in the County Employees Retirement System.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cities",
+    "Counties",
+    "Emergency Medical Services",
+    "Firefighters And Fire Departments",
+    "Local Government",
+    "Police, City And County",
+    "Retirement And Pensions",
+    "Retroactive Legislation",
+    "Sheriffs"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 78.5522 to allow for the 5 year service requirement for disability retirement to be waived for a person who works in a nonhazardous position that could be certified as a hazardous position who is injured in line of duty resulting in an incapacity to continue as an employee in the position that could be certified as hazardous; allow certain persons whose last day of paid employment was on or after January 1, 2022, but prior to the effective date of this Act to apply for disability benefits; RETROACTIVE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb927"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Local Government (H)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "A. Tackett Laferty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Tackett Laferty\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb927/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb927/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb927.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2151"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

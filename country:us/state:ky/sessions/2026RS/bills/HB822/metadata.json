@@ -1,0 +1,124 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB822",
+  "title": "AN ACT relating to coverage for colorectal cancer examinations and laboratory tests and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Effective Dates, Emergency",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 304.17A-257 to require health benefit plans to provide coverage for colorectal cancer examinations and laboratory tests specified in the most recent version of a Centers for Medicare and Medicaid Services national coverage determination or nationally recognized clinical practice guidelines or recommendations; direct that coverage requirements for colorectal cancer examinations and laboratory tests applies to health benefit plans issued or renewed on or after the effective date of the Act; require the Cabinet for Health and Family Services or the Department for Medicaid Services to obtain federal approval, if necessary; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1); EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb822"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2026-03-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "D. Gordon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Gordon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb822/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb822/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb822.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2059"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

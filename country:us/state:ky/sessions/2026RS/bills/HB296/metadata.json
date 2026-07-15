@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB296",
+  "title": "AN ACT relating to psychotropic drugs.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations And Proceedings",
+    "Children And Minors",
+    "Drugs And Medicines",
+    "Health And Medical Services",
+    "Medicaid",
+    "Parental Rights",
+    "Reports Mandated"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 205 to define terms; require Medicaid-enrolled providers prescribing psychotropic drugs to children to provide an FDA Medication Guide to parents or legal guardians; require medical care providers prescribing psychotropic drugs to children covered by Medicaid to obtain signed informed consent from a parent or guardian; require the Cabinet for Health and Family Services to develop and maintain an adverse drug reaction online reporting system; require the cabinet to compile and submit an annual report of the adverse drug reaction online reporting system to the Legislative Research Commission; require the cabinet to submit an annual report summarizing the implementation efforts and compliance statistics of Medicaid-enrolled providers; establish penalties; require the cabinet to promulgate administrative regulations to implement the system."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb296"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Health Services (H)",
+      "date": "2026-01-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Calloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Calloway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Massaroni",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Massaroni\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Proctor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Proctor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb296/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb296.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1564"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

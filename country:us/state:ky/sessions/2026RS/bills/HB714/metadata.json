@@ -1,0 +1,127 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB714",
+  "title": "AN ACT relating to unborn children.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney General",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Health And Medical Services",
+    "Reproductive Issues",
+    "Short Titles And Popular Names"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 507, relating to criminal homicide, to allow a prosecution where the victim is an unborn child; provide exceptions for spontaneous miscarriages and life-saving medical procedures; amend KRS 507.010 to define terms; create new sections of KRS Chapter 508, relating to assault, to define terms; allow a prosecution where the victim is an unborn child; provide exceptions for spontaneous miscarriages and life-saving medical procedures; create a new section of KRS Chapter 15 to give the Attorney General concurrent jurisdiction with Commonwealth's and county attorneys when the victim is an unborn child; repeal KRS 507A.010, 507A.020, 507A.030, 507A.040, 507A.050, and 507A.060, relating to fetal homicide; amend KRS 439.265 to conform; provide that the Act may be cited as the Prenatal Equal Protection Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb714"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2026-03-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Calloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Calloway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Callaway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"E. Callaway\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb714/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb714.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2277"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

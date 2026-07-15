@@ -1,0 +1,184 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB138",
+  "title": "AN ACT relating to the protection of children.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children And Minors",
+    "Corrections Impact",
+    "Courts, Circuit",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Licensing",
+    "Rules Of Evidence",
+    "Short Titles And Popular Names"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 507 to establish the offense of child abuse homicide as a capital offense; amend KRS 199.896 to require licensed child-care centers to maintain video surveillance of all public areas within the facility and retain video footage for 90 days; amend KRS 507.030 to increase the age of a child victim of manslaughter in the first degree from 12 or under to under 18; amend KRS 507.040 to increase the penalty of manslaughter in the second degree from a Class C to a Class B felony if the victim is under the age of 18; amend KRS 508.100 to add knowingly as a mental state of a person guilty of criminal abuse in the first degree; increase the age of a victim from under age 12 to under age 18; increase the penalty of criminal abuse in the first degree from a Class C to a Class B felony and from a Class B to a Class A felony if the victim is under the age of 18; amend KRS 508.110 to increase the age of a victim of criminal abuse in the second degree from age 12 or less to under 18; increase the penalty from a Class D to a Class C felony; amend KRS 508.120 to increase the age of a victim of criminal abuse in the third degree from age 12 or less to under 18; increase the penalty from a Class A misdemeanor to a Class D felony; amend KRS 532.025, relating to aggravating circumstances in death penalty eligible cases, to increase the age of a victim of an intentional killing from under 12 to under 18; amend KRS 625.090 to create a rebuttable presumption that parental rights must be terminated if a parent has been convicted of a felony involving serious physical injury to any child or convicted of causing or contributing to the death of a child as a result of abuse; provide that the Act may be cited as Jayden's Law."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb138"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Judiciary (S)",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1) and Committee Amendment (1-title)",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "2nd reading, to Rules",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Madon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Madon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Nunn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Nunn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Tichenor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Tichenor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb138/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Proposed Senate Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/SB138/SCS1.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Senate Committee Amendment 1",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/SB138/SCA1.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb138.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1763"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB599",
+  "title": "AN ACT relating to crimes and punishments.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Actions",
+    "Civil Procedure",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Local Mandate"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 503 to provide a justification for the use of physical force or deadly physical force by a defendant operating a motor vehicle while fleeing the immediate area of an obstruction of a highway or public passage; amend KRS 525.015 to expand the elements of obstructing an emergency responder; provide enhanced penalties; allow restitution to an agency for the reasonable costs of an emergency response; amend KRS 525.140 to expand the elements of obstructing a highway or other public passage; provide enhanced penalties; allow restitution to an agency for the reasonable costs of an emergency response; create a new section of KRS Chapter 411 to establish a civil cause of action for recovery of damages caused by obstructing an emergency responder or obstruction of a highway or other public passage; amend KRS 413.140 to provide a 1-year statute of limitation for the cause of action for recovery of damages caused by obstructing an emergency responder or obstruction of a highway or other public passage; amend KRS 503.085 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb599"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "E. Callaway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"E. Callaway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Nemes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Nemes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Decker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Decker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Doan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Doan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Fleming",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Fleming\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Hart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Hart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Hodgson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Hodgson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Huff",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Huff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DJ Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DJ Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Lewis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lockett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Lockett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Roberts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Sharp",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Sharp\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb599/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb599/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb599.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "153"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

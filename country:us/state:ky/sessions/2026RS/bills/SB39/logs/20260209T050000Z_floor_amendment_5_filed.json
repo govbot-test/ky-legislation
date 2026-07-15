@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "floor amendment (5) filed",
+    "occurred_at": "2026-02-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb39.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB39"
+}

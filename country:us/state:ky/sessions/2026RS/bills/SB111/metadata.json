@@ -1,0 +1,143 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB111",
+  "title": "AN ACT relating to physical activity in schools.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children And Minors",
+    "Education, Elementary And Secondary"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 160.345 to define \"recess\"; require each school council to develop and implement a wellness policy that includes 30 minutes of recess for students in kindergarten through grade 5 to be included as part of each full instructional day and 15 minutes of recess on each early dismissal day allows between 15 and 30 minutes of recess per instructional say for students in grades 6 through 12; allows appropriate supervised physical exercise to be used as a student discipline tool during recess; and prohibits the denial of recess unless participation poses an immediate threat to physical safety; require the wellness policy to be adopted and implemented prior to the first student attendance day of the 2026-27 school year."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb111"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "A. Reed",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Reed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Tichenor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Tichenor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Adams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Adams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Douglas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Douglas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Girdler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Girdler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Webb",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Webb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. West",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. West\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb111/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb111.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1285"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

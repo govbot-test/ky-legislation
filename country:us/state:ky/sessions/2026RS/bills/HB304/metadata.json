@@ -1,0 +1,280 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB304",
+  "title": "AN ACT relating to appropriations measures providing funding and establishing conditions for the operations, maintenance, support, and functioning of the government of the Commonwealth of Kentucky and its various officers, cabinets, departments, boards, commissions, institutions, subdivisions, agencies, and other state-supported activities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture",
+    "Appropriations",
+    "Area Development Districts",
+    "Attorney General",
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Auditor Of Public Accounts",
+    "Boards And Commissions",
+    "Budget And Financial Administration",
+    "Capital Construction",
+    "Corrections And Correctional Facilities, State",
+    "Economic Development",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Education, Higher",
+    "Education, Vocational",
+    "Energy",
+    "Environment And Conservation",
+    "Fish And Wildlife",
+    "Governor",
+    "Health And Medical Services",
+    "Homeland Security",
+    "Housing, Building, And Construction",
+    "Jails And Jailers",
+    "Labor And Industry",
+    "Lieutenant Governor",
+    "Local Government",
+    "Lottery",
+    "Medicaid",
+    "Mental Health",
+    "Military Affairs And Civil Defense",
+    "Police, State",
+    "Probation And Parole",
+    "Prosecutors",
+    "Public Advocate",
+    "Public Buildings And Grounds",
+    "Public Officers And Employees",
+    "Public Records And Reports",
+    "Public Utilities",
+    "Retirement And Pensions",
+    "Secretary Of State",
+    "State Agencies",
+    "State Employees",
+    "Tobacco",
+    "Tourism",
+    "Treasurer",
+    "Universities And Colleges"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "The Governor's recommended State/Executive Branch Budget: Detail Part I, Operating Budget; detail Part II, Capital Projects Budget; detail Part III, General Provisions; detail Part IV, State Salary/Compensation, Benefit, and Employment Policy; detail Part V, Funds Transfer; detail Part VI, General Fund Budget Reduction Plan; detail Part VII, General Fund Surplus Expenditure Plan; detail Part VIII, Road Fund Budget Reduction Plan; detail Part IX, Road Fund Surplus Expenditure Plan; detail Part X, Phase I Tobacco Settlement; and detail Part XI, Executive Branch Budget Summary; detail Part XII, Appropriations from the Budget Reserve Trust Fund; APPROPRIATION."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb304"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Appropriations & Revenue (H)",
+      "date": "2026-01-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "P. Stevenson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"P. Stevenson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Burke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Burke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Aull",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Aull\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Bojanowski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Bojanowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Brown Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Brown Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Camuel",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Camuel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Chester-Burton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Chester-Burton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Donworth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Donworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Gentry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Gentry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Hancock",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"E. Hancock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lehman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Lehman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Marzian",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Marzian\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Moore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Roarx",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Roarx\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Stalker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Stalker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Watkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Watkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Willner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Willner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb304/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb304.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1520"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

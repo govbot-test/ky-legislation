@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SCR193",
+  "title": "A CONCURRENT RESOLUTION continuing the Make America Healthy Again Kentucky Task Force to explore ways to integrate the principles of the Make America Healthy Again movement to improve health outcomes of Kentuckians.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Legislative Research Commission",
+    "Public Health",
+    "Reports Mandated",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Declare the General Assembly's support for the goals of the Make America Healthy Again movement; continue the Make America Healthy Again Kentucky Task Force to integrate the principles of the Make America Healthy Again movement; establish task force membership; require the task force to submit a report with recommendations to the Governor and the Legislative Research Commission by December 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-scr193"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:55Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Funke Frommeyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Funke Frommeyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Tichenor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Tichenor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Douglas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Douglas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Rawlings",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Rawlings\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Richardson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/scr193/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/scr193.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2417"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:55Z"
+  }
+}

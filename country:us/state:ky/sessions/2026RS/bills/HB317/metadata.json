@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB317",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to property exempt from taxation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Aged Persons And Aging",
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "Local Mandate",
+    "Property",
+    "Secretary Of State",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Propose to create a new section of the Constitution of Kentucky to exempt homeowners who are 65 years of age or older from any increase in the valuation of their permanent residence that is assessed after the later of the year the homeowner turned 65 or the year the homeowner acquired the property; require the exemption to be in addition to the exemption provided in Section 170 of the Constitution of Kentucky; apply the exemption only to increases occurring until the assessed value of the property is $500,000; prohibit exempting increases occurring after the real property is assessed above $500,000; require the $500,000 to be indexed every 2 years; require any portion of the assessed value previously exempted under this section to retain its exempt status as long as the real property continues to be maintained as the permanent residence of the owner who is 65 years of age or older; require the exemption to be notwithstanding Sections 171, 172, and 174 of the Constitution of Kentucky; apply the exemption to increases in valuation that occur after the date the amendment is ratified by the voters; provide ballot language; submit to voters for ratification or rejection."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb317"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "date": "2026-01-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "D. Grossberg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"D. Grossberg\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb317/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb317/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb317.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1346"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

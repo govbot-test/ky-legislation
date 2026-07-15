@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB99",
+  "title": "AN ACT relating to transactional precious metals.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations And Proceedings",
+    "Banks And Financial Institutions",
+    "Civil Actions",
+    "Commerce",
+    "Constitution, U.S.",
+    "Reports Mandated",
+    "Short Titles And Popular Names",
+    "Taxation",
+    "Taxation, Income--Corporate",
+    "Taxation, Income--Individual",
+    "Technology",
+    "Treasurer"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 41 to define terms; recognize gold specie and silver specie as legal tender in Kentucky; provide for use of gold specie and silver specie as legal tender; require the State Treasurer to promulgate administrative regulations in accordance with KRS Chapter 13A to designate or establish a bullion depository and authorize 1 or more electronic payment systems to facilitate electronic payment transactions; establish requirements for system participants, transaction information, and bullion deposits; require the State Treasurer to submit an annual report to the Legislative Research Commission and to implement the system within 1 year; amend KRS 141.109 and 141.039 to exempt capital gains and losses attributable to the sale or exchange of gold specie and silver specie; provide that Section 1 of the Act may be cited as the Kentucky Transactional Gold and Silver Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb99"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Rawlings",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Rawlings\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Tichenor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Tichenor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Reed",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Reed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. West",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. West\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb99/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb99.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1276"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB240",
+  "title": "AN ACT relating to student rights.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boards And Commissions",
+    "Children And Minors",
+    "Civil Actions",
+    "Civil Rights",
+    "Claims",
+    "Education, Elementary And Secondary",
+    "Parental Rights",
+    "Religion",
+    "Short Titles And Popular Names",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 158 to define terms and establish student rights related to secular education and religious liberty; direct school districts to establish a formal grievance procedure for students, parents, and staff to report violations of those rights and set minimum requirements for the procedure; create a cause of action for violations of those rights that permits students or parents of students to bring an action for a violation of those rights within 2 years from the date of violation; permit recovery of attorney's fees and costs; waive sovereign and governmental immunity; prohibit retaliation; direct the Kentucky Department of Education to establish model policies, guidance documents, and training materials to assist in implementation by designated dates; direct school districts to provide trainings on compliance during the 2026-2027 school year; amend KRS 158.175 to remove schools' permission to recite the Lord's prayer; remove the requirement for a moment of silence or reflection within the first period of a school day; amend KRS 158.188 to remove references to the Bible and religious aspects of holidays; amend KRS 158.195 to remove the requirement that schools display \"In God We Trust\" in a prominent location; repeal KRS 158.170, KRS 158.177, and 158.178; provide that the Act may be cited as the Student Secular Bill of Rights."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb240"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "K. Berg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Berg\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb240/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb240.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2268"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "01/09/26: WITHDRAWN",
+    "occurred_at": "2026-01-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb177.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB177"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed 36-2 with Floor Amendment (2)",
+    "occurred_at": "2026-03-12T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb34.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB34"
+}

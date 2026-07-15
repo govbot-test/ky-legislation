@@ -1,0 +1,139 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB242",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to property exempt from taxation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "Emergency Medical Services",
+    "Firefighters And Fire Departments",
+    "Local Mandate",
+    "Police, City And County",
+    "Police, State",
+    "Property",
+    "Property Valuation Administrators",
+    "Secretary Of State",
+    "Taxation",
+    "Taxation, Property",
+    "Veterans"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Propose to create a new section of the Constitution of Kentucky to exempt from taxation a portion of the assessed value of real property maintained as the permanent residence of an owner who is a veteran or first responder; require an owner to meet the disability requirements under Section 170 of the Constitution of Kentucky; allow real property maintained as the permanent residence of the surviving spouse of a veteran or first responder to receive an exemption based on the qualifiers of the veteran or first responder prior to his or her death; allow the General Assembly to set qualification requirements by law; prohibit a property from receiving more than 1 exemption under this new section of the Constitution of Kentucky; allow the exemption to be in addition to the exemption provided in Section 170 of the Constitution of Kentucky; provide that the exemptions supersede contrary provisions of Sections 171, 172, and 174 of the Constitution of Kentucky; apply the exemptions to property assessed on or after January 1, 2028; provide ballot language; submit to voters for ratification or rejection."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb242"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Wesley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Wesley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb242/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb242/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb242.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "32"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

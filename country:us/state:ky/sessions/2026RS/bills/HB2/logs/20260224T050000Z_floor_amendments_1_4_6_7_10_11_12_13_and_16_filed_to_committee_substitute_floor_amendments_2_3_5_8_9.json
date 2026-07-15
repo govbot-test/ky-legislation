@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "floor amendments (1), (4), (6), (7), (10), (11), (12), (13) and (16) filed to Committee Substitute, floor amendments (2), (3), (5), (8), (9), (14), (15) and (17) filed to bill",
+    "occurred_at": "2026-02-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb2.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2"
+}

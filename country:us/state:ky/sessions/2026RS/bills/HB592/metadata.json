@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB592",
+  "title": "AN ACT relating to status offenses.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children And Minors",
+    "Courts",
+    "Criminal Procedure",
+    "Education, Elementary And Secondary",
+    "Local Mandate",
+    "Reports Mandated"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 610 to establish a pilot program to be known as the Supporting Opportunities for Accountability and Restoration Program for children who are truant; require the pilot program to be established in no less than 10 public school districts; establish the responsive interventions to support and empower teams; establish criteria for participation and procedure for the program; create a new section of KRS Chapter 159 to establish the duties of the director of pupil personnel in school districts that are participating in the pilot program; amend KRS 159.140 to conform; create a new section of KRS Chapter 160 to require schools to collect certain data relating to habitual truancy and require the Kentucky Department of Education to annually report data relating to habitual truancy to the Legislative Research Commission for referral to the Interim Joint Committee on Education and the Interim Joint Committee on Judiciary; amend KRS 610.030 to require the use of an evidence-based family screening tool to identify family strengths, needs, and risks; create family diversion plans and require a child's parent to participate; amend KRS 605.030 to require a court-designated worker to coordinate the pilot program in the school districts that participate; amend KRS 17.125 to allow responsive interventions to support and empower teams to access information on juveniles involved with the juvenile justice system; amend KRS 600.020 to amend the definition of \"habitual truant\" and define \"Supporting Opportunities for Accountability and Restoration Program\" or \"SOAR Program\" and \"Responsive Interventions to Support and Empower Teams\" or \"RISE teams\"; create a new section of KRS Chapter 630 to provide that a child who is alleged to be a status offender, adjudicated a status offender, or is a status offender alleged or found to have violated a valid court order shall not be detained in a secure detention facility until the child is at least 16 years old; amend various sections to conform; repeal KRS 630.100."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb592"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2026-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Nemes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Nemes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Gooch Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Gooch Jr.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb592/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb592/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb592.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "144"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

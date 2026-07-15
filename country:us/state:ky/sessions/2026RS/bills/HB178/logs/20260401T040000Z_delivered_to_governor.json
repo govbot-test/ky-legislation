@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "delivered to Governor",
+    "occurred_at": "2026-04-01T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb178.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB178"
+}

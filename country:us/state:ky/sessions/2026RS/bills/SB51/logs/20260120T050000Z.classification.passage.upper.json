@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed over and retained in the Orders of the Day",
+    "occurred_at": "2026-01-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb51.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB51"
+}

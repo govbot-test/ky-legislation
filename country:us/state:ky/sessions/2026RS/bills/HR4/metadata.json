@@ -45,6 +45,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:43Z"
       }
+    },
+    {
+      "description": "to Appropriations & Revenue (H)",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -89,7 +101,7 @@
     "division_id": "ocd-division/country:us/state:ky"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:43Z",
+    "logs_latest_update": "2026-07-15T13:54:54Z",
     "text_extraction_latest_update": "2026-07-13T09:45:37.508090Z"
   }
 }

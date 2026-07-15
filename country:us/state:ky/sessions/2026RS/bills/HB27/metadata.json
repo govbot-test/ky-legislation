@@ -48,6 +48,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:43Z"
       }
+    },
+    {
+      "description": "to Appropriations & Revenue (H)",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -57,6 +69,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"L. Burke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Brown Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Brown Jr.\"}",
       "organization_id": null
     }
   ],
@@ -92,7 +112,7 @@
     "division_id": "ocd-division/country:us/state:ky"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:43Z",
+    "logs_latest_update": "2026-07-15T13:54:52Z",
     "text_extraction_latest_update": "2026-07-13T09:46:05.542203Z"
   }
 }

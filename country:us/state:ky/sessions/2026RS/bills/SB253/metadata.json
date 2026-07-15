@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB253",
+  "title": "AN ACT relating to medicinal cannabis.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations And Proceedings",
+    "Agriculture",
+    "Boards And Commissions",
+    "Cannabis",
+    "Courts, Circuit",
+    "Drugs And Medicines",
+    "Health And Medical Services",
+    "State Agencies",
+    "Vaping"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 218B.020 to make consultation with the University of Kentucky College of Medicine and the Kentucky Center for Cannabis optional for annual reports produced by the Office of Medical Cannabis; amend KRS 218B.065 to vest exclusive jurisdiction over final orders of the Cabinet for Health and Family Services relating to medicinal cannabis authorization with the Franklin Circuit Court upon request; amend KRS 218B.090 to vest exclusive jurisdiction for appeals of final orders of the Cabinet for Health and Family Services related to medicinal cannabis licenses with the Franklin Circuit Court; amend KRS 218B.095 to require medicinal cannabis business license holders to comply with filing and payment requirements by the Kentucky Department of Revenue and prohibit a medicinal cannabis business licensee from pledging or granting a security interest in the business; amend KRS 218B.140 to require the Cabinet for Health and Family Services to create an electronic monitoring system for monitoring medicinal cannabis business licensees and patients within the Commonwealth; require the electronic monitoring system to share specific information with the KASPER system in KRS Chapter 218A; amend KRS 218B.050, 218B.060, 218B.110, and KRS 216B.402  to conform; create new sections of KRS 218B to relocate existing data sharing provisions related to the medicinal cannabis electronic monitoring system from KRS Chapter 218A to KRS Chapter 218B and permit the Office of Medical Cannabis to investigate complaints of business improperly holding themselves out as a medicinal cannabis business licensee; amend KRS 218A.202 to remove requirements of a medicinal cannabis electronic monitoring database; require the KASPER system established in KRS Chapter 218A to communicate with the medicinal cannabis electronic monitoring database established in KRS Chapter 218B to identify certified medicinal cannabis patients."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb253"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. West",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. West\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb253/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb253.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2080"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

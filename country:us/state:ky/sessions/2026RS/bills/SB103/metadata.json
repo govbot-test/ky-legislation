@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB103",
+  "title": "AN ACT relating to prescription drugs.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Drugs And Medicines",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "Pharmacists",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 304.17A-164 to define terms; prohibit insurers and administrators from requiring insureds to pay cost sharing for a prescription drug that is greater than the cash price; require insurers and administrators to count the amount paid for a covered prescription drug towards the insured's cost-sharing if certain requirements are met; establish requirements for insurers, administrators, and pharmacies for submission of cash price paid by an insured; exempt a state employee health plan from counting third-party payments unless a cash price was paid that is less than the plan's negotiated price; provide for construction of cost-sharing requirements; amend KRS 304.17C-125, 304.38A-115, 164.2871, and 18A.225 to apply cost-sharing requirements to limited health plans, self-insured state postsecondary education institution employer group health plans, and the state employee health plan; create a new section of KRS Chapter 315 to require pharmacies to comply with cost-sharing requirements; provide that cost-sharing requirements apply to health plans issued or renewed on or after effective date; EFFECTIVE, January 1, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb103"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "P. Wheeler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"P. Wheeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Richardson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb103/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb103/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb103.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1181"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

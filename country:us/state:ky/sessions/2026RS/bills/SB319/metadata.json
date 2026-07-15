@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB319",
+  "title": "AN ACT relating to data centers.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture",
+    "Bonds Of Surety",
+    "Energy",
+    "Environment And Conservation",
+    "Financial Responsibility",
+    "Land Use",
+    "Local Government",
+    "Property",
+    "State Agencies",
+    "Water Supply"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of Subchapter 10 of KRS Chapter 224 to define \"data center\"; provide that the requirements of the section only apply to data centers constructed on agricultural land; require a data center owner to file a decommissioning plan with the Energy and Environment Cabinet prior to operating the data center; provide for the minimum requirements of the decommissioning plan, including requiring a surety bond or similar security to guarantee the decommissioning of the data center; amend KRS 154.20-229 to require that a qualified data center project that has been preliminarily approved for a certificate of exemption under KRS 139.499 include in its memorandum of agreement with the Kentucky Economic Development Finance Authority requirements to engage with local government officials to regularly review and adopt practices to improve energy and water use efficiency."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb319"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Tichenor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Tichenor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb319/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb319.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1447"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

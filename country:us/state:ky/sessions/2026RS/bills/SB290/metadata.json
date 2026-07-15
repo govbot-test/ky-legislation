@@ -1,0 +1,176 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB290",
+  "title": "AN ACT relating to criminal history.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Corrections And Correctional Facilities, State",
+    "Courts",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Local Mandate",
+    "Police, State",
+    "Reports Mandated",
+    "Short Titles And Popular Names",
+    "Task Forces, Legislative Branch"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new sections of KRS Chapter 431 to establish an automatic expungement process for specific eligible misdemeanor and felony convictions; allow the Commonwealth's and county attorney to object and halt the automatic expungement of certain offenses; require the Administrative Office of the Courts and the Department of Kentucky State Police to submit a report twice a year to the Legislative Research Commission on the implementation of the automatic expungement process; amend KRS 431.073 to waive fees for an applicant whose conviction qualifies as an eligible conviction; amend KRS 431.074 to require the Administrative Office of the Courts to establish a searchable portal to allow a person to determine if his or her conviction has been expunged; amend KRS 431.078 to waive fees for a petitioner whose conviction qualifies as an eligible conviction; amend KRS 431.079 to provide court clerks and deputy court clerks with immunity from civil liability for acts done in good faith under this act; amend KRS 17.151 to require the Department for Kentucky State Police to provide the Administrative Office of the Courts with data to comply with automatic expungement process; amend KRS 196.093 to require the Department of Corrections to provide the Administrative Office of the Courts with data to comply with automatic expungement process; amend KRS 367.310 to provide that no conviction that has been overruled, vacated, set aside, or expunged shall not be included on any background check or consumer report; establish the Automatic Expungement Task Force; establish duties and membership; require the task force to submit a report with recommendations to the Legislative Research Commission by November 1, 2026; provide that the Act may be cited as the Automatic Expungement Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb290"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Judiciary (S)",
+      "date": "2026-03-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "reported favorably, 1st reading, to Calendar",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "2nd reading, to Rules",
+      "date": "2026-03-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B. Storm",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Storm\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Neal",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Neal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Thomas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Thomas\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb290/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb290/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb290.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1279"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

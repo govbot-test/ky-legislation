@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "02/19/26: WITHDRAWN",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb207.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB207"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "reported favorably, 1st reading, to Calendar",
+    "occurred_at": "2026-01-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb22.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB22"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "3rd reading, passed 75-16 with Committee Substitute (1) and  Floor Amendment (2)",
+    "occurred_at": "2026-03-25T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb59.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB59"
+}

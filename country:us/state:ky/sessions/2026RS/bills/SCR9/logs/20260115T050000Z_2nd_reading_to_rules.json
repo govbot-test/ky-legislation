@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "2nd reading, to Rules",
+    "occurred_at": "2026-01-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/scr9.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR9"
+}

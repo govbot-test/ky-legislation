@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB121",
+  "title": "AN ACT relating to education.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Advisory Boards, Commissions, And Committees",
+    "Agriculture",
+    "Boards And Commissions",
+    "Education, Elementary And Secondary",
+    "Fees",
+    "Public Buildings And Grounds"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 156.161 to provide that certain school district facility project waivers shall not expire unless the Kentucky Board of Education provides for expiration when granting the waiver; require the state board to consider waivers no later than 45 calendar days after submission; amend KRS 157.360 to provide for a temporary exemption from maximum class sizes; require the state board to review the exemption issued by the Kentucky Department of Education within 45 days; amend KRS 156.029 to rotate nonvoting member appointments by Supreme Court district instead of congressional district; provide that the nonvoting student member on the state board shall be classified as a sophomore at the time of appointment; amend KRS 161.028 to require the Education Professional Standards Board to use a portion of the proceeds of certification fees towards the Kentucky Educator Placement Service System; amend KRS 156.160, 156.670, 157.615, and 157.655 to remove references to the Council for Education Technology and place the council's responsibilities with the Kentucky Department of Education; amend KRS 156.802 to direct that the department have administrative responsibility for the Kentucky FFA Leadership Training Center; repeal KRS 156.660, relating to definitions, and 156.690, relating to teachers' computer purchase system; provide procedures for the initial appointment of the nonvoting teacher and student representatives representing Supreme Court districts."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb121"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-01-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-01-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "G. Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb121/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb121.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1418"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

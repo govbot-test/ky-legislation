@@ -1,0 +1,153 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB80",
+  "title": "AN ACT relating to federal firearm restrictions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney, Commonwealth's",
+    "Charter County Government",
+    "Cities",
+    "Civil Actions",
+    "Claims",
+    "Consolidated Local Governments",
+    "Counties",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Federal Laws And Regulations",
+    "Firearms And Weapons",
+    "Local Government",
+    "Local Mandate",
+    "Occupations And Professions",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State",
+    "Prosecutors",
+    "Sheriffs",
+    "Unified Local Governments"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 237 to declare legislative intent; define \"federal firearm restriction\"; provide that if a federal firearm restriction is repealed or declared unconstitutional, the Commonwealth shall not enact or enforce a law, rule, or regulation that mirrors, replaces, or imposes a restriction similar to that federal firearm restriction; prohibit prosecutions, fines, or other penalties for activities that were regulated or prohibited by a federal firearm restriction that is repealed or declared unconstitutional; prohibit specified persons and organizations from enforcing repealed or unconstitutional federal firearm restrictions; create a civil cause of action against a person or organization that violates the prohibitions; waive sovereign, governmental, and qualified immunity; provide penalties for any person who violates the prohibition on enforcing a repealed or unconstitutional federal firearm restriction; allow manufacturers of firearms or federally licensed firearms dealers to manufacture, sell, or possess firearms and accessories no longer restricted under federal law."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb80"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Roberts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Calloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Calloway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Maddox",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Maddox\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb80/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb80/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb80.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1246"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

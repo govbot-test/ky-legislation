@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed 25-11 with Committee Substitute (1),  Floor Amendment (3) and  Floor Amendment (2-title)",
+    "occurred_at": "2026-03-20T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb223.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB223"
+}

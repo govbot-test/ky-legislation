@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "posted for passage in the Regular Orders of the Day for Thursday, January 22, 2026",
+    "occurred_at": "2026-01-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb46.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB46"
+}

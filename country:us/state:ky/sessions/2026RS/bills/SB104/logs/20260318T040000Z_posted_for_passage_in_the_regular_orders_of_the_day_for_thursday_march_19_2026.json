@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "posted for passage in the Regular Orders of the Day for Thursday, March 19 2026",
+    "occurred_at": "2026-03-18T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb104.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB104"
+}

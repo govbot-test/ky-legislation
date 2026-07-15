@@ -1,0 +1,194 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB553",
+  "title": "AN ACT relating to gender transition services.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Attorney General",
+    "Children And Minors",
+    "Drugs And Medicines",
+    "Education, Elementary And Secondary",
+    "Education, Higher",
+    "Federal Laws And Regulations",
+    "Funds",
+    "Health And Medical Services",
+    "Insurance, Health",
+    "Licensing",
+    "Local Government",
+    "Medicaid",
+    "Men",
+    "Mental Health",
+    "Parental Rights",
+    "State Agencies",
+    "State Employee Health Plan Mandate",
+    "Women"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 311 to define terms; prohibit health care providers from accepting payment or reimbursement for gender transition services from a state or local government or Medicare; prohibit use of state or local government funds for the provision or subsidy of gender transition services; require licensing or certifying agencies to revoke a health care provider's license for a violation; direct that intentional violation by a public servant shall be a violation of KRS 522.030; amend KRS 15.241 to authorize the Attorney General to seek injunctive relief and penalties for a violation of gender transition services prohibitions; amend KRS 156.496 to prohibit family resource or youth services centers from providing or making referrals for gender transition services; amend KRS 39A.180 to prohibit suspension of gender transition services laws during an emergency; create new sections of Subtitle 17A of KRS Chapter 304, and KRS 205.6481 to 205.6495, and amend KRS 205.5365, 18A.225, 164.2871, and 304.17C-125, to prohibit publicly funded health plans, Medicaid, the Kentucky Children's Health Insurance Program (KCHIP), publicly funded limited health service benefit plans, the state employee health plan, and state postsecondary education institution self-insured health plans from providing payment or coverage for gender transition services; amend KRS 605.110 to direct that gender transition services are not authorized for a child committed to the custody of the Department of Juvenile Justice; state findings of the General Assembly relating to the purpose of the Act; apply certain provisions to health plans issued or renewed on or after the effective date of Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb553"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "reassigned to State Government (H)",
+      "date": "2026-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Calloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J. Calloway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "F. Rabourn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"F. Rabourn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Doan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Doan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Dotson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Dotson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Massaroni",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Massaroni\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Roberts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Wesley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Wesley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb553/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb553/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb553.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1920"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

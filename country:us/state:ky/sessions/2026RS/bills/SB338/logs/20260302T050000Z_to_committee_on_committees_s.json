@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "to Committee on Committees (S)",
+    "occurred_at": "2026-03-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb338.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB338"
+}

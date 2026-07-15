@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Floor Amendments (1), (2), (3) and (4) withdrawn",
+    "occurred_at": "2026-03-05T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb199.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB199"
+}

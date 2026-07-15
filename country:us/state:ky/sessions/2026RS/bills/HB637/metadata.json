@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB637",
+  "title": "AN ACT relating to animal welfare.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Animals, Livestock, And Poultry",
+    "Corrections And Correctional Facilities, State",
+    "Corrections Impact",
+    "Courts",
+    "Crime Victims",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Jails And Jailers",
+    "Pets And Service Animals",
+    "Police, State",
+    "Probation And Parole",
+    "State Agencies",
+    "Veterinarians"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 17 to define terms; require the Department of Kentucky State Police to develop and operate an animal abuse offender registry; require offenders to register for 2 years for a first offense and 5 years for subsequent offenses; require offenders to pay a $100 registration fee and $100 every year the offender is registered; establish that a violation of registration requirements and providing false information to the registry are Class A misdemeanors; establish the animal abuse offender registry fund; create a new section of KRS Chapter 620 to require Cabinet for Health and Family Services employees to report animal abuse; amend KRS 321.188 to require veterinarians to report animal abuse."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb637"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2026-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. Roarx",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Roarx\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb637/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb637.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "964"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

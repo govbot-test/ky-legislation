@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "floor amendments (1) and (2-title) filed",
+    "occurred_at": "2026-03-25T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb18.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB18"
+}

@@ -1,43 +1,13 @@
 {
   "legislative_session": "2026RS",
   "identifier": "SB32",
-  "title": "AN ACT relating to measures to strengthen Kentucky's economic infrastructure.",
+  "title": "Withdrawn.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
-  "subject": [
-    "Administrative Regulations And Proceedings",
-    "Attorney General",
-    "Banks And Financial Institutions",
-    "Civil Actions",
-    "Commerce",
-    "Constitution, U.S.",
-    "Consumer Protection",
-    "Digital Assets",
-    "Effective Dates, Delayed",
-    "Escheats",
-    "Homeland Security",
-    "International Trade And Relations",
-    "Investments",
-    "Licensing",
-    "Loans, Credit, Interest, And Usury",
-    "Local Government",
-    "Property",
-    "Reports Mandated",
-    "Securities",
-    "Short Titles And Popular Names",
-    "State Agencies",
-    "Technical Corrections",
-    "Technology",
-    "Treasurer"
-  ],
-  "abstracts": [
-    {
-      "note": "Summary of Original Version",
-      "abstract": "Amend KRS 369.130 to add and modify various definitions; create a new section of KRS 369.130 to 369.139 to prohibit the Commonwealth of Kentucky and governing authorities from issuing, recognizing as legal tender, accepting or requiring as payment, or participating in any test of central bank digital currency; create new sections of KRS 369.130 to 369.139 and KRS Chapter 393 to prohibit ownership of digital asset mining businesses by prohibited foreign parties; provide for enforcement by Attorney General and penalties for violation of prohibited foreign party prohibition; establish distribution of proceeds if digital asset mining business property is escheated due to a violation; amend KRS 45.345 to conform; amend KRS 42.500 to make technical corrections; permit the State Investment Commission to invest up to 10% of excess funds in bullion; prohibit State Investment Commission from investing in central bank digital currency; amend KRS 42.525 to make technical corrections; authorize the State Investment Commission to promulgate administrative regulations to carry out and effectuate certain authorized investments; establish Subtitle 13 of KRS Chapter 286 and create new sections thereof to regulate virtual currency kiosks; establish definitions; provide for enforcement by the commissioner of the Department of Financial Institutions; establish license requirements for virtual currency kiosks; require regulatory filings to be submitted to a nationwide licensing system registry; establish initial and renewal application processes and requirements, reporting, surety bond and tangible net worth, and change of control requirements for virtual currency kiosk operators; require the commissioner to promulgate administrative regulations to establish format, document submission, fee, and trade practice requirements for virtual currency kiosk operators; establish record retention requirements for persons required to be licensed as virtual currency kiosk operators; establish trade practice requirements relating to protection of resident assets, virtual currency kiosk transactions, prohibited practices, and fraud and information security compliance procedures; authorize the commissioner to conduct investigations and examinations; provide for the confidentiality of certain documents provided to the commissioner; authorize the commissioner to share, disclose, and report information and take other actions to assist in the commissioner's duties; require the commissioner to submit an annual licensing report to the Legislative Research Commission; establish due process requirements for adverse actions taken by the commissioner against licensees and other persons; establish requirements for the denial, suspension, or revocation of a license; authorize the commissioner to enter cease and desist orders and emergency orders; authorize the commissioner to order civil penalties against persons that violate the subtitle; create a new section of KRS Chapter 41 to define terms; recognize gold specie and silver specie as legal tender in Kentucky; provide for use of gold specie and silver specie as legal tender; require the State Treasurer to promulgate administrative regulations in accordance with KRS Chapter 13A to designate or establish a bullion depository and authorize 1 or more electronic payment systems to facilitate electronic payment transactions; establish requirements for system participants, transaction information, and bullion deposits; require the State Treasurer to submit an annual report to the Legislative Research Commission and to implement the system within 1 year; provide that Section 32 of the Act may be cited as the Kentucky Transactional Gold and Silver Act; require the commissioner of the Department of Financial Institutions to promulgate any required emergency and ordinary administrative regulations on or before January 1, 2027; EFFECTIVE, in part, March 31, 2027."
-    }
-  ],
+  "subject": [],
+  "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -46,75 +16,22 @@
   ],
   "actions": [
     {
-      "description": "introduced in Senate",
-      "date": "2026-01-06T05:00:00+00:00",
+      "description": "02/18/26: WITHDRAWN",
+      "date": "2026-02-18",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "introduction"
+        "withdrawal"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:03:43Z"
-      }
-    },
-    {
-      "description": "to Committee on Committees (S)",
-      "date": "2026-01-06T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:03:43Z"
+        "log_file_created": "2026-07-15T13:54:54Z"
       }
     }
   ],
-  "sponsorships": [
-    {
-      "name": "S. Rawlings",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"S. Rawlings\"}",
-      "organization_id": null
-    },
-    {
-      "name": "L. Tichenor",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"L. Tichenor\"}",
-      "organization_id": null
-    }
-  ],
+  "sponsorships": [],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb32/orig_bill.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
-  "documents": [
-    {
-      "note": "Fiscal Note",
-      "links": [
-        {
-          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb32/LM.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
+  "documents": [],
   "citations": [],
   "sources": [
     {
@@ -132,6 +49,6 @@
     "division_id": "ocd-division/country:us/state:ky"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:43Z"
+    "logs_latest_update": "2026-07-15T13:54:54Z"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "introduced in House",
+    "occurred_at": "2026-03-04T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb914.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB914"
+}

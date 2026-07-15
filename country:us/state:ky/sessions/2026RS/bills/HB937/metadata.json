@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB937",
+  "title": "AN ACT relating to high intensity technological infrastructure.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boards And Commissions",
+    "Energy",
+    "Engineers And Surveyors",
+    "Environment And Conservation",
+    "Local Government",
+    "Notices",
+    "Planning And Zoning",
+    "Public Utilities",
+    "Water Supply"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 65 to define terms; provide that the provisions of the Act do not preempt local governments from adopting more stringent local requirements regarding high intensity technological infrastructure (HITI) siting, construction, and operation; provide for HITI siting requirements in jurisdictions that have adopted planning and zoning and those that have not; require the identities of HITI project owners and operators be disclosed and for limitations on confidentiality agreements relating to HITI projects; establish minimum requirements for required community impact reports, site review plans, and community benefits packages for HITI siting; require public notice to be provided to persons located within 1 mile of the proposed HITI project boundary; provide for the consideration of conditions to mitigate incompatibilities between the proposed use of a HITI site and its zoned use; require that any material expansion of a HITI project have prior written approval by conditional use permit amendment; require that HITI project siting and construction applicants attest that design and operations of the HITI project shall comply with all federal and state requirements and industry standards; provide that appeals from actions shall be taken in accordance with applicable law governing appeals from conditional use and planning commission decisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb937"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Natural Resources & Energy (H)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Roberts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Roberts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb937/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb937/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb937.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2447"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

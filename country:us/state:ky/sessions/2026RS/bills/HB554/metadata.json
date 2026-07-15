@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB554",
+  "title": "AN ACT relating to retiree health provisions of the Kentucky Retirement Systems.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Retirement And Pensions",
+    "State Agencies",
+    "State Employees"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 61.702, relating to the Kentucky Employees Retirement System and the State Police Retirement System, to increase the hazardous duty under age 65 retiree health subsidy to $50 per month for each year of service, respectively, for those members who meet the \"career threshold\" who began participating in the system on or after July 1, 2003, and who are eligible for a fixed-dollar retiree health subsidy not tied to the premium; extend the employee contribution used to fund retiree health benefits to include hazardous duty members who began participating in the system on or after July 1, 2003, and increase the current hazardous employee contribution rate to 2% of pay for those eligible for the fixed-dollar retiree health subsidy; make technical amendments regarding the retiree health premium reimbursement program to conform to current policy; provide that the amendments to the employee contributions shall be effective July 1, 2027; for calculation of the retiree health subsidy increase, provide that the change shall apply to service earned prior to the effective date of this Act by eligible members, including retirees, and shall prospectively be adjusted annually by the 1.5% increase currently provided in statute; provide that subsidies payable to impacted retirees shall begin on or after January 1, 2027, to coincide with the next health plan year; direct the Public Pension Oversight Board to continue to review the retiree health fund actuarial data and evaluate potential legislative options to address any future continued improvements in the funds."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb554"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:55Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:55Z"
+      }
+    },
+    {
+      "description": "to State Government (H)",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Fugate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C. Fugate\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. King",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Truett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Truett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb554/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb554.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1838"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:55Z"
+  }
+}

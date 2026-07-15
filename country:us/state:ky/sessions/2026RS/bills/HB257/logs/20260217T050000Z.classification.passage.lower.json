@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "3rd reading, passed 92-1 with Committee Substitute (1)",
+    "occurred_at": "2026-02-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb257.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB257"
+}

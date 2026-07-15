@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB190",
+  "title": "AN ACT relating to chronic pain treatments.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Drugs And Medicines",
+    "Effective Dates, Delayed",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Health Care Professionals",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of Subtitle 17A of KRS Chapter 304 to establish that any health benefit plan that provides coverage for hospital, medical, or surgical expenses shall include coverage for chronic pain treatments provided by a licensed professional; amend KRS 205.522 to require Medicaid and Medicaid managed care organizations to include coverage for chronic pain treatments provided by a licensed professional; amend KRS 218A.172 to require that a health care practitioner discuss and refer or prescribe alternative chronic pain treatments before initially prescribing or dispensing a controlled substance; provide that certain provisions apply to health benefit plans issued or renewed on or after January 1, 2027; require the Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval if they determine that such approval is necessary; provide authorization from the General Assembly to make changes to the Medicaid program as required under KRS 205.5372(1); EFFECTIVE January 1, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb190"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Funke Frommeyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Funke Frommeyer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb190/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb190/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb190.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2152"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

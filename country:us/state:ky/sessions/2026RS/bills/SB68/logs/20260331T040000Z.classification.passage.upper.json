@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "3rd reading, passed 87-6 with Committee Substitute (1),  Floor Amendment (1) and  Floor Amendment (2-title)",
+    "occurred_at": "2026-03-31T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb68.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB68"
+}

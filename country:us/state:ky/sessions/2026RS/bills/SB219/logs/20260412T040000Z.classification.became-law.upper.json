@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "became law without Governor's Signature (Acts Ch. 98)",
+    "occurred_at": "2026-04-12T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb219.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB219"
+}

@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB307",
+  "title": "AN ACT relating to step therapy protocols.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Children And Minors",
+    "Drugs And Medicines",
+    "Education, Higher",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Health Care Professionals",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "Pharmacists",
+    "Physicians",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 304.17A-163 to modify the definition of \"health plan\"; require insurers, health plans, private review agents, and pharmacy benefit managers to disclose certain information about step therapy protocols on their website and ensure that the electronic process for requesting and transmitting prior authorization for a drug includes the ability for prescribing providers to electronically transmit a complete request for a step therapy exception; require coverage for a prescription drug on the date the provider submits a step therapy exception request; provide that requirements apply to Medicaid and KCHIP benefits to the extent authorized by federal law; require the Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval if it is determined that such approval is necessary; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1); provide that the Act applies to policies, certificates, contracts, and plans issued or renewed on or after the effective date of the Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb307"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "K. Berg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Berg\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb307/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb307/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb307.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1406"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:52Z"
+  }
+}

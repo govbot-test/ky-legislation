@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "introduced in Senate",
+    "occurred_at": "2026-01-28T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb132.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB132"
+}

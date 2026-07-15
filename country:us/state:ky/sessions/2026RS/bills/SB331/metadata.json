@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB331",
+  "title": "AN ACT relating to public meetings.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Advisory Boards, Commissions, And Committees",
+    "Boards And Commissions",
+    "Cities",
+    "Counties",
+    "Education, Elementary And Secondary",
+    "Local Government",
+    "Local Mandate",
+    "Public Meetings",
+    "Public Records And Reports",
+    "Special Districts",
+    "Special Purpose Governmental Entities",
+    "State Agencies",
+    "Universities And Colleges"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 61.815 to require the presiding officer of a public meeting to provide notice before going into closed session of the general nature of business to be discussed, the reason for the closed session, and any persons not members of the board, commission, committee, authority, council, or governing body of the public agency who will be present; require the closed session to be recorded by video or audio and stored for 180 days; exempt the recording of the closed session from the Open Records Act; amend KRS 61.820 to require a public agency to adopt, on an annual basis, a schedule of its regular meetings; require a public agency to provide notice of its regular meeting by publishing its agenda at least 24 hours, but not more than 7 days before the meeting; provide agenda requirements; prohibit a public agency from recessing a meeting longer than 60 minutes unless exceptions apply; require the public agency to adjourn the meeting if a recess exceeds 60 minutes; prohibit a vote on any item discussed immediately prior to the recess until the next regular meeting; require each regular meeting to include public comment of at least 15 minutes; amend KRS 61.823 to require each special meeting to include public comment of at least 15 minutes; amend KRS 61.840 to prohibit a public agency from requiring a person to identify himself or herself, provide his or her address, or sign up to speak at a meeting; amend KRS 61.848 to require a court to award a person $500, instead of $100 who prevails against a public agency for violation of the Open Meetings Act, to be paid by the person or persons who are found to have violated the act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb331"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-03-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Tichenor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Tichenor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb331/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/sb331/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb331.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2015"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

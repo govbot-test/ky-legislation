@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "3rd reading, adopted 88-0 with Floor Amendment (2) and  Floor Amendment (3-title)",
+    "occurred_at": "2026-04-01T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/scr9.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR9"
+}

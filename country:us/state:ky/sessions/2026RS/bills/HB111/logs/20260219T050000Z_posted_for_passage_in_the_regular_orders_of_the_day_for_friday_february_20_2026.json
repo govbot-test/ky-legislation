@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "posted for passage in the Regular Orders of the Day for Friday, February 20 2026",
+    "occurred_at": "2026-02-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb111.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB111"
+}

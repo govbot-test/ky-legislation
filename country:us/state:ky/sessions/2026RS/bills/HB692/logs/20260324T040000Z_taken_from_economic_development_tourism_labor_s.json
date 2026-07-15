@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "taken from Economic Development, Tourism, & Labor (S)",
+    "occurred_at": "2026-03-24T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb692.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB692"
+}

@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB750",
+  "title": "AN ACT relating to cychlorphine.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Drugs And Medicines",
+    "Local Mandate",
+    "Opioids"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 218A.010 to define \"cychlorphine\"; amend KRS 218A.1410 to prohibit the importing of cychlorphine with the intent to sell or distribute cychlorphine; amend KRS 218A.1412 to prohibit trafficking of cychlorphine; amend KRS 218A.14141 to prohibit unlawfully selling or distributing cychlorphine while misrepresenting the identity of the substance; amend KRS 218A.142 to prohibit aggravated trafficking of cychlorphine; amend KRS 500.080 to define \"cychlorphine\" and \"fentanyl\"; amend KRS 507.030 to expand the elements of manslaughter in the first degree to include selling cychlorphine to another person and the injection, ingestion, inhalation, or introduction of that substance causes the death of that person; amend KRS 507.040 to expand the elements of manslaughter in the second degree to include distributing cychlorphine to another person without remuneration and the injection, ingestion, inhalation, or introduction of that substance causes the death of that person; amend KRS 520.050 to enhance the penalty of promoting contraband if the dangerous contraband is cychlorphine; amend KRS 532.100 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb750"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "N. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"N. Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb750/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb750/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb750.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "2335"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

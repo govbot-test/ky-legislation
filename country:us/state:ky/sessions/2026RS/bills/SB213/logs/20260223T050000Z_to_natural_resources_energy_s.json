@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "to Natural Resources & Energy (S)",
+    "occurred_at": "2026-02-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb213.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB213"
+}

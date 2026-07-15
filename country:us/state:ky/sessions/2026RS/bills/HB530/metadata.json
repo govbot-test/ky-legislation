@@ -1,0 +1,191 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB530",
+  "title": "AN ACT relating to permits.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations And Proceedings",
+    "Cities",
+    "Civil Actions",
+    "Counties",
+    "Housing, Building, And Construction",
+    "Land Use",
+    "Local Government",
+    "Local Mandate",
+    "Planning And Zoning",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 61 to require a permitting authority to issue a decision on any permit application within 60 days; automatically grant any permit if a permitting authority fails to render a decision within 60 days; require any denial or conditional approval of a permit to be based on clearly established applicable laws or regulations; grant Circuit Court jurisdiction over any permitting matter; require the Circuit Court to determine whether a permitting decision by the permitting authority was based on clear and convincing evidence; require the Circuit Court to award the applicant attorney's fees and costs if the court finds against the permitting authority; allow third-party challenges to permitting decisions only if the third-party has property adjacent to property that has been granted a permit and where the third-party can demonstrate concrete and particularized harm resulting from issuance of a permit; allow an applicant to appeal any adverse decision from a third-party challenge; require a third party to pay applicant's attorney's fees and costs if the permit is finally approved following a third-party challenge; create a new section of KRS Chapter 100 to grant by-right approval to housing projects which meet a planning unit's code or regulations; grant Circuit Court jurisdiction over any denial of a housing project under the section; require the Circuit Court to determine whether a denial by the planning unit was based on clear and convincing evidence; require Circuit Court to award the applicant attorney's fees and costs if the court finds against the planning unit; provide that the section does not prevent monitoring by the planning unit or affect restrictions in rules or regulations of a homeowners association, condominium association, or other property owners association; amend KRS 198B.060 to permit third-party plan review and inspections under new procedures; create a new section of KRS Chapter 198B to define terms; require regulatory authorities to provide information to prospective applicants regarding requirements to apply for a permit; require a regulatory authority to inform an applicant of whether the application is complete within 3 days and include whether the regulatory authority is able to perform plan review and inspection within specified time limits; require a regulatory authority to conduct plan review within 7 days of receipt of a complete application and inspections within 5 days of any request for an inspection being made; permit an applicant to use a qualifying third-party inspector; set out circumstances under which a regulatory authority may collect fees depending on use of a third-party inspector; set out what a third-party inspector may review and set out qualifications and requirements the third-party inspector must meet; require a regulatory authority to issue a permit within 1 business day of the completion of required plan reviews and inspections associated with an otherwise complete application; state that any ordinance, rule, or regulation contrary is void and unenforceable; state that a regulatory authority may issue a stop work order if a condition of a project constitute an immediate threat to public safety and welfare; establish immunity for the regulatory authority for action of an applicant or third-party inspector."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb530"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-01-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-01-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Local Government (H)",
+      "date": "2026-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "taken from Local Government (H)",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "1st reading",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "returned to Local Government (H)",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Banta",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Banta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Roberts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"W. Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Witten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Witten\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb530/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/26RS/hb530/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb530.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1688"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

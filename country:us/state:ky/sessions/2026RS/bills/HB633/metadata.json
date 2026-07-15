@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB633",
+  "title": "AN ACT relating to data privacy.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children And Minors",
+    "Consumer Protection",
+    "Data Protection",
+    "Information Technology",
+    "Internet, Access And Infrastructure",
+    "Parental Rights",
+    "Short Titles And Popular Names",
+    "Technology",
+    "Telecommunications",
+    "Trade Practices And Retailing"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 367.3611 to define \"actual knowledge,\" \"algorithmic feed,\" \"algorithmic recommendation system,\" \"covered design feature,\" \"covered minor,\" \"covered online service,\" \"dark pattern,\" \"knows to be a child,\" \"knows to be a minor,\" \"minor,\" \"online service,\" \"parent,\" \"personalized recommendation system,\" \"publicly available information,\" and \"user\"; create a new section of KRS 367.3611 to 367.3629, the Kentucky Consumer Data Protection Act, to require a covered online service to configure all default privacy settings provided to a covered minor through its online service, product, or feature to the highest level of privacy; provide a covered minor and his or her parents with certain default settings and tools to protect the minor from profiling, targeted advertising for prohibited products, or the use of dark patterns to impair a covered minor's choice; prohibit the use of notifications and push alerts to a covered minor between certain days and times; amend KRS 367.3613 to conform; provide that Section 2 of the Act may be cited as the Kentucky Kid's Code."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb633"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Small Business & Information Technology (H)",
+      "date": "2026-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "V. Grossl",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"V. Grossl\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb633/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb633.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "356"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

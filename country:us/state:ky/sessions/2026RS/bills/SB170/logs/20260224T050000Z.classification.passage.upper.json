@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed 37-0 with Committee Substitute (1) and  Floor Amendments (2) and (3)",
+    "occurred_at": "2026-02-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb170.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB170"
+}

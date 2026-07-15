@@ -1,0 +1,167 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB213",
+  "title": "AN ACT relating to retail electric suppliers.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cooperatives",
+    "Eminent Domain And Condemnation",
+    "Energy",
+    "Fuel",
+    "Public Utilities",
+    "Trade Practices And Retailing"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 278 to declare that policy of the Commonwealth is for retail electric suppliers under the Public Service Commission (PSC) to procure electric generation sufficient to meet customer demand using an open, competitive process and at a rate that is the lowest possible; require retail electric suppliers to conduct integrated resource planning every 3 years and set forth the parameters of the integrated resource plan process; exempt elective cooperatives from the integrated resource plan process if the cooperative maintains an all-requirements contract; direct the PSC to promulgate administrative regulations within 120 days of the effective date of the Act; restrict the purchase of capacity from regional transmission organizations or independent system operators for prolonged periods as determined by the commission; require retail electric suppliers to file integrated resource plans on a triennial basis and include an assessment and acquisition plan for adequate and reliable electricity to meet customer demand at the lowest possible cost of forecasted estimates; make the privilege to serve customers in a certified territory a property right of the Commonwealth; require the PSC to allow the commission to determine an amount to be returned to customers of an electric retail supplier that is based on a calculation of the privilege to serve in a certified territory in a proceeding involving an acquisition, transfer, or sale of an electric retail supplier; allow one time, limited choice of retail electric supplier for incremental load at a single site in excess of 50 megawatts beginning June 30, 2027; require the PSC to ensure customers of affected retail electric suppliers are indifferent to the limited choice designation; amend KRS 278.010 to amend the definition of \"adequate service\" to include generating capacity; define \"integrated resource plan\"; amend KRS 278.016 to state that retail electric supplier has the privilege to provide electric service; amend KRS 278.018 to state that retail electric suppliers have the privilege rather than right to furnish retail electric service in its certified territory; and if the PSC find that a retail electric supplier is not providing adequate service the PSC may order the supplier to correct the problem; allow the commission to authorize another retail electric supplier to serve facilities located in the certified territory of another retail electric supplier; amend KRS 278.020 to determine whether public ownership of a retail electric supplier can achieve lower rates and deem cooperatives organized under KRS Chapter 279 to have public ownership; allow the PSC to consider the integrated resource planning process or the use of the contract when making a determination on a certificate of public convenience and necessity; amend 278.300 to allow the for evaluation of the integrated resource plan or use of a contract when granting certificate of public convenience and necessity."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb213"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "to Natural Resources & Energy (S)",
+      "date": "2026-02-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "reported favorably, 1st reading, to Calendar",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    },
+    {
+      "description": "2nd reading, to Rules",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "P. Wheeler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"P. Wheeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Madon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. Madon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"B. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Webb",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Webb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. West",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"S. West\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb213/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb213.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1230"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:54Z"
+  }
+}

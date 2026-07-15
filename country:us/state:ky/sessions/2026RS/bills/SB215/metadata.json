@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "SB215",
+  "title": "AN ACT relating to school districts.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boards And Commissions",
+    "Confirmation Of Appointments",
+    "Education, Elementary And Secondary",
+    "General Assembly",
+    "Personnel And Employment",
+    "Public Ethics",
+    "Public Records And Reports",
+    "Reports Mandated",
+    "Teachers"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 160.290 to ensure public school curriculum, textbooks, and instructional materials, including digital learning materials, remain subject to the Open Records Act and that districts protect a resident's fair use rights; amend KRS 160.350 to require a superintendent with total annual compensation greater than the commissioner of education to be subject to confirmation by the Senate; require a majority vote instead of a four-fifths vote of local board of education members to remove a superintendent; delete requirements for approval from the commissioner of education to remove a superintendent; provide an appeal process for the superintendent; amend KRS 160.160 to establish a 1 year term for chair and vice chair of a local board of education; require superintendents to submit reports on closed personnel investigations to the local board of education for the purposes of policy oversight and evaluation of the superintendent's performance; amend KRS 160.180 to make ineligible a candidate for membership on a board of education who engages or serves as an officer or director of an organization that represents district employees in employment or legal matters against the district; require Open Records Act and Open Meetings Act training for local board of education members; make conforming changes; permit the hiring of relatives of a local board of education member; amend KRS 160.380 to prohibit a person convicted of certain specified crimes from being employed by a superintendent; require superintendents to submit reports on previous personnel investigations closed during the superintendent's contract to the local board of education within 30 days of the effective date of this Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-sb215"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Tichenor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L. Tichenor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Boswell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"G. Boswell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb215/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/sb215.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1150"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}

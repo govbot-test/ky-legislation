@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "posted for passage in the Regular Orders of the Day for Tuesday, February 03 2026",
+    "occurred_at": "2026-02-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb194.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB194"
+}

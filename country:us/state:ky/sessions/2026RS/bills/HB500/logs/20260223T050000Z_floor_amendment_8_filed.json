@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "floor amendment (8) filed",
+    "occurred_at": "2026-02-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/hb500.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB500"
+}

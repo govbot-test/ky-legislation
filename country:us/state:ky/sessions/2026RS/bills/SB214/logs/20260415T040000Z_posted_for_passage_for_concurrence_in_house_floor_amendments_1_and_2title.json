@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "posted for passage for concurrence in House Floor Amendments (1) and (2-title)",
+    "occurred_at": "2026-04-15T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026RS",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.legislature.ky.gov/record/26RS/sb214.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB214"
+}

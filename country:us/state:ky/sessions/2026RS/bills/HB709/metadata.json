@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026RS",
+  "identifier": "HB709",
+  "title": "AN ACT relating to respiratory care.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boards And Commissions",
+    "Deaths",
+    "Drugs And Medicines",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Hospitals And Health Facilities",
+    "Licensing",
+    "Occupations And Professions",
+    "Physicians"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 314A to allow an advanced practice respiratory therapist employed by a health facility to declare a patient death and sign the provisional report of death; repeal and reenact KRS 314A.010, 314A.110, and 314A.220 to define terms; create a new license category for advanced practice respiratory therapists; deem the practice credential a license instead of a mandatory certificate; replace the term \"respiratory care practitioner\" with \"respiratory therapist\" or \"advanced practice respiratory therapist\"; establish education and training requirements; set procedures for license reinstatement and reactivation; amend KRS 314A.100 to authorize a respiratory therapist to perform services with the prescription of a physician, physician assistant, advanced practice registered nurse, or advanced practice respiratory therapist; describe services an advanced practice respiratory therapist may provide under prospective medical direction, including prescribing legend drugs; amend KRS 314A.112 to establish requirements for a limited student respiratory therapist license; amend KRS 314A.200 to make the Kentucky Board of Respiratory Care's meetings subject to Kentucky Open Meetings and Open Records laws; amend KRS 314A.215 to raise board members' daily pay from $50 to $100; amend KRS 314A.225 to expand avenues for board discipline of licensees; amend KRS 314A.990 to authorize the board to impose a civil penalty of up to $5,000 per violation; amend KRS 164.0401, 216.2920, 216.380, 217.015, 311.646, 314A.105, 314A.115, 314A.205, 314A.230, 353.510, and 405.024 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ky-2026rs-hb709"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    },
+    {
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "date": "2026-03-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "A. Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Tackett Laferty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"A. Tackett Laferty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Whitaker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"M. Whitaker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb709/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26RS/hb709.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "910"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:54:53Z"
+  }
+}
