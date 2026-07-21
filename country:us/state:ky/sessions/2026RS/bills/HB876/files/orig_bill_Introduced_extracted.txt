@@ -1,0 +1,157 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1966
+1 AN ACT relating to smart meters.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 5 of this Act:
+6 (1) "Analog meter" means an electromechanical device that measures electrical
+7 quantities using a needle that moves across a calibrated scale and requires
+8 manual readings to physically transmit data to a utility provider;
+9 (2) "Retail utility service provider" means any person, including a city and a
+10 regional wastewater commission, who owns, controls, operates, or manages any
+11 facility used or to be used for or in connection with:
+12 (a) The generation, production, transmission, or distribution of electricity to or
+13 for the public for compensation;
+14 (b) The production, manufacture, storage, distribution, sale, or furnishing of
+15 natural or manufactured gas, or a mixture of same, to or for the public for
+16 compensation;
+17 (c) The collection, transmission, or treatment of sewage for the public, for
+18 compensation; or
+19 (d) The furnishing or distributing of water to or for the public for
+20 compensation;
+21 (3) "Smart meter" means a time-based digital meter and related communication
+22 equipment capable of being part of a system that receives, stores, measures, and
+23 records electricity usage data on a time-differentiated basis and provides two-way
+24 communication for real-time monitoring of electricity consumption; and
+25 (4) "Underwriter Laboratories" or "UL" means the independent, nonprofit safety
+26 science organization that certifies, validates, tests, and audits products to ensure
+27 safety standards.
+Page 1 of 5
+XXXX 2/24/2026 11:51 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1966
+1 SECTION 2. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+2 READ AS FOLLOWS:
+3 (1) The requirements of this section shall only apply to utility service provided on
+4 property owned by the utility customer.
+5 (2) (a) A retail utility service provider shall give written notice of its intent to install
+6 a smart meter to the customer not less than thirty (30) days before
+7 commencing to replace an existing customer's analog meter with a smart
+8 meter or install a smart meter for a customer with new service.
+9 (b) The customer shall have thirty (30) days after receiving the notice to opt out
+10 of having the smart meter installed.
+11 (c) The retail utility service provider shall have no more than thirty (30) days
+12 after the customer has selected a meter option to install the meter selected
+13 by the customer.
+14 (3) The right to opt out of a smart meter installation shall also apply to a customer
+15 whose meter is not recording the usage at the premises accurately or the meter is
+16 otherwise malfunctioning.
+17 (4) An existing customer may request to replace a smart meter that is currently
+18 installed with an analog meter, and the retail utility service provider shall install
+19 the meter in accordance with subsection (2)(c) of this section.
+20 (5) A retail utility service provider shall keep a quantity of analog meters sufficient to
+21 fulfillment customer meter requests.
+22 SECTION 3. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+23 READ AS FOLLOWS:
+24 (1) Customers of the retail utility provider shall not be charged:
+25 (a) For the installation of the smart meter by the retail utility service provider
+26 or by any company contracted by the retail utility service provider;
+27 (b) A different rate based on the type of meter used; or
+Page 2 of 5
+XXXX 2/24/2026 11:51 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1966
+1 (c) A surcharge or fee for opting out of having the smart meter installed.
+2 (2) Customers shall be entitled to a refund of any improperly collected fees or
+3 charges paid by the customer to the retail utility service provider. Any customer
+4 seeking a reimbursement of improperly collected fees or charges not returned by
+5 the retail utility service provider shall have twelve (12) months from the date the
+6 fees or charges were imposed to file a written request through the Office of the
+7 Attorney General, Office of Rate Intervention.
+8 (3) The Office of Rate Intervention shall:
+9 (a) Review the fees or charges to determine if the fees or charges are in
+10 conformity with this section; and
+11 (b) Send notice to the customer and retail utility service provider of a
+12 determination made under this subsection and provide a copy to the Public
+13 Service Commission if the retail utility service provider is regulated under
+14 KRS Chapter 278.
+15 (4) Any fees or charges deemed by the Attorney General to be improperly collected by
+16 the retail utility service provider shall be automatically returned to the customer
+17 by crediting the customer account.
+18 (5) This section shall be retroactive to January 1, 2015, and a customer seeking a
+19 credit or refund from the retail utility service provider for a charge, fee, or
+20 surcharge that the customer paid on or after that date shall be eligible to claim
+21 the credit or refund.
+22 SECTION 4. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+23 READ AS FOLLOWS:
+24 (1) (a) Any retail utility service provider along with the responding fire district
+25 shall submit a report of any fire involving a utility meter no later than thirty
+26 (30) days after the incident to the Office of the Attorney General and, if the
+27 retail utility service provider is regulated by the Public Service Commission,
+Page 3 of 5
+XXXX 2/24/2026 11:51 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1966
+1 to the commission.
+2 (b) A report under this subsection shall include the date, location, meter type,
+3 and suspected point of ignition and shall be made available to the public.
+4 (2) All smart meters installed in the Commonwealth shall contain a warning label
+5 that the meter emits radiofrequency radiation emissions that are possibly
+6 carcinogenic to humans.
+7 (3) (a) A smart meter shall not be installed or maintained unless it is certified by
+8 Underwriter Laboratories under the most recent and relevant safety
+9 standards for its specific device class. A property owner may request the
+10 removal of a smart meter that lacks the most current UL certification.
+11 (b) Within thirty (30) days of the request and at no cost to the customer, the
+12 meter shall be replaced with either a smart meter that meets the UL
+13 certification standard or an analog meter if requested by customer.
+14 SECTION 5. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+15 READ AS FOLLOWS:
+16 (1) In any civil action or administrative proceeding:
+17 (a) Evidence of extreme radiofrequency radiation levels measuring at or
+18 exceeding one hundred (100) milliwatts per square meter shall constitute
+19 prima facie evidence that the meter is harmful. Measurements of
+20 radiofrequency radiation may be established by any commercially available
+21 measuring technology or certified testing equipment; and
+22 (b) Damages may be recovered for any documentable disturbances attributable
+23 to the smart meter, including but not limited to unwanted garage door
+24 openings or negative impacts to human and animal health and the
+25 environment.
+26 (2) The retail utility service provider shall provide radiation protection at the
+27 customer's request if radiation levels exceeding one hundred (100) milliwatts per
+Page 4 of 5
+XXXX 2/24/2026 11:51 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1966
+1 square meter are measured from a smart meter at a property owned by the
+2 customer.
+3 (3) Data collected by a retail utility service provider shall be confidential unless
+4 waived by the customer or mandated to be provided to a court. Unauthorized use
+5 of customer data collected by a retail utility service provider is strictly prohibited.
+6 (4) A retail utility service provider or third-party entity shall not utilize a smart meter
+7 or any infrastructure installed on a customer's private property as a node, relay,
+8 or transmission point for obtaining data for any other reason than the provision
+9 of utility service. The placement of a meter of any infrastructure on private
+10 property used to transmit data for a wireless network shall be:
+11 (a) An additional easement on the customer's property; and
+12 (b) Prohibited without express written consent of the property owner and just
+13 compensation to the property owner for use of the property as a
+14 transmission hub.
+15 (5) Sections 1 to 5 of this Act shall not:
+16 (a) Prevent or impair a customer's private right of action for any civil damages
+17 sustained by the customer due to a smart meter being installed on his or her
+18 premises, or on the premises of an adjoining property owner who is within
+19 the distance for electromagnetic radiation to penetrate the customer's
+20 property; or
+21 (b) Limit the liability of a customer for a legitimate outstanding balance to a
+22 retail utility service provider.
+Page 5 of 5
+XXXX 2/24/2026 11:51 AM Jacketed

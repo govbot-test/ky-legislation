@@ -1,0 +1,964 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 AN ACT relating to reproductive health services.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 211 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Contraception" means an action taken to prevent pregnancy, including
+7 the use of contraceptives or fertility-awareness based methods and
+8 sterilization procedures; and
+9 (b) "Contraceptive" means any drug, device, or biological product intended for
+10 use in the prevention of pregnancy, whether specifically intended to prevent
+11 pregnancy or for other health needs, that is legally marketed under the
+12 Federal Food, Drug, and Cosmetic Act, such as oral contraceptives, long-
+13 acting reversible contraceptives, emergency contraceptives, internal and
+14 external condoms, injectables, vaginal barrier methods, transdermal
+15 patches, vaginal rings, or other contraceptives.
+16 (2) Notwithstanding any other provision of law to the contrary, a person has a
+17 statutory right to obtain contraceptives and to engage in contraception, and a
+18 health care provider practicing in any place in the Commonwealth, including
+19 institutions of higher education, has a corresponding right to provide
+20 contraceptives, contraception, referrals, services, and information related to
+21 contraception.
+22 (3) The statutory rights specified in subsection (2) of this section shall not be limited
+23 or otherwise infringed upon through any limitation or requirement that:
+24 (a) Expressly, effectively, implicitly, or as implemented singles out:
+25 1. The provision or sale of contraceptives, contraception, or information
+26 related to contraception;
+27 2. Health care providers who provide or dispense contraceptives,
+Page 1 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 contraception, or information related to contraception; or
+2 3. Facilities in which contraceptives, contraception, or information
+3 related to contraception is provided or dispensed; or
+4 (b) Impedes or prohibits the sale or access to contraceptives, contraception, or
+5 information related to contraception.
+6 (4) To defend against a claim that a limitation or requirement violates a health care
+7 provider's or patient's rights under subsection (2) of this section, a party must
+8 establish by clear and convincing evidence that:
+9 (a) The limitation or requirement significantly advances access to
+10 contraceptives, contraception, and information related to contraception;
+11 and
+12 (b) Access to contraceptives, contraception, and information related to
+13 contraception or the health of patients cannot be advanced by a less
+14 restrictive alternative measure or action.
+15 (5) The Commonwealth or its localities shall not administer, implement, or enforce
+16 any law, administrative regulation, or other provision having the force and effect
+17 of law that conflicts with any provision of this section, notwithstanding any
+18 provision of federal law, including the Religious Freedom Restoration Act of
+19 1993, including:
+20 (a) Prohibiting or restricting the sale, provision, or use of any contraceptives;
+21 (b) Prohibiting or restricting any individual from aiding another individual in
+22 voluntarily obtaining or using any contraceptives or contraception; or
+23 (c) Exempting any contraceptives or contraception from any other generally
+24 applicable law in a way that would make it more difficult to sell, provide,
+25 obtain, or use such contraceptives or contraception, including over-the-
+26 counter sales.
+27 (6) The Attorney General may commence a civil action on behalf of the
+Page 2 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 Commonwealth against any locality that implements or enforces any limitation or
+2 requirement that violates this section, or against any person who implements or
+3 enforces any limitation or requirement that violates this section. The court shall
+4 hold unlawful and set aside the limitation or requirement if it is in violation of
+5 this section.
+6 (7) The following private rights of action shall be available under this section:
+7 (a) Any individual or entity, including any health care provider or patient,
+8 adversely affected by an alleged violation of this section may commence a
+9 civil action against the Commonwealth or any locality that implements or
+10 enforces any limitation or requirement that violates this section or against
+11 any person who implements or enforces any limitation or requirement that
+12 violates this section; and
+13 (b) A health care provider may commence an action for relief on its own
+14 behalf, on behalf of the provider's staff, and on behalf of the provider's
+15 patients who are or may be adversely affected by an alleged violation of this
+16 section.
+17 (8) In any action under this section, the court may award appropriate equitable
+18 relief, including temporary, preliminary, or permanent injunctive relief.
+19 (9) In any action under this section, the court shall award costs of litigation, as well
+20 as reasonable attorney fees, to any prevailing plaintiff. A plaintiff shall not be
+21 liable to a defendant for costs or attorney's fees in any nonfrivolous action under
+22 this section.
+23 (10) An action under this section shall be filed in Circuit Court. The Circuit Court
+24 shall exercise jurisdiction without regard to whether the aggrieved party has
+25 exhausted any administrative or other remedies that may be provided for by state
+26 law.
+27 (11) A locality that enforces or maintains any limitation or requirement that violates
+Page 3 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 this section, or a government official, including any person who is permitted to
+2 implement or enforce any limitation or requirement that violates this section,
+3 shall not be immune from an action challenging that limitation or requirement.
+4 SECTION 2. A NEW SECTION OF SUBTITLE 17A OF KRS CHAPTER 304
+5 IS CREATED TO READ AS FOLLOWS:
+6 (1) As used in this section:
+7 (a) "FDA" means the United States Food and Drug Administration;
+8 (b) "Health benefit plan" has the same meaning as in KRS 304.17A-005,
+9 except for purposes of this section, the term shall include student health
+10 insurance offered by a Kentucky-licensed insurer under written contract
+11 with a university or college whose students it proposes to insure;
+12 (c) "Long-acting reversible contraception":
+13 1. Means a contraception method that requires administration less than
+14 once per month; and
+15 2. Includes:
+16 a. An intrauterine device; and
+17 b. A contraceptive implant; and
+18 (d) "Religious employer" means an organization that is:
+19 1. Organized and operates as a nonprofit entity; and
+20 2. Referred to in 26 U.S.C. sec. 6033(a)(3)(A)(i) or (iii), as amended.
+21 (2) Except as otherwise provided in subsection (3) or (5) of this section, a health
+22 benefit plan shall provide coverage for the following:
+23 (a) All FDA-approved contraceptive drugs, devices, and products, including:
+24 1. Those prescribed:
+25 a. By a covered person's provider; or
+26 b. As otherwise authorized under state and federal law;
+27 2. Over-the-counter contraceptive drugs, devices, and products;
+Page 4 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 3. Those dispensed on-site at a provider's office, if available; and
+2 4. Long-acting reversible contraception administered during a
+3 postpartum stay;
+4 (b) Voluntary sterilization procedures;
+5 (c) Patient education and counseling on contraception; and
+6 (d) Follow-up services related to drugs, devices, products, and procedures
+7 covered under this section, including but not limited to:
+8 1. Management of side effects;
+9 2. Counseling for continued adherence; and
+10 3. Device insertion and removal.
+11 (3) For the coverage required under subsection (2)(a) of this section, the health
+12 benefit plan shall:
+13 (a) If the FDA has designated a therapeutic equivalent of an FDA-approved
+14 prescription contraceptive drug, device, or product, cover either:
+15 1. The original FDA-approved prescription contraceptive drug, device, or
+16 product; or
+17 2. At least one (1) therapeutic equivalent of the original FDA-approved
+18 prescription contraceptive drug, device, or product;
+19 (b) If a contraceptive drug, device, or product is deemed medically inadvisable
+20 by the covered person's provider, defer to the determination and judgment
+21 of the provider and provide coverage for an alternate prescribed FDA-
+22 approved contraceptive drug, device, or product;
+23 (c) Provide coverage for the supply of contraceptives intended to last over a
+24 twelve (12) month duration, which, at the discretion of the provider, may be
+25 furnished or dispensed all at once or over the course of twelve (12) months;
+26 (d) Reimburse a provider or dispensing entity per unit for furnishing or
+27 dispensing an extended supply of contraceptives;
+Page 5 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (e) Not deny the coverage required under this section because a covered person
+2 changed contraceptive methods within a twelve (12) month period; and
+3 (f) Not require a prescription to trigger the coverage of FDA-approved over-
+4 the-counter contraceptive drugs, devices, and products.
+5 (4) A health benefit plan subject to the coverage requirements of this section:
+6 (a) Shall not impose a deductible, coinsurance, copayment, or any other cost-
+7 sharing requirement on the coverage, unless the health benefit plan is
+8 offered as a qualifying high deductible health plan for a health savings
+9 account, in which case the plan shall establish cost-sharing only at the
+10 minimum level necessary to preserve the covered person's ability to claim
+11 tax-exempt contributions and withdrawals from the person's health savings
+12 account under 26 U.S.C. sec. 223, as amended;
+13 (b) Except as otherwise authorized under this section, shall not impose any
+14 restrictions or delays on the coverage; and
+15 (c) Shall provide the same level of benefits to a covered person's covered
+16 dependents as the plan provides to the covered person.
+17 (5) (a) A religious employer may request a health benefit plan without coverage for
+18 any FDA-approved drugs, devices, products, procedures, and services used
+19 for contraceptive purposes that are contrary to the religious employer's
+20 religious tenets.
+21 (b) A religious employer that makes a request under paragraph (a) of this
+22 subsection shall:
+23 1. Be provided a health benefit plan without the contraceptive coverage;
+24 and
+25 2. Provide written notice to each prospective covered person, prior to the
+26 covered person's enrollment in the health benefit plan, listing the
+27 contraceptive drugs, devices, products, procedures, and services the
+Page 6 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 employer refused to cover for religious reasons.
+2 (6) Nothing in this section shall be construed to:
+3 (a) Exclude coverage for contraceptive drugs, devices, and products prescribed
+4 by a provider, acting within the provider's scope of practice, for reasons
+5 other than contraceptive purposes, including but not limited to:
+6 1. Decreasing the risk of ovarian cancer;
+7 2. Eliminating symptoms of menopause; or
+8 3. Contraception that is necessary to preserve the life of the covered
+9 person; or
+10 (b) Require a health benefit plan to cover experimental or investigational
+11 treatments.
+12 Section 3. KRS 304.17A-099 is amended to read as follows:
+13 (1) As used in this section, "qualified health plan" has the same meaning as in 42
+14 U.S.C. sec. 18021(a)(1), as amended.
+15 (2) Notwithstanding any other provision of this chapter:
+16 (a) Except as provided in paragraph (b) of this subsection, if the application of a
+17 provision of this chapter results, or would result, in a determination that the
+18 state must make payments to defray the cost of the provision under 42 U.S.C.
+19 sec. 18031(d)(3) and 45 C.F.R. sec. 155.170, as amended, then the provision
+20 shall not apply to a qualified health plan or any other health insurance policy,
+21 certificate, plan, or contract until the requirement to make cost defrayal
+22 payments is no longer applicable; and
+23 (b) This subsection shall not apply to:
+24 1. A provision of this chapter that became effective on or before January 1,
+25 2024; or
+26 2. Section 2 of this Act.
+27 (3) To the extent permitted by federal law, if the state is required under 42 U.S.C. sec.
+Page 7 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 18031(d)(3) and 45 C.F.R. sec. 155.170, as amended, to make payments to defray
+2 the cost of a provision of this chapter:
+3 (a) 1. Each qualified health plan issuer shall determine, and provide to the
+4 commissioner, the cost attributable to the provision for the qualified
+5 health plan.
+6 2. The cost attributable to a provision for a qualified health plan under
+7 subparagraph 1. of this paragraph shall be:
+8 a. Calculated in accordance with generally accepted actuarial
+9 principles and methodologies;
+10 b. Conducted by a member of the American Academy of Actuaries;
+11 and
+12 c. Reported by the qualified health plan issuer to:
+13 i. The commissioner; and
+14 ii. The Division of Health Benefit Exchange within the Office
+15 of Data Analytics;
+16 (b) The commissioner shall use the information obtained under paragraph (a) of
+17 this subsection to determine the statewide average of the cost attributable to
+18 the provision for all qualified health plan issuers to which the provision is
+19 applicable; and
+20 (c) The required payments shall be:
+21 1. Calculated based on the statewide average of the cost attributable to the
+22 provision as determined by the commissioner under paragraph (b) of this
+23 subsection; and
+24 2. Submitted directly to qualified health plan issuers by the department
+25 through a process established by the commissioner.
+26 (4) A qualified health plan issuer that receives a payment under subsection (3)(c)2. of
+27 this section shall:
+Page 8 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (a) Reduce the premium charged to an individual on whose behalf the issuer
+2 received the payment in an amount equal to the amount of the payment; or
+3 (b) Notwithstanding KRS 304.12-090, provide a premium rebate to an individual
+4 on whose behalf the issuer received the payment in an amount equal to the
+5 amount of the payment.
+6 (5) Any fines collected for violations of this section shall be:
+7 (a) Placed in a trust and agency account within the department, which shall not
+8 lapse; and
+9 (b) Used solely by the department to make payments in accordance with
+10 subsection (3)(c)2. of this section.
+11 (6) The commissioner shall promulgate any administrative regulations in accordance
+12 with KRS Chapter 13A necessary to enforce and effectuate this section.
+13 Section 4. KRS 164.2871 is amended to read as follows:
+14 (1) The governing board of each state postsecondary educational institution is
+15 authorized to purchase liability insurance for the protection of the individual
+16 members of the governing board, faculty, and staff of such institutions from liability
+17 for acts and omissions committed in the course and scope of the individual's
+18 employment or service. Each institution may purchase the type and amount of
+19 liability coverage deemed to best serve the interest of such institution.
+20 (2) All retirement annuity allowances accrued or accruing to any employee of a state
+21 postsecondary educational institution through a retirement program sponsored by
+22 the state postsecondary educational institution are hereby exempt from any state,
+23 county, or municipal tax, and shall not be subject to execution, attachment,
+24 garnishment, or any other process whatsoever, nor shall any assignment thereof be
+25 enforceable in any court. Except retirement benefits accrued or accruing to any
+26 employee of a state postsecondary educational institution through a retirement
+27 program sponsored by the state postsecondary educational institution on or after
+Page 9 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 January 1, 1998, shall be subject to the tax imposed by KRS 141.020, to the extent
+2 provided in KRS 141.010 and 141.0215.
+3 (3) Except as provided in KRS Chapter 44, the purchase of liability insurance for
+4 members of governing boards, faculty and staff of institutions of higher education
+5 in this state shall not be construed to be a waiver of sovereign immunity or any
+6 other immunity or privilege.
+7 (4) The governing board of each state postsecondary education institution is authorized
+8 to provide a self-insured employer group health plan to its employees, which plan
+9 shall:
+10 (a) Conform to the requirements of Subtitle 32 of KRS Chapter 304; and
+11 (b) Except as provided in subsection (5) of this section, be exempt from
+12 conformity with Subtitle 17A of KRS Chapter 304.
+13 (5) A self-insured employer group health plan provided by the governing board of a
+14 state postsecondary education institution to its employees shall comply with:
+15 (a) KRS 304.17A-129;
+16 (b) KRS 304.17A-133;
+17 (c) KRS 304.17A-145;
+18 (d) KRS 304.17A-163 and 304.17A-1631;
+19 (e) KRS 304.17A-261;
+20 (f) KRS 304.17A-262;
+21 (g) KRS 304.17A-264;[ and]
+22 (h) KRS 304.17A-265; and
+23 (i) Section 2 of this Act.
+24 (6) (a) A self-insured employer group health plan provided by the governing board of
+25 a state postsecondary education institution to its employees shall provide a
+26 special enrollment period to pregnant women who are eligible for coverage in
+27 accordance with the requirements set forth in KRS 304.17-182.
+Page 10 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (b) The governing board of a state postsecondary education institution shall, at or
+2 before the time an employee is initially offered the opportunity to enroll in the
+3 plan or coverage, provide the employee a notice of the special enrollment
+4 rights under this subsection.
+5 Section 5. KRS 205.522 is amended to read as follows:
+6 (1) With respect to the administration and provision of Medicaid benefits pursuant to
+7 this chapter, the Department for Medicaid Services, any managed care organization
+8 contracted to provide Medicaid benefits pursuant to this chapter, and the state's
+9 medical assistance program shall be subject to, and comply with, the following, as
+10 applicable:
+11 (a) KRS 304.17A-129;
+12 (b) KRS 304.17A-145;
+13 (c) KRS 304.17A-163;
+14 (d) KRS 304.17A-1631;
+15 (e) KRS 304.17A-167;
+16 (f) KRS 304.17A-235;
+17 (g) KRS 304.17A-257;
+18 (h) KRS 304.17A-259;
+19 (i) KRS 304.17A-263;
+20 (j) KRS 304.17A-264;
+21 (k) KRS 304.17A-515;
+22 (l) KRS 304.17A-580;
+23 (m) KRS 304.17A-600, 304.17A-603, and 304.17A-607;[ and]
+24 (n) KRS 304.17A-740 to 304.17A-743; and
+25 (o) Section 2 of this Act, except subsection (4)(c) of Section 2 of this Act.
+26 (2) A managed care organization contracted to provide Medicaid benefits pursuant to
+27 this chapter shall comply with the reporting requirements of KRS 304.17A-732.
+Page 11 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 Section 6. KRS 205.6485 is amended to read as follows:
+2 (1) As used in this section, "KCHIP" means the Kentucky Children's Health Insurance
+3 Program.
+4 (2) The Cabinet for Health and Family Services shall:
+5 (a) Prepare a state child health plan, known as KCHIP, meeting the requirements
+6 of Title XXI of the Federal Social Security Act, for submission to the
+7 Secretary of the United States Department of Health and Human Services
+8 within such time as will permit the state to receive the maximum amounts of
+9 federal matching funds available under Title XXI; and
+10 (b) By administrative regulation promulgated in accordance with KRS Chapter
+11 13A, establish the following:
+12 1. The eligibility criteria for children covered by KCHIP, which shall
+13 include a provision that no person eligible for services under Title XIX
+14 of the Social Security Act, 42 U.S.C. secs. 1396 to 1396v, as amended,
+15 shall be eligible for services under KCHIP, except to the extent that
+16 Title XIX coverage is expanded by KRS 205.6481 to 205.6495 and KRS
+17 304.17A-340;
+18 2. The schedule of benefits to be covered by KCHIP, which shall:
+19 a. Be at least equivalent to one (1) of the following:
+20 i. The standard Blue Cross/Blue Shield preferred provider
+21 option under the Federal Employees Health Benefit Plan
+22 established by 5 U.S.C. sec. 8903(1);
+23 ii. A mid-range health benefit coverage plan that is offered and
+24 generally available to state employees; or
+25 iii. Health insurance coverage offered by a health maintenance
+26 organization that has the largest insured commercial, non-
+27 Medicaid enrollment of covered lives in the state; and
+Page 12 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 b. Comply with subsection (6) of this section;
+2 3. The premium contribution per family for health insurance coverage
+3 available under KCHIP, which shall be based:
+4 a. On a six (6) month period; and
+5 b. Upon a sliding scale relating to family income not to exceed:
+6 i. Ten dollars ($10), to be paid by a family with income
+7 between one hundred percent (100%) to one hundred thirty-
+8 three percent (133%) of the federal poverty level;
+9 ii. Twenty dollars ($20), to be paid by a family with income
+10 between one hundred thirty-four percent (134%) to one
+11 hundred forty-nine percent (149%) of the federal poverty
+12 level; and
+13 iii. One hundred twenty dollars ($120), to be paid by a family
+14 with income between one hundred fifty percent (150%) to
+15 two hundred percent (200%) of the federal poverty level, and
+16 which may be made on a partial payment plan of twenty
+17 dollars ($20) per month or sixty dollars ($60) per quarter;
+18 4. There shall be no copayments for services provided under KCHIP; and
+19 5. a. The criteria for health services providers and insurers wishing to
+20 contract with the Commonwealth to provide coverage under
+21 KCHIP.
+22 b. The cabinet shall provide, in any contracting process for coverage
+23 of preventive services, the opportunity for a public health
+24 department to bid on preventive health services to eligible children
+25 within the public health department's service area. A public health
+26 department shall not be disqualified from bidding because the
+27 department does not currently offer all the services required by
+Page 13 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 this section. The criteria shall be established by[set forth in]
+2 administrative regulations promulgated in accordance
+3 with[under] KRS Chapter 13A and shall maximize competition
+4 among the providers and insurers. The Finance and Administration
+5 Cabinet shall provide oversight over contracting policies and
+6 procedures to assure that the number of applicants for contracts is
+7 maximized.
+8 (3) Within twelve (12) months of federal approval of the state's Title XXI child health
+9 plan, the Cabinet for Health and Family Services shall assure that a KCHIP
+10 program is available to all eligible children in all regions of the state. If necessary,
+11 in order to meet this assurance, the cabinet shall institute its own program.
+12 (4) KCHIP recipients shall have direct access without a referral from any gatekeeper
+13 primary care provider to dentists for covered primary dental services and to
+14 optometrists and ophthalmologists for covered primary eye and vision services.
+15 (5) KCHIP shall comply with KRS 304.17A-163 and 304.17A-1631.
+16 (6) The schedule of benefits required under subsection (2)(b)2. of this section shall
+17 include:
+18 (a) Preventive services;
+19 (b) Vision services, including glasses;
+20 (c) Dental services, including sealants, extractions, and fillings; and
+21 (d) The coverage required under:
+22 1. KRS 304.17A-129;[ and]
+23 2. KRS 304.17A-145; and
+24 3. Section 2 of this Act, except subsection (4)(c) of Section 2 of this Act.
+25 Section 7. KRS 18A.225 is amended to read as follows:
+26 (1) (a) The term "employee" for purposes of this section means:
+27 1. Any person, including an elected public official, who is regularly
+Page 14 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 employed by any department, office, board, agency, or branch of state
+2 government; or by a public postsecondary educational institution; or by
+3 any city, urban-county, charter county, county, or consolidated local
+4 government, whose legislative body has opted to participate in the state-
+5 sponsored health insurance program pursuant to KRS 79.080; and who
+6 is either a contributing member to any one (1) of the retirement systems
+7 administered by the state, including but not limited to the Kentucky
+8 Retirement Systems, County Employees Retirement System, Kentucky
+9 Teachers' Retirement System, the Legislators' Retirement Plan, or the
+10 Judicial Retirement Plan; or is receiving a contractual contribution from
+11 the state toward a retirement plan; or, in the case of a public
+12 postsecondary education institution, is an individual participating in an
+13 optional retirement plan authorized by KRS 161.567; or is eligible to
+14 participate in a retirement plan established by an employer who ceases
+15 participating in the Kentucky Employees Retirement System pursuant to
+16 KRS 61.522 whose employees participated in the health insurance plans
+17 administered by the Personnel Cabinet prior to the employer's effective
+18 cessation date in the Kentucky Employees Retirement System;
+19 2. Any certified or classified employee of a local board of education or a
+20 public charter school as defined in KRS 160.1590;
+21 3. Any elected member of a local board of education;
+22 4. Any person who is a present or future recipient of a retirement
+23 allowance from the Kentucky Retirement Systems, County Employees
+24 Retirement System, Kentucky Teachers' Retirement System, the
+25 Legislators' Retirement Plan, the Judicial Retirement Plan, or the
+26 Kentucky Community and Technical College System's optional
+27 retirement plan authorized by KRS 161.567, except that a person who is
+Page 15 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 receiving a retirement allowance and who is age sixty-five (65) or older
+2 shall not be included, with the exception of persons covered under KRS
+3 61.702(2)(b)3. and 78.5536(2)(b)3., unless he or she is actively
+4 employed pursuant to subparagraph 1. of this paragraph; and
+5 5. Any eligible dependents and beneficiaries of participating employees
+6 and retirees who are entitled to participate in the state-sponsored health
+7 insurance program;
+8 (b) The term "health benefit plan" for the purposes of this section means a health
+9 benefit plan as defined in KRS 304.17A-005;
+10 (c) The term "insurer" for the purposes of this section means an insurer as defined
+11 in KRS 304.17A-005; and
+12 (d) The term "managed care plan" for the purposes of this section means a
+13 managed care plan as defined in KRS 304.17A-500.
+14 (2) (a) The secretary of the Finance and Administration Cabinet, upon the
+15 recommendation of the secretary of the Personnel Cabinet, shall procure, in
+16 compliance with the provisions of KRS 45A.080, 45A.085, and 45A.090,
+17 from one (1) or more insurers authorized to do business in this state, a group
+18 health benefit plan that may include but not be limited to health maintenance
+19 organization (HMO), preferred provider organization (PPO), point of service
+20 (POS), and exclusive provider organization (EPO) benefit plans
+21 encompassing all or any class or classes of employees. With the exception of
+22 employers governed by the provisions of KRS Chapters 16, 18A, and 151B,
+23 all employers of any class of employees or former employees shall enter into
+24 a contract with the Personnel Cabinet prior to including that group in the state
+25 health insurance group. The contracts shall include but not be limited to
+26 designating the entity responsible for filing any federal forms, adoption of
+27 policies required for proper plan administration, acceptance of the contractual
+Page 16 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 provisions with health insurance carriers or third-party administrators, and
+2 adoption of the payment and reimbursement methods necessary for efficient
+3 administration of the health insurance program. Health insurance coverage
+4 provided to state employees under this section shall, at a minimum, contain
+5 the same benefits as provided under Kentucky Kare Standard as of January 1,
+6 1994, and shall include a mail-order drug option as provided in subsection
+7 (13) of this section. All employees and other persons for whom the health care
+8 coverage is provided or made available shall annually be given an option to
+9 elect health care coverage through a self-funded plan offered by the
+10 Commonwealth or, if a self-funded plan is not available, from a list of
+11 coverage options determined by the competitive bid process under the
+12 provisions of KRS 45A.080, 45A.085, and 45A.090 and made available
+13 during annual open enrollment.
+14 (b) The policy or policies shall be approved by the commissioner of insurance
+15 and may contain the provisions the commissioner of insurance approves,
+16 whether or not otherwise permitted by the insurance laws.
+17 (c) Any carrier bidding to offer health care coverage to employees shall agree to
+18 provide coverage to all members of the state group, including active
+19 employees and retirees and their eligible covered dependents and
+20 beneficiaries, within the county or counties specified in its bid. Except as
+21 provided in subsection (20) of this section, any carrier bidding to offer health
+22 care coverage to employees shall also agree to rate all employees as a single
+23 entity, except for those retirees whose former employers insure their active
+24 employees outside the state-sponsored health insurance program and as
+25 otherwise provided in KRS 61.702(2)(b)3.b. and 78.5536(2)(b)3.b.
+26 (d) Any carrier bidding to offer health care coverage to employees shall agree to
+27 provide enrollment, claims, and utilization data to the Commonwealth in a
+Page 17 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 format specified by the Personnel Cabinet with the understanding that the data
+2 shall be owned by the Commonwealth; to provide data in an electronic form
+3 and within a time frame specified by the Personnel Cabinet; and to be subject
+4 to penalties for noncompliance with data reporting requirements as specified
+5 by the Personnel Cabinet. The Personnel Cabinet shall take strict precautions
+6 to protect the confidentiality of each individual employee; however,
+7 confidentiality assertions shall not relieve a carrier from the requirement of
+8 providing stipulated data to the Commonwealth.
+9 (e) The Personnel Cabinet shall develop the necessary techniques and capabilities
+10 for timely analysis of data received from carriers and, to the extent possible,
+11 provide in the request-for-proposal specifics relating to data requirements,
+12 electronic reporting, and penalties for noncompliance. The Commonwealth
+13 shall own the enrollment, claims, and utilization data provided by each carrier
+14 and shall develop methods to protect the confidentiality of the individual. The
+15 Personnel Cabinet shall include in the October annual report submitted
+16 pursuant to the provisions of KRS 18A.226 to the Governor, the General
+17 Assembly, and the Chief Justice of the Supreme Court, an analysis of the
+18 financial stability of the program, which shall include but not be limited to
+19 loss ratios, methods of risk adjustment, measurements of carrier quality of
+20 service, prescription coverage and cost management, and statutorily required
+21 mandates. If state self-insurance was available as a carrier option, the report
+22 also shall provide a detailed financial analysis of the self-insurance fund
+23 including but not limited to loss ratios, reserves, and reinsurance agreements.
+24 (f) If any agency participating in the state-sponsored employee health insurance
+25 program for its active employees terminates participation and there is a state
+26 appropriation for the employer's contribution for active employees' health
+27 insurance coverage, then neither the agency nor the employees shall receive
+Page 18 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 the state-funded contribution after termination from the state-sponsored
+2 employee health insurance program.
+3 (g) Any funds in flexible spending accounts that remain after all reimbursements
+4 have been processed shall be transferred to the credit of the state-sponsored
+5 health insurance plan's appropriation account.
+6 (h) Each entity participating in the state-sponsored health insurance program shall
+7 provide an amount at least equal to the state contribution rate for the employer
+8 portion of the health insurance premium. For any participating entity that used
+9 the state payroll system, the employer contribution amount shall be equal to
+10 but not greater than the state contribution rate.
+11 (3) The premiums may be paid by the policyholder:
+12 (a) Wholly from funds contributed by the employee, by payroll deduction or
+13 otherwise;
+14 (b) Wholly from funds contributed by any department, board, agency, public
+15 postsecondary education institution, or branch of state, city, urban-county,
+16 charter county, county, or consolidated local government; or
+17 (c) Partly from each, except that any premium due for health care coverage or
+18 dental coverage, if any, in excess of the premium amount contributed by any
+19 department, board, agency, postsecondary education institution, or branch of
+20 state, city, urban-county, charter county, county, or consolidated local
+21 government for any other health care coverage shall be paid by the employee.
+22 (4) If an employee moves his or her place of residence or employment out of the
+23 service area of an insurer offering a managed health care plan, under which he or
+24 she has elected coverage, into either the service area of another managed health care
+25 plan or into an area of the Commonwealth not within a managed health care plan
+26 service area, the employee shall be given an option, at the time of the move or
+27 transfer, to change his or her coverage to another health benefit plan.
+Page 19 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (5) No payment of premium by any department, board, agency, public postsecondary
+2 educational institution, or branch of state, city, urban-county, charter county,
+3 county, or consolidated local government shall constitute compensation to an
+4 insured employee for the purposes of any statute fixing or limiting the
+5 compensation of such an employee. Any premium or other expense incurred by any
+6 department, board, agency, public postsecondary educational institution, or branch
+7 of state, city, urban-county, charter county, county, or consolidated local
+8 government shall be considered a proper cost of administration.
+9 (6) The policy or policies may contain the provisions with respect to the class or classes
+10 of employees covered, amounts of insurance or coverage for designated classes or
+11 groups of employees, policy options, terms of eligibility, and continuation of
+12 insurance or coverage after retirement.
+13 (7) Group rates under this section shall be made available to the disabled child of an
+14 employee regardless of the child's age if the entire premium for the disabled child's
+15 coverage is paid by the state employee. A child shall be considered disabled if he or
+16 she has been determined to be eligible for federal Social Security disability benefits.
+17 (8) The health care contract or contracts for employees shall be entered into for a
+18 period of not less than one (1) year.
+19 (9) The secretary shall appoint thirty-two (32) persons to an Advisory Committee of
+20 State Health Insurance Subscribers to advise the secretary or the secretary's
+21 designee regarding the state-sponsored health insurance program for employees.
+22 The secretary shall appoint, from a list of names submitted by appointing
+23 authorities, members representing school districts from each of the seven (7)
+24 Supreme Court districts, members representing state government from each of the
+25 seven (7) Supreme Court districts, two (2) members representing retirees under age
+26 sixty-five (65), one (1) member representing local health departments, two (2)
+27 members representing the Kentucky Teachers' Retirement System, and three (3)
+Page 20 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 members at large. The secretary shall also appoint two (2) members from a list of
+2 five (5) names submitted by the Kentucky Education Association, two (2) members
+3 from a list of five (5) names submitted by the largest state employee organization of
+4 nonschool state employees, two (2) members from a list of five (5) names submitted
+5 by the Kentucky Association of Counties, two (2) members from a list of five (5)
+6 names submitted by the Kentucky League of Cities, and two (2) members from a
+7 list of names consisting of five (5) names submitted by each state employee
+8 organization that has two thousand (2,000) or more members on state payroll
+9 deduction. The advisory committee shall be appointed in January of each year and
+10 shall meet quarterly.
+11 (10) Notwithstanding any other provision of law to the contrary, the policy or policies
+12 provided to employees pursuant to this section shall not provide coverage for
+13 obtaining or performing an abortion, nor shall any state funds be used for the
+14 purpose of obtaining or performing an abortion on behalf of employees or their
+15 dependents.
+16 (11) Interruption of an established treatment regime with maintenance drugs shall be
+17 grounds for an insured to appeal a formulary change through the established appeal
+18 procedures approved by the Department of Insurance, if the physician supervising
+19 the treatment certifies that the change is not in the best interests of the patient.
+20 (12) Any employee who is eligible for and elects to participate in the state health
+21 insurance program as a retiree, or the spouse or beneficiary of a retiree, under any
+22 one (1) of the state-sponsored retirement systems shall not be eligible to receive the
+23 state health insurance contribution toward health care coverage as a result of any
+24 other employment for which there is a public employer contribution. This does not
+25 preclude a retiree and an active employee spouse from using both contributions to
+26 the extent needed for purchase of one (1) state sponsored health insurance policy
+27 for that plan year.
+Page 21 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (13) (a) The policies of health insurance coverage procured under subsection (2) of
+2 this section shall include a mail-order drug option for maintenance drugs for
+3 state employees. Maintenance drugs may be dispensed by mail order in
+4 accordance with Kentucky law.
+5 (b) A health insurer shall not discriminate against any retail pharmacy located
+6 within the geographic coverage area of the health benefit plan and that meets
+7 the terms and conditions for participation established by the insurer, including
+8 price, dispensing fee, and copay requirements of a mail-order option. The
+9 retail pharmacy shall not be required to dispense by mail.
+10 (c) The mail-order option shall not permit the dispensing of a controlled
+11 substance classified in Schedule II.
+12 (14) The policy or policies provided to state employees or their dependents pursuant to
+13 this section shall provide coverage for obtaining a hearing aid and acquiring hearing
+14 aid-related services for insured individuals under eighteen (18) years of age, subject
+15 to a cap of one thousand four hundred dollars ($1,400) every thirty-six (36) months
+16 pursuant to KRS 304.17A-132.
+17 (15) Any policy provided to state employees or their dependents pursuant to this section
+18 shall provide coverage for the diagnosis and treatment of autism spectrum disorders
+19 consistent with KRS 304.17A-142.
+20 (16) Any policy provided to state employees or their dependents pursuant to this section
+21 shall provide coverage for obtaining amino acid-based elemental formula pursuant
+22 to KRS 304.17A-258.
+23 (17) If a state employee's residence and place of employment are in the same county,
+24 and if the hospital located within that county does not offer surgical services,
+25 intensive care services, obstetrical services, level II neonatal services, diagnostic
+26 cardiac catheterization services, and magnetic resonance imaging services, the
+27 employee may select a plan available in a contiguous county that does provide
+Page 22 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 those services, and the state contribution for the plan shall be the amount available
+2 in the county where the plan selected is located.
+3 (18) If a state employee's residence and place of employment are each located in
+4 counties in which the hospitals do not offer surgical services, intensive care
+5 services, obstetrical services, level II neonatal services, diagnostic cardiac
+6 catheterization services, and magnetic resonance imaging services, the employee
+7 may select a plan available in a county contiguous to the county of residence that
+8 does provide those services, and the state contribution for the plan shall be the
+9 amount available in the county where the plan selected is located.
+10 (19) The Personnel Cabinet is encouraged to study whether it is fair and reasonable and
+11 in the best interests of the state group to allow any carrier bidding to offer health
+12 care coverage under this section to submit bids that may vary county by county or
+13 by larger geographic areas.
+14 (20) Notwithstanding any other provision of this section, the bid for proposals for health
+15 insurance coverage for calendar year 2004 shall include a bid scenario that reflects
+16 the statewide rating structure provided in calendar year 2003 and a bid scenario that
+17 allows for a regional rating structure that allows carriers to submit bids that may
+18 vary by region for a given product offering as described in this subsection:
+19 (a) The regional rating bid scenario shall not include a request for bid on a
+20 statewide option;
+21 (b) The Personnel Cabinet shall divide the state into geographical regions which
+22 shall be the same as the partnership regions designated by the Department for
+23 Medicaid Services for purposes of the Kentucky Health Care Partnership
+24 Program established pursuant to 907 KAR 1:705;
+25 (c) The request for proposal shall require a carrier's bid to include every county
+26 within the region or regions for which the bid is submitted and include but not
+27 be restricted to a preferred provider organization (PPO) option;
+Page 23 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (d) If the Personnel Cabinet accepts a carrier's bid, the cabinet shall award the
+2 carrier all of the counties included in its bid within the region. If the Personnel
+3 Cabinet deems the bids submitted in accordance with this subsection to be in
+4 the best interests of state employees in a region, the cabinet may award the
+5 contract for that region to no more than two (2) carriers; and
+6 (e) Nothing in this subsection shall prohibit the Personnel Cabinet from including
+7 other requirements or criteria in the request for proposal.
+8 (21) Any fully insured health benefit plan or self-insured plan issued or renewed on or
+9 after July 12, 2006, to public employees pursuant to this section which provides
+10 coverage for services rendered by a physician or osteopath duly licensed under KRS
+11 Chapter 311 that are within the scope of practice of an optometrist duly licensed
+12 under the provisions of KRS Chapter 320 shall provide the same payment of
+13 coverage to optometrists as allowed for those services rendered by physicians or
+14 osteopaths.
+15 (22) Any fully insured health benefit plan or self-insured plan issued or renewed to
+16 public employees pursuant to this section shall comply with:
+17 (a) KRS 304.12-237;
+18 (b) KRS 304.17A-270 and 304.17A-525;
+19 (c) KRS 304.17A-600 to 304.17A-633;
+20 (d) KRS 205.593;
+21 (e) KRS 304.17A-700 to 304.17A-730;
+22 (f) KRS 304.14-135;
+23 (g) KRS 304.17A-580 and 304.17A-641;
+24 (h) KRS 304.99-123;
+25 (i) KRS 304.17A-138;
+26 (j) KRS 304.17A-148;
+27 (k) KRS 304.17A-163 and 304.17A-1631;
+Page 24 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (l) KRS 304.17A-265;
+2 (m) KRS 304.17A-261;
+3 (n) KRS 304.17A-262;
+4 (o) KRS 304.17A-145;
+5 (p) KRS 304.17A-129;
+6 (q) KRS 304.17A-133;
+7 (r) KRS 304.17A-264;[ and]
+8 (s) Section 2 of this Act; and
+9 (t) Administrative regulations promulgated pursuant to statutes listed in this
+10 subsection.
+11 (23) (a) Any fully insured health benefit plan or self-insured plan issued or renewed to
+12 public employees pursuant to this section shall provide a special enrollment
+13 period to pregnant women who are eligible for coverage in accordance with
+14 the requirements set forth in KRS 304.17-182.
+15 (b) The Department of Employee Insurance shall, at or before the time a public
+16 employee is initially offered the opportunity to enroll in the plan or coverage,
+17 provide the employee a notice of the special enrollment rights under this
+18 subsection.
+19 Section 8. KRS 446.350 is amended to read as follows:
+20 (1) Government shall not substantially burden a person's freedom of religion. The right
+21 to act or refuse to act in a manner motivated by a sincerely held religious belief may
+22 not be substantially burdened unless the government proves by clear and
+23 convincing evidence that it has a compelling governmental interest in infringing the
+24 specific act or refusal to act and has used the least restrictive means to further that
+25 interest. A "burden" shall include indirect burdens such as withholding benefits,
+26 assessing penalties, or an exclusion from programs or access to facilities.
+27 (2) Nothing in Section 1, 2, or 9 of this Act shall be construed to be in violation of
+Page 25 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 this section.
+2 SECTION 9. A NEW SECTION OF KRS CHAPTER 205 IS CREATED TO
+3 READ AS FOLLOWS:
+4 (1) As used in this section:
+5 (a) "Family planning services":
+6 1. Means family planning services that are provided under the Medicaid
+7 program;
+8 2. Includes:
+9 a. Sexual health education and family planning counseling; and
+10 b. Other medical diagnosis, treatment, or preventive care routinely
+11 provided as part of a family planning service visit; and
+12 3. Does not include an elective abortion, as defined in KRS 304.5-160;
+13 and
+14 (b) "Low-income individual" means an individual who:
+15 1. Has an income level that is equal to or below ninety-five percent
+16 (95%) of the federal poverty level; and
+17 2. Does not qualify for full coverage under the Medicaid program.
+18 (2) Within ninety (90) days of the effective date of this section, the Cabinet for Health
+19 and Family Services shall apply for a waiver or a state plan amendment with the
+20 Centers for Medicare and Medicaid Services within the United States Department
+21 of Health and Human Services to:
+22 (a) Offer a program that provides family planning services to low-income
+23 individuals; and
+24 (b) Receive a federal match rate of ninety percent (90%) of state expenditures
+25 for family planning services provided under the waiver or state plan
+26 amendment.
+27 (3) If the waiver or state plan amendment described in subsection (2) of this section
+Page 26 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 is approved, the Cabinet for Health and Family Services shall report to the
+2 Legislative Research Commission, while the waiver or state plan amendment is in
+3 effect, annually before November 30, the following:
+4 (a) The number of qualified individuals served under the program;
+5 (b) The cost of the program; and
+6 (c) The effectiveness of the program, including any:
+7 1. Savings to the Medicaid program from reduction in enrollment;
+8 2. Reduction in the number of abortions;
+9 3. Reduction in the number of unintended pregnancies;
+10 4. Reduction in the number of individuals requiring services from the
+11 program for women, infants, and children established in 42 U.S.C.
+12 sec. 1786; and
+13 5. Other costs and benefits as a result of the program.
+14 SECTION 10. A NEW SECTION OF KRS CHAPTER 315 IS CREATED TO
+15 READ AS FOLLOWS:
+16 (1) As used in this section, "hormonal contraceptive" means a self-administered
+17 drug, or a transdermal patch applied to the skin of a patient by the patient or by a
+18 practitioner, that releases a drug composed of a combination of hormones
+19 approved by the United States Food and Drug Administration to prevent
+20 pregnancy.
+21 (2) A pharmacist, acting in good faith, is authorized to provide hormonal
+22 contraceptives according to a valid collaborative care agreement containing a
+23 nonpatient-specific prescriptive order and standardized procedures developed and
+24 executed by one (1) or more authorized prescribers.
+25 (3) The board, in collaboration with the Kentucky Board of Medical Licensure, shall
+26 promulgate administrative regulations in accordance with KRS Chapter 13A to
+27 establish standard procedures for the provision of hormonal contraceptives by
+Page 27 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 pharmacists. The standard procedures adopted pursuant to this section shall
+2 require a pharmacist to:
+3 (a) Complete a training program approved by the Cabinet for Health and
+4 Family Services related to the provision of hormonal contraceptives;
+5 (b) Provide the patient with a self-screening risk assessment tool developed or
+6 approved by the Cabinet for Health and Family Services;
+7 (c) Provide the patient with documentation about the hormonal contraceptive
+8 that was provided to the patient and advise the patient to consult with a
+9 primary care practitioner or women's healthcare practitioner;
+10 (d) Provide the patient with a standardized factsheet that includes but is not
+11 limited to the indications and contraindications for use of the drug,
+12 appropriate method for using the drug, importance of a medical follow-up,
+13 and other appropriate information;
+14 (e) Provide the patient with the contact information of a primary care
+15 practitioner or women's healthcare practitioner within a reasonable period
+16 of time after provision of the hormonal contraceptive; and
+17 (f) Either dispense the hormonal contraceptive or refer the patient to a
+18 pharmacy that may dispense the hormonal contraceptive as soon as
+19 practicable after the pharmacist determines that the patient should receive
+20 the medication.
+21 (4) The administrative regulations promulgated under this section shall prohibit a
+22 pharmacist from requiring a patient to schedule an appointment with the
+23 pharmacist for the provision or dispensing of a hormonal contraceptive.
+24 (5) (a) A pharmacist or the pharmacist's employer or agent may charge the annual
+25 administrative fee for services provided pursuant to this section in addition
+26 to any costs associated with the dispensing of the drug and paid by the
+27 pharmacy insurance benefit.
+Page 28 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (b) Upon an oral, telephonic, electronic, or written request from a patient or
+2 customer, a pharmacist or pharmacist's employee shall disclose the total
+3 cost that a consumer would pay for pharmacist-provided hormonal
+4 contraceptives. As used in this paragraph, "total cost" includes providing
+5 the consumer with specific information regarding the price of the hormonal
+6 contraceptive and the price of the administrative fee charged. This
+7 limitation is not intended to interfere with other contractually agreed-upon
+8 terms between a pharmacist or a pharmacist's employer or agent and a
+9 health insurance plan or insurer. Patients who are insured or covered and
+10 receive a pharmacy benefit that covers the cost of hormonal contraceptives
+11 shall not be required to pay an administrative fee but may be required to pay
+12 copayments pursuant to the terms and conditions of their coverage.
+13 (6) All state and federal laws governing insurance coverage of contraceptive drugs,
+14 devices, products, and services shall apply to hormonal contraceptives provided by
+15 a pharmacist under this section.
+16 (7) The board and the Kentucky Board of Medical Licensure shall ensure
+17 compliance with this section, and each board is specifically charged with the
+18 enforcement of this section with respect to its respective licensees.
+19 (8) Any pharmacist or prescriber acting in good faith and with reasonable care
+20 involved in the provision of hormonal contraceptives pursuant to this section
+21 shall be immune from disciplinary or adverse administrative actions under this
+22 chapter for acts or omissions related to the provision of a hormonal
+23 contraceptive.
+24 (9) A pharmacist or prescriber involved in the provision of hormonal contraceptives
+25 pursuant to this section shall be immune from civil liability unless the injury
+26 results from the gross negligence or willful misconduct of the pharmacist or
+27 provider.
+Page 29 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (10) This section shall not apply to a valid patient-specific prescription for a hormonal
+2 contraceptive issued by an authorized prescriber and dispensed by a pharmacist
+3 pursuant to the valid prescription.
+4 Section 11. Sections 2, 4, and 7 of this Act apply to health benefit plans issued,
+5 renewed, amended, effective, or delivered on or after January 1, 2027.
+6 Section 12. Sections 2, 3, 4, 5, 6, and 7 of this Act take effect January 1, 2027.
+7 Section 13. (1) For purposes of 45 C.F.R. sec. 156.115, the benefits required
+8 under Section 2 of this Act are intended to be, and shall be considered, substantially equal
+9 to the benefits required under the state's EHB-benchmark plan.
+10 (2) For purposes of 45 C.F.R. sec. 155.170, the benefits required under Section 2
+11 of this Act are intended to be, and shall be considered by the state as, a benefit required
+12 by State action "for purposes of compliance with Federal requirements," and thus, the
+13 state shall not consider or identify the benefits required under Section 2 of this Act as
+14 being in addition to the essential health benefits required under federal law.
+15 (3) The "Federal requirements" referred to in subsection (2) of this section
+16 include the requirement to provide coverage for preventive health services under 42
+17 U.S.C. sec. 300gg-13.
+18 (4) The commissioner of insurance and any other state official or state agency
+19 shall:
+20 (a) Comply with the requirements of this section; and
+21 (b) Not take any action that is in violation of or in conflict with this section.
+22 Section 14. Notwithstanding KRS 194A.099:
+23 (1) Within 90 days of the effective date of this section and subject to Section 13
+24 of this Act, the Department of Insurance shall identify, in accordance with 45 C.F.R. sec.
+25 155.170(a)(3), whether the application of any requirement of Section 2 of this Act to a
+26 qualified health plan (QHP) is in addition to the essential health benefits required under
+27 federal law.
+Page 30 of 31
+XXXX 2/2/2026 4:52 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2019
+1 (2) If it is determined that the application of any requirement of Section 2 of this
+2 Act to a QHP is in addition to the essential health benefits required under federal law,
+3 then the department shall, within 180 days of the effective date of this section, apply for a
+4 waiver under 42 U.S.C. sec. 18052, as amended, or any other applicable federal law of all
+5 or any of the cost defrayal requirements under 42 U.S.C. sec. 18031(d)(3) and 45 C.F.R.
+6 sec. 155.170, as amended.
+7 (3) The application required under subsection (2) of this section:
+8 (a) Shall comply with the requirements of federal law for obtaining a waiver; and
+9 (b) May propose changes to the state's EHB-benchmark plan, as defined in 45
+10 C.F.R. sec. 156.20, that are not in conflict with existing state law.
+11 Section 15. If the Cabinet for Health and Family Services or the Department for
+12 Medicaid Services determines that a state plan amendment, waiver, or any other form of
+13 authorization or approval from any federal agency to implement Section 5, 6, or 9 of this
+14 Act is necessary to prevent the loss of federal funds or to comply with federal law, the
+15 cabinet or department:
+16 (1) Shall, within 90 days after the effective date of this section, request the
+17 necessary federal authorization or approval to implement Sections 5, 6, and 9 of this Act;
+18 and
+19 (2) May only delay implementation of the provisions of Sections 5, 6, and 9 of
+20 this Act for which federal authorization or approval was deemed necessary until the
+21 federal authorization or approval is granted.
+22 Section 16. Sections 5, 6, 9, and 15 of this Act shall constitute the specific
+23 authorization required under KRS 205.5372(1).
+Page 31 of 31
+XXXX 2/2/2026 4:52 PM Jacketed

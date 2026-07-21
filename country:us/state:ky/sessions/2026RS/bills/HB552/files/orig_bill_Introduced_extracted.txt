@@ -1,0 +1,393 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 AN ACT relating to environmental protection.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 224.1-010 is amended to read as follows:
+4 As used in this chapter unless the context clearly indicates otherwise:
+5 (1) "Air contaminant" includes smoke, dust, soot, grime, carbon, or any other
+6 particulate matter, radioactive matter, noxious acids, fumes, gases, odor, vapor, or
+7 any combination thereof;
+8 (2) "Air contaminant source" means any and all sources of emission of air
+9 contaminants, whether privately or publicly owned or operated. Without limiting
+10 the generality of the foregoing, this term includes all types of business, commercial
+11 and industrial plants, works, shops, and stores, and heating and power plants and
+12 stations, buildings and other structures of all types, including single and multiple
+13 family residences, apartments, houses, office buildings, public buildings, hotels,
+14 restaurants, schools, hospitals, churches, and other institutional buildings,
+15 automobiles, trucks, tractors, buses and other motor vehicles, garages and vending
+16 and service locations and stations, railroad locomotives, ships, boats and other
+17 waterborne craft, portable fuel-burning equipment, incinerators of all types (indoor
+18 and outdoor), refuse dumps and piles, and all stack and other chimney outlets from
+19 any of the foregoing;
+20 (3) "Air pollution" means the presence in the outdoor atmosphere of one (1) or more air
+21 contaminants in sufficient quantities and of such characteristics and duration as is or
+22 threatens to be injurious to human, plant, or animal life, or to property, or which
+23 unreasonably interferes with the comfortable enjoyment of life or property;
+24 (4) "Closure" means the time at which a waste treatment, storage, or disposal facility
+25 permanently ceases to accept wastes, and includes those actions taken by the owner
+26 or operator of the facility to prepare the site for post-closure monitoring and
+27 maintenance or to make it suitable for other uses;
+Page 1 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 (5) "Compost" means solid waste which has undergone biological decomposition of
+2 organic matter, been disinfected using composting or similar technologies, been
+3 stabilized to a degree which is potentially beneficial to plant growth and which is
+4 approved for use or sale as a soil amendment, artificial topsoil, growing medium
+5 amendment, or other similar uses;
+6 (6) "Composting" means the process by which biological decomposition of organic
+7 solid waste is carried out under controlled aerobic conditions, and which stabilizes
+8 the organic fraction into a material which can easily and safely be stored, handled,
+9 and used in an environmentally acceptable manner:
+10 (a) "Composting" may include a process which creates an anaerobic zone within
+11 the composting material;
+12 (b) "Composting" does not include simple exposure of solid waste under
+13 uncontrolled conditions resulting in natural decay;
+14 (7) "Demonstration" means the initial exhibition of a new technology, process or
+15 practice or a significantly new combination or use of technologies, processes or
+16 practices, subsequent to the development stage, for the purpose of proving
+17 technological feasibility and cost effectiveness;
+18 (8) "Cabinet" means the Energy and Environment Cabinet;
+19 (9) "Disposal" means the discharge, deposit, injection, dumping, spilling, leaking, or
+20 placing of any waste into or on any land or water so that such waste or any
+21 constituent thereof may enter the environment or be emitted into the air or
+22 discharged into any waters, including ground waters;
+23 (10) "District" means an air pollution control district as provided for in KRS Chapter 77;
+24 (11) "Effluent limitations" means any restrictions or prohibitions established under state
+25 law which include, but are not limited to, effluent limitations, standards of
+26 performance for new sources, and toxic effluent standards on quantities, rates, and
+27 concentrations of chemical, physical, biological, and other constituents which are
+Page 2 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 discharged into waters;
+2 (12) "Generator" means any person, by site, whose act or process produces waste;
+3 (13) "Materials recovery facility" means a solid waste management facility that provides
+4 for the extraction from solid waste of recyclable materials, materials suitable for use
+5 as a fuel or soil amendment, or any combination of those materials;
+6 (14) "Municipal solid waste disposal facility" means any type of waste site or facility
+7 where the final deposition of any amount of municipal solid waste occurs, whether
+8 or not mixed with or including other waste allowed under Subtitle D of the Federal
+9 Resource Conservation and Recovery Act of 1976, as amended, and includes but is
+10 not limited to incinerators and waste-to-energy facilities that burn municipal solid
+11 waste and contained and residential landfills, but does not include an advanced
+12 recycling facility or a waste site or facility which is operated exclusively by a solid
+13 waste generator on property owned by the solid waste generator which accepts only
+14 industrial solid waste from the solid waste generator or industrial solid waste
+15 generated at another facility owned and operated by the generator or wholly-owned
+16 subsidiary, or a medical waste incinerator which is owned, operated, and located on
+17 the property of a hospital or university which is regulated by the cabinet and used
+18 for the purpose of treatment, prior to landfill, of medical waste received from the
+19 generator exclusively or in combination with medical waste generated by
+20 professionals or facilities licensed or regulated or operated by the Commonwealth;
+21 (15) "Municipal solid waste reduction" means source reduction, waste minimization,
+22 reuse, recycling, composting, and materials recovery;
+23 (16) "Person" means an individual, trust, firm, joint stock company, corporation
+24 (including a government corporation), partnership, association, federal agency, state
+25 agency, city, commission, political subdivision of the Commonwealth, or any
+26 interstate body;
+27 (17) "Post-closure monitoring and maintenance" means the routine care, maintenance,
+Page 3 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 and monitoring of a solid waste or hazardous waste treatment, storage, or disposal
+2 facility following closure of the facility;
+3 (18) "Publicly owned treatment works" means any device or system used in the
+4 treatment (including recycling and recovery) of municipal sewage or industrial
+5 wastes of a liquid nature which is owned by the Commonwealth or a political
+6 subdivision of the Commonwealth;
+7 (19) "Recovered material" means those materials, including but not limited to compost,
+8 which have known current use, reuse, or recycling potential, which can be feasibly
+9 used, reused, or recycled, and which have been diverted or removed from the solid
+10 waste stream for sale, use, reuse, or recycling, whether or not requiring subsequent
+11 separation and processing, but does not include materials diverted or removed for
+12 purposes of energy recovery or combustion except refuse-derived fuel (RDF),
+13 which shall be credited as a recovered material in an amount equal to that
+14 percentage of the municipal solid waste received on a daily basis at the processing
+15 facility and processed into RDF; but not to exceed fifteen percent (15%) of the total
+16 amount of the municipal solid waste received at the processing facility on a daily
+17 basis. Notwithstanding any provision of law to the contrary, tire-derived fuel, as
+18 defined in subsection (53) of this section, shall be considered a recovered material;
+19 (20) "Recovered material processing facility" means a facility engaged solely in the
+20 storage, processing, and resale or reuse of recovered material, but does not mean a
+21 solid waste management facility if solid waste generated by a recovered material
+22 processing facility is managed pursuant to this chapter and administrative
+23 regulations adopted by the cabinet;
+24 (21) "Recycling" means any process by which materials which would otherwise become
+25 solid waste are collected, separated, or processed and reused or returned to use in
+26 the form of raw materials or products, including refuse-derived fuel when processed
+27 in accordance with administrative regulations established by the cabinet, but does
+Page 4 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 not include the incineration or combustion of materials for the recovery of energy;
+2 (22) "Refuse-derived fuel" means a sized, processed fuel product derived from the
+3 extensive separation of municipal solid waste, which includes the extraction of
+4 recoverable materials for recycling and the removal of nonprocessables such as dirt
+5 and gravel prior to processing the balance of the municipal solid waste into the
+6 refuse-derived fuel product;
+7 (23) "Secretary" means the secretary of the Energy and Environment Cabinet;
+8 (24) "Sewage system" means individually or collectively those constructions or devices
+9 used for collecting, pumping, treating, and disposing of liquid or waterborne
+10 sewage, industrial wastes, or other wastes;
+11 (25) "Termination" means the final actions taken by the cabinet as to a solid waste or
+12 hazardous waste treatment, storage, or disposal facility when formal responsibilities
+13 for post-closure monitoring and maintenance cease;
+14 (26) "Waste site or facility" means any place where waste is managed, processed, or
+15 disposed of by incineration, landfilling, or any other method, but does not include a
+16 container located on property where solid waste is generated and which is used
+17 solely for the purpose of collection and temporary storage of that solid waste prior
+18 to off-site disposal, or a recovered material processing facility, or an advanced
+19 recycling facility, or the combustion of processed waste in a utility boiler;
+20 (27) "Storage" means the containment of wastes, either on a temporary basis or for a
+21 period of years, in such a manner as not to constitute disposal of such wastes;
+22 (28) "Transportation" means any off-site movement of waste by any mode, and any
+23 loading, unloading, or storage incidental thereto;
+24 (29) "Treatment" means any method, technique, or process, including neutralization,
+25 designed to change the physical, chemical, or biological character or composition of
+26 any waste so as to neutralize such waste or so as to render such waste
+27 nonhazardous, safer for transport, amenable for recovery, amenable for storage, or
+Page 5 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 reduced in volume. Such term includes any activity or processing designed to
+2 change the physical form or chemical composition of hazardous waste so as to
+3 render it nonhazardous;
+4 (30) "Waste" means:
+5 (a) "Solid waste" means any garbage, refuse, sludge, and other discarded
+6 material, including solid, liquid, semi-solid, or contained gaseous material
+7 resulting from industrial, commercial, mining (excluding coal mining wastes,
+8 coal mining by-products, refuse, and overburden), agricultural operations, and
+9 from community activities, but does not include those materials including, but
+10 not limited to, sand, soil, rock, gravel, or bridge debris extracted as part of a
+11 public road construction project funded wholly or in part with state funds,
+12 recovered material, post-use polymers or recovered feedstocks, tire-derived
+13 fuel, special wastes as designated by KRS 224.50-760, solid or dissolved
+14 material in domestic sewage, manure, crops, crop residue, or a combination
+15 thereof which are placed on the soil for return to the soil as fertilizers or soil
+16 conditioners, or solid or dissolved material in irrigation return flows or
+17 industrial discharges which are point sources subject to permits under Section
+18 402 of the Federal Water Pollution Control Act, as amended (86 Stat. 880), or
+19 source, special nuclear, or by-product material as defined by the Atomic
+20 Energy Act of 1954, as amended (68 Stat. 923):
+21 1. "Household solid waste" means solid waste, including garbage and trash
+22 generated by single and multiple family residences, hotels, motels,
+23 bunkhouses, ranger stations, crew quarters, and recreational areas such
+24 as picnic areas, parks, and campgrounds, but it does not include tire-
+25 derived fuel;
+26 2. "Commercial solid waste" means all types of solid waste generated by
+27 stores, offices, restaurants, warehouses, and other service and
+Page 6 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 nonmanufacturing activities, excluding tire-derived fuel and household
+2 and industrial solid waste;
+3 3. "Industrial solid waste" means solid waste generated by manufacturing
+4 or industrial processes that is not a hazardous waste or a special waste as
+5 designated by KRS 224.50-760, including but not limited to waste
+6 resulting from the following manufacturing processes: electric power
+7 generation; fertilizer or agricultural chemicals; food and related products
+8 or by-products; inorganic chemicals; iron and steel manufacturing;
+9 leather and leather products; nonferrous metals
+10 manufacturing/foundries; organic chemicals; plastics and resins
+11 manufacturing; pulp and paper industry; rubber and miscellaneous
+12 plastic products, except tire-derived fuel; stone, glass, clay, and concrete
+13 products; textile manufacturing; transportation equipment; and water
+14 treatment; and
+15 4. "Municipal solid waste" means household solid waste and commercial
+16 solid waste; and
+17 (b) "Hazardous waste" means any discarded material or material intended to be
+18 discarded or substance or combination of such substances intended to be
+19 discarded, in any form which because of its quantity, concentration or
+20 physical, chemical or infectious characteristics may cause, or significantly
+21 contribute to an increase in mortality or an increase in serious irreversible, or
+22 incapacitating reversible, illness or pose a substantial present or potential
+23 hazard to human health or the environment when improperly treated, stored,
+24 transported, or disposed of, or otherwise managed;
+25 (31) "Waste management district" means any county or group of counties electing to
+26 form under the provisions of KRS Chapter 109 and operate in conformance with the
+27 provisions of KRS Chapter 109 and with Section 4006, Resource Conservation and
+Page 7 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 Recovery Act of 1976, as amended (Public Law 94-580);
+2 (32) "Water" or "waters of the Commonwealth" means and includes any and all rivers,
+3 streams, creeks, lakes, ponds, impounding reservoirs, springs, wells, marshes, and
+4 all other bodies of surface or underground water, natural or artificial,[:
+5 (a) Navigable waters, as defined in 33 U.S.C. sec. 1362;
+6 (b) Sinkholes with open throat drains;
+7 (c) Naturally occurring artesian or phreatic springs, as well as any other spring used as
+8 a source of domestic water supply; and
+9 (d) Wellhead protection areas;
+10 ] that are situated wholly or partly within or bordering upon the Commonwealth or
+11 within its jurisdiction;
+12 (33) "Water pollution" means the alteration of the physical, thermal, chemical,
+13 biological, or radioactive properties of the waters of the Commonwealth in such a
+14 manner, condition, or quantity that will be detrimental to the public health or
+15 welfare, to animal or aquatic life or marine life, to the use of such waters as present
+16 or future sources of public water supply or to the use of such waters for
+17 recreational, commercial, industrial, agricultural, or other legitimate purposes;
+18 (34) "Pollutant" means and includes dredged spoil, solid waste, incinerator residue,
+19 sewage, sewage sludge, garbage, chemical, biological or radioactive materials, heat,
+20 wrecked or discarded equipment, rock, sand, soil, industrial, municipal or
+21 agricultural waste, and any substance resulting from the development, processing,
+22 or recovery of any natural resource which may be discharged into water;
+23 (35) "NPDES" means National Pollutant Discharge Elimination System;
+24 (36) "Manifest" means the form used for identifying the quantity, composition, and the
+25 origin, routing, and destination of waste during its transportation from the point of
+26 generation to the point of disposal, treatment, or storage;
+27 (37) "Open dump" means any facility or site for the disposal of solid waste which does
+Page 8 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 not have a valid permit issued by the cabinet or does not meet the environmental
+2 performance standards established under regulations promulgated by the cabinet;
+3 (38) "Solid waste management" means the administration of solid waste activities:
+4 collection, storage, transportation, transfer, processing, treatment, and disposal,
+5 which shall be in accordance with a cabinet-approved county or multicounty solid
+6 waste management plan;
+7 (39) "Solid waste management area" or "area" means any geographical area established
+8 or designated by the cabinet in accordance with the provisions of this chapter;
+9 (40) "Solid waste management facility" means any facility for collection, storage,
+10 transportation, transfer, processing, treatment, or disposal of solid waste, whether
+11 such facility is associated with facilities generating such wastes or otherwise, but
+12 does not include a container located on property where solid waste is generated and
+13 which is used solely for the purpose of collection and temporary storage of that
+14 solid waste prior to off-site disposal, or a recovered material processing facility or
+15 advanced recycling facility, both of which are otherwise subject to regulation
+16 pursuant to this chapter for control of environmental impacts and to prevent any
+17 public nuisance;
+18 (41) "Hazardous constituent" shall conform to the requirements of the Resource
+19 Conservation and Recovery Act (RCRA), as amended;
+20 (42) "Land disposal" includes but is not limited to any placement of hazardous waste in
+21 a landfill, surface impoundment, waste pile, injection well, land treatment facility,
+22 salt dome formation, salt bed formation, or underground mine or cave;
+23 (43) "Key personnel" means an officer, partner, director, manager, or shareholder of five
+24 percent (5%) or more of stock or financial interest in a corporation, partnership, or
+25 association or parent, subsidiary, or affiliate corporation and its officers, directors,
+26 or shareholders of five percent (5%) or more of stock or financial interest;
+27 (44) "Universal collection" means a municipal solid waste collection system which is
+Page 9 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 established by ordinance and approved by the cabinet and requires access for each
+2 household or solid waste generator in a county. A commercial or industrial entity
+3 which transports or contracts for the transport of the municipal solid waste it
+4 generates or which operates a solid waste management facility for its exclusive use
+5 may be excluded from participation;
+6 (45) "Governing body" means a county, a waste management district, an entity created
+7 pursuant to the Interlocal Cooperation Act, a taxing district created pursuant to the
+8 provisions of KRS 65.180 to 65.192, a special district created pursuant to the
+9 provisions of KRS 65.160 to 65.176, or counties acting under contract pursuant to
+10 KRS 109.082;
+11 (46) "Convenience center" means a facility that is manned during operating hours for the
+12 collection and subsequent transportation of municipal solid wastes;
+13 (47) "Transfer facility" means any transportation related facility including loading
+14 docks, parking areas, and other similar areas where shipments of solid waste are
+15 held or transferred during the normal course of transportation;
+16 (48) "Collection box" means an unmanned receptacle utilized to collect municipal solid
+17 waste;
+18 (49) "Newsprint" means that class or kind of paper chiefly used for printing newspapers
+19 and weighing more than twenty-four and one-half (24 1/2) pounds, but less than
+20 thirty-five (35) pounds for five hundred (500) sheets of paper two (2) feet by three
+21 (3) feet in size, on rolls that are not less than thirteen (13) inches wide and twenty-
+22 eight (28) inches in diameter and having a brightness of less than sixty (60);
+23 (50) "Postconsumer waste paper" means discarded paper after it has served its intended
+24 use by a publisher;
+25 (51) "Publisher" means a person engaged in the business of publishing newspapers,
+26 advertisement flyers, telephone books, and other printed material;
+27 (52) "Recycled content" means the proportion of fiber in newsprint that is derived from
+Page 10 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 postconsumer waste paper;
+2 (53) "Tire-derived fuel" or "TDF" means a product made from waste tires to the exact
+3 specifications of a system designed to accept tire-derived fuel as a primary or
+4 supplemental fuel source, that have been reduced to particle sizes not greater than
+5 two (2) inches by two (2) inches and that is destined for transportation from the
+6 waste tire processor for use as a fuel. "Tire-derived fuel" shall not mean refuse-
+7 derived fuel;
+8 (54) "Industrial energy facility" means a facility that produces transportation fuels,
+9 synthetic natural gas, chemicals, or electricity through a gasification process using
+10 coal, coal waste, or biomass resources, and costing in excess of seven hundred fifty
+11 million dollars ($750,000,000) at the time of construction;
+12 (55) "Advanced recycling" means a manufacturing process for the conversion of post-
+13 use polymers and recovered feedstocks into basic hydrocarbon raw materials,
+14 feedstocks, chemicals, and other products through processes that include pyrolysis,
+15 gasification, depolymerization, catalytic cracking, reforming, hydrogenation,
+16 solvolysis, and other similar technologies. "Advanced recycling" does not include
+17 energy recovery or the conversion of post-use polymers into fuel substitutes for use
+18 in energy production;
+19 (56) "Advanced recycling facility" means a manufacturing facility that receives, stores,
+20 and converts post-use polymers and recovered feedstocks it receives using
+21 advanced recycling;
+22 (57) "Depolymerization" means a manufacturing process where post-use polymers are
+23 broken into smaller molecules such as monomers and oligomers or raw,
+24 intermediate, or final products, plastics and chemical feedstocks, basic and
+25 unfinished chemicals, waxes, lubricants, coatings, and other basic hydrocarbons;
+26 (58) "Gasification" means a process through which post-use polymers and recovered
+27 feedstocks are heated and converted into a fuel and gas mixture in an oxygen-
+Page 11 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 deficient atmosphere, and then converted into raw, intermediate, and final products;
+2 (59) "Post-use polymer" means a plastic polymer that:
+3 (a) Is derived from any industrial, commercial, agricultural, or domestic
+4 activities;
+5 (b) Is not mixed with solid waste or hazardous waste on-site or during processing
+6 at the advanced recycling facility;
+7 (c) Has a use or intended use as a feedstock for the manufacturing of other
+8 feedstocks, raw materials, intermediate products, or final products using
+9 advanced recycling;
+10 (d) Has been sorted from solid waste and other regulated waste, but may contain
+11 residual amounts of solid waste and incidental contaminants or impurities; and
+12 (e) Is processed at an advanced recycling facility or held at such facility prior to
+13 processing;
+14 (60) "Pyrolysis" means a manufacturing process through which post-use polymers are
+15 heated in the absence of oxygen until melted and thermally decomposed, and are
+16 then cooled, condensed, and converted into raw materials, intermediate products, or
+17 final products;
+18 (61) (a) "Recovered feedstock" means one (1) or more of the following materials that
+19 has been processed so that it may be used as feedstock in an advanced
+20 recycling facility:
+21 1. Post-use polymers; and
+22 2. Materials for which the United States Environmental Protection Agency
+23 has made a nonwaste determination pursuant to applicable federal
+24 requirements or has otherwise determined are feedstocks and not solid
+25 waste.
+26 (b) "Recovered feedstock" does not include:
+27 1. Unprocessed municipal solid waste; or
+Page 12 of 13
+XXXX 2/3/2026 9:21 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1097
+1 2. Material that is mixed with solid waste or hazardous waste on-site or
+2 during processing at an advanced recycling facility; and
+3 (62) "Solvolysis" means a manufacturing process through which post-use polymers are
+4 purified with the aid of solvents while heated at low temperatures or pressurized to
+5 make raw materials, intermediate products, or final products, while allowing
+6 additives and contaminants to be removed. "Solvolysis" includes but is not limited
+7 to hydrolysis, aminolysis, ammonolysis, methanolysis, and glycolysis[; and
+8 (63) "Wellhead protection area" means and includes all wellhead protection areas as
+9 defined in 42 U.S.C. sec. 300h-7(e) and as determined by the cabinet pursuant to its
+10 obligations under 42 U.S.C. sec. 300h-7(a)].
+Page 13 of 13
+XXXX 2/3/2026 9:21 AM Jacketed

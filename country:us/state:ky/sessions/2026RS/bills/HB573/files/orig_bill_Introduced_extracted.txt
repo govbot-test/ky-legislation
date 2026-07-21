@@ -1,0 +1,437 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 AN ACT relating to campaign finance.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 121.015 is amended to read as follows:
+4 As used in this chapter:
+5 (1) "Registry" means the Kentucky Registry of Election Finance;
+6 (2) "Election" means any primary, regular, or special election to fill vacancies
+7 regardless of whether a candidate or slate of candidates is opposed or unopposed in
+8 an election. Each primary, regular, or special election shall be considered a separate
+9 election;
+10 (3) "Committee" includes the following:
+11 (a) "Campaign committee," which means one (1) or more persons who receive
+12 contributions and make expenditures to support or oppose one (1) or more
+13 specific candidates or slates of candidates for nomination or election to any
+14 state, county, city, or district office, that is authorized by the candidate or slate
+15 of candidates to receive contributions, make expenditures, and generally
+16 conduct a campaign for the candidate or slate of candidates, but does not
+17 include an entity established solely by a candidate which is managed solely by
+18 a candidate and a campaign treasurer and whose name is generic in nature,
+19 such as "Friends of (the candidate)," and does not reflect that other persons
+20 have structured themselves as a committee, designated officers of the
+21 committee, and assigned responsibilities and duties to each officer with the
+22 purpose of managing a campaign to support or oppose a candidate in an
+23 election;
+24 (b) "Independent expenditure-only committee," which means one (1) or more
+25 persons who receive unlimited contributions for the purpose of making only
+26 independent expenditures to support or oppose one (1) or more specific
+27 candidates or slates of candidates for nomination or election to any state,
+Page 1 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 county, city, or district office;
+2 (c) "Caucus campaign committee," which means members of one (1) of the
+3 following caucus groups who receive contributions and make expenditures to
+4 support or oppose one (1) or more specific candidates or slates of candidates
+5 for nomination or election, or a committee:
+6 1. House Democratic caucus campaign committee;
+7 2. House Republican caucus campaign committee;
+8 3. Senate Democratic caucus campaign committee;
+9 4. Senate Republican caucus campaign committee; or
+10 5. Subdivisions of the state executive committee of a minor political party,
+11 which serve the same function as the above-named committees, as
+12 determined by regulations promulgated by the registry;
+13 (d) "Political issues committee," which means three (3) or more persons joining
+14 together to advocate or oppose a ballot measure if that committee receives or
+15 expends money in excess of one thousand dollars ($1,000);
+16 (e) "Permanent committee," which means a group of individuals, including an
+17 association, committee, or organization, other than a campaign committee,
+18 independent expenditure-only committee, federally registered political
+19 committee, political issues committee, inaugural committee, caucus campaign
+20 committee, or party executive committee, which is established as, or intended
+21 to be, a permanent organization having as a primary purpose expressly
+22 advocating the election or defeat of one (1) or more clearly identified
+23 candidates, slates of candidates, or political parties, which functions on a
+24 regular basis throughout the year;
+25 (f) [An ]"Executive committee of a political party," which means a political
+26 committee that is a subdivision of a national political party committee and
+27 operates within the structure and under the supervision of the state
+Page 2 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 executive committee of that same political party. Political parties may
+2 support candidates for public office, raise and spend money for their
+3 internal operations, and are governed by a committee that is elected by the
+4 voters in that subdivision in a manner not inconsistent with the rules of that
+5 same political party; and
+6 (g) "Inaugural committee," which means one (1) or more persons who receive
+7 contributions and make expenditures in support of inauguration activities for
+8 any candidate or slate of candidates elected to any state, county, city, or
+9 district office;
+10 (4) "Contributing organization" means a group which merely contributes to candidates,
+11 slates of candidates, campaign committees, caucus campaign committees, or
+12 executive committees from time to time from funds derived solely from within the
+13 group, and which does not solicit or receive funds from sources outside the group
+14 itself. Any contributions made by the groups in excess of one hundred dollars
+15 ($100) shall be reported to the registry;
+16 (5) "Testimonial affair" means an affair held in honor of a person who holds or who is
+17 or was a candidate for nomination or election to a political office in this state
+18 designed to raise funds for any purpose not charitable, religious, or educational;
+19 (6) "Contribution" means any:
+20 (a) Payment, distribution, loan, deposit, or gift of money or other thing of value,
+21 to a candidate, his or her agent, a slate of candidates, its authorized agent, a
+22 committee, or contributing organization. As used in this subsection, "loan"
+23 shall include a guarantee, endorsement, or other form of security where the
+24 risk of nonpayment rests with the surety, guarantor, or endorser, as well as
+25 with a committee, contributing organization, candidate, slate of candidates, or
+26 other primary obligor. No person shall become liable as surety, endorser, or
+27 guarantor for any sum in any one (1) election which, when combined with all
+Page 3 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 other contributions the individual makes to a candidate, his or her agent, a
+2 slate of candidates, its agent, a committee, or a contributing organization,
+3 exceeds the contribution limits provided in KRS 121.150;
+4 (b) Payment by any person other than the candidate, his or her authorized
+5 treasurer, a slate of candidates, its authorized treasurer, a committee, or a
+6 contributing organization, of compensation for the personal services of
+7 another person which are rendered to a candidate, slate of candidates,
+8 committee, or contributing organization, or for inauguration activities;
+9 (c) Goods, advertising, or services with a value of more than one hundred dollars
+10 ($100) in the aggregate in any one (1) election which are furnished to a
+11 candidate, slate of candidates, committee, or contributing organization or for
+12 inauguration activities without charge, or at a rate which is less than the rate
+13 normally charged for the goods or services; or
+14 (d) Payment by any person other than a candidate, his or her authorized treasurer,
+15 a slate of candidates, its authorized treasurer, a committee, or contributing
+16 organization for any goods or services with a value of more than one hundred
+17 dollars ($100) in the aggregate in any one (1) election which are utilized by a
+18 candidate, slate of candidates, committee, or contributing organization, or for
+19 inauguration activities;
+20 (7) Notwithstanding the foregoing meanings of "contribution," the word shall not be
+21 construed to include:
+22 (a) Services provided without compensation by individuals volunteering a portion
+23 or all of their time on behalf of a candidate, a slate of candidates, committee,
+24 or contributing organization;
+25 (b) A loan of money by any financial institution doing business in Kentucky
+26 made in accordance with applicable banking laws and regulations and in the
+27 ordinary course of business; or
+Page 4 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 (c) An independent expenditure by any individual or permanent committee;
+2 (8) "Candidate" means any person who has received contributions or made
+3 expenditures, has appointed a campaign treasurer, or has given his or her consent
+4 for any other person to receive contributions or make expenditures with a view to
+5 bringing about his or her nomination or election to a nonfederal public office,
+6 except as provided in KRS 121.180(10)(b);
+7 (9) "Slate of candidates" means:
+8 (a) Between the time a certificate or petition of nomination has been filed for a
+9 candidate for the office of Governor under KRS 118.365 and the time the
+10 candidate designates a running mate for the office of Lieutenant Governor
+11 under KRS 118.126, a slate of candidates consists of the candidate for the
+12 office of Governor; and
+13 (b) After that candidate has designated a running mate under KRS 118.126, that
+14 same slate of candidates consists of that same candidate for the office of
+15 Governor and the candidate's running mate for the office of Lieutenant
+16 Governor. Unless the context requires otherwise, any provision of law that
+17 applies to a candidate shall also apply to a slate of candidates;
+18 (10) "Knowingly" means, with respect to conduct or to a circumstance described by a
+19 statute defining an offense, that a person is aware or should have been aware that
+20 his or her conduct is of that nature or that the circumstance exists;
+21 (11) "Fundraiser" means an individual who directly solicits and secures contributions on
+22 behalf of a candidate or slate of candidates for a statewide-elected state office or an
+23 office in a jurisdiction with a population in excess of two hundred thousand
+24 (200,000) residents;
+25 (12) "Independent expenditure" means:
+26 (a) The expenditure of money or other things of value for a communication which
+27 expressly advocates the election or defeat of a clearly identified candidate or
+Page 5 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 slate of candidates, and which:
+2 1. Is made without any coordination, consultation, or cooperation with any
+3 candidate, slate of candidates, campaign committee, or any authorized
+4 person acting on behalf of any of them; and
+5 2. Is not made in concert with, or at the request or suggestion of any
+6 candidate, slate of candidates, campaign committee, or any authorized
+7 person acting on behalf of any of them; or
+8 (b) The expenditure of money or other things of value for a communication which
+9 expressly advocates or opposes a ballot measure, and which:
+10 1. Is made without any coordination, consultation, or cooperation with any
+11 political issues committee, or any authorized person acting on behalf of
+12 a political issues committee; and
+13 2. Is not made in concert with, or at the request or suggestion of, any
+14 political issues committee, or any authorized person acting on behalf of
+15 a political issues committee;
+16 (13) "Electronic reporting" means the use of technology, having electrical, digital,
+17 magnetic, wireless, optical, electromagnetic, or similar capabilities, by which an
+18 individual or other entity submits, compiles, or transmits campaign finance reports
+19 to the registry, or by which the registry receives, stores, analyzes, or discloses the
+20 reports;
+21 (14) "Security procedure" means a procedure employed for the purpose of verifying that
+22 an electronic signature, record, or performance is that of a specific person or for
+23 detecting changes or errors in the information in an electronic record. The term
+24 includes a procedure that requires the use of algorithms or other codes, identifying
+25 words or numbers, encryption, or callback or other acknowledgment procedures;
+26 (15) "Electronic signature" means an electronic sound, symbol, or process attached to or
+27 logically associated with a record and executed or adopted by a person with the
+Page 6 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 intent to sign the record;
+2 (16) "Filer" means any candidate, a slate of candidates, committee, or other individual or
+3 entity required to submit financial disclosure reports to the registry;
+4 (17) "Filer-side software" means software provided to or used by the filer that enables
+5 transmittal of financial reports to the registry;
+6 (18) "Form" means an online web page or an electronic document designed to capture,
+7 validate, and submit data for processing to the registry, unless the context otherwise
+8 prescribes;
+9 (19) "Reasonable cause" means an event, happening, or circumstance entirely beyond
+10 the knowledge or control of the candidate, slate of candidates, or committee, which
+11 has exercised due care and prudence in maintaining the records of the campaign or
+12 committee pursuant to statute or administrative regulation;
+13 (20) "Foreign national" means:
+14 (a) An individual who is not a citizen or lawful permanent resident of the United
+15 States;
+16 (b) A government, political subdivision, or municipality of a foreign country;
+17 (c) A foreign political party;
+18 (d) Any entity, including but not limited to a partnership, association, corporation,
+19 organization, or other combination of persons, that is organized under the
+20 laws of or has its principal place of business in a foreign country; or
+21 (e) Any entity in the United States, including but not limited to a partnership,
+22 association, corporation, or organization that is wholly or majority owned by
+23 any foreign national, unless:
+24 1. Any contribution or expenditure the entity makes derives entirely from
+25 funds generated by the entity's United States operations; and
+26 2. All decisions concerning the contribution or expenditure, except for
+27 setting overall budget amounts, are made by individuals who are United
+Page 7 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 States citizens or permanent residents;
+2 (21) "Ballot measure" means a question, other than the nomination or election of a
+3 candidate for public office, which has been:
+4 (a) Approved by a political subdivision or the General Assembly and is required
+5 by law to be placed before the voters of the territory affected; or
+6 (b) Initiated or referred by citizen petition as authorized by KRS 242.020 and
+7 placed before the voters of the territory affected;
+8 (22) "Preliminary activity" includes but is not limited to:
+9 (a) Participating in focus groups;
+10 (b) Making telephone calls;
+11 (c) Traveling;
+12 (d) Conducting polls; and
+13 (e) Drafting ballot measure language; and
+14 (23) "Tax-exempt organization" means an organization described in 26 U.S.C. sec.
+15 501(c) and exempt from federal taxation under 26 U.S.C. sec. 501(a). This
+16 subsection shall not be construed to treat a political organization under 26 U.S.C.
+17 sec. 527 as a tax-exempt organization for purposes of this chapter.
+18 Section 2. KRS 121.150 is amended to read as follows:
+19 (1) No contribution shall be made or received, directly or indirectly, other than an
+20 independent expenditure, to support inauguration activities or to support or defeat a
+21 candidate, slate of candidates, constitutional amendment, or public question which
+22 will appear on the ballot in an election, except through the duly appointed campaign
+23 manager, or campaign treasurer of the candidate, slate of candidates, or registered
+24 committee. Any person making an independent expenditure, shall report these
+25 expenditures when the expenditures by that person exceed five hundred dollars
+26 ($500) in the aggregate in any one (1) election, on a form provided or using a
+27 format approved by the registry and shall sign a statement on the form, under
+Page 8 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 penalty of perjury, that the expenditure was an actual independent expenditure and
+2 that there was no prior communication with the campaign on whose behalf it was
+3 made.
+4 (2) Except as provided in KRS 121.180(10), the solicitation from and contributions by
+5 campaign committees, independent expenditure-only committees, caucus campaign
+6 committees, political issues committees, permanent committees, and party
+7 executive committees to any religious, charitable, civic, eleemosynary, or other
+8 causes or organizations established primarily for the public good is expressly
+9 prohibited; except that it shall not be construed as a violation of this section for a
+10 candidate or a slate of candidates to contribute to religious, civic, or charitable
+11 groups.
+12 (3) No candidate, slate of candidates, committee, or contributing organization, nor
+13 anyone acting on their behalf, shall accept any anonymous contribution in excess of
+14 one hundred dollars ($100), and all anonymous contributions in excess of one
+15 hundred dollars ($100) shall be returned to the donor, if the donor can be
+16 determined. If no donor is found, the contribution shall escheat to the state. No
+17 candidate, slate of candidates, committee, or contributing organization, nor anyone
+18 acting on their behalf shall accept anonymous contributions in excess of two
+19 thousand dollars ($2,000) in the aggregate in any one (1) election. Anonymous
+20 contributions in excess of two thousand dollars ($2,000) in the aggregate which are
+21 received in any one (1) election shall escheat to the state.
+22 (4) No candidate, slate of candidates, committee, or contributing organization, nor
+23 anyone on their behalf, shall accept a cash contribution in excess of one hundred
+24 dollars ($100) in the aggregate from each contributor in any one (1) election. No
+25 candidate, slate of candidates, committee, or contributing organization, nor anyone
+26 on their behalf, shall accept a cashier's check or money order in excess of the
+27 maximum cash contribution limit unless the instrument clearly identifies both the
+Page 9 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 payor and the payee. A contribution made by cashier's check or money order which
+2 identifies both the payor and payee shall be treated as a contribution made by check
+3 for purposes of the contribution limits contained in this section. No person shall
+4 make a cash contribution in excess of one hundred dollars ($100) in the aggregate
+5 in any one (1) election to a candidate, slate of candidates, committee, or
+6 contributing organization, nor anyone on their behalf.
+7 (5) No candidate, slate of candidates, committee, contributing organization, nor anyone
+8 on their behalf, shall accept any contribution in excess of one hundred dollars
+9 ($100) from any person who shall not become eighteen (18) years of age on or
+10 before the day of the next general election.
+11 (6) Except as provided in subsection (22) of this section, no candidate, slate of
+12 candidates, campaign committee, nor anyone acting on their behalf, shall accept a
+13 contribution of more than two thousand dollars ($2,000) as indexed for inflation
+14 every odd-numbered year using the preceding year's percent increase in the non-
+15 seasonally adjusted annual average Consumer Price Index for all Urban Consumers
+16 (CPI-U), U.S. City Average, All Items, for that year as published by the United
+17 States Bureau of Labor Statistics and rounded to the nearest hundred dollars, from
+18 any person, permanent committee, or contributing organization in any one (1)
+19 election. No person, permanent committee, or contributing organization shall
+20 contribute more than two thousand dollars ($2,000) as indexed for inflation every
+21 odd-numbered year using the preceding year's percent increase in the non-
+22 seasonally adjusted annual average Consumer Price Index for all Urban Consumers
+23 (CPI-U), U.S. City Average, All Items, as published by the United States Bureau of
+24 Labor Statistics and rounded to the nearest hundred dollars, to any one (1)
+25 candidate, campaign committee, nor anyone acting on their behalf, in any one (1)
+26 election.
+27 (7) Permanent committees or contributing organizations affiliated by bylaw structure or
+Page 10 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 by registration, as determined by the Registry of Election Finance, shall be
+2 considered as one (1) committee for purposes of applying the contribution limits of
+3 subsection (6) of this section.
+4 (8) No permanent committee shall contribute funds to another permanent committee for
+5 the purpose of circumventing contribution limits of subsection (6) of this section. A
+6 permanent committee or independent expenditure-only committee may make
+7 unlimited contributions to an independent expenditure-only committee, or as
+8 allowed by federal law to a federally registered political committee, provided that if
+9 a contribution is earmarked for a particular independent expenditure, the person
+10 making the independent expenditure shall disclose the contribution when reporting
+11 the independent expenditure pursuant to subsection (1) of this section.
+12 (9) No person shall contribute funds to a permanent committee, political issues
+13 committee, or contributing organization for the purpose of circumventing the
+14 contribution limits of subsection (6) of this section.
+15 (10) No person shall contribute more than two thousand dollars ($2,000)as indexed for
+16 inflation every odd-numbered year using the preceding year's percent increase in
+17 the non-seasonally adjusted annual average Consumer Price Index for all Urban
+18 Consumers (CPI-U), U.S. City Average, All Items, for that year as published by the
+19 United States Bureau of Labor Statistics and rounded to the nearest hundred dollars,
+20 to a permanent committee or contributing organization in any one (1) year.
+21 (11) (a) No person shall contribute more than five thousand dollars ($5,000) to the
+22 state executive committee of a political party in any one (1) year. The
+23 contribution limit in this paragraph shall not apply to a contribution
+24 designated exclusively for a state executive committee's building fund account
+25 established under KRS 121.172.
+26 (b) No person shall contribute more than five thousand dollars ($5,000) to a
+27 subdivision or affiliate of a state political party in any one (1) year.
+Page 11 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 (c) No person shall contribute more than five thousand dollars ($5,000) to a
+2 caucus campaign committee in any one (1) year.
+3 (12) No person shall make a payment, distribution, loan, advance, deposit, or gift of
+4 money to another person to contribute to a candidate, a slate of candidates,
+5 committee, contributing organization, or anyone on their behalf. No candidate, slate
+6 of candidates, committee, contributing organization, nor anyone on their behalf
+7 shall accept a contribution made by one (1) person who has received a payment,
+8 distribution, loan, advance, deposit, or gift of money from another person to
+9 contribute to a candidate, a slate of candidates, committee, contributing
+10 organization, or anyone on their behalf.
+11 (13) Subject to the provisions of subsection (17) of this section, no candidate or slate of
+12 candidates for nomination to any state, county, city, or district office, nor their
+13 campaign committees, nor anyone on their behalf, shall solicit or accept
+14 contributions for primary election expenses after the date of the primary. No person
+15 other than the candidate or slate of candidates shall contribute for primary election
+16 expenses after the date of the primary.
+17 (14) Subject to the provisions of subsection (17) of this section, no candidate or slate of
+18 candidates for any state, county, city, or district office at a regular election, nor their
+19 campaign committees, nor anyone on their behalf, shall solicit or accept
+20 contributions for regular election expenses after the date of the regular election. No
+21 person other than the candidate or slate of candidates shall contribute for regular
+22 election expenses after the date of the regular election.
+23 (15) Subject to the provisions of subsection (17) of this section, no candidate or slate of
+24 candidates for nomination or election to any state, county, city, or district office,
+25 nor their campaign committees, nor anyone on their behalf, shall solicit or accept
+26 contributions for special election expenses after the date of the special election. No
+27 person other than the candidate or slate of candidates shall contribute for special
+Page 12 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 election expenses after the date of the special election.
+2 (16) The provisions of subsections (13) and (14) of this section shall apply only to those
+3 candidates in a primary or regular election which shall be conducted subsequent to
+4 January 1, 1989. The provisions of subsection (15) of this section shall apply only
+5 to those candidates or slates of candidates in a special election which shall be
+6 conducted subsequent to January 1, 1993.
+7 (17) A candidate, slate of candidates, or a campaign committee may solicit and accept
+8 contributions after the date of a primary election, regular election, or special
+9 election to defray necessary expenses that arise after the date of the election
+10 associated with election contests, recounts, and recanvasses of a specific election,
+11 complaints regarding alleged campaign finance violations that are filed with the
+12 registry pertaining to a specific election, or other legal actions pertaining to a
+13 specific election to which a candidate, slate of candidates, or campaign committee
+14 is a party, and for repayment of debts and obligations owed by the campaign or
+15 previous campaign for the same office. Reports of contributions received and
+16 expenditures made after the date of the specific election shall be made in
+17 accordance with KRS 121.180.
+18 (18) No candidate, slate of candidates, committee, except a political issues committee,
+19 independent expenditure-only committee, or contributing organization, nor anyone
+20 on their behalf, shall knowingly accept a contribution from a corporation, directly
+21 or indirectly, except to the extent that the contribution is designated to a state
+22 executive committee's building fund account established under KRS 121.172.
+23 (19) Nothing in this section shall be construed to restrict the ability of a corporation to
+24 administer its permanent committee insofar as its actions can be deemed not to
+25 influence an election as prohibited by KRS 121.025.
+26 (20) No candidate, slate of candidates, or committee, nor anyone on their behalf, shall
+27 solicit a contribution of money or services from a state employee, whether or not
+Page 13 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2092
+1 the employee is covered by the classified service provisions of KRS Chapter 18A.
+2 However, it shall not be a violation of this subsection for a state employee to
+3 receive a solicitation directed to him as a registered voter in an identified precinct as
+4 part of an overall plan to contact voters not identified as state employees.
+5 (21) No candidate or slate of candidates for any office in this state shall accept a
+6 contribution, including an in-kind contribution, which is made from funds in a
+7 federal campaign account. No person shall make a contribution, including an in-
+8 kind contribution, from funds in a federal campaign account to any candidate or
+9 slate of candidates for any office in this state.
+10 (22) It shall be permissible for a married couple to make a contribution with one (1)
+11 check that reflects the combined individual contribution limits of each individual
+12 spouse per election, as set forth in subsection (6) of this section, for all elections in
+13 a calendar year and the following shall be required to be written on the check:
+14 (a) The signatures of both spouses on the signature line of the check; and
+15 (b) The designation of each contribution amount and the election or elections to
+16 which they apply shall be memorialized on the memo line of the check.
+17 (23) Nothing in this section or in any other provision of this chapter shall be
+18 construed to prohibit a qualified political party committee, including a state or
+19 county executive committee, from endorsing, supporting, opposing, or making
+20 otherwise lawful contributions or expenditures supporting or opposing a
+21 candidacy designated as nonpartisan under state law. The endorsement, support,
+22 or opposition by a political party committee shall not affect the nonpartisan status
+23 of the office or the candidate.
+Page 14 of 14
+XXXX 2/5/2026 2:30 PM Jacketed
