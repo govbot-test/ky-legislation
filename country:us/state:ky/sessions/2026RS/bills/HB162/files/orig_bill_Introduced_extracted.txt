@@ -1,0 +1,2090 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 AN ACT relating to identity documents.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS 186.400 TO 186.640 IS CREATED
+4 TO READ AS FOLLOWS:
+5 The circuit clerk of each county shall:
+6 (1) Act for the cabinet for the purpose of accepting applications for and issuing
+7 temporary operator's licenses, instruction permits, and personal identification
+8 cards;
+9 (2) Comply with all administrative regulations promulgated by the cabinet;
+10 (3) Administer the oath required under Sections 7 and 8 of this Act to applicants,
+11 without fee;
+12 (4) Electronically transmit a copy of all applications and supporting documents
+13 taken by the office to the cabinet no later than the next business day;
+14 (5) Report and remit to the cabinet, no later than the third business day of the month,
+15 all moneys collected by the office during the preceding month. Upon failure of
+16 any circuit clerk to report and remit therefor more than seven (7) days after the
+17 due date, the clerk shall pay, in addition to the amount due, a penalty of ten
+18 percent (10%) of the amount due. Penalties collected under this section shall be
+19 paid into the State Treasury as a part of the revenue collected under Section 18 of
+20 this Act; and
+21 (6) Keep adequate records of all moneys collected and remitted to the cabinet.
+22 Section 2. KRS 186.400 is amended to read as follows:
+23 (1) The administration of the provisions of KRS 186.400 to 186.640 not specifically
+24 vested in the Transportation Cabinet or the circuits clerks shall be vested in the
+25 Transportation Cabinet. The Transportation Cabinet may promulgate
+26 administrative[prescribe] regulations in accordance with KRS Chapter 13A for the
+27 enforcement of KRS 186.400 to 186.640. The Transportation Cabinet also shall
+Page 1 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 enforce regulations governing the acts of motor vehicle operators under KRS
+2 186.400 to 186.640 and require reports which it deems necessary.
+3 (2) The cabinet shall provide or cause to be provided to appropriate persons or officials
+4 an adequate supply of forms for the administration of KRS 186.400 to 186.640. The
+5 style of those forms and the method of their use shall be prescribed by the cabinet
+6 and shall be adequate to protect the safety interests of the state. The Transportation
+7 Cabinet shall prescribe the method of financial control.
+8 (3) (a) The Transportation Cabinet shall collect all moneys due the state under KRS
+9 186.531 from the circuit clerks for operators' licenses and personal
+10 identification cards issued, and shall deposit those moneys with the state
+11 treasurer.
+12 (b) At least once each year the secretary of the Transportation Cabinet shall cause
+13 a reconciliation to be made between the record of monetary receipts by each
+14 circuit clerk[the Transportation Cabinet] and the number[receipt] of
+15 applications accepted by each circuit clerk[the Transportation Cabinet].
+16 Section 3. KRS 186.410 is amended to read as follows:
+17 (1) Except as provided in subsection (6) of this section, every person not exempted by
+18 KRS 186.420 and 186.430 shall, before operating a motor vehicle, motorcycle, or
+19 moped upon a highway, secure an operator's license as provided in this chapter.
+20 (2) Except as provided in KRS 186.4121, all original, renewal, and duplicate personal
+21 identification cards and licenses for the operation of motor vehicles or motorcycles
+22 shall be applied for with the circuit clerk in the county of the applicant's
+23 residence[Transportation Cabinet], or through alternative technology, and issued by
+24 the Transportation Cabinet. Subject to the provisions of KRS 186.4101,
+25 applications for renewal licenses and personal identification cards shall be made
+26 every eight (8) years within the birth month of the applicant. A license shall not be
+27 issued until the application has been certified by the cabinet and the applicant has, if
+Page 2 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 required under KRS 186.635, successfully completed the examinations required
+2 under KRS 186.480.
+3 (3) All personal identification cards shall be issued under the provisions of KRS
+4 186.4102, 186.4122, and 186.4123.
+5 (4) A person under the age of eighteen (18) years who applies for an instruction permit
+6 shall, at any time between the age of fifteen (15) years and before the person's
+7 eighteenth birthday, enroll in one (1) of the following driver training programs:
+8 (a) A driver's education course administered by a school district;
+9 (b) A driver training school licensed pursuant to KRS Chapter 332 which offers a
+10 course meeting or exceeding the minimum standards established by the
+11 Transportation Cabinet; or
+12 (c) State traffic school. The person may seek to enroll in state traffic school
+13 before the person's eighteenth birthday. Persons enrolling in state traffic
+14 school pursuant to this paragraph shall not be required to pay a fee.
+15 (5) Any applicant for any initial or renewal instruction permit, operator's license, or
+16 personal identification card under KRS 186.400 to 186.640 may apply for either:
+17 (a) A voluntary travel ID document; or
+18 (b) A standard document that does not meet standards for federal identification
+19 purposes.
+20 (6) When an automated driving system as defined in KRS 186.760 is installed on a
+21 motor vehicle and is engaged, and the motor vehicle is operating as a fully
+22 autonomous vehicle as defined in KRS 186.760, the:
+23 (a) Owner of the motor vehicle is considered the operator of the fully autonomous
+24 vehicle and shall comply with applicable traffic or motor vehicle laws,
+25 regardless of whether the owner is physically present in the vehicle while the
+26 vehicle is operating; and
+27 (b) Automated driving system is considered to be licensed to operate the vehicle
+Page 3 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 and a licensed human operator is not required to operate the motor vehicle.
+2 Section 4. KRS 186.4101 is amended to read as follows:
+3 (1) Except as provided in subsection (2) of this section, a license to operate a motor
+4 vehicle, motorcycle, or moped, or a personal identification card shall be renewed
+5 every eight (8) years prior to its expiration. Except as provided in KRS 186.410, a
+6 person seeking to renew an operator's license shall apply to the office of the circuit
+7 clerk in the county where the person resides[cabinet] in accordance with KRS
+8 186.412 and 186.4121.
+9 (2) An applicant for a renewal license, instruction permit, or identification card may
+10 choose to be issued a document that is valid for four (4) years. Fees for documents
+11 issued for a four (4) year period shall be adjusted in accordance with KRS 186.531.
+12 (3) The fee to renew an operator's license or personal identification card shall be
+13 according to the schedule set forth in KRS 186.531.
+14 Section 5. KRS 186.4102 is amended to read as follows:
+15 (1) Except as provided in subsection (9) of this section, the Transportation Cabinet
+16 shall issue operator's licenses and personal identification cards bearing a
+17 photograph of the applicant and other information the cabinet may deem
+18 appropriate to qualified applicants under this chapter. When taking the photograph,
+19 the applicant shall be prohibited from wearing sunglasses, veils, scarves, or any
+20 other attire that obscures or creates shadows upon any features of the applicant's
+21 face as determined by the circuit clerk[cabinet]. An applicant shall be required to
+22 remove eyewear that obstructs the iris or the pupil of the eyes and shall not take any
+23 action to obstruct a photograph of his or her facial features. The face shall be visible
+24 from the crown to the base of the chin and from ear to ear. Any person who refuses
+25 to remove attire prohibited by this subsection as directed by the person taking the
+26 application shall be prohibited from receiving an operator's license or personal
+27 identification card.
+Page 4 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (2) An operator's license or personal identification card issued by the cabinet shall not
+2 contain the applicant's Social Security number. The cabinet shall promulgate
+3 administrative regulations in accordance with KRS Chapter 13A that develop a
+4 numbering system that uses an identification system other than Social Security
+5 numbers. If an applicant submits adequate proof that he or she does not have a
+6 Social Security number, the Transportation Cabinet shall assign the applicant a
+7 unique identifying number.
+8 (3) The license or personal identification card shall also designate by color coding and
+9 using the phrase "under 21" if the licensee or card holder is under the age of twenty-
+10 one (21); "CDL" if the license is issued pursuant to KRS Chapter 281A; or "under
+11 21 CDL" if the licensee holds a commercial driver's license issued pursuant to KRS
+12 Chapter 281A and is under the age of twenty-one (21).
+13 (4) The cabinet shall provide on each operator's license and personal identification card
+14 space for a notation that the holder of the license or personal identification card has
+15 expressed to the circuit clerk[cabinet] the person's willingness to make an
+16 anatomical gift under KRS 311.1917. If a person who has made a declaration under
+17 this subsection wishes to rescind that declaration, the person shall notify the
+18 Kentucky Circuit Court Clerks' Trust for Life, which shall remove the notation from
+19 his or her records.
+20 (5) An operator's license issued pursuant to this chapter shall be designated a Class D
+21 license.
+22 (6) A person shall not have more than one (1) operator's license.
+23 (7) Upon marriage, dissolution of marriage, or any other qualifying event, if a person
+24 seeks to change his or her name, the person shall make a name change with the
+25 Social Security Administration prior to applying for an operator's license or a
+26 personal identification card and shall provide the circuit clerk[cabinet] with the
+27 person's marriage license, divorce decree, or other documentation. The name issued
+Page 5 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 on the identity document shall match the person's first and last name as recorded
+2 with the Social Security Administration. Unless a person is eligible to renew his or
+3 her identity document at the time of the name change, the fee charged under this
+4 section shall be for a corrected identity document as set forth in KRS 186.531.
+5 (8) An identity document issued under this chapter shall contain a denotation that
+6 either:
+7 (a) The identity document is a voluntary travel ID identity document that
+8 complies with the security standards set forth by Pub. L. No. 109-13, Title II,
+9 and may be used for identification for federal purposes; or
+10 (b) The identity document shall not be used for federal identification purposes.
+11 (9) (a) The Transportation Cabinet may provide for the issuance of an instruction
+12 permit, operator's license, or personal identification card without a photograph
+13 if there is good cause for the omission based in documented religious
+14 objections. The Transportation Cabinet shall promulgate administrative
+15 regulations pursuant to KRS Chapter 13A to establish the criteria and
+16 requirements for obtaining an operator's license, instruction permit, or
+17 personal identification card without a photograph.
+18 (b) An applicant for an initial instruction permit, operator's license, or personal
+19 identification card without a photograph shall apply to the Transportation
+20 Cabinet in Frankfort or a Transportation Cabinet field office. The application
+21 shall be processed solely by the Transportation Cabinet in the same manner as
+22 in KRS 186.4121(5) and 186.4123(8).
+23 (c) An operator's license, instruction permit, or personal identification card issued
+24 without a photograph shall denote on its face that it shall not be accepted by
+25 any federal agency for identification or any other federal purpose.
+26 Section 6. KRS 186.411 is amended to read as follows:
+27 (1) (a) If a person with a seizure condition applies for an original, duplicate,
+Page 6 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 modified, or renewal operator's license, or applies for an instruction permit, he
+2 or she shall be required by the cabinet to present to the Division of Driver
+3 Licensing:
+4 1. Certification by a physician or advanced practice registered nurse:
+5 a. Stating that his or her condition is controlled by drugs;[,]
+6 b. Details of the drugs, including dosages, which the person takes;[,]
+7 and
+8 c. That the person has been free of any seizures for ninety (90) days;
+9 and
+10 2, His or her own statement that he or she:
+11 a. Has been free of any seizures for ninety (90) days before the date
+12 of the application;[,] and
+13 b. [ that he or she ]Is taking the medication prescribed by his or her
+14 physician or advanced practice registered nurse.
+15 (b) The division shall upon receipt of the required documentation issue the
+16 person[him] a letter of authorization to present to the circuit clerk[cabinet].
+17 The circuit clerk[cabinet] shall not issue an operator's license to a person with
+18 a seizure condition who does not present the letter of authorization.
+19 (2) Any person who has a seizure condition who cannot present the certification that
+20 his or her condition is controlled by drugs or a statement that he or she has been
+21 seizure-free for ninety (90) days shall be notified in writing by the cabinet that the
+22 person's privilege to operate a motor vehicle is withdrawn and of his or her right to
+23 have an informal hearing on the matter of whether he or she is an unsafe driver as a
+24 result of having the seizure condition. The notice shall be mailed by first-class mail
+25 to the address of record of the person. The hearing shall be automatically waived if
+26 not requested within twenty (20) days after the cabinet mails notice. The hearing
+27 shall be scheduled as early as practical after receipt of the request at a time and
+Page 7 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 place designated by the cabinet.
+2 (3) A person whose seizure condition would impair his or her ability to operate a motor
+3 vehicle may present evidence of the condition to the Division of Driver Licensing's
+4 medical review board as established under KRS 186.444, including his or her own
+5 attested statement, physician's or advanced practice registered nurse's statement,
+6 and medical dosage details. If the board determines that the person's seizure
+7 condition would not impair his or her ability to operate a motor vehicle, the division
+8 shall issue the letter of authorization required by subsection (1) of this section.
+9 (4) A person whose seizure condition is of a nature that the seizure condition would not
+10 impair the ability to operate a motor vehicle may present evidence of this fact to the
+11 Division of Driver Licensing, including the person's own attested statement,
+12 physician's or advanced practice registered nurse's statement, and medicine dosage
+13 details. If the division determines that the person's seizure condition does not impair
+14 the ability to operate a motor vehicle, the division shall issue the letter of
+15 authorization required by subsection (1) of this section.
+16 (5) Any physician or advanced practice registered nurse shall not be subject to civil or
+17 criminal liability, absent a showing of bad faith, for providing any reports, records,
+18 examinations, opinions, or recommendations pursuant to this section.
+19 Section 7. KRS 186.412 is amended to read as follows:
+20 (1) As used in this section, "applicant" means a person who:
+21 (a) Is a citizen or permanent resident of the United States; or
+22 (b) Meets the minimum requirements for federal recognition in Section 202 of the
+23 REAL ID ACT of 2005, as amended, in 49 U.S.C. sec. 30301 note, and has
+24 been admitted to the United States as a nonimmigrant pursuant to a compact
+25 of free association between the United States and the Republic of the Marshall
+26 Islands, the Republic of Palau, or the Federated States of Micronesia.
+27 (2) An applicant shall apply for an instruction permit or operator's license with the
+Page 8 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 circuit clerk in the county where the applicant resides[Transportation Cabinet], or
+2 through alternative technology. Except as provided in KRS 186.417, the application
+3 form shall require the applicant's:
+4 (a) Full legal name and signature;
+5 (b) Date of birth;
+6 (c) Social Security number or a letter from the Social Security Administration
+7 declining to issue a Social Security number;
+8 (d) Sex;
+9 (e) Present Kentucky resident address, exclusive of a post office box address
+10 alone;
+11 (f) Other information necessary to permit the application of United States citizens
+12 to also serve as an application for voter registration;
+13 (g) A brief physical description of the applicant;
+14 (h) Proof of the applicant's Kentucky residency, including but not limited to a
+15 deed or property tax bill, utility agreement or utility bill, or rental housing
+16 agreement; and
+17 (i) Other information the cabinet may require by administrative regulation
+18 promulgated under KRS Chapter 13A.
+19 (3) (a) To satisfy the requirements of subsection (2)(e) and (h) of this section, an
+20 applicant seeking to obtain a renewal or duplicate operator's license may use a
+21 completed form attesting to the lack of an established and fixed nighttime
+22 residence of regular return as established in accordance with paragraph (b) of
+23 this subsection. The form developed under paragraph (b) of this subsection
+24 shall not be used by an applicant for an initial operator's license or instruction
+25 permit.
+26 (b) The cabinet shall promulgate administrative regulations in accordance with
+27 KRS Chapter 13A to develop forms and procedures whereby an applicant for
+Page 9 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 a renewal or duplicate operator's license under this section or KRS 186.4121,
+2 or an applicant for an initial, renewal, or duplicate personal identification card
+3 under KRS 186.4122 or 186.4123, who does not have an established and fixed
+4 nighttime residence of regular return may use as proof of residency, a form,
+5 attested to by a homeless shelter, health care facility, or social service agency
+6 currently providing the applicant treatment or services, that the applicant is a
+7 resident of Kentucky. An applicant who does not have an established and
+8 fixed nighttime residence of regular return shall not be issued a voluntary
+9 travel ID operator's license under this section or KRS 186.4121.
+10 (4) In addition to the information identified in subsection (2) of this section, a:
+11 (a) Permanent resident shall present one (1) of the following documents issued by
+12 the United States Department of Homeland Security, United States Bureau of
+13 Citizenship and Immigration Services:
+14 1. An I-551 card with a photograph of the applicant; or
+15 2. A form with the photograph of the applicant or a passport with a
+16 photograph of the applicant on which the United States Department of
+17 Homeland Security, United States Bureau of Citizenship and
+18 Immigration Services, has stamped the following: "Processed for I-551.
+19 Temporary evidence of lawful admission for permanent residence. Valid
+20 until .... (Expiration Date). Employment authorized."; and
+21 (b) Person who meets the definition in subsection (1)(b) of this section shall
+22 present a valid, unexpired passport from his or her country of origin, along
+23 with one (1) of the following documents issued by the United States
+24 Department of Homeland Security, United States Bureau of Citizenship and
+25 Immigration Services:
+26 1. Form I-94, Arrival/Departure Record number;
+27 2. Form I-766, Employment Authorization Document number; or
+Page 10 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 3. Form I-797, Notice of Action receipt number.
+2 (5) Upon application for an operator's license under this section, the circuit
+3 clerk[cabinet] shall capture a photograph of the applicant in accordance with the
+4 requirements of KRS 186.4102(1).
+5 (6) (a) Except as provided in paragraph (b) of this subsection, the circuit
+6 clerk[cabinet] shall electronically scan the documents required for application
+7 under this section and shall electronically forward[retain] the application,
+8 supporting documents, and the photograph of the applicant to the cabinet.
+9 Upon completion of any required examinations under KRS 186.480, the
+10 circuit clerk[cabinet] shall present the applicant with a temporary operator's
+11 license or instruction permit, which shall be valid for thirty (30) days until a
+12 permanent operator's license or instruction permit is mailed to the applicant by
+13 the Transportation Cabinet.
+14 (b) The circuit clerk[cabinet] shall only electronically scan the birth certificate of
+15 an individual applying for a voluntary travel ID instruction permit or
+16 operator's license. If the applicant is not seeking such a permit or license, the
+17 circuit clerk[cabinet] shall not electronically scan the applicant's birth
+18 certificate.
+19 (c) An applicant for an operator's license or instruction permit shall not be
+20 required to surrender the applicant's birth certificate for image capture, image
+21 storage, or image transmission to any entity, including the federal
+22 government, unless express consent is given by the applicant during the
+23 course of obtaining a voluntary travel ID license or permit.
+24 (7) An applicant shall swear an oath to the circuit clerk[cabinet] as to the truthfulness
+25 of the statements contained in the form.
+26 Section 8. KRS 186.4122 is amended to read as follows:
+27 (1) As used in this section, "applicant" means a person who:
+Page 11 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (a) Is a citizen or permanent resident of the United States; or
+2 (b) Meets the minimum requirements for federal recognition in Section 202 of the
+3 REAL ID ACT of 2005, as amended, in 49 U.S.C. sec. 30301 note, and has
+4 been admitted to the United States as a nonimmigrant pursuant to a compact
+5 of free association between the United States and the Republic of the Marshall
+6 Islands, the Republic of Palau, or the Federated States of Micronesia.
+7 (2) The Transportation Cabinet shall issue a personal identification card to an applicant
+8 who:
+9 (a) Is a Kentucky resident;
+10 (b) Applies in person to the office of the circuit clerk of the county in which the
+11 applicant resides,[cabinet] or through alternative technology; and
+12 (c) Complies with the provisions of this section.
+13 (3) Upon application for a personal identification card under this section, the circuit
+14 clerk[cabinet] shall capture a photograph of the applicant in accordance with KRS
+15 186.4102(1).
+16 (4) (a) Except as provided in paragraph (b) of this subsection, the circuit
+17 clerk[cabinet] shall electronically scan the documents required for application
+18 under this section and shall electronically forward[retain] the application,
+19 supporting documents, and the photograph of the applicant to the cabinet. The
+20 circuit clerk[cabinet] shall present the applicant with a temporary personal
+21 identification card, which shall be valid for thirty (30) days until a permanent
+22 personal identification card is mailed to the applicant by the Transportation
+23 Cabinet.
+24 (b) The circuit clerk[cabinet] shall only electronically scan the birth certificate of
+25 an individual applying for a voluntary travel ID personal identification card. If
+26 the applicant is not seeking such a document, the circuit clerk[cabinet] shall
+27 not electronically scan the applicant's birth certificate.
+Page 12 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (c) An applicant for a personal identification card shall not be required to
+2 surrender the applicant's birth certificate for image capture, image storage, or
+3 image transmission to any entity, including the federal government, unless
+4 express consent is given by the applicant during the course of obtaining a
+5 voluntary travel ID personal identification card.
+6 (5) (a) An application for a personal identification card shall be accompanied by the
+7 same information as is required for an operator's license under KRS 186.412,
+8 except if an applicant does not have an established and fixed nighttime
+9 residence of regular return, the applicant may:
+10 1. Until July 1, 2025, use as proof of residency a signed letter from a
+11 homeless shelter, health care facility, or social service agency currently
+12 providing the applicant treatment or services and attesting that the
+13 applicant is a resident of Kentucky; or
+14 2. On or after July 1, 2025, follow the procedures outlined in KRS
+15 186.412(3).
+16 (b) An applicant who does not have an established and fixed nighttime residence
+17 of regular return shall not be issued a voluntary travel ID personal
+18 identification card.
+19 (c) An applicant for a personal identification card who is at least sixteen (16)
+20 years of age but less than eighteen (18) years of age shall not be required to
+21 obtain a signature of a parent or legal guardian on the application if the
+22 applicant has been verified as a homeless child or youth, as defined in 42
+23 U.S.C. sec. 11434a(2), by at least one (1) of the following:
+24 1. A director or designee of a governmental or nonprofit agency that
+25 receives public or private funding to provide services to homeless
+26 people;
+27 2. A local educational agency liaison for homeless children and youths
+Page 13 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 designated pursuant to 42 U.S.C. sec. 11432(g)(1)(J)(ii), or a school
+2 social worker or school counselor;
+3 3. The director or director's designee of a federal TRIO Program or a
+4 Gaining Early Awareness and Readiness for Undergraduate Program; or
+5 4. A financial aid administrator for an institution of higher education.
+6 (d) It shall be permissible for the application form for a personal identification
+7 card to include as an applicant's most current resident address a mailing
+8 address or an address provided on a voter registration card.
+9 (e) If the applicant is not the legal owner or possessor of the address provided on
+10 the application form, the applicant shall swear that he or she has permission
+11 from the legal owner, authorized agent for the legal owner, or possessor to use
+12 the address for purposes of obtaining the personal identification card.
+13 (6) (a) Every applicant for a personal identification card under this section shall
+14 swear an oath to the circuit clerk[cabinet] as to the truthfulness of the
+15 statements contained on the application form.
+16 (b) A personal identification card may be suspended or revoked if the person who
+17 was issued the card presents false or misleading information to the cabinet
+18 when applying for the card.
+19 (7) A personal identification card issued under this section shall be valid for a period of
+20 eight (8) years from the date of issuance, except that if the personal identification
+21 card is issued to a person who does not have an established and fixed nighttime
+22 residence of regular return, then the personal identification card shall be valid for
+23 one (1) year from the date of issuance.
+24 (8) (a) An applicant shall not be issued a personal identification card if the applicant
+25 currently holds a valid Kentucky instruction permit or operator's license. A
+26 person shall not hold more than one (1) license or personal identification card.
+27 (b) If a person's instruction permit or operator's license has been suspended or
+Page 14 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 revoked, the person may be issued a personal identification card. A personal
+2 identification card shall be surrendered when the person applies to have his or
+3 her instruction permit or operator's license reinstated.
+4 Section 9. KRS 186.416 is amended to read as follows:
+5 (1) If a resident of the Commonwealth currently serving in the United States military is
+6 stationed or assigned to a base or other location outside the boundaries of the
+7 Commonwealth, the resident, or the resident's spouse or dependents, may:
+8 (a) Update his or her license electronically or by mail to include a motorcycle
+9 operator's endorsement on an existing operator's license; or
+10 (b) Renew a Class D operator's license issued under this section by mail. If the
+11 resident, or his or her spouse or dependents, was issued an "under 21"
+12 operator's license, upon the date of the license holder's twenty-first birthday,
+13 the "under 21" operator's license may be renewed for an operator's license that
+14 no longer contains the outdated reference to being "under 21."
+15 (2) A resident of the Commonwealth renewing an operator's license by mail under
+16 subsection (1) of this section may have a personal designee apply to the circuit
+17 clerk[cabinet] on behalf of the resident to renew the resident's operator's license. An
+18 operator's license for which an endorsement is being added electronically or by
+19 mail, or which is being renewed by mail under subsection (1) of this section shall be
+20 issued a license bearing the applicant's historical photo if there is a photo on file. If
+21 there is no photo on file, the license shall be issued without a photograph and shall
+22 show in the space provided for the photograph the legend "valid without photo and
+23 signature."
+24 (3) (a) 1. If a resident of the Commonwealth has been serving in the United States
+25 military stationed or assigned to a base or other location outside the
+26 boundaries of the Commonwealth and has allowed his or her operator's
+27 license to expire, he or she shall, within ninety (90) days of returning to
+Page 15 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 the Commonwealth, be permitted to renew his or her license without
+2 having to take a written test or road test.
+3 2. The spouse or dependent of a person identified in subparagraph 1. of
+4 this paragraph shall be afforded the same consideration identified in that
+5 subparagraph regarding the renewal of an expired operator's license.
+6 (b) A person who meets the criteria in paragraph (a) of this subsection shall not
+7 be convicted or cited for driving on an expired license prior to license renewal
+8 during the ninety (90) days after the person's return to the Commonwealth if
+9 the person can provide proof of his or her out-of-state service and dates of
+10 assignment.
+11 (c) A person who meets the criteria in paragraph (a) of this subsection and who
+12 does not renew his or her license within ninety (90) days of returning to the
+13 Commonwealth shall be required to comply with the provisions of this
+14 chapter governing renewal of a license that has expired.
+15 (d) If a resident of the Commonwealth has been issued an "under 21" or "under
+16 21 CDL" operator's license and the person is unable to renew the license on
+17 the date of his or her twenty-first birthday, the "under 21" or "under 21 CDL"
+18 operator's license shall be valid for ninety (90) days beyond the date of the
+19 person's twenty-first birthday.
+20 (4) (a) Any person who served in the active Armed Forces of the United States,
+21 including the Coast Guard, and any member of the National Guard or Reserve
+22 Component who completed the member's term of service and was released,
+23 separated, discharged, or retired therefrom under either an honorable
+24 discharge or a general under honorable conditions discharge may, at the time
+25 of initial application or application for renewal or duplicate, request that an
+26 operator's license or a personal identification card issued under this chapter
+27 bear the word "veteran" on the face or the back of the license or personal
+Page 16 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 identification card.
+2 (b) The designation shall be in a style and format considered appropriate by the
+3 Transportation Cabinet. Prior to obtaining a designation requested under this
+4 subsection, the applicant shall present to the circuit clerk[cabinet] as proof of
+5 eligibility, an original or copy of his or her:
+6 1. Unexpired Veteran Identification Card or Veteran Health Identification
+7 Card issued by the United States Department of Veterans Affairs;
+8 2. DD-2, DD-214, DD-256, DD-257, or NGB-22 form; or
+9 3. Unexpired Geneva Conventions Identification Card issued by the United
+10 States Department of Defense.
+11 The cabinet shall not be liable for fraudulent or misread forms presented.
+12 (5) The cabinet shall promulgate administrative regulations in accordance with KRS
+13 Chapter 13A to establish forms and procedures for facilitating the addition of a
+14 motorcycle endorsement to an existing operator's license, both electronically and by
+15 mail, in accordance with subsection (1) of this section.
+16 Section 10. KRS 186.417 is amended to read as follows:
+17 (1) The Transportation Cabinet shall issue to any felony offender, if the felony offender
+18 is eligible, released from the Kentucky Department of Corrections, a county jail or
+19 other local or regional correctional facility, if and when funds are available, or a
+20 Federal Bureau of Prisons facility located in Kentucky on home incarceration,
+21 parole, completed service of sentence, shock probation, or pardon, a personal
+22 identification card or, if the felony offender is eligible, an operator's license. An
+23 offender who wishes to obtain a personal identification card or operator's license
+24 shall provide proper documentation to comply with the provisions of this section.
+25 (2) Proper documentation under subsection (1) of this section shall consist of:
+26 (a) The offender's certificate of birth;
+27 (b) A copy of the offender's resident record card and parole certificate or notice of
+Page 17 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 discharge;
+2 (c) A photograph of the offender, printed on plastic card or paper; and
+3 (d) A release letter that shall contain the offender's:
+4 1. Full legal name, subject to the information available to the Kentucky
+5 Department of Corrections or a Federal Bureau of Prisons facility
+6 located in Kentucky;
+7 2. Discharge/release date;
+8 3. Signature;
+9 4. Social Security number;
+10 5. Date of birth;
+11 6. Present Kentucky address where he or she resides; and
+12 7. Physical description.
+13 (3) The Transportation Cabinet shall issue to any felony offender, if the felony offender
+14 is eligible, probated or conditionally discharged by the court and under the
+15 supervision of the Division of Probation and Parole or the United States Probation
+16 Office, a personal identification card or, if the felony offender is eligible, an
+17 operator's license. An offender who wishes to obtain a personal identification card
+18 or operator's license shall provide proper documentation to comply with the
+19 provisions of this section.
+20 (4) Proper documentation under subsection (3) of this section shall consist of:
+21 (a) The offender's certificate of birth;
+22 (b) The offender's sentencing order;
+23 (c) A photograph of the offender, printed on plastic card or paper; and
+24 (d) A notarized release letter, signed by the supervising officer verifying the
+25 offender's status on supervision, that shall contain the offender's:
+26 1. Full legal name, subject to the information available to the Division of
+27 Probation and Parole or the United States Probation Office;
+Page 18 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 2. Signature;
+2 3. Social Security number;
+3 4. Date of birth;
+4 5. Present Kentucky address where he or she resides; and
+5 6. Physical description.
+6 (5) The offender shall present the documentation identified in subsection (2) or (4) of
+7 this section to the circuit clerk[cabinet] within thirty (30) calendar days from the
+8 date of the release letter and shall be responsible for paying the fee for the personal
+9 identification card or operator's license pursuant to KRS 186.531.
+10 (6) The Transportation Cabinet shall promulgate administrative regulations in
+11 accordance with KRS Chapter 13A to establish procedures for current inmates in
+12 state and federal prisons, who are deemed eligible by prison officials, to be issued
+13 operator's licenses to engage in work release activities or reentry initiatives. The
+14 administrative regulations shall address, at a minimum:
+15 (a) The information required for application, which shall include all information
+16 in paragraph (b) of this subsection which is germane to a current inmate. For
+17 purposes of this paragraph, the facility in which the inmate is housed shall be
+18 considered the inmate's residence;
+19 (b) Required documentation from the Department of Corrections or the Federal
+20 Bureau of Prisons that the inmate meets the security criteria to be eligible for
+21 work outside of the facility;
+22 (c) Procedures for license issuance; and
+23 (d) Restrictions on use of the license, including a requirement that the inmate
+24 shall surrender the license to prison officials when the inmate is not engaged
+25 in work outside the facility.
+26 (7) Except as provided in subsection (8) of this section, the circuit clerk[cabinet] shall
+27 process applications for operator's licenses and personal identification cards under
+Page 19 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 this section in the same manner as in KRS 186.412 and 186.4122.
+2 (8) The Transportation Cabinet may enter into an agreement with the Kentucky
+3 Department of Corrections, the United States Probation Office, or the Federal
+4 Bureau of Prisons to use a mobile unit to begin the issuance process in this section.
+5 Section 11. KRS 186.418 is amended to read as follows:
+6 (1) The Transportation Cabinet shall implement a voluntary statewide child
+7 identification program. The program shall issue a photo personal identification card
+8 to a child two (2) to fifteen (15) years of age.
+9 (2) A parent or guardian may apply for a child identification card under this section at
+10 the circuit clerk's office in the county in which the child resides[cabinet].
+11 Application for a child identification card shall be accompanied by a Social
+12 Security card and a birth certificate for the child or other proof of the child's date of
+13 birth as provided under KRS 186.412. The card shall not contain the child's Social
+14 Security number.
+15 (3) (a) If the child's parent or guardian wishes to obtain a travel ID child
+16 identification card, the circuit clerk[cabinet] shall scan the application and
+17 supporting documentation, capture a photograph of the child in accordance
+18 with the provisions of KRS 186.4102(1), and submit the application,
+19 documentation, and photograph to the cabinet, who shall issue the child
+20 identification card by mail.
+21 (b) If the child's parent or guardian does not wish to obtain a travel ID child
+22 identification card, the circuit clerk[cabinet] shall scan the application,
+23 capture a photograph of the child in accordance with the provisions of KRS
+24 186.4102(1), and submit the application, documentation, and photograph to
+25 the cabinet, who shall issue the child identification card by mail.
+26 (c) A parent or guardian applying under this section shall not be required to
+27 surrender the child's birth certificate for image capture, image storage, or
+Page 20 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 image transmission to any entity, including the federal government, unless
+2 express consent is given by the parent or guardian during the course of
+3 obtaining a voluntary travel ID child identification card.
+4 (4) A child identification card issued under this section shall contain the child's name
+5 and the toll-free number of the Kentucky missing persons clearinghouse,
+6 Department of Kentucky State Police. The descriptive data and a photo image of the
+7 child shall be stored in the Kentucky driver's license information system and may
+8 be retrieved and used by public agencies subject to the provisions of the Driver's
+9 Privacy Protection Act, 18 U.S.C. sec. 2721, and may also be used by the Kentucky
+10 missing persons clearinghouse.
+11 (5) The fee for a child identification card shall be six dollars ($6), of which:
+12 (a) Four dollars ($4) shall be deposited into the KYTC photo license account
+13 established in KRS 174.056; and
+14 (b) Two dollars ($2) shall be deposited into the Circuit Court clerk salary
+15 account established in Section 34 of this Act.
+16 (6) A child identification card shall expire every four (4) years on the child's birthday.
+17 Within the time period that the child identification card is valid, the card may be
+18 updated with a new photograph and information. The fee for an updated card shall
+19 be six dollars ($6), with the fee distributed in the same manner as the fee for an
+20 initial card as described in subsection (5) of this section.
+21 (7) If a parent or guardian complies with the requirements of KRS 186.403 and
+22 186.419, the parent or guardian may request that the child identification card issued
+23 to a minor child under this section be a voluntary travel ID identity document under
+24 KRS 186.403.
+25 (8) A child identification card issued under this section shall contain a denotation that
+26 either:
+27 (a) The child identification card is a voluntary travel ID identity document that
+Page 21 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 complies with the security standards set forth by Pub. L. No. 109-13, Title II,
+2 and may be used for identification for federal purposes; or
+3 (b) The identity document shall not be used for federal identification purposes.
+4 Section 12. KRS 186.435 is amended to read as follows:
+5 (1) Except as provided in subsection (4) of this section, a licensed driver who becomes
+6 a Kentucky resident shall, within thirty (30) days of establishing residency, apply
+7 for a Kentucky operator's license to the office of the circuit clerk of the county in
+8 which the person has established his or her domicile[Transportation Cabinet].
+9 (2) The Transportation Cabinet shall, before issuing a person a Kentucky operator's
+10 license, verify through the National Drivers Register that the person applying for a
+11 Kentucky operator's license does not currently have his or her operator's license or
+12 driving privilege suspended or revoked in another licensing jurisdiction.
+13 (3) A person who is not a United States citizen but who has been granted permanent
+14 resident status by the United States Department of Homeland Security, United
+15 States Bureau of Citizenship and Immigration Services, and who is a Kentucky
+16 resident, shall follow the same procedures for applying for an original, renewal,
+17 transfer, or duplicate operator's license as persons who are United States citizens.
+18 (4) A licensed driver from another jurisdiction who:
+19 (a) Is not a United States citizen;
+20 (b) Has not been granted permanent resident status by the United States
+21 Department of Homeland Security, United States Bureau of Citizenship and
+22 Immigration Services;
+23 (c) Becomes a Kentucky resident; and
+24 (d) Wishes to operate a motor vehicle;
+25 shall, within thirty (30) days of establishing residency, apply for a Kentucky
+26 operator's license under the provisions of KRS 186.4121.
+27 Section 13. KRS 186.442 is amended to read as follows:
+Page 22 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (1) The Transportation Cabinet shall, before issuing or renewing a Kentucky operator's
+2 license, verify through the National Drivers Register that the person applying for an
+3 initial or renewal Kentucky operator's license does not currently have his or her
+4 operator's license or driving privilege suspended or revoked in another licensing
+5 jurisdiction.
+6 (2) If the person's operator's license or driving privilege is currently suspended or
+7 revoked in another licensing jurisdiction for a traffic offense where the conviction
+8 for the offense is less than five (5) years old, the Transportation Cabinet shall not
+9 issue the person an initial or renewal Kentucky operator's license until the person
+10 resolves the matter in the other licensing jurisdiction and complies with the
+11 provisions of this chapter.
+12 (3) A person whose operator's license has been suspended or revoked in another
+13 licensing jurisdiction, or the holder of a Kentucky operator's license whose driving
+14 privileges have been suspended in another licensing jurisdiction, may be issued a
+15 Kentucky license, or may renew a Kentucky license if:
+16 (a) The conviction causing the suspension or revocation is more than five (5)
+17 years old;
+18 (b) The conviction is for a traffic offense other than a felony traffic offense or a
+19 habitual violator offense; and
+20 (c) The person has been a resident of the Commonwealth for at least five (5)
+21 years prior to the date of application for issuance or renewal.
+22 (4) (a) A person applying for an operator's license under subsection (3) of this
+23 section shall submit an application to the circuit clerk of the county in which
+24 the person resides[cabinet], who shall electronically scan the application and
+25 supporting documents, along with a photograph of the applicant captured in
+26 accordance with KRS 186.4102(1), into the cabinet database.
+27 (b) The circuit clerk[cabinet] shall review the person's documentation, including
+Page 23 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 the person's photograph, in the cabinet database. If the documentation is
+2 verified as accurate, and if the person successfully completes any
+3 examinations required under KRS 186.480 and pays the reinstatement fee
+4 required under KRS 186.531, the circuit clerk[cabinet] shall present the
+5 applicant with a temporary operator's license, which shall be valid for thirty
+6 (30) days, until a permanent operator's license is mailed to the applicant by
+7 the Transportation Cabinet.
+8 (5) A person issued a Kentucky operator's license in accordance with subsection (3) of
+9 this section shall be issued an operator's license marked "Valid in Kentucky Only"
+10 and shall sign a statement that the person understands that he or she may be subject
+11 to arrest and detention if stopped by a law enforcement officer in another state
+12 while operating a motor vehicle on this restricted license.
+13 (6) If a person granted a license under subsection (3) of this section satisfies the
+14 requirements to have the suspension or revocation in another state lifted, the person
+15 shall apply to the circuit clerk[cabinet] to be issued a new license without the
+16 restrictions outlined in subsection (3) of this section.
+17 (7) The provisions of subsection (3) of this section shall not apply to a commercial
+18 driver's license.
+19 Section 14. KRS 186.450 is amended to read as follows:
+20 (1) A person who is at least fifteen (15) years of age may apply for an instruction
+21 permit to operate a motor vehicle. Except as provided in subsection (9) of this
+22 section, a person who possesses a valid intermediate motor vehicle operator's
+23 license issued under KRS 186.452 or a person who is at least eighteen (18) years of
+24 age may apply for an instruction permit to operate a motorcycle. A holder of either
+25 a motor vehicle or motorcycle instruction permit may also operate a moped under
+26 that permit. A person applying for an instruction permit under this section shall
+27 make application to the circuit clerk of the county where the person
+Page 24 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 resides[Transportation Cabinet]. A person applying for an instruction permit shall
+2 be required to comply with the following:
+3 (a) If the person is under the age of eighteen (18), the instruction permit
+4 application shall be signed by the applicant's parent or legal guardian. If the
+5 person does not have a living parent or does not have a legal guardian, the
+6 instruction permit application shall be signed by a person willing to assume
+7 responsibility for the applicant pursuant to KRS 186.590;
+8 (b) If the person is under the age of eighteen (18) and in the custody of the
+9 Cabinet for Health and Family Services, the instruction permit application
+10 shall be signed by:
+11 1. The applicant's parent, legal guardian, grandparent, adult sibling, aunt,
+12 or uncle if the parental rights have not been terminated in accordance
+13 with KRS Chapter 625;
+14 2. The foster parent with whom the applicant resides;
+15 3. Another person who is at least age eighteen (18) and is willing to
+16 assume responsibility for the applicant pursuant to KRS 186.590; or
+17 4. The applicant, without another person, upon verification by the Cabinet
+18 for Health and Family Services in accordance with KRS 605.102 that
+19 shall include proof of financial responsibility in accordance with KRS
+20 186.590(2); and
+21 (c) All applicants for an instruction permit shall comply with the examinations
+22 required by KRS 186.480.
+23 (2) If an applicant successfully passes the examinations required by KRS 186.480, the
+24 applicant shall be issued an instruction permit upon payment of the fee set forth in
+25 KRS 186.531.
+26 (3) (a) An instruction permit to operate a motor vehicle shall be valid for four (4)
+27 years and may be renewed. An instruction permit to operate a motorcycle
+Page 25 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 shall be valid for one (1) year and may be renewed one (1) time.
+2 (b) Except as provided in KRS 186.415, a person who has attained the age of
+3 sixteen (16) years and is under the age of eighteen (18) years shall have held
+4 an instruction permit a minimum of one hundred eighty (180) days before
+5 applying for an intermediate license and shall have held an intermediate
+6 license for a minimum of one hundred eighty (180) days before applying for
+7 an operator's license.
+8 (c) A person who was under eighteen (18) years of age at the time of application
+9 for an instruction permit and is eighteen (18) years of age or older shall have
+10 the instruction permit a minimum of one hundred eighty (180) days and
+11 complete a driver training program under KRS 186.410(4) before applying for
+12 an operator's license.
+13 (d) A person who is at least eighteen (18) years of age and is under the age of
+14 twenty-one (21) years at the time of application for an instruction permit shall
+15 have the instruction permit a minimum of one hundred eighty (180) days
+16 before applying for an operator's license.
+17 (e) A person who is at least twenty-one (21) years of age at the time of
+18 application for an instruction permit shall have the instruction permit a
+19 minimum of thirty (30) days before applying for an operator's license.
+20 (f) In accordance with KRS 176.5062(5), a person whose motorcycle instruction
+21 permit has expired may apply to the circuit clerk[cabinet] to receive a
+22 motorcycle operator's license or endorsement if the person presents proof of
+23 successful completion of a motorcycle safety education course approved by
+24 the Transportation Cabinet under KRS 176.5061 to 176.5069.
+25 (4) (a) A person shall have the instruction permit in his or her possession at all times
+26 when operating a motor vehicle, motorcycle, or moped upon the highway.
+27 (b) When operating a motor vehicle, a motor vehicle instruction permit holder
+Page 26 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 shall be accompanied by a person with a valid operator's license who is at
+2 least twenty-one (21) years of age occupying the seat beside the operator at all
+3 times.
+4 (c) The requirements of paragraph (b) of this subsection shall not apply to a
+5 motor vehicle instruction permit holder being supervised on a multiple-
+6 vehicle driving range by a driver training instructor affiliated with a driver
+7 training school licensed under KRS Chapter 332 or a public or nonpublic
+8 secondary school.
+9 (5) A person with an instruction permit who is under the age of eighteen (18) shall not
+10 operate a motor vehicle, motorcycle, or moped between the hours of 12 midnight
+11 and 6 a.m. unless the person can demonstrate good cause for driving, including but
+12 not limited to emergencies, involvement in school-related activities, or involvement
+13 in work-related activities.
+14 (6) Except when accompanied by a driver training instructor affiliated with a driver
+15 training school licensed under KRS Chapter 332 or a public or nonpublic secondary
+16 school, a person with an instruction permit who is under the age of eighteen (18)
+17 years shall not operate a motor vehicle at any time when accompanied by more than
+18 one (1) unrelated person who is under the age of twenty (20) years. A peace officer
+19 shall not stop or seize a person nor issue a uniform citation for a violation of this
+20 subsection if the officer has no other cause to stop or seize the person other than a
+21 violation of this subsection. This subsection shall not apply to any operator of a
+22 vehicle registered under the provisions of KRS 186.050(4) who is engaged in
+23 agricultural activities.
+24 (7) A violation under subsection (4), (5), or (6) of this section, a conviction for a
+25 moving violation under KRS Chapter 189 for which points are assessed by the
+26 cabinet, or a conviction for a violation of KRS 189A.010(1) shall add an additional
+27 minimum of one hundred eighty (180) days from the date of the violation before a
+Page 27 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 person who is under the age of eighteen (18) years may apply for an intermediate
+2 license to operate a motor vehicle, motorcycle, or moped.
+3 (8) A person under the age of eighteen (18) who accumulates more than six (6) points
+4 against his or her driving privilege may have the driving privilege suspended
+5 pursuant to KRS Chapter 186 or probated by the court.
+6 (9) An applicant who presents evidence of successful completion of an approved rider
+7 training course under KRS 176.5062 shall not be required to obtain a motorcycle
+8 instruction permit prior to obtaining a motorcycle operator's license.
+9 (10) The Transportation Cabinet shall promulgate administrative regulations, in
+10 accordance with KRS Chapter 13A, to establish procedures for:
+11 (a) Minors who reside with individuals in informal guardianship arrangements to
+12 have an adult who resides with them sign the minor's application and assume
+13 responsibility in accordance with subsection (1) of this section;
+14 (b) Individuals who have signed for responsibility under subsection (1) of this
+15 section to rescind that assumption of responsibility;
+16 (c) Notifying minors when an adult has rescinded responsibility under subsection
+17 (1) of this section; and
+18 (d) Allowing minors for whom an adult has rescinded responsibility under
+19 subsection (1) of this section, to obtain a new signature of an individual
+20 assuming responsibility without having to retake any examinations the minor
+21 has successfully passed.
+22 Section 15. KRS 186.480 is amended to read as follows:
+23 (1) The Department of Kentucky State Police shall examine every applicant for an
+24 operator's license as identified in KRS 186.635, except as otherwise provided in this
+25 section. The examination shall be held in the county where the applicant resides
+26 unless:
+27 (a) The applicant is granted written permission by the circuit clerk of the county
+Page 28 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 in which the applicant resides[Transportation Cabinet] to take the
+2 examination in another county; or
+3 (b) The applicant is tested using a bioptic telescopic device.
+4 (2) The examination shall include a test of the applicant's eyesight to ensure
+5 compliance with the visual acuity and visual field standards set forth in KRS
+6 186.577. The vision testing outlined in this subsection shall be administered under
+7 the provisions established in KRS 186.577 at, or prior to, the time of application.
+8 The examination shall also include a test of the applicant's ability to read and
+9 understand highway signs regulating, warning, and directing traffic, the applicant's
+10 knowledge of traffic laws, and an actual demonstration of the applicant's ability to
+11 exercise ordinary and reasonable control in the operation of a motor vehicle. The
+12 provisions of this subsection shall not apply to an applicant who:
+13 (a) At the time of application, holds a valid operator's license from another state,
+14 provided that state affords a reciprocal exemption to a Kentucky resident;
+15 (b) At the time of application for a motorcycle instruction permit or motorcycle
+16 operator's license, presents evidence of successful completion of an approved
+17 rider training course under KRS 176.5062; or
+18 (c) Is a citizen of the Commonwealth who has been serving in the United States
+19 military and has allowed his or her operator's license to expire.
+20 (3) In addition to the requirements of subsection (2) of this section, an applicant for a
+21 motorcycle operator's license who does not present evidence of successful
+22 completion of an approved rider training course under KRS 176.5062 shall be
+23 required to show his or her ability to operate a motorcycle. An applicant who
+24 successfully completes the skills portion of the test under this subsection on a:
+25 (a) Three (3) wheeled motorcycle shall be issued a motorcycle operator's license
+26 restricted to the operation of three (3) wheeled motorcycles under KRS
+27 186.447; or
+Page 29 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (b) Two (2) wheeled motorcycle shall be issued a motorcycle operator's license
+2 without the restriction identified in KRS 186.447, and may operate both two
+3 (2) and three (3) wheeled motorcycles.
+4 (4) Any person whose intermediate license or operator's license is denied, suspended,
+5 or revoked for cause shall apply for reinstatement at the termination of the period
+6 for which the license was denied, suspended, or revoked by submitting to the
+7 examination. The provisions of this subsection shall not apply to any person whose
+8 license was suspended for failure to meet the conditions described in KRS 186.411
+9 when, within one (1) year of suspension, the driving privileges of the person are
+10 reinstated.
+11 (5) An applicant shall not use an autocycle for road skills testing administered under
+12 the provisions of this section.
+13 (6) The Department of Kentucky State Police shall include, in the educational materials
+14 it produces for prospective drivers, information about the purposes, processes, and
+15 benefits of the organ donation program.
+16 Section 16. KRS 186.510 is amended to read as follows:
+17 The licensee shall have his or her license in his or her immediate possession at all times
+18 when driving a motor vehicle and shall display it upon demand to a circuit clerk, a peace
+19 officer, a member of the Department of Kentucky State Police, or a field deputy or
+20 inspector of the Department of Vehicle Regulation or Transportation Cabinet or, pursuant
+21 to KRS 67A.075 or 83A.088, a safety officer who is in the process of securing
+22 information to complete an accident report. It shall be a defense to any charge under this
+23 section if the person so charged produces in court an operator's license, issued to him or
+24 her before his or her arrest and valid at the time of his or her arrest.
+25 Section 17. KRS 186.520 is amended to read as follows:
+26 (1) A person whose license, instruction permit, or personal identification card has
+27 been legitimately lost or destroyed, shall apply to the circuit clerk of the county in
+Page 30 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 which the most recent permanent license, instruction permit, or personal
+2 identification card was obtained[Transportation Cabinet] in order to make
+3 application for a duplicate license, instruction permit, or personal identification
+4 card. The person shall furnish satisfactory proof by affidavit substantiating the loss
+5 or destruction when applying for a duplicate[ license].
+6 (2) The fee for a duplicate license, instruction permit, or personal identification card
+7 shall be according to the schedule set forth in KRS 186.531.
+8 Section 18. KRS 186.531 is amended to read as follows:
+9 (1) As used in this section:
+10 (a) "AOC Fund" or "AOCF" means the Circuit Court clerk salary account
+11 created in Section 34 of this Act;
+12 (b) "GF" means the general fund;
+13 (c)[(b)] "IP" means instruction permit;
+14 (d)[(c)] "License Fund" or "LF" means the KYTC photo license account created
+15 in KRS 174.056;
+16 (e)[(d)] "MC" means motorcycle;
+17 (f)[(e)] "MC Fund" or "MCF" means the motorcycle safety education program
+18 fund established in KRS 176.5065;
+19 (g)[(f)] "OL" means operator's license; and
+20 (h)[(g)] "PIDC" means personal identification card.
+21 (2) The fees imposed for voluntary travel ID operator's licenses, instruction permits,
+22 and personal identification cards shall be as follows. The fees received shall be
+23 distributed as shown in the table. The fees shown, unless otherwise noted, are for an
+24 eight (8) year period:
+25 Card Type Fee LF AOCF GF MCF
+26 OL (initial/renewal) $48 $38 $10 $0 $0
+27 OL (Under 21) (Up to 4 years) $18 $13.50 $4.50 $0 $0
+Page 31 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 Any OL, MC, or combination
+2 (duplicate/corrected) $15 $9.25 $4 $1.75 $0
+3 Motor vehicle IP (3 years) $18 $11 $5 $2 $0
+4 Motorcycle IP (1 year) $18 $11 $2 $1 $4
+5 Motorcycle OL (initial/renewal) $48 $28.50 $9.50 $0 $10
+6 Combination vehicle/MC OL
+7 (initial/renewal) $58 $35 $13 $0 $10
+8 PIDC (initial/renewal) $28 $19 $6 $3 $0
+9 PIDC (duplicate/corrected) $15 $10 $3.50 $1.50 $0
+10 [ Card Type Fee LF GF MCF
+11 OL (initial/renewal) $48 $48 $0 $0
+12 OL (Under 21) (Up to 4 years) $18 $18 $0 $0
+13 Any OL, MC, or combination
+14 (duplicate/corrected) $15 $13.25 $1.75 $0
+15 Motor vehicle IP (3 years) $18 $16 $2 $0
+16 Motorcycle IP (1 year) $18 $13 $1 $4
+17 Motorcycle OL (initial/renewal) $48 $38 $0 $10
+18 Combination vehicle/MC OL
+19 (initial/renewal) $58 $48 $0 $10
+20 PIDC (initial/renewal) $28 $25 $3 $0
+21 PIDC (duplicate/corrected) $15 $13.50 $1.50 $0]
+22 (3) Except as provided in subsection (10) of this section, the fees imposed for standard
+23 operator's licenses, instruction permits, and personal identification cards shall be as
+24 follows. The fees received shall be distributed as shown in the table. The fees
+25 shown[ and], unless otherwise noted, are for an eight (8) year period:
+26 Card Type Fee LF AOCF GF MCF
+27 OL (initial/renewal) $43 $35 $8 $0 $0
+Page 32 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 OL (Under 21) (Up to 4 years) $15 $11.50 $3.50 $0 $0
+2 Any OL, MC, or combination
+3 (duplicate/corrected) $15 $9.25 $3 $1.75 $0
+4 Motor vehicle IP (3 years) $15 $9 $4 $2 $0
+5 Motorcycle IP (1 year) $15 $10 $1 $1 $4
+6 Motorcycle OL (initial/renewal) $43 $25.50 $7.50 $0 $10
+7 Combination vehicle/MC OL
+8 (initial/renewal) $53 $32 $11 $0 $10
+9 PIDC (initial/renewal) $23 $16 $4 $3 $0
+10 PIDC (duplicate/corrected) $15 $10 $3.50 $1.50 $0
+11 PIDC (no fixed address) under
+12 KRS 186.4122(5)/186.4123(5)
+13 (initial, duplicate, or corrected) $0 $0 $0 $0 $0
+14 [ Card Type Fee LF GF MCF
+15 OL (initial/renewal) $43 $43 $0 $0
+16 OL (Under 21) (Up to 4 years) $15 $15 $0 $0
+17 Any OL, MC, or combination
+18 (duplicate/corrected) $15 $13.25 $1.75 $0
+19 Motor vehicle IP (3 years) $15 $13 $2 $0
+20 Motorcycle IP (1 year) $15 $10 $1 $4
+21 Motorcycle OL (initial/renewal) $43 $33 $0 $10
+22 Combination vehicle/MC OL
+23 (initial/renewal) $53 $43 $0 $10
+24 PIDC (initial/renewal) $23 $20 $3 $0
+25 PIDC (duplicate/corrected) $15 $13.50 $1.50 $0
+26 PIDC (no fixed address) under
+27 KRS 186.4122(5)/186.4123(5)
+Page 33 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (initial, duplicate, or corrected) $0 $0 $0 $0]
+2 (4) The fee for a four (4) year original or renewal license issued pursuant to KRS
+3 186.4101 shall be fifty percent (50%) of the amount shown in subsections (2) and
+4 (3) of this section. The distribution of fees shown in subsections (2) and (3) of this
+5 section shall also be reduced by fifty percent (50%) for licenses that are issued for
+6 four (4) years.
+7 (5) Any fee for any identity document applied for using alternative technology under
+8 KRS 186.410 and 186.4122 shall be distributed in the same manner as a document
+9 applied for in person with the circuit clerk[cabinet].
+10 (6) (a) An applicant for an original or renewal operator's license, permit, commercial
+11 driver's license, motorcycle operator's license, or personal identification card
+12 shall be requested by the circuit clerk[cabinet] to make a donation to promote
+13 an organ donor program.
+14 (b) The donation under this subsection shall be added to the regular fee for an
+15 original or renewal motor vehicle operator's license, permit, commercial
+16 driver's license, motorcycle operator's license, or personal identification card.
+17 One (1) donation may be made per issuance or renewal of a license or any
+18 combination thereof.
+19 (c) The fee shall be paid to the circuit clerk[cabinet] and shall be forwarded by
+20 the clerk[cabinet] on a monthly basis to the Kentucky Circuit Court Clerks'
+21 Trust for Life, and such moneys are hereby appropriated to be used
+22 exclusively for the purpose of promoting an organ donor program. A donation
+23 under this subsection shall be voluntary and may be refused by the applicant
+24 at the time of issuance or renewal.
+25 (7) In addition to the fees outlined in this section, the following individuals, upon
+26 application for an initial or renewal operator's license, instruction permit, or
+27 personal identification card, shall pay an additional application fee of thirty dollars
+Page 34 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 ($30), which shall be deposited in the photo license account:
+2 (a) An applicant who is not a United States citizen or permanent resident and who
+3 applies under KRS 186.4121 or 186.4123; or
+4 (b) An applicant who is applying for a instruction permit, operator's license, or
+5 personal identification card without a photo under KRS 186.4102(9).
+6 (8) (a) Except for individuals exempted under paragraph (c) of this subsection, an
+7 applicant for relicensing after revocation or suspension shall pay a
+8 reinstatement fee of forty dollars ($40).
+9 (b) The reinstatement fee under this subsection shall be distributed by the State
+10 Treasurer as follows:
+11 1. Thirty-five dollars ($35) shall be deposited into the photo license
+12 account; and
+13 2. Five dollars ($5) shall be deposited into a trust and agency fund to be
+14 used in defraying the costs and expenses of administering a driver
+15 improvement program for problem drivers.
+16 (c) This subsection shall not apply to:
+17 1. Any person whose license was suspended for failure to meet the
+18 conditions set out in KRS 186.411 when, within one (1) year of
+19 suspension, the driving privileges of the individual are reinstated; or
+20 2. A student who has had his or her license revoked pursuant to KRS
+21 159.051.
+22 (9) As payment for any fee identified in this section, circuit clerks[the cabinet]:
+23 (a) Shall accept cash and personal checks;
+24 (b) May accept other methods of payment in accordance with KRS 45.345; and
+25 (c) May enter into billing agreements with homeless shelters, health care
+26 facilities, or social service agencies that serve individuals without an
+27 established and fixed nighttime residence of regular return.
+Page 35 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (10) There shall be no fee assessed for the initial, renewal, or duplicate standard personal
+2 identification card to an individual, if the individual:
+3 (a) Does not possess a valid operator's license or a commercial driver's license;
+4 and
+5 (b) Is at least eighteen (18) years of age on or before the next regular election.
+6 Section 19. KRS 186.540 is amended to read as follows:
+7 (1) Except as provided in subsections (2) and (3) of this section, when any person, after
+8 applying for or receiving an operator's license or personal identification card,
+9 moves from the address named in the application or on the identity document issued
+10 to the person, or when the name of a identity document holder is changed, by
+11 marriage or otherwise, the person shall within ten (10) days after the change apply
+12 to the circuit clerk in the person's county of residence[Transportation Cabinet] for
+13 the issuance of a corrected license. The fee for a corrected license shall be as set
+14 forth in KRS 186.531.
+15 (2) If an identity document holder's street name or postal address is changed and the
+16 person has not moved to a new residence, the person shall apply to the circuit clerk
+17 in the person's county of residence[ cabinet] for a corrected identity document,
+18 which shall be issued free of charge.
+19 (3) If a person receives an identity document that contains an error, the person shall
+20 apply to the circuit clerk to whom the person made application for the identity
+21 document[cabinet] for a corrected identity document, which shall be issued free of
+22 charge.
+23 Section 20. KRS 186.577 is amended to read as follows:
+24 (1) (a) The following persons shall submit to a test of visual acuity and visual field at
+25 the time of application or renewal:
+26 1. All persons applying for an initial or renewal operator's license;
+27 2. All persons applying for an initial or renewal instruction permit; and
+Page 36 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 3. Any person required to complete an examination under KRS 186.635.
+2 (2) Vision testing under this section shall be administered to any person:
+3 (a) Applying for an initial operator's license, an initial instruction permit, or
+4 reinstatement of a license when vision must be tested as required in KRS
+5 186.480:
+6 1. Prior to the time of application under subsection (5) of this section; or
+7 2. By Kentucky State Police at the time of application;
+8 (b) Applying for operator's license renewal or instruction permit renewal:
+9 1. Prior to the time of application under subsection (5) of this section; or
+10 2. By the circuit clerk[Transportation Cabinet] at the time of application;
+11 or
+12 (c) Identified in Kentucky administrative regulations promulgated by the
+13 Transportation Cabinet or the Kentucky State Police as being required to
+14 undergo the exam required by KRS 186.480.
+15 (3) (a) Persons whose visual acuity is 20/40 or better and who meet or exceed the
+16 visual field standard established by the Transportation Cabinet without
+17 corrective lenses shall not have a restriction placed on their driving privileges.
+18 (b) Persons whose visual acuity is 20/40 or better and who meet or exceed the
+19 visual field standard established by the Transportation Cabinet with corrective
+20 lenses shall have their driving privileges restricted to mandate the use of the
+21 corrective lenses.
+22 (c) If a person fails to meet a 20/40 visual acuity standard or the visual field
+23 standard established by the cabinet, the person shall be referred to a vision
+24 specialist for examination.
+25 (4) A person referred to a vision specialist under subsection (3) of this section whose
+26 visual acuity is 20/60 or better and who meets or exceeds the visual field standard
+27 established by the cabinet shall be eligible to test for an instruction permit or
+Page 37 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 operator's license, or shall be eligible for operator's license renewal. If corrective
+2 lenses were prescribed by the vision specialist, the person's driving privileges shall
+3 be restricted to mandate the use of the corrective lenses.
+4 (5) Vision tests administered under subsection (2)(a) of this section shall be deemed to
+5 meet the testing provisions outlined in subsection (3) or (4) of this section, if the
+6 person submits a driver vision testing form that complies with the provisions of
+7 subsection (6) of this section and the form has been completed by:
+8 (a) A vision specialist; or
+9 (b) An osteopath, physician, or advanced practice registered nurse who is
+10 credentialed by the cabinet to perform vision testing under this section.
+11 (6) All driver vision testing forms completed under subsection (5) of this section shall:
+12 (a) Attest that the applicant meets or exceeds the visual acuity standard and visual
+13 field standard established by the cabinet;
+14 (b) Only be valid if the vision specialist or the credentialed osteopath,
+15 credentialed physician, or credentialed advanced practice registered nurse
+16 signed and completed the vision testing form less than twelve (12) months
+17 prior to the date of application or renewal;
+18 (c) State whether the driving privileges of the applicant shall be restricted to
+19 mandate the use of corrective lenses; and
+20 (d) Clearly indicate that the vision testing under this section is a screening for
+21 minimum vision standards established in this section and is not a complete
+22 eye examination.
+23 (7) Any person seeking application or permit under subsection (1) of this section shall
+24 attest that he or she has submitted to and passed the visual acuity and visual field
+25 tests required under this section.
+26 (8) Any person renewing an operator's license under KRS 186.416 shall be exempt
+27 from the vision testing requirements outlined in this section.
+Page 38 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (9) Persons who meet the requirements of KRS 186.578 and are issued operator's
+2 licenses under KRS 186.579 shall:
+3 (a) Have their driving privileges restricted to the use of a bioptic telescopic
+4 device; and
+5 (b) Be exempt from this section.
+6 (10) The Transportation Cabinet shall promulgate administrative regulations pursuant to
+7 KRS Chapter 13A to implement the provisions of this section, including but not
+8 limited to establishing visual field standards, the creation of a driver vision testing
+9 form, and establishing a credentialing process for osteopaths, physicians, and
+10 advanced practice registered nurses to conduct vision testing under this section.
+11 (11) The Transportation Cabinet may promulgate administrative regulations pursuant to
+12 KRS Chapter 13A to:
+13 (a) Implement a system for electronic transmission of driver vision testing forms
+14 and accompanying documentation; and
+15 (b) Assess a fee to an applicant to cover the administrative costs of performing
+16 on-site vision testing. Any funds received from this fee shall be deposited into
+17 the photo license account established in KRS 174.056.
+18 Section 21. KRS 186.580 is amended to read as follows:
+19 (1) If the circuit clerk refuses to issue an operator's license, instruction permit, or
+20 personal identification card to an applicant, the applicant may appeal the
+21 decision of the circuit clerk to the cabinet.
+22 (2) If any person is aggrieved by any final order of the cabinet relating to the denial,
+23 revocation, suspension, or cancellation of an operator's license, instruction permit,
+24 or personal identification card,[ or motorcycle operator's license] other than orders
+25 of revocation or suspension when the facts render revocation or suspension
+26 mandatory, the person[he] may file a petition for judicial review in the Circuit
+27 Court of the county in which the person[he] resides, or in the Franklin Circuit
+Page 39 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 Court in accordance with KRS Chapter 13B.
+2 Section 22. KRS 186.010 is amended to read as follows:
+3 As used in this chapter, unless otherwise indicated:
+4 (1) "Cabinet," as used in KRS 186.400 to 186.640, means the Transportation Cabinet;
+5 except as specifically designated, "cabinet," as used in KRS 186.020 to 186.270,
+6 means the Transportation Cabinet only with respect to motor vehicles, other than
+7 commercial vehicles; "cabinet," as used in KRS 186.020 to 186.270, means the
+8 Department of Vehicle Regulation when used with respect to commercial vehicles;
+9 (2) "Highway" means every way or place of whatever nature when any part of it is
+10 open to the use of the public, as a matter of right, license, or privilege, for the
+11 purpose of vehicular traffic;
+12 (3) "Manufacturer" means any person engaged in manufacturing motor vehicles who
+13 will, under normal conditions during the year, manufacture or assemble at least ten
+14 (10) new motor vehicles;
+15 (4) "Motor vehicle" means in KRS 186.020 to 186.260, all vehicles, as defined in
+16 paragraph (a) of subsection (8) of this section, which are propelled otherwise than
+17 by muscular power. As used in KRS 186.400 to 186.640, it means all vehicles, as
+18 defined in paragraph (b) of subsection (8) of this section, which are self-propelled.
+19 "Motor vehicle" shall not include a moped as defined in this section, but for
+20 registration purposes shall include low-speed vehicles and military surplus vehicles
+21 as defined in this section and vehicles operating under KRS 189.283;
+22 (5) "Moped" means either a motorized bicycle whose frame design may include one (1)
+23 or more horizontal crossbars supporting a fuel tank so long as it also has pedals, or
+24 a motorized bicycle with a step-through type frame which may or may not have
+25 pedals rated no more than two (2) brake horsepower, a cylinder capacity not
+26 exceeding fifty (50) cubic centimeters, an automatic transmission not requiring
+27 clutching or shifting by the operator after the drive system is engaged, and capable
+Page 40 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 of a maximum speed of not more than thirty (30) miles per hour;
+2 (6) "Operator" means any person in actual control of a motor vehicle upon a highway;
+3 (7) (a) "Owner" means a person who holds the legal title of a vehicle or a person who
+4 pursuant to a bona fide sale has received physical possession of the vehicle
+5 subject to any applicable security interest.
+6 (b) A vehicle is the subject of an agreement for the conditional sale or lease, with
+7 the vendee or lessee entitled to possession of the vehicle, upon performance of
+8 the contract terms, for a period of three hundred sixty-five (365) days or more
+9 and with the right of purchase upon performance of the conditions stated in
+10 the agreement and with an immediate right of possession vested in the
+11 conditional vendee or lessee, or if a mortgagor of a vehicle is entitled to
+12 possession, the conditional vendee or lessee or mortgagor shall be deemed the
+13 owner.
+14 (c) A licensed motor vehicle dealer who transfers physical possession of a motor
+15 vehicle to a purchaser pursuant to a bona fide sale, and complies with the
+16 requirements of KRS 186A.220, shall not be deemed the owner of that motor
+17 vehicle solely due to an assignment to his or her dealership or a certificate of
+18 title in the dealership's name. Rather, under these circumstances, ownership
+19 shall transfer upon delivery of the vehicle to the purchaser, subject to any
+20 applicable security interest;
+21 (8) (a) "Vehicle," as used in KRS 186.020 to 186.260, includes all agencies for the
+22 transportation of persons or property over or upon the public highways of this
+23 Commonwealth and all vehicles passing over or upon said highways, except
+24 electric low-speed scooters, road rollers, road graders, farm tractors, vehicles
+25 on which power shovels are mounted, such other construction equipment
+26 customarily used only on the site of construction and which is not practical for
+27 the transportation of persons or property upon the highways, such vehicles as
+Page 41 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 travel exclusively upon rails, and such vehicles as are propelled by electric
+2 power obtained from overhead wires while being operated within any
+3 municipality or where said vehicles do not travel more than five (5) miles
+4 beyond the city limit of any municipality.
+5 (b) As used in KRS 186.400 to 186.640, "vehicle" means every device in, upon,
+6 or by which any person or property is or may be transported or drawn upon a
+7 public highway, except electric low-speed scooters, devices moved by human
+8 and animal power or used exclusively upon stationary rails or tracks, or which
+9 derives its power from overhead wires;
+10 (9) KRS 186.020 to 186.270 apply to motor vehicle licenses. KRS 186.400 to 186.640
+11 apply to operator's licenses;
+12 (10) "Dealer" means any person engaging in the business of buying or selling motor
+13 vehicles;
+14 (11) "Commercial vehicles" means all motor vehicles that are required to be registered
+15 under the terms of KRS 186.050, but not including vehicles primarily designed for
+16 carrying passengers and having provisions for not more than nine (9) passengers
+17 (including driver), motorcycles, sidecar attachments, pickup trucks and passenger
+18 vans which are not being used for commercial or business purposes, and motor
+19 vehicles registered under KRS 186.060;
+20 (12) "Resident" means any person who has established Kentucky as his or her state of
+21 domicile. Proof of residency shall include but not be limited to a deed or property
+22 tax bill, utility agreement or utility bill, or rental housing agreement. The possession
+23 by an operator of a vehicle of a valid Kentucky operator's license shall be prima-
+24 facie evidence that the operator is a resident of Kentucky;
+25 (13) "Special status individual" means:
+26 (a) "Asylee" means any person lawfully present in the United States who
+27 possesses an I-94 card issued by the United States Department of Justice,
+Page 42 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 Immigration and Naturalization Service, on which it states "asylum status
+2 granted indefinitely pursuant to Section 208 of the Immigration & Nationality
+3 Act";
+4 (b) "K-1 status" means the status of any person lawfully present in the United
+5 States who has been granted permission by the United States Department of
+6 Justice, Immigration and Naturalization Service to enter the United States for
+7 the purpose of marrying a United States citizen within ninety (90) days from
+8 the date of that entry;
+9 (c) "Refugee" means any person lawfully present in the United States who
+10 possesses an I-94 card issued by the United States Department of Justice,
+11 Immigration and Naturalization Service, on which it states "admitted as a
+12 refugee pursuant to Section 207 of the Immigration & Nationality Act"; and
+13 (d) "Paroled in the Public Interest" means any person lawfully present in the
+14 United States who possesses an I-94 card issued by the United States
+15 Department of Justice, Immigration and Naturalization Service, on which it
+16 states "paroled pursuant to Section 212 of the Immigration & Nationality Act
+17 for an indefinite period of time";
+18 (14) "Instruction permit" includes both motor vehicle instruction permits and motorcycle
+19 instruction permits;
+20 (15) "Motorcycle" means any motor driven vehicle that has a maximum speed that
+21 exceeds fifty (50) miles per hour, has a seat or saddle for the use of the operator,
+22 and is designed to travel on not more than three (3) wheels in contact with the
+23 ground, including vehicles on which the operator and passengers ride in an enclosed
+24 cab. Only for purposes of registration, "motorcycle" shall include a motor scooter,
+25 an alternative-speed motorcycle, and an autocycle as defined in this section, but
+26 shall not include a tractor or a moped as defined in this section;
+27 (16) "Low-speed vehicle" means a motor vehicle that:
+Page 43 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (a) Is self-propelled using an electric motor, combustion-driven motor, or a
+2 combination thereof;
+3 (b) Is four (4) wheeled; and
+4 (c) Is designed to operate at a speed not to exceed twenty-five (25) miles per hour
+5 as certified by the manufacturer;
+6 (17) "Alternative-speed motorcycle" means a motorcycle that:
+7 (a) Is self-propelled using an electric motor;
+8 (b) Is three (3) wheeled;
+9 (c) Has a fully enclosed cab and includes at least one (1) door for entry;
+10 (d) Is designed to operate at a speed not to exceed forty (40) miles per hour as
+11 certified by the manufacturer; and
+12 (e) Is not an autocycle as defined in this section;
+13 (18) "Multiple-vehicle driving range" means an enclosed area that is not part of a
+14 highway or otherwise open to the public on which a number of motor vehicles may
+15 be used simultaneously to provide driver training under the supervision of one (1)
+16 or more driver training instructors;
+17 (19) "Autocycle" means any motor vehicle that:
+18 (a) Is equipped with a seat that does not require the operator to straddle or sit
+19 astride it;
+20 (b) Is designed to travel on three (3) wheels in contact with the ground;
+21 (c) Is designed to operate at a speed that exceeds forty (40) miles per hour as
+22 certified by the manufacturer;
+23 (d) Allows the operator and passenger to ride either side-by-side or in tandem in a
+24 seating area that may be enclosed with a removable or fixed top;
+25 (e) Is equipped with a three (3) point safety belt system;
+26 (f) May be equipped with a manufacturer-installed air bags or a roll cage;
+27 (g) Is designed to be controlled with a steering wheel and pedals; and
+Page 44 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (h) Is not an alternative-speed motorcycle as defined in this section;
+2 (20) "Military surplus vehicle" means a multipurpose wheeled surplus military vehicle
+3 that:
+4 (a) Is not operated using continuous tracks;
+5 (b) Was originally manufactured for and sold directly to the Armed Forces of the
+6 United States; and
+7 (c) Was originally manufactured under the federally mandated requirements set
+8 forth in 49 C.F.R. sec. 571.7;
+9 (21) "Livestock" means cattle, sheep, swine, goats, horses, alpacas, llamas, buffaloes,
+10 and any other animals of the bovine, ovine, porcine, caprine, equine, or camelid
+11 species;
+12 (22) "Identity document" means an instruction permit, operator's license, or personal
+13 identification card issued under KRS 186.4102, 186.412, 186.4121, 186.4122, and
+14 186.4123 or a commercial driver's license issued under KRS Chapter 281A;
+15 (23) "Travel ID," as it refers to an identity document, means a document that complies
+16 with Pub. L. No. 109-13, Title II;
+17 (24) "Motor scooter" means a low-speed motorcycle that is:
+18 (a) Equipped with wheels greater than sixteen (16) inches in diameter;
+19 (b) Equipped with an engine greater than fifty (50) cubic centimeters;
+20 (c) Designed to operate at a speed not to exceed fifty (50) miles per hour;
+21 (d) Equipped with brake horsepower of two (2) or greater; and
+22 (e) Equipped with a step-through frame or a platform for the operator's feet;
+23 (25) "Alternative technology," as used in KRS 186.400 to 186.640, means methods used
+24 by the cabinet to facilitate the issuance of operator's licenses and personal
+25 identification cards outside of the normal in-person application at a circuit
+26 clerk[cabinet] office, including but not limited to a cabinet mobile unit or online
+27 services;
+Page 45 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (26) "Electric motorcycle" means the same as "motorcycle" or "motor scooter" as
+2 defined in this section, that is powered by a:
+3 (a) Battery or equivalent energy storage device that can be charged with an
+4 electric plug using an external electricity source; or
+5 (b) Combination of an internal combustion engine and electric motor; and
+6 (27) "Electric vehicle" means any vehicle that has plug-in charging capability, regardless
+7 of whether the vehicle is powered by:
+8 (a) An electric motor only; or
+9 (b) A combination of an internal combustion engine and electric power.
+10 Section 23. KRS 189A.340 is amended to read as follows:
+11 (1) (a) If a person's license is suspended pursuant to this chapter and the initial
+12 suspension was for a violation of KRS 189A.010(1)(a), (b), (e), or (f), the sole
+13 license the person shall be eligible for is an ignition interlock license pursuant
+14 to this section.
+15 (b) If a person's license is suspended pursuant to this chapter and the initial
+16 suspension was for a violation of KRS 189A.010(1)(c) or (d), the person shall
+17 be eligible for an ignition interlock license pursuant to this section and may be
+18 eligible for a hardship license pursuant to KRS 189A.410.
+19 (2) (a) A person may apply for an ignition interlock license anytime, including after
+20 receiving the notices under KRS 189A.105 or after his or her license has been
+21 suspended pursuant to this chapter.
+22 (b) If at the time the person applies for an ignition interlock license, the person's
+23 license has been suspended pursuant to this chapter, the person shall be
+24 authorized to drive to:
+25 1. An ignition interlock device provider to have a functioning ignition
+26 interlock device installed in his or her motor vehicle or motorcycle; and
+27 2. The circuit clerk's office in the person's county of
+Page 46 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 residence[Transportation Cabinet] to apply for[obtain] an ignition
+2 interlock license;
+3 This paragraph shall only apply within fourteen (14) days of the date printed
+4 on the ignition interlock approval letter issued by the Transportation Cabinet
+5 and if the person has the ignition interlock approval letter in the motor vehicle
+6 or motorcycle.
+7 (3) Before the Transportation Cabinet shall issue an ignition interlock license, the
+8 person shall:
+9 (a) Submit an application for an ignition interlock license;
+10 (b) Provide proof of motor vehicle insurance;
+11 (c) Provide an ignition interlock certificate of installation issued by an ignition
+12 interlock device provider; and
+13 (d) Provide any other information required by administrative regulations
+14 promulgated by the Transportation Cabinet under KRS 189A.350.
+15 (4) An ignition interlock license shall restrict the person to operating only a motor
+16 vehicle or motorcycle equipped with a functioning ignition interlock device, unless
+17 the person qualifies for an employer exemption under subsection (6) of this section.
+18 This restriction shall remain in place for:
+19 (a) If a person's license was suspended pretrial pursuant to KRS 189A.200, the
+20 required suspension period under KRS 189A.200(6);
+21 (b) If a person's license was suspended pursuant to KRS 189A.070 or 189A.107:
+22 1. The required suspension period under KRS 189A.070(1); and
+23 2. a. If the maximum suspension period under KRS 189A.070(1)(a) has
+24 not yet been met, until the Transportation Cabinet has received a
+25 declaration from the person's ignition interlock device provider, in
+26 a form provided or approved by the cabinet, certifying that none of
+27 the violations outlined in subdivision b. of this subparagraph has
+Page 47 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 occurred:
+2 i. For a first offense within a ten (10) year period of KRS
+3 189A.010(1)(a), (b), (c), (d), or (e) or for any offense of KRS
+4 189A.010(1)(f), in the ninety (90) consecutive days; and
+5 ii. For all subsequent offenses within a ten (10) year period of
+6 KRS 189A.010(1)(a), (b), (c), (d), or (e), one hundred twenty
+7 (120) consecutive days;
+8 prior to the date of releasing the ignition interlock device
+9 restriction.
+10 b. If any of the following occur, it shall be a violation of the ninety
+11 (90) or one hundred twenty (120) consecutive day requirement:
+12 i. Failure to take any random breath alcohol concentration test
+13 unless a review of the digital image confirms that the motor
+14 vehicle or motorcycle was not occupied by a driver at the
+15 time of the missed test;
+16 ii. Failure to pass any random retest with a breath alcohol
+17 concentration of 0.02 or lower unless a subsequent test
+18 performed within ten (10) minutes registers a breath alcohol
+19 concentration lower than 0.02, and the digital image
+20 confirms the same person provided both samples;
+21 iii. Failure of the person, or his or her designee, to appear at the
+22 ignition interlock device provider when required for
+23 maintenance, repair, calibration, monitoring, inspection, or
+24 replacement of the device;
+25 iv. Failure of the person to pay fees established pursuant to
+26 subsection (7) of this section;
+27 v. Tampering with an installed ignition interlock device with
+Page 48 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 the intent of rendering it defective; or
+2 vi. Altering, concealing, hiding, or attempting to alter, conceal,
+3 or hide, the person's identity from the ignition interlock
+4 device's camera while providing a breath sample;
+5 (c) If a person's license was suspended pursuant to KRS 189A.090, for the
+6 required suspension period under KRS 189A.090(2); or
+7 (d) If a person's license suspension was extended pursuant to KRS 189A.345, the
+8 required suspension period under KRS 189A.345(1).
+9 (5) (a) The time period a person:
+10 1. Holds a valid ignition interlock license pursuant to this section; or
+11 2. Receives alcohol or substance abuse treatment in an inpatient residential
+12 facility;
+13 shall apply on a day-for-day basis toward satisfying the suspension periods
+14 detailed in subsection (4) of this section.
+15 (b) Except as provided in paragraph (c) of this subsection, the Transportation
+16 Cabinet shall give the person a day-for-day credit for any time period the
+17 person:
+18 1. Held a valid ignition interlock license; or
+19 2. Received alcohol or substance abuse treatment in an inpatient residential
+20 facility.
+21 (c) A person shall not receive day-for-day credit for days the person utilized the
+22 employer exemption in accordance with subsection (6) of this section and
+23 drove an employer's motor vehicle or motorcycle not equipped with a
+24 functioning ignition interlock device.
+25 (6) (a) A person with an ignition interlock license may operate a motor vehicle or
+26 motorcycle not equipped with a functioning ignition interlock device if:
+27 1. The person is required to operate an employer's motor vehicle or
+Page 49 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 motorcycle in the course and scope of employment; and
+2 2. The business entity that owns the motor vehicle or motorcycle is not
+3 owned or controlled by the person.
+4 (b) To qualify for the employer exemption, the person shall provide the
+5 Transportation Cabinet with a sworn statement from his or her employer
+6 stating that the person and business entity meet the requirements of paragraph
+7 (a) of this subsection.
+8 (7) (a) Except as provided in paragraph (c) of this subsection, an ignition interlock
+9 device provider may charge the following fees:
+10 1. An installation fee for an alternative fuel vehicle or a vehicle with a
+11 push button starter not to exceed one hundred thirty dollars ($130), an
+12 installation fee for all other vehicles not to exceed one hundred dollars
+13 ($100);
+14 2. A monthly fee not to exceed one hundred dollars ($100);
+15 3. A removal fee not to exceed thirty dollars ($30);
+16 4. A reset fee not to exceed fifty dollars ($50); or
+17 5. A missed appointment fee not to exceed thirty-five dollars ($35).
+18 (b) A person who is issued an ignition interlock license shall pay fees as
+19 established in his or her lease agreement with the ignition interlock device
+20 provider for any ignition interlock device installed in his or her motor vehicle
+21 or motorcycle. However, the fees shall never be more than allowed under
+22 paragraph (a) of this subsection and are subject to paragraph (c) of this
+23 subsection.
+24 (c) Any person who has an income:
+25 1. At or below two hundred percent (200%) but above one hundred fifty
+26 percent (150%) of the federal poverty guidelines, shall pay only
+27 seventy-five percent (75%) of fees established pursuant to paragraph (a)
+Page 50 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 of this subsection;
+2 2. At or below one hundred fifty percent (150%) but above one hundred
+3 percent (100%) of the federal poverty guidelines, shall pay only fifty
+4 percent (50%) of fees established pursuant to paragraph (a) of this
+5 subsection; or
+6 3. At or below one hundred percent (100%) of the federal poverty
+7 guidelines, shall pay only twenty-five percent (25%) of fees established
+8 pursuant to paragraph (a) of this subsection;
+9 As used in this paragraph, "federal poverty guidelines" has the same meaning
+10 as in KRS 205.5621. The Transportation Cabinet shall determine the person's
+11 income and where that income places the person on the federal poverty
+12 guidelines.
+13 (d) Neither the Commonwealth, the Transportation Cabinet, nor any unit of state
+14 or local government shall be responsible for payment of any costs associated
+15 with an ignition interlock device.
+16 (8) For a person issued an ignition interlock license under this section who is residing
+17 outside of Kentucky, the Transportation Cabinet may accept an ignition interlock
+18 certificate of installation from an ignition interlock device provider authorized to do
+19 business in the state where the person resides if the ignition interlock device meets
+20 the requirements of that state.
+21 Section 24. KRS 281A.090 is amended to read as follows:
+22 (1) Except when driving under a commercial learner's permit and accompanied by the
+23 holder of commercial driver's license valid for the vehicle being driven, no person
+24 shall drive a commercial motor vehicle on the highways of this state unless the
+25 person holds a valid commercial driver's license with applicable endorsements valid
+26 for the vehicle he or she is driving.
+27 (2) No person shall drive a commercial motor vehicle on the highways of this state
+Page 51 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 while his or her driving privilege for a commercial or noncommercial motor vehicle
+2 is suspended, revoked, or canceled, or while he or she is subject to a
+3 disqualification, or in violation of an out-of-service order.
+4 (3) The licensee shall have in his or her immediate possession at all times when
+5 operating a motor vehicle his or her commercial driver's license, and shall display
+6 the license upon demand to a circuit clerk, the Transportation Cabinet, a license
+7 examiner, a peace officer, a State Police officer, or an inspector or officer of the
+8 Department of Vehicle Regulation. It shall be a defense to a violator of this
+9 subsection if the person so charged produces in court a commercial driver's license,
+10 issued to him or her before his or her arrest or violation and which was valid at that
+11 time.
+12 Section 25. KRS 281A.130 is amended to read as follows:
+13 (1) A person shall not be issued a commercial driver's license unless that person:
+14 (a) Is a resident of this state;
+15 (b) Holds a valid operator's license;
+16 (c) Has complied with the provisions of KRS 281A.300;
+17 (d) Except as provided in KRS 281A.165, has passed the knowledge and skills
+18 tests for driving a commercial motor vehicle which comply with minimum
+19 federal standards established by federal regulation enumerated in 49 C.F.R. pt.
+20 383, as adopted by the cabinet; and
+21 (e) Has satisfied all other safety requirements including those requirements
+22 imposed by state law or federal regulation. The tests shall be prescribed and
+23 conducted as set forth in KRS 281A.160.
+24 (2) A commercial driver's license or commercial learner's permit shall not be issued to
+25 a person while the person is subject to a disqualification from driving a commercial
+26 motor vehicle or while the person's driver's license or driving privilege is
+27 suspended, revoked, or canceled in any state or jurisdiction.
+Page 52 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (3) A commercial driver's license shall not be issued to a person who has a commercial
+2 driver's license issued by any other state unless the person first surrenders all such
+3 licenses, which shall be returned to the issuing jurisdiction for cancellation.
+4 (4) To ensure that an applicant for a commercial driver's license or commercial
+5 learner's permit complies with the requirements of subsections (2) and (3) of this
+6 section, the circuit clerk[Transportation Cabinet] shall verify through the
+7 commercial driver's license information system and national driver register that the
+8 person applying for a Kentucky CDL does not currently have his or her operator's
+9 license or driving privilege suspended or revoked in another licensing jurisdiction.
+10 If the person's operator's license or driving privilege is currently suspended or
+11 revoked in another licensing jurisdiction, the circuit clerk[Transportation Cabinet]
+12 shall not issue the person a Kentucky CDL until the person resolves the matter in
+13 the other licensing jurisdiction and complies with the provisions of this chapter and
+14 KRS Chapter 186.
+15 Section 26. KRS 281A.140 is amended to read as follows:
+16 (1) The application for a commercial driver's license or commercial learner's permit
+17 shall include the following information:
+18 (a) The applicant's full legal name, any nicknames or other names by which he or
+19 she is known, and present Kentucky resident address. If the applicant's
+20 mailing address is different from the resident address, the mailing address
+21 shall also be included;
+22 (b) A physical description of the applicant including sex, height, weight, eye
+23 color, and race;
+24 (c) The applicant's date of birth;
+25 (d) The applicant's Social Security number;
+26 (e) The applicant's signature;
+27 (f) Certifications including those required by 49 C.F.R. secs. 383.71, 383.73, and
+Page 53 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 384.206, as adopted by the cabinet;
+2 (g) A consent to release driving record information;
+3 (h) A valid Class D operator's license issued pursuant to KRS 186.4102 and
+4 186.412;
+5 (i) A birth certificate if the applicant does not hold a valid operator's license at
+6 the time of application;
+7 (j) The name of every jurisdiction in which the applicant has previously been
+8 licensed to drive any type of motor vehicle during the ten (10) year period
+9 immediately preceding the date of the application; and
+10 (k) Any other information required by the cabinet.
+11 (2) The cabinet or state police may require any other information needed in order to
+12 process the application.
+13 (3) When the holder of a commercial driver's license changes his or her name or
+14 residence, the information shall be reported to the cabinet within ten (10) days. The
+15 holder of a Class A, B, or C license shall make an application for a duplicate license
+16 within thirty (30) days of changing his or her name or address.
+17 (4) Any person whose commercial driver's license has been legitimately lost or
+18 destroyed shall make an application for a duplicate. A person applying for a
+19 duplicate within the time period for which the original license was issued shall
+20 apply to the office of the circuit clerk in the county where the person
+21 resides[Transportation Cabinet]. The person shall provide the clerk[cabinet] with
+22 proof of the person's identity and a notarized affidavit with a raised seal explaining
+23 in detail the loss or destruction of the original license.
+24 (5) A person who is a resident of this state shall not drive a commercial motor vehicle
+25 under the authority of a commercial driver's license issued by another jurisdiction.
+26 (6) Any person who knowingly falsifies information or certifications required to obtain
+27 a commercial driver's license, a commercial driver's license permit, or a duplicate
+Page 54 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 commercial driver's license subsequent to an administrative hearing conducted in
+2 accordance with KRS 186.570, shall be subject to suspension, revocation, or
+3 cancellation of his or her commercial driver's license for a period of at least sixty
+4 (60) consecutive days.
+5 Section 27. KRS 281A.150 is amended to read as follows:
+6 (1) Every person seeking a commercial driver's license or a commercial learner's permit
+7 shall first apply in person to the circuit clerk of the county in which the applicant:
+8 (a) Resides; or
+9 (b) Is enrolled in a driver training school, if the applicant is not a Kentucky
+10 resident[cabinet].
+11 (2) The application shall be in the form prescribed by KRS 281A.140 as provided by
+12 the cabinet. Except as provided in KRS 281A.160(6), each time a person applies for
+13 a commercial driver's license, a commercial learner's permit, or seeks to upgrade or
+14 change his or her commercial driver's license, the person shall be required to:
+15 (a) Update the application; and
+16 (b) Submit the appropriate fee to the circuit clerk[cabinet].
+17 (3)[(2)] In addition to the fees for an operator's license under KRS 186.531, the
+18 cabinet shall set fees by administrative regulation, in accordance with KRS Chapter
+19 13A, for the following applications that shall not exceed:
+20 (a) Forty dollars ($40) for each application for a commercial driver's license. The
+21 fee shall be based on the class, type of license, endorsement, restriction, or
+22 tests to be taken;
+23 (b) Thirty-five dollars ($35) for each application for a commercial learner's
+24 permit;
+25 (c) Fifteen dollars ($15) for each application for a change or addition in class or
+26 type of license, endorsement, or restriction; and
+27 (d) Forty dollars ($40) for each application for a duplicate if it is the first
+Page 55 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 duplicate applied for within the time period for which the original license was
+2 issued. Sixty dollars ($60) for a second or subsequent duplicate applied for
+3 within the time period for which the original license was issued. The fees
+4 required for a duplicate shall be in addition to fees charged under
+5 paragraph[subsection (2)] (c) of this subsection[section].
+6 (4)[(3)] In addition to the fees for an operator's license KRS 186.531, the cabinet shall
+7 set fees by administrative regulation in accordance with KRS Chapter 13A, for the
+8 following commercial driver's licenses that shall not exceed:
+9 (a) Forty-five dollars ($45) for each initial or renewal of a commercial driver's
+10 license;
+11 (b) Sixty dollars ($60) for each transfer of a commercial driver's license; and
+12 (c) Thirty dollars ($30) for each initial or renewal of a commercial driver's
+13 license with an "S" endorsement.
+14 (5)[(4)] All fees remitted to the circuit clerk[cabinet] shall be nonrefundable
+15 regardless of whether the applicant completes the requirements for a commercial
+16 driver's license or is tested.
+17 (6)[(5)] All fees collected for the issuance of a commercial driver's license or a
+18 commercial learner's permit shall be deposited into trust and agency accounts to be
+19 used exclusively for the administration and implementation of this chapter, except
+20 as prescribed in subsection (7)[(6)] of this section. The accounts shall not lapse but
+21 shall be continuing from year to year.
+22 (7)[(6)] All fees collected pursuant to this section shall be allocated between the
+23 Transportation Cabinet and Department of Kentucky State Police, except a fifty
+24 cent ($0.50) issuance fee shall be allocated to the general fund from issuance of a
+25 commercial driver's license permit and a three dollar ($3) issuance fee shall be
+26 allocated to the general fund from issuance of a commercial driver's license.
+27 (8)[(7)] Any applicant who seeks reinstatement of his or her commercial driving
+Page 56 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 privilege after a suspension, withdrawal, revocation, or disqualification shall pay a
+2 reinstatement fee of fifty dollars ($50) in addition to those fees required by
+3 subsection (2) of this section and shall satisfy the requirements of KRS 281A.160.
+4 This fee shall not be required if his or her commercial driving privilege was
+5 withdrawn only as a result of the withdrawal of his or her privilege to drive a
+6 noncommercial motor vehicle.
+7 (9)[(8)] As payment for any fee identified in this section, the circuit clerk[cabinet]:
+8 (a) Shall accept cash and personal checks; and
+9 (b) May accept other methods of payment in accordance with KRS 45.345.
+10 Section 28. KRS 281A.160 is amended to read as follows:
+11 (1) (a) Except as provided in subsection (4) of this section, the State Police shall be
+12 responsible for administering both the knowledge and skills test required by
+13 KRS 281A.130.
+14 (b) Prior to taking the knowledge test, a first-time applicant for a hazardous
+15 materials endorsement shall complete the entry level driver training required
+16 under 49 C.F.R. pt. 380.
+17 (c) Applicants who fail the written knowledge test shall be permitted to retake the
+18 written test on the next day the tests are administered. Applicants who fail the
+19 written test six (6) times shall be required to wait three (3) days before taking
+20 the knowledge test again. Applicants who subsequently fail the written test
+21 three (3) additional times shall be required to wait three (3) days prior to
+22 retaking the test.
+23 (2) (a) Except as provided for in subsection (3) of this section, at the time a CDL
+24 permit is issued:
+25 1. An applicant who has held a Kentucky operator's license for thirty (30)
+26 days or longer shall pay a skills-testing fee of fifty dollars ($50); and
+27 2. An applicant who has held a Kentucky operator's license for less than
+Page 57 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 thirty (30) days or an applicant who holds an out-of-state operator's
+2 license and commercial learner's permit shall pay a skills-testing fee of
+3 one hundred fifty dollars ($150).
+4 (b) There is created within the State Treasury a trust fund to be known as the
+5 State Police CDL skills-testing fund. The fund shall be administered by the
+6 State Police and shall receive all skills-testing and retesting fees collected
+7 under paragraph (a) of this subsection and subsection (6)(e) of this section, in
+8 addition to any grants, gifts, or appropriations of state or federal moneys and
+9 any interest earned on moneys in the fund. Moneys in the fund shall not lapse
+10 and shall be carried forward to the next succeeding fiscal year. The State
+11 Police CDL skills-testing fund shall be used by the State Police to contract
+12 with and train civilian CDL skills examiners and to improve the logistics of
+13 the CDL skills-testing process.
+14 (c) The State Police, upon request of an applicant who has passed both the vision
+15 and knowledge tests, and has successfully completed all of the entry level
+16 driver training required under 49 C.F.R. pt. 380 for the license class and
+17 endorsements the applicant seeks, may schedule the applicant for the skills
+18 test at the first available test date at a test site designated by the State Police
+19 but not less than fourteen (14) days after the applicant has filed the application
+20 and been issued a CDL permit. Except in extenuating circumstances, a retest
+21 for a failed portion of the skills test shall be given within three (3) days of a
+22 request of a retest.
+23 (d) An applicant shall provide a class representative commercial vehicle, for the
+24 class of CDL for which the applicant is testing, in which to take the skills test.
+25 Unless the State Police grant an exemption at the time the application for
+26 testing is made, the vehicle supplied under this paragraph shall be unloaded.
+27 Upon arrival for the skills test, the applicant shall have in his or her
+Page 58 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 possession a valid Kentucky operator's license and a valid CDL permit. A
+2 CDL-licensed driver who is at least twenty-one (21) years old shall
+3 accompany the applicant at all times the applicant is in operation of a
+4 commercial vehicle.
+5 (3) A testing fee shall not be charged to:
+6 (a) An individual applying for a CDL with an "S" endorsement as defined in KRS
+7 281A.170; or
+8 (b) Military personnel applying for a CDL under KRS 281A.165.
+9 (4) The State Police may authorize a third party to administer the skills test specified by
+10 this section if:
+11 (a) The test is the same that would otherwise be administered by the state; and
+12 (b) The third party has entered into an agreement with this Commonwealth which
+13 complies with requirements of 49 C.F.R. sec. 383.75, as adopted by the
+14 Transportation Cabinet.
+15 (5) The State Police shall promulgate administrative regulations in accordance with
+16 KRS Chapter 13A that establish procedures that ensure an arm's-length relationship
+17 is maintained between a third-party tester and any owner, officer, or employee of
+18 any program offering commercial truck driving under the Kentucky Community
+19 and Technical College System or a proprietary school licensed under KRS Chapter
+20 165A.
+21 (6) (a) Applicants shall be permitted to take the skills test for a particular class
+22 vehicle an unlimited number of times; however, an applicant shall not retest
+23 more than one (1) time in any twenty-four (24) hour period.
+24 (b) The skills test shall consist of three (3) separate portions: pre-trip inspection,
+25 basic maneuvering, and road skills. An applicant must achieve a score of at
+26 least eighty percent (80%) on each portion of the skills test before a CDL may
+27 be issued to the applicant. An applicant who passes one (1) or more portions
+Page 59 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 of the skills test but does not pass all portions of the skills test shall retest only
+2 on those portions of the skills test the applicant failed.
+3 (c) An applicant who fails any portion of the skills test four (4) times shall be
+4 notified by the State Police that the applicant is required to wait one (1) week
+5 before retaking a portion of this skills test again.
+6 (d) Failure of an applicant to notify the State Police at least forty-eight (48) hours
+7 prior to missing an appointment for a skills test, or provide a written medical
+8 excuse from a licensed physician, advanced registered nurse practitioner, or
+9 physician's assistant, shall be considered a failure on all parts of the skills test
+10 scheduled to be given for the purposes of determining number of failures,
+11 waiting periods, and retesting fees under paragraphs (c) and (e) of this
+12 subsection for individual applicants. The fees for a missed appointment failure
+13 shall be forfeited and retained in the State Police CDL skills-testing fund
+14 established under this section. If the forty-eight (48) hour notice or medical
+15 excuse is given, the fee shall be applied to the rescheduled test. A missed
+16 appointment failure under this paragraph shall not be reported as a failure to
+17 the board.
+18 (e) Except as provided for in paragraph (d) of this subsection, at the time of
+19 application for a retest under this subsection, the applicant shall pay a
+20 retesting fee of fifty dollars ($50).
+21 (7) (a) An applicant who seeks reinstatement of a commercial driver's license after a
+22 suspension, withdrawal, revocation, or disqualification of less than one (1)
+23 year shall pay the reinstatement fee as prescribed by KRS 281A.150(8)[(7)]
+24 and shall receive his or her commercial driver's license with all endorsement
+25 and restrictions that were in effect at the time of suspension. An applicant who
+26 seeks reinstatement of a commercial driver's license after a suspension,
+27 withdrawal, revocation, or disqualification of one (1) year or more shall
+Page 60 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 submit to the skills, knowledge, and vision tests.
+2 (b) Subject to paragraphs (c) and (d) of this subsection, a person who possessed a
+3 Kentucky commercial driver's license that has expired for a period of less than
+4 five (5) years and was not subject to suspension, withdrawal, revocation, or
+5 disqualification for any reason at the time of expiration may have that license
+6 reinstated, with all endorsements, without submitting to the skills and
+7 knowledge tests by applying to the cabinet for renewal. Upon submission of
+8 medical certification, driver self-certifications required under KRS
+9 281A.140(1)(f), successful completion of any necessary criminal background
+10 check, and review of the person's driving history record, the cabinet shall
+11 issue a renewal CDL, with all endorsements, to an applicant under this
+12 paragraph.
+13 (c) A person who otherwise meets the requirements of paragraph (b) of this
+14 subsection whose CDL was subject to suspension or revocation solely for
+15 failure to provide medical certification may apply for renewal of a CDL under
+16 paragraph (b) of this subsection.
+17 (d) If the CDL held by a person who otherwise meets the requirements of
+18 paragraph (b) of this subsection carried a hazardous materials endorsement,
+19 and the applicant wishes to retain that endorsement, he or she shall complete
+20 any examinations required for a hazardous materials endorsement renewal in
+21 KRS 281A.180(2) prior to renewing the CDL under paragraph (b) of this
+22 subsection.
+23 (8) (a) The commissioner of the Department of Kentucky State Police shall
+24 promulgate administrative regulations in accordance with KRS Chapter 13A
+25 to implement the provisions of this section.
+26 (b) The State Police shall promulgate administrative regulations in accordance
+27 with KRS Chapter 13A to set forth the qualifications for contract examiners
+Page 61 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 retained under subsection (2)(b) of this section.
+2 Section 29. KRS 281A.300 is amended to read as follows:
+3 (1) (a) Any person initially applying for, or renewing, a Kentucky CDL or CLP shall
+4 be required to undergo a state and national criminal history background check
+5 of state and federal wanted or "hot file" records conducted by the State Police.
+6 (b) All initial and renewal application forms for a Kentucky CDL or CLP shall
+7 conspicuously state the following: "STATE LAW REQUIRES A STATE
+8 AND NATIONAL CRIMINAL HISTORY BACKGROUND CHECK AS A
+9 CONDITION OF APPLYING FOR A KENTUCKY CDL. ANY PERSON
+10 WHO REFUSES TO SUBMIT TO A CRIMINAL HISTORY
+11 BACKGROUND CHECK SHALL NOT BE ELIGIBLE TO APPLY FOR,
+12 OR BE ISSUED, A KENTUCKY CDL."
+13 (2) The results of the state and national criminal history background checks shall be
+14 sent to the cabinet for review within seventy-two (72) hours. An applicant for a
+15 CLP may enroll in a commercial driver training program under the Kentucky
+16 Community and Technical College System or a proprietary school licensed under
+17 KRS Chapter 165A, and may be issued a CLP upon enrollment, however the status
+18 of the applicant retaining the CLP shall not be determined until the results of the
+19 background checks are made available to the cabinet. The cabinet shall inform an
+20 applicant and the circuit clerk, based upon the criminal history background check,
+21 of the applicant's eligibility to be issued a CLP or CDL. The cabinet shall
+22 promulgate administrative regulations in accordance with KRS Chapter 13A to
+23 specify conditions that will cause a person to be denied a CLP or CDL based upon
+24 the person's criminal history background check.
+25 (3) Any fee charged by the State Police to conduct a criminal history background check
+26 shall be paid by the applicant and shall not be refundable. Any fee charged to
+27 conduct a criminal history background check shall be an amount not greater than
+Page 62 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 the actual cost of processing the request and conducting the search.
+2 (4) The criminal history background checks required by this section shall be in addition
+3 to any type of background check that may be required by federal statute, rule,
+4 regulation, or order.
+5 Section 30. KRS 281A.320 is amended to read as follows:
+6 Any person initially renewing a commercial driver's license or adding an endorsement
+7 after September 30, 2002, shall apply for the renewal at least thirty (30) days prior to the
+8 expiration date of the license. The purpose of the early renewal procedures is to ensure
+9 the criminal history background check required under KRS 281A.300 may be completed
+10 prior to the expiration date on the license. A person may obtain the information necessary
+11 to conduct the criminal history background check from the circuit clerk[cabinet]. If the
+12 person has a law enforcement agency other than the State Police conduct the background
+13 check, the law enforcement agency may charge the person a nonrefundable fee for the
+14 service. Any fee charged by any law enforcement agency to conduct a criminal history
+15 background check shall be an amount not greater than the actual cost of processing the
+16 request and conducting the search.
+17 Section 31. KRS 116.0452 is amended to read as follows:
+18 (1) For the purpose of determining whether a voter registration application is received
+19 during the period in which registration books are open under KRS 116.045(2), an
+20 application shall be deemed timely received:
+21 (a) In the case of registration with a motor vehicle driver's license application, if
+22 the valid voter registration form of the applicant is accepted by the circuit
+23 clerk[Transportation Cabinet] before the registration books are closed;
+24 (b) In the case of registration by mail, if the valid voter registration form of the
+25 applicant is legibly postmarked before the registration books are closed;
+26 (c) In the case of registration with a voter registration agency, if the valid voter
+27 registration form of the applicant is accepted at the voter registration agency
+Page 63 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 before the registration books are closed; and
+2 (d) In any other case, if the valid voter registration form of the applicant is
+3 received by the appropriate county clerk, no later than 4 p.m. local time,
+4 before the registration books are closed.
+5 (2) The county clerk shall send notice to each applicant of the disposition of the
+6 application.
+7 (3) The name of a registered voter shall not be removed from the registration books
+8 except:
+9 (a) Upon request of the voter;
+10 (b) As provided by KRS 116.113, upon notice of death, declaration of
+11 incompetency, excusal from jury duty for not being a United States citizen, or
+12 conviction of a felony; or
+13 (c) Upon failure to respond to a confirmation mailing sent pursuant to KRS
+14 116.112(3) and failure to vote or appear to vote and, if necessary, correct the
+15 registration record of the voter's address in an election during the period
+16 beginning on the date of the notice and ending on the day after the date of the
+17 second general election for Federal office that occurs after the date of the
+18 notice.
+19 (4) The identity of the voter registration agency or circuit clerk's[Transportation
+20 Cabinet] office through which any particular voter is registered shall not be
+21 disclosed to the public.
+22 Section 32. KRS 116.0455 is amended to read as follows:
+23 (1) (a) Each motor vehicle driver's license application, including any renewal
+24 application, submitted to the appropriate motor vehicle authority shall serve as
+25 an application for voter registration unless the applicant fails to sign the voter
+26 registration application.
+27 (b) An application for voter registration submitted under paragraph (a) of this
+Page 64 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 subsection shall be considered as updating any previous voter registration by
+2 the applicant.
+3 (2) No information relating to the failure of an applicant for a motor vehicle driver's
+4 license to sign a voter registration application may be used for any purpose other
+5 than voter registration.
+6 (3) (a) The Transportation Cabinet shall include a voter registration application form
+7 as part of an application for a motor vehicle driver's license.
+8 (b) The voter registration application portion of an application for a motor vehicle
+9 driver's license shall comply with the requirements of Section 5 of Public Law
+10 103-31, the National Voter Registration Act of 1993.
+11 (4) Any change of address form submitted for purposes of a motor vehicle driver's
+12 license shall serve as notification of change of address for voter registration for the
+13 registrant involved unless the registrant states on the form that the change of
+14 address is not for voter registration purposes.
+15 (5) (a) A completed voter registration portion of an application for a motor vehicle
+16 driver's license accepted by the circuit clerk[Transportation Cabinet] shall be
+17 transmitted to the county clerk of the county of the applicant's voting
+18 residence not later than ten (10) days after the date of acceptance.
+19 (b) If a voter registration application is accepted within five (5) days before the
+20 last day for registration to vote in an election, the application shall be
+21 transmitted to the county clerk of the county of the applicant's voting
+22 residence not later than five (5) days after the date of acceptance.
+23 (6) The circuit clerk[Transportation Cabinet] shall provide to the county clerk a
+24 declination statement signed by an applicant if the applicant has declined to register
+25 to vote.
+26 Section 33. KRS 116.085 is amended to read as follows:
+27 (1) When a voter changes his or her place of residence to another location within the
+Page 65 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 county, the clerk shall, upon application of the voter in person, by mail, or through
+2 the circuit clerk[Transportation Cabinet], transfer the voter's registration record to
+3 the proper precinct.
+4 (2) When a registered voter changes his or her place of residence from one (1) precinct
+5 to another within the same county before the registration books are closed and fails
+6 to transfer his or her registration with the county clerk prior to the date the
+7 registration books are closed, the voter shall be permitted to update the voting
+8 records and to vote in the present election at the appropriate precinct for the current
+9 address upon affirmation of his or her current address and signing the precinct list
+10 as set forth in KRS 117.225. Before being permitted to vote, the voter shall also
+11 confirm his or her identity as required in KRS 117.227 and complete the affidavit
+12 which is required to be completed by a voter whose right to vote has been
+13 challenged. The subscribed oaths shall be delivered to the county clerk and
+14 investigated in accordance with KRS 117.245.
+15 (3) When a registered voter changes his or her place of residence from one (1) precinct
+16 to another precinct within the same county after the registration books close, the
+17 voter shall be permitted to vote in the present election at the appropriate precinct for
+18 the current address upon affirmation of his or her current address and signing the
+19 precinct list as set forth in KRS 117.225. Before being permitted to vote, the voter
+20 shall confirm his or her identity as required by KRS 117.227 and complete the
+21 affidavit which is required to be completed by a voter whose right to vote is
+22 challenged. The subscribed oaths shall be delivered to the county clerk and
+23 investigated in accordance with KRS 117.245.
+24 (4) (a) When the boundaries of a precinct are changed by law, placing a registered
+25 voter in a new or different precinct, the clerk shall automatically transfer the
+26 voter's registration record to the proper precinct and mail the voter a notice of
+27 the change.
+Page 66 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 (b) When the General Assembly enacts a new redistricting plan, the clerk shall
+2 mail each voter a notice informing the voter of his or her current district
+3 number, State Representative, and State Senator.
+4 (5) A voter who has changed his or her name may indicate the change at the precinct
+5 on election day by completing the form provided for this purpose by the State
+6 Board of Elections. The form shall be returned by the precinct officer to the county
+7 clerk who shall make the necessary change on the voter's registration record.
+8 Section 34. KRS 27A.052 is amended to read as follows:
+9 (1) The Circuit Court clerk salary account is created as a trust and agency account in
+10 the State Treasury to be administered by the Administrative Office of the Courts.
+11 The account shall consist of the portion of fees directed to the account under
+12 Section 11, and 18 of this Act, proceeds from grants, contributions, appropriations,
+13 or other moneys made available for the purposes of the account.
+14 (2) Notwithstanding KRS 45.229, any moneys remaining in the account not expended
+15 at the close of a fiscal year shall not lapse but shall be carried forward to the next
+16 fiscal year.
+17 (3)[ Any interest earnings of the account shall become a part of the account and shall
+18 not lapse.
+19 (4)] Moneys in the account shall be used for the purposes of hiring additional deputy
+20 circuit clerks and providing salary adjustments to deputy circuit clerks and for no
+21 other purpose[are hereby appropriated for these purposes].
+22 Section 35. KRS 186.014 is amended to read as follows:
+23 In any county, the:
+24 (1) County clerk may maintain branch offices for the purpose of processing motor
+25 vehicle titling and registration transactions; and
+26 (2) Circuit clerk may maintain branch offices for the purpose of processing
+27 applications for operator's licenses. instruction permits, and personal
+Page 67 of 68
+XXXX 12/31/2025 3:50 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1324
+1 identification cards.
+2 Section 36. This Act takes effect July 1, 2027.
+Page 68 of 68
+XXXX 12/31/2025 3:50 PM Jacketed

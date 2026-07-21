@@ -1,0 +1,1702 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 AN ACT relating to the Department of Workers' Claims and declaring an
+2 emergency.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 SECTION 1. A NEW SECTION OF KRS CHAPTER 342 IS CREATED TO
+5 READ AS FOLLOWS:
+6 (1) There is hereby created the Department of Workers' Claims administratively
+7 attached to the Office of the Governor, which shall be headed by a commissioner
+8 appointed by the Governor and confirmed by the Senate in accordance with
+9 Section 6 of this Act.
+10 (2) The department shall be divided for administrative purposes into the:
+11 (a) Office of Administrative Law Judges;
+12 (b) Division of Claims Processing;
+13 (c) Division of Security and Compliance;
+14 (d) Division of Workers' Compensation Funds; and
+15 (e) Division of Specialist and Medical Services.
+16 (3) The Office of Administrative Law Judges shall be headed by a chief
+17 administrative law judge appointed in accordance with Section 7 of this Act.
+18 (4) Each division in the department shall be headed by a director appointed by the
+19 commissioner with the approval of the Governor in accordance with KRS 12.050.
+20 (5) The Workers' Compensation Board shall be attached to the Department of
+21 Workers' Claims for administrative purposes only.
+22 Section 2. KRS 342.0011 is amended to read as follows:
+23 As used in this chapter, unless the context otherwise requires:
+24 (1) "Injury" means any work-related traumatic event or series of traumatic events,
+25 including cumulative trauma, arising out of and in the course of employment which
+26 is the proximate cause producing a harmful change in the human organism
+27 evidenced by objective medical findings. "Injury" does not include the effects of the
+Page 1 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 natural aging process, and does not include any communicable disease unless the
+2 risk of contracting the disease is increased by the nature of the employment.
+3 "Injury" when used generally, unless the context indicates otherwise, shall include
+4 an occupational disease and damage to a prosthetic appliance, but shall not include
+5 a psychological, psychiatric, or stress-related change in the human organism, unless
+6 it is a direct result of a physical injury;
+7 (2) "Occupational disease" means a disease arising out of and in the course of the
+8 employment;
+9 (3) An occupational disease as defined in this chapter shall be deemed to arise out of
+10 the employment if there is apparent to the rational mind, upon consideration of all
+11 the circumstances, a causal connection between the conditions under which the
+12 work is performed and the occupational disease, and which can be seen to have
+13 followed as a natural incident to the work as a result of the exposure occasioned by
+14 the nature of the employment and which can be fairly traced to the employment as
+15 the proximate cause. The occupational disease shall be incidental to the character of
+16 the business and not independent of the relationship of employer and employee. An
+17 occupational disease need not have been foreseen or expected but, after its
+18 contraction, it must appear to be related to a risk connected with the employment
+19 and to have flowed from that source as a rational consequence;
+20 (4) "Injurious exposure" shall mean that exposure to occupational hazard which would,
+21 independently of any other cause whatsoever, produce or cause the disease for
+22 which the claim is made;
+23 (5) "Death" means death resulting from an injury or occupational disease;
+24 (6) "Carrier" means any insurer, or legal representative thereof, authorized to insure the
+25 liability of employers under this chapter and includes a self-insurer;
+26 (7) "Self-insurer" is an employer who has been authorized under the provisions of this
+27 chapter to carry his own liability on his employees covered by this chapter;
+Page 2 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (8) "Department" means the Department of Workers' Claims administratively attached
+2 to the office of the Govenor[in the Education and Labor Cabinet];
+3 (9) "Commissioner" means the commissioner of the Department of Workers' Claims[
+4 under the direction and supervision of the secretary of the Education and Labor
+5 Cabinet];
+6 (10) "Board" means the Workers' Compensation Board;
+7 (11) (a) "Temporary total disability" means the condition of an employee who has not
+8 reached maximum medical improvement from an injury and has not reached a
+9 level of improvement that would permit a return to employment;
+10 (b) "Permanent partial disability" means the condition of an employee who, due
+11 to an injury, has a permanent disability rating but retains the ability to work;
+12 and
+13 (c) "Permanent total disability" means the condition of an employee who, due to
+14 an injury, has a permanent disability rating and has a complete and permanent
+15 inability to perform any type of work as a result of an injury, except that total
+16 disability shall be irrebuttably presumed to exist for an injury that results in:
+17 1. Total and permanent loss of sight in both eyes;
+18 2. Loss of both feet at or above the ankle;
+19 3. Loss of both hands at or above the wrist;
+20 4. Loss of one (1) foot at or above the ankle and the loss of one (1) hand at
+21 or above the wrist;
+22 5. Permanent and complete paralysis of both arms, both legs, or one (1)
+23 arm and one (1) leg;
+24 6. Incurable insanity or imbecility; or
+25 7. Total loss of hearing;
+26 (12) "Income benefits" means payments made under the provisions of this chapter to the
+27 disabled worker or his dependents in case of death, excluding medical and related
+Page 3 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 benefits;
+2 (13) "Medical and related benefits" means payments made for medical, hospital, burial,
+3 and other services as provided in this chapter, other than income benefits;
+4 (14) "Compensation" means all payments made under the provisions of this chapter
+5 representing the sum of income benefits and medical and related benefits;
+6 (15) "Medical services" means medical, surgical, dental, hospital, nursing, and medical
+7 rehabilitation services, medicines, and fittings for artificial or prosthetic devices;
+8 (16) "Person" means any individual, partnership, limited partnership, limited liability
+9 company, firm, association, trust, joint venture, corporation, or legal representative
+10 thereof;
+11 (17) "Wages" means, in addition to money payments for services rendered, the
+12 reasonable value of board, rent, housing, lodging, fuel, or similar advantages
+13 received from the employer, and gratuities received in the course of employment
+14 from persons other than the employer as evidenced by the employee's federal and
+15 state tax returns;
+16 (18) "Agriculture" means the operation of farm premises, including the planting,
+17 cultivation, producing, growing, harvesting, and preparation for market of
+18 agricultural or horticultural commodities thereon, the raising of livestock for food
+19 products and for racing purposes, and poultry thereon, and any work performed as
+20 an incident to or in conjunction with the farm operations, including the sale of
+21 produce at on-site markets and the processing of produce for sale at on-site markets.
+22 It shall not include the commercial processing, packing, drying, storing, or canning
+23 of such commodities for market, or making cheese or butter or other dairy products
+24 for market;
+25 (19) "Beneficiary" means any person who is entitled to income benefits or medical and
+26 related benefits under this chapter;
+27 (20) "United States," when used in a geographic sense, means the several states, the
+Page 4 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, and the
+2 territories of the United States;
+3 (21) "Alien" means a person who is not a citizen, a national, or a resident of the United
+4 States or Canada. Any person not a citizen or national of the United States who
+5 relinquishes or is about to relinquish his residence in the United States shall be
+6 regarded as an alien;
+7 (22) "Insurance carrier" means every insurance carrier or insurance company authorized
+8 to do business in the Commonwealth writing workers' compensation insurance
+9 coverage and includes the Kentucky Employers Mutual Insurance Authority and
+10 every self-insured group operating under the provisions of this chapter;
+11 (23) (a) "Severance or processing of coal" means all activities performed in the
+12 Commonwealth at underground, auger, and surface mining sites; all activities
+13 performed at tipple or processing plants that clean, break, size, or treat coal;
+14 and all activities performed at coal loading facilities for trucks, railroads, and
+15 barges. Severance or processing of coal shall not include acts performed by a
+16 final consumer if the acts are performed at the site of final consumption.
+17 (b) "Engaged in severance or processing of coal" shall include all individuals,
+18 partnerships, limited partnerships, limited liability companies, corporations,
+19 joint ventures, associations, or any other business entity in the Commonwealth
+20 which has employees on its payroll who perform any of the acts stated in
+21 paragraph (a) of this subsection, regardless of whether the acts are performed
+22 as owner of the coal or on a contract or fee basis for the actual owner of the
+23 coal. A business entity engaged in the severance or processing of coal,
+24 including but not limited to administrative or selling functions, shall be
+25 considered wholly engaged in the severance or processing of coal for the
+26 purpose of this chapter. However, a business entity which is engaged in a
+27 separate business activity not related to coal, for which a separate premium
+Page 5 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 charge is not made, shall be deemed to be engaged in the severance or
+2 processing of coal only to the extent that the number of employees engaged in
+3 the severance or processing of coal bears to the total number of employees.
+4 Any employee who is involved in the business of severing or processing of
+5 coal and business activities not related to coal shall be prorated based on the
+6 time involved in severance or processing of coal bears to his total time;
+7 (24) "Premium" for every self-insured group means any and all assessments levied on its
+8 members by such group or contributed to it by the members thereof. For special
+9 fund assessment purposes, "premium" also includes any and all membership dues,
+10 fees, or other payments by members of the group to associations or other entities
+11 used for underwriting, claims handling, loss control, premium audit, actuarial, or
+12 other services associated with the maintenance or operation of the self-insurance
+13 group;
+14 (25) (a) "Premiums received" for policies effective on or after January 1, 1994, for
+15 insurance companies means direct written premiums as reported in the annual
+16 statement to the Department of Insurance by insurance companies, except that
+17 "premiums received" includes premiums charged off or deferred, and, on
+18 insurance policies or other evidence of coverage with provisions for
+19 deductibles, the calculated cost for coverage, including experience
+20 modification and premium surcharge or discount, prior to any reduction for
+21 deductibles. The rates, factors, and methods used to calculate the cost for
+22 coverage under this paragraph for insurance policies or other evidence of
+23 coverage with provisions for deductibles shall be the same rates, factors, and
+24 methods normally used by the insurance company in Kentucky to calculate
+25 the cost for coverage for insurance policies or other evidence of coverage
+26 without provisions for deductibles, except that, for insurance policies or other
+27 evidence of coverage with provisions for deductibles effective on or after
+Page 6 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 January 1, 1995, the calculated cost for coverage shall not include any
+2 schedule rating modification, debits, or credits. For policies with provisions
+3 for deductibles with effective dates on or after January 1, 1995, assessments
+4 shall be imposed on premiums received as calculated by the deductible
+5 program adjustment. The cost for coverage calculated under this paragraph by
+6 insurance companies that issue only deductible insurance policies in Kentucky
+7 shall be actuarially adequate to cover the entire liability of the employer for
+8 compensation under this chapter, including all expenses and allowances
+9 normally used to calculate the cost for coverage. For policies with provisions
+10 for deductibles with effective dates of May 6, 1993, through December 31,
+11 1993, for which the insurance company did not report premiums and remit
+12 special fund assessments based on the calculated cost for coverage prior to the
+13 reduction for deductibles, "premiums received" includes the initial premium
+14 plus any reimbursements invoiced for losses, expenses, and fees charged
+15 under the deductibles. The special fund assessment rates in effect for
+16 reimbursements invoiced for losses, expenses, or fees charged under the
+17 deductibles shall be those percentages in effect on the effective date of the
+18 insurance policy. For policies covering covered employees having a co-
+19 employment relationship with a professional employer organization and a
+20 client as defined in KRS Chapter 336, "premiums received" means premiums
+21 calculated using the experience modification factor of each client as defined
+22 in KRS Chapter 336 for each covered employee for that portion of the payroll
+23 pertaining to the covered employee.
+24 (b) "Direct written premium" for insurance companies means the gross premium
+25 written less return premiums and premiums on policies not taken but
+26 including policy and membership fees.
+27 (c) "Premium," for policies effective on or after January 1, 1994, for insurance
+Page 7 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 companies means all consideration, whether designated as premium or
+2 otherwise, for workers' compensation insurance paid to an insurance company
+3 or its representative, including, on insurance policies with provisions for
+4 deductibles, the calculated cost for coverage, including experience
+5 modification and premium surcharge or discount, prior to any reduction for
+6 deductibles. The rates, factors, and methods used to calculate the cost for
+7 coverage under this paragraph for insurance policies or other evidence of
+8 coverage with provisions for deductibles shall be the same rates, factors, and
+9 methods normally used by the insurance company in Kentucky to calculate
+10 the cost for coverage for insurance policies or other evidence of coverage
+11 without provisions for deductibles, except that, for insurance policies or other
+12 evidence of coverage with provisions for deductibles effective on or after
+13 January 1, 1995, the calculated cost for coverage shall not include any
+14 schedule rating modifications, debits, or credits. For policies with provisions
+15 for deductibles with effective dates on or after January 1, 1995, assessments
+16 shall be imposed as calculated by the deductible program adjustment. The cost
+17 for coverage calculated under this paragraph by insurance companies that
+18 issue only deductible insurance policies in Kentucky shall be actuarially
+19 adequate to cover the entire liability of the employer for compensation under
+20 this chapter, including all expenses and allowances normally used to calculate
+21 the cost for coverage. For policies with provisions for deductibles with
+22 effective dates of May 6, 1993, through December 31, 1993, for which the
+23 insurance company did not report premiums and remit special fund
+24 assessments based on the calculated cost for coverage prior to the reduction
+25 for deductibles, "premium" includes the initial consideration plus any
+26 reimbursements invoiced for losses, expenses, or fees charged under the
+27 deductibles.
+Page 8 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (d) "Return premiums" for insurance companies means amounts returned to
+2 insureds due to endorsements, retrospective adjustments, cancellations,
+3 dividends, or errors.
+4 (e) "Deductible program adjustment" means calculating premium and premiums
+5 received on a gross basis without regard to the following:
+6 1. Schedule rating modifications, debits, or credits;
+7 2. Deductible credits; or
+8 3. Modifications to the cost of coverage from inception through and
+9 including any audit that are based on negotiated retrospective rating
+10 arrangements, including but not limited to large risk alternative rating
+11 options;
+12 (26) "Insurance policy" for an insurance company or self-insured group means the term
+13 of insurance coverage commencing from the date coverage is extended, whether a
+14 new policy or a renewal, through its expiration, not to exceed the anniversary date
+15 of the renewal for the following year;
+16 (27) "Self-insurance year" for a self-insured group means the annual period of
+17 certification of the group created pursuant to KRS 342.350(4) and 304.50-010;
+18 (28) "Premium" for each employer carrying his own risk pursuant to KRS 342.340(1)
+19 shall be the projected value of the employer's workers' compensation claims for the
+20 next calendar year as calculated by the commissioner using generally-accepted
+21 actuarial methods as follows:
+22 (a) The base period shall be the earliest three (3) calendar years of the five (5)
+23 calendar years immediately preceding the calendar year for which the
+24 calculation is made. The commissioner shall identify each claim of the
+25 employer which has an injury date or date of last injurious exposure to the
+26 cause of an occupational disease during each one (1) of the three (3) calendar
+27 years to be used as the base, and shall assign a value to each claim. The value
+Page 9 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 shall be the total of the indemnity benefits paid to date and projected to be
+2 paid, adjusted to current benefit levels, plus the medical benefits paid to date
+3 and projected to be paid for the life of the claim, plus the cost of medical and
+4 vocational rehabilitation paid to date and projected to be paid. Adjustment to
+5 current benefit levels shall be done by multiplying the weekly indemnity
+6 benefit for each claim by the number obtained by dividing the statewide
+7 average weekly wage which will be in effect for the year for which the
+8 premium is being calculated by the statewide average weekly wage in effect
+9 during the year in which the injury or date of the last exposure occurred. The
+10 total value of the claims using the adjusted weekly benefit shall then be
+11 calculated by the commissioner. Values for claims in which awards have been
+12 made or settlements reached because of findings of permanent partial or
+13 permanent total disability shall be calculated using the mortality and interest
+14 discount assumptions used in the latest available statistical plan of the
+15 advisory rating organization defined in Subtitle 13 of KRS Chapter 304. The
+16 sum of all calculated values shall be computed for all claims in the base
+17 period;
+18 (b) The commissioner shall obtain the annual payroll for each of the three (3)
+19 years in the base period for each employer carrying his own risk from records
+20 of the department and from the records of the Department of Workforce
+21 Development, Education and Labor Cabinet. The commissioner shall multiply
+22 each of the three (3) years of payroll by the number obtained by dividing the
+23 statewide average weekly wage which will be in effect for the year in which
+24 the premium is being calculated by the statewide average weekly wage in
+25 effect in each of the years of the base period;
+26 (c) The commissioner shall divide the total of the adjusted claim values for the
+27 three (3) year base period by the total adjusted payroll for the same three (3)
+Page 10 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 year period. The value so calculated shall be multiplied by 1.25 and shall then
+2 be multiplied by the employer's most recent annualized payroll, calculated
+3 using records of the department and the Department of Workforce
+4 Development data which shall be made available for this purpose on a
+5 quarterly basis as reported, to obtain the premium for the next calendar year
+6 for assessment purposes under KRS 342.122;
+7 (d) For November 1, 1987, through December 31, 1988, premium for each
+8 employer carrying its own risk shall be an amount calculated by the board
+9 pursuant to the provisions contained in this subsection and such premium
+10 shall be provided to each employer carrying its own risk and to the funding
+11 commission on or before January 1, 1988. Thereafter, the calculations set
+12 forth in this subsection shall be performed annually, at the time each employer
+13 applies or renews its application for certification to carry its own risk for the
+14 next twelve (12) month period and submits payroll and other data in support
+15 of the application. The employer and the funding commission shall be notified
+16 at the time of the certification or recertification of the premium calculated by
+17 the commissioner, which shall form the employer's basis for assessments
+18 pursuant to KRS 342.122 for the calendar year beginning on January 1
+19 following the date of certification or recertification;
+20 (e) If an employer having fewer than five (5) years of doing business in this state
+21 applies to carry its own risk and is so certified, its premium for the purposes
+22 of KRS 342.122 shall be based on the lesser number of years of experience as
+23 may be available including the two (2) most recent years if necessary to create
+24 a three (3) year base period. If the employer has less than two (2) years of
+25 operation in this state available for the premium calculation, then its premium
+26 shall be the greater of the value obtained by the calculation called for in this
+27 subsection or the amount of security required by the commissioner pursuant to
+Page 11 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 KRS 342.340(1);
+2 (f) If an employer is certified to carry its own risk after having previously insured
+3 the risk, its premium shall be calculated using values obtained from claims
+4 incurred while insured for as many of the years of the base period as may be
+5 necessary to create a full three (3) year base. After the employer is certified to
+6 carry its own risk and has paid all amounts due for assessments upon
+7 premiums paid while insured, the employer shall be assessed only upon the
+8 premium calculated under this subsection;
+9 (g) "Premium" for each employer defined in KRS 342.630(2) shall be calculated
+10 as set forth in this subsection; and
+11 (h) Notwithstanding any other provision of this subsection, the premium of any
+12 employer authorized to carry its own risk for purposes of assessments due
+13 under this chapter shall be no less than thirty cents ($0.30) per one hundred
+14 dollars ($100) of the employer's most recent annualized payroll for employees
+15 covered by this chapter;
+16 (29) "SIC code" as used in this chapter means the Standard Industrial Classification
+17 Code contained in the latest edition of the Standard Industrial Classification Manual
+18 published by the Federal Office of Management and Budget;
+19 (30) "Investment interest" means any pecuniary or beneficial interest in a provider of
+20 medical services or treatment under this chapter, other than a provider in which that
+21 pecuniary or investment interest is obtained on terms equally available to the public
+22 through trading on a registered national securities exchange, such as the New York
+23 Stock Exchange or the American Stock Exchange, or on the National Association
+24 of Securities Dealers Automated Quotation System;
+25 (31) "Managed health care system" means a health care system that employs gatekeeper
+26 providers, performs utilization review, and does medical bill audits;
+27 (32) "Physician" means physicians and surgeons, audiologists holding a doctorate in
+Page 12 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 audiology, psychologists, optometrists, dentists, podiatrists, and osteopathic and
+2 chiropractic practitioners acting within the scope of the license or other credentials
+3 required by his or her specialty of practice in the United States jurisdiction in which
+4 he or she is authorized to practice;
+5 (33) "Objective medical findings" means information gained through direct observation
+6 and testing of the patient applying objective or standardized methods;
+7 (34) "Work" means providing services to another in return for remuneration on a regular
+8 and sustained basis in a competitive economy;
+9 (35) "Permanent impairment rating" means percentage of whole body impairment
+10 caused by the injury or occupational disease as determined by the "Guides to the
+11 Evaluation of Permanent Impairment";
+12 (36) "Permanent disability rating" means the permanent impairment rating selected by
+13 an administrative law judge times the factor set forth in the table that appears at
+14 KRS 342.730(1)(b); and
+15 (37) "Guides to the Evaluation of Permanent Impairment" means, except as provided in
+16 KRS 342.262:
+17 (a) The fifth edition published by the American Medical Association; and
+18 (b) For psychological impairments, Chapter 12 of the second edition published by
+19 the American Medical Association.
+20 Section 3. KRS 342.120 is amended to read as follows:
+21 (1) There is created the Division of Workers' Compensation Funds in the Department
+22 of Workers' Claims that[which] shall be responsible for the administration of the
+23 special fund and the coal workers' pneumoconiosis fund and the maintenance of
+24 records regarding the payment of claims by these funds. The Division of Workers'
+25 Compensation Funds shall have no responsibility for the coal workers'
+26 pneumoconiosis fund once the assets and liabilities have been transferred to the
+27 Kentucky Employers' Mutual Insurance Authority, which will administer the fund
+Page 13 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 pursuant to KRS 342.1243. The Division of Workers' Compensation Funds shall be
+2 headed by a director appointed by the commissioner[secretary of the Education and
+3 Labor Cabinet], with the prior written approval of the Governor pursuant to KRS
+4 12.050. The director shall be responsible for overseeing the administration of the
+5 funds and the maintenance of records regarding the payment of claims by the funds.
+6 (2) The special fund shall have no liability upon any claim in which the injury
+7 occurred, or for cumulative trauma, the disability became manifest, or, for
+8 occupational disease, if the date of injury or last exposure occurred, after December
+9 12, 1996.
+10 (3) Where the employer has settled its liability for income benefits and thereafter a
+11 determination has been made of the special fund's liability, the special fund portion
+12 of the benefit rate shall be paid over the maximum period provided for by statute
+13 for that disability, with the period of payment beginning on the date settlement was
+14 approved by an administrative law judge. This provision is remedial and shall apply
+15 to all pending and future claims.
+16 Section 4. KRS 342.122 is amended to read as follows:
+17 (1) (a) For calendar year 1997 and for each calendar year thereafter, for the purpose
+18 of funding and prefunding the liabilities of the special fund, financing the
+19 administration and operation of the Kentucky Workers' Compensation
+20 Funding Commission, and financing the expenditures for all programs in the
+21 Department of Workers' Claims, Occupational Safety and Health Review
+22 Commission, Workers' Compensation Nominating Committee, Department of
+23 Workplace Standards, except expenditures for the Division of Wages and
+24 Hours contained in the Department of Workplace Standards and the
+25 proportional support for general administration and support based on an
+26 approved indirect cost allocation plan within the Department of Workers'
+27 Claims and the Education and Labor Cabinet, as reflected in the enacted
+Page 14 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 budget of the Commonwealth and enacted by the General Assembly, the
+2 funding commission shall impose a special fund assessment rate of nine
+3 percent (9%) upon the amount of workers' compensation premiums received
+4 on and after January 1, 1997, through December 31, 1997, by every insurance
+5 carrier writing workers' compensation insurance in the Commonwealth, by
+6 every self-insured group operating under the provisions of KRS 342.350(4)
+7 and Chapter 304, and against the premium, as defined in KRS 342.0011, of
+8 every employer carrying his or her own risk.
+9 (b) 1. The funding commission shall, for calendar year 1998 and thereafter,
+10 establish for the special fund an assessment rate to be assessed against
+11 all premium received during that calendar year which shall produce
+12 enough revenue to amortize on a level basis the unfunded liability of the
+13 special fund as of June 30 preceding January 1 of each year, for the
+14 period remaining until December 31, 2029. The special fund
+15 assessment imposed by the funding commission shall continue to be
+16 assessed to finance the administration and operation of the Kentucky
+17 Workers' Compensation Funding Commission, and financing the
+18 expenditures for all programs in the Department of Workers' Claims,
+19 Occupational Safety and Health Review Commission, Workers'
+20 Compensation Nominating Committee, Department of Workplace
+21 Standards, excluding expenditures for the Division of Wages and
+22 Hours contained in the Department of Workplace Standards and the
+23 proportional support for general administration and support based on
+24 an approved indirect cost allocation plan within the Department of
+25 Workers' Claims and the Education and Labor Cabinet. In no case
+26 shall the combined budgets of the Occupational Safety and Health
+27 Review Commission, Workers' Compensation Nominating Committee,
+Page 15 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 Department of Workplace Standards, and the proportional support for
+2 general administration and approved indirect cost allocation to the
+3 Education and Labor Cabinet, exceed seventy-five percent (75%) of
+4 the total combined budget submitted by the Workers' Compensation
+5 Funding Commission.
+6 2. For the purpose of establishing the assessment rate after the liabilities
+7 of the special fund have been funded or prefunded, the Workers'
+8 Compensation Funding Commission, the Department of Workers'
+9 Claims, the Occupational Safety and Health Review Commission, the
+10 Workers' Compensation Nominating Committee, the Department of
+11 Workplace Standards, excluding the Division of Wages and Hours
+12 contained within the Department of Workplace Standards, and the
+13 Education and Labor Cabinet, shall each submit a budget which shall
+14 be combined by the Workers' Compensation Funding Commission
+15 and reflected in the enacted budget of the Commonwealth and enacted
+16 by the General Assembly.
+17 3. The interest rate to be used in this calculation shall reflect the funding
+18 commission's investment experience to date and the current investment
+19 policies of the commission. This assessment shall be imposed upon the
+20 amount of workers' compensation premiums received by every
+21 insurance carrier writing workers' compensation insurance in the
+22 Commonwealth, by every self-insured group operating under the
+23 provisions of KRS 342.350(4) and Chapter 304, and against the
+24 premium, as defined in KRS 342.0011, of every employer carrying its
+25 own risk. On or before October 1 of each year, the commission shall
+26 notify each insurance carrier writing workers' compensation insurance in
+27 the Commonwealth, every group of self-insured employers, and each
+Page 16 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 employer carrying its own risk, of the rates which shall become effective
+2 on January 1 of each year, unless modified by the General Assembly.
+3 (c) All assessments imposed by this section shall be paid to the Kentucky
+4 Workers' Compensation Funding Commission and shall be credited to the
+5 benefit reserve fund within the Kentucky Workers' Compensation Funding
+6 Commission.
+7 (d) The assessments imposed in this chapter shall be in lieu of all other
+8 assessments or taxes on workers' compensation premiums.
+9 (2) (a) These assessments shall be paid quarterly not later than the thirtieth day of the
+10 month following the end of the quarter in which the premium is received.
+11 Receipt shall be considered timely through actual physical receipt or by
+12 postmark of the United States Postal Service. Employers carrying their own
+13 risk and employers defined in KRS 342.630(2) shall pay the annual
+14 assessments in four (4) equal quarterly installments.
+15 (b) Beginning on January 1, 2020, all assessments shall be electronically remitted
+16 to the funding commission quarterly not later than the thirtieth day of the
+17 month following the end of the quarter in which the premium is received.
+18 Receipt shall be considered timely when filed and remitted using the
+19 appropriate electronic pay system as prescribed by the funding commission.
+20 Employers carrying their own risk and employers defined in KRS 342.630(2)
+21 shall pay the annual assessments in four (4) equal quarterly installments.
+22 (3) The assessments imposed by this section may be collected by the insurance carrier
+23 from the insured. However, the insurance carrier shall not collect from the employer
+24 any amount exceeding the assessments imposed pursuant to this section. If the
+25 insurance carrier collects the assessment from an insured, the assessment shall be
+26 collected at the same time and in the same proportion as the premium is collected.
+27 The assessment for an insurance policy or other evidence of coverage providing a
+Page 17 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 deductible may be collected in accordance with this chapter on a premium amount
+2 that equates to the premium that would have applied without the deductible. Each
+3 statement from an insurance carrier presented to an insured reflecting premium and
+4 assessment amounts shall clearly identify and distinguish the amount to be paid for
+5 premium and the amount to be paid for assessments. No insurance carrier shall
+6 collect from an insured an amount in excess of the assessment percentages imposed
+7 by this chapter. The assessment for an insurance policy or other evidence of
+8 coverage providing a deductible may be collected in accordance with this chapter
+9 on a premium amount that equates to the premium that would have applied without
+10 the deductible. The percentages imposed by this chapter for an insurance policy
+11 issued by an insurance company shall be those percentages in effect on the annual
+12 effective date of the policy, regardless of the date that the premium is actually
+13 received by the insurance company.
+14 (4) A self-insured group may elect to report its premiums and to have its assessments
+15 computed in the same manner as insurance companies. This election may not be
+16 rescinded for at least ten (10) years, nor may this election be made a second time
+17 for at least another ten (10) years, except that the board of directors of the funding
+18 commission may, at its discretion, waive the ten (10) year ban on a case-by-case
+19 basis after formal petition has been made to the funding commission by a self-
+20 insured group.
+21 (5) The funding commission, as part of the collection and auditing of the special fund
+22 assessments required by this section, shall annually require each insurance carrier
+23 and each self-insured group to provide a list of employers which it has insured or
+24 which are members and the amount collected from each employer. Additionally, the
+25 funding commission shall require each entity paying a special fund assessment to
+26 report the SIC code for each employer and the amount of premium collected from
+27 each SIC code. An insurance carrier or self-insured group may require its insureds
+Page 18 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 or members to furnish the SIC code for each of their employees. However, the
+2 failure of any employer to furnish said codes shall not relieve the insurance carrier
+3 or self-insured group from the obligation to furnish same to the funding
+4 commission. The Department of Workforce Development, Education and Labor
+5 Cabinet, is hereby directed to make available the SIC codes assigned in its records
+6 to specific employers to aid in the reporting and recording of the special fund
+7 assessment data.
+8 (6) Each self-insured employer, self-insured group, or insurance carrier shall provide
+9 any information and submit any reports the Department of Revenue or the funding
+10 commission may require to effectuate the provisions of this section. In addition, the
+11 funding commission may enter reciprocal agreements with other governmental
+12 agencies for the exchange of information necessary to effectuate the provisions of
+13 this section.
+14 (7) The special fund shall be required to maintain a central claim registry of all claims
+15 to which it is named a party, giving each such claim a unique claim number and
+16 thereafter recording the status of each claim on a current basis. The registry shall be
+17 established by January 26, 1988, for all claims on which payments were made since
+18 July 1, 1986, or which were pending adjudication since July 1, 1986, by audit of all
+19 claim files in the possession of the special fund.
+20 (8) The fund heretofore designated as the subsequent claim fund is abolished, and there
+21 is substituted therefor the special fund as set out by this section, and all moneys and
+22 properties owned by the subsequent claim fund are transferred to the special fund.
+23 (9) Notwithstanding any other provisions of this section or this chapter to the contrary,
+24 the total amount of funds collected pursuant to the assessment rates adopted by the
+25 funding commission shall not be limited to the provisions of this section.
+26 (10) All assessment rates imposed for periods prior to January 1, 1997, under KRS
+27 342.122 shall forever remain applicable to premiums received on policies with
+Page 19 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 effective dates prior to January 1, 1997, by every insurance carrier writing workers'
+2 compensation insurance in the Commonwealth, by every self-insured group
+3 operating under the provision of KRS 342.350(4) and Chapter 304, and against the
+4 premium, as defined in KRS 342.0011, of every employer carrying its own risk.
+5 Section 5. KRS 342.215 is amended to read as follows:
+6 (1) The Workers' Compensation Board is hereby created and established. The board
+7 shall rule on appeals of decisions rendered by administrative law judges under this
+8 chapter. The board shall rule on an appeal of a decision of an administrative law
+9 judge no later than sixty (60) days following the date on which the last appeal brief
+10 was filed.
+11 (2) The Workers' Compensation Board shall consist of three (3) members appointed by
+12 the Governor. Each member shall hold no other public office and shall devote his or
+13 her full time to the duties of his or her office. Each member shall be exempt from
+14 the classified service, and his or her support staff may be exempt from the classified
+15 service.
+16 (3) Of the members of the board appointed under this section, any member appointed to
+17 fill an unexpired term shall immediately assume the office subject to the
+18 confirmation by the Senate in accordance with KRS 11.160 for the remainder of the
+19 term. Any member not currently pending reappointment by the Senate with a term
+20 expiring on or before:
+21 (a) December 1, 2025, shall continue serving a term that shall expire on June 1,
+22 2026;
+23 (b) December 1, 2026, shall continue serving a term that shall expire on June 1,
+24 2027; or
+25 (c) December 1, 2027, shall continue serving a term that shall expire on June 1,
+26 2028.
+27 Thereafter, each term of a board member shall run for four (4) years from the date
+Page 20 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 of expiration of the term for which the member's predecessor was appointed, except
+2 that a person appointed to fill a vacancy prior to the expiration of a term shall be
+3 appointed for the remainder of the term. The Governor shall not appoint a member
+4 of the board to fill the unexpired term of another board member, nor shall the
+5 Governor reappoint a member of the board who has been removed from his or her
+6 position prior to the expiration of his or her term. The members of the board shall
+7 have the qualifications required of appeals court judges, except for residence in a
+8 district, and shall receive the same salary and shall be subject to the same standards
+9 of conduct. The Governor shall designate a member of the board to serve as
+10 chairman. Any vacancy in the chairmanship shall be filled by the Governor. The
+11 Governor may at any time remove any member for cause after furnishing the
+12 member with a written copy of the charges against him or her and giving the
+13 member a public hearing if he or she requests it.
+14 (4) A decision concurred in by any two (2) of the three (3) members shall constitute a
+15 decision of the board.
+16 (5) Members of the Workers' Compensation Board and the administrative law judges
+17 shall be members of the Kentucky Employees Retirement System.
+18 (6) The Workers' Compensation Board shall be attached to the Department of Workers'
+19 Claims[ in the Education and Labor Cabinet].
+20 Section 6. KRS 342.228 is amended to read as follows:
+21 (1) The Department of Workers' Claims shall be responsible for administering claims
+22 and ensuring compliance with the insurance, self-insurance, and rehabilitation
+23 provisions in this chapter. The department shall be administered by a commissioner
+24 appointed by the Governor. The commissioner appointed by the Governor shall be
+25 subject to the consent of the Senate in accordance with KRS 11.160.
+26 (2) The commissioner shall have demonstrated knowledge and experience in the areas
+27 of public administration, administrative law, and workers' compensation by
+Page 21 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 having a minimum of eight (8) years of legal practice experience in the area of
+2 workers' compensation[area of workers' compensation, public administration, and
+3 administrative law].
+4 Section 7. KRS 342.230 is amended to read as follows:
+5 (1) The commissioner shall establish and fill any positions, including medical
+6 services and advice, necessary to carry on the department's work subject to the
+7 limits of appropriations for the department and except as otherwise required by
+8 law. All employees of the department shall be classified employees under KRS
+9 Chapter 18A, except for the commissioner, the administrative law judges, and
+10 board members. The commissioner shall have immediate supervision of the
+11 employees of the department, perform duties assigned to him or her, and have
+12 complete authority to carry out all the administrative functions relating to the
+13 department.
+14 (2) The commissioner with the assistance of the board shall train and instruct the
+15 administrative law judges on an ongoing basis; assign cases; and monitor the
+16 caseloads of the administrative law judges and the Workers' Compensation Board to
+17 ensure timely disposition of cases; keep and be the custodian of the records of the
+18 board and the administrative law judges; annually report the activities of the board
+19 and the administrative law judges to the Governor; and devote his or her full time to
+20 the duties of his or her office. The commissioner shall be paid a salary not less than
+21 the salary of a member of the board.
+22 (3)[(2)] The Governor shall appoint, with the consent of the Senate in accordance with
+23 KRS 11.160 for a term of four (4) years, not more than nineteen (19) administrative
+24 law judges, each of whom shall be an attorney and shall have five (5) years'
+25 experience in the Commonwealth in the practice of workers' compensation law or a
+26 related field, and extensive knowledge of workers' compensation law, and shall be
+27 paid the same salary as a Circuit Judge. Each newly appointed administrative law
+Page 22 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 judge shall not assume his or her office until June 1 following confirmation by the
+2 Senate. Administrative law judges who are reappointed shall continue to serve in
+3 their capacity until the reappointment is confirmed by the Senate or the Senate
+4 adjourns without confirming the appointment. Each administrative law judge shall
+5 be exempt from the classified service, and his or her support staff may be exempt
+6 from the classified service. Each administrative law judge may be employed for
+7 additional terms with the consent of the Senate in accordance with KRS 11.160.
+8 The Governor, at least thirty (30) days prior to the expiration of a term of an
+9 administrative law judge, shall provide the name of the individual whom he or she
+10 intends to appoint to the position to the chairman of the Senate Standing Committee
+11 on Economic Development, Tourism, and Labor. These administrative law judges
+12 shall conduct hearings, and otherwise supervise the presentation of evidence and
+13 perform any other duties assigned to them by statute and shall render final
+14 decisions, orders, or awards. Administrative law judges may, in receiving evidence,
+15 make rulings affecting the competency, relevancy, and materiality of the evidence
+16 about to be presented and upon motions presented during the taking of evidence as
+17 will expedite the preparation of the case.
+18 (4)[(3)] To ensure that the administrative law judges perform their responsibilities
+19 competently and issue decisions consistent with this chapter, the commissioner
+20 shall, at least twice annually, conduct training and education seminars in workers'
+21 compensation law; administrative law; and methods and procedures for writing
+22 well-reasoned, clear, correct, and concise opinions, orders, or awards.
+23 (5)[(4)] The Governor may at any time remove the commissioner or any member of
+24 the board. The commissioner may remove any administrative law judge. A member
+25 of the board or an administrative law judge may be removed for good cause,
+26 including violation of the code of judicial ethics or the code of ethics applicable to
+27 the executive branch of the Commonwealth. In addition, an administrative law
+Page 23 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 judge or a member of the board may be removed for the persistent or repeated
+2 failure to perform satisfactorily the specific duties assigned in this chapter,
+3 including the requirement of timely disposition of cases, review of attorney's fees,
+4 and failure to attend training and continuing education programs required by this
+5 section.
+6 (6)[(5)] Any vacancy in the term of an administrative law judge, which occurs prior to
+7 the expiration of the term, shall be filled if necessary by appointment of the
+8 Governor in accordance with subsection (3)[(2)] of this section within sixty (60)
+9 days from the date the vacancy occurs, with the consent of the Senate in accordance
+10 with KRS 11.160, for the remainder of the term. An administrative law judge
+11 appointed to fill an unexpired term shall immediately assume the office subject to
+12 the confirmation by the Senate in accordance with KRS 11.160 for the remainder of
+13 the term.
+14 (7)[(6)] Any administrative law judge not currently pending confirmation by the
+15 Senate with a term expiring on or before:
+16 (a) December 1, 2025, shall continue serving a term that shall expire on June 1,
+17 2026;
+18 (b) December 1, 2026, shall continue serving a term that shall expire on June 1,
+19 2027;
+20 (c) December 1, 2027, shall continue serving a term that shall expire on June 1,
+21 2028; or
+22 (d) December 1, 2028, shall continue serving a term that shall expire on June 1,
+23 2029.
+24 (8)[(7)] One (1) of the administrative law judges appointed pursuant to this section
+25 shall be appointed as a chief administrative law judge, to have the same
+26 qualifications, powers, duties, and requirements as those of other administrative law
+27 judges. The chief administrative law judge shall not be assigned regular dockets but
+Page 24 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 shall instead assist the commissioner by doing all scheduling of the administrative
+2 law judges, handling dockets assigned to the administrative law judges in case of an
+3 emergency, providing supervision of the administrative law judges, and providing
+4 educational opportunities for the administrative law judges. The chief
+5 administrative law judge shall be paid at the same rate as the administrative law
+6 judges plus an additional three thousand dollars ($3,000) per year. At any time the
+7 commissioner may replace the chief administrative law judge with one (1) of the
+8 other administrative law judges at which time the former chief administrative law
+9 judge shall resume the duties assigned to the other administrative law judges
+10 pursuant to this chapter. On January 1, 1998, the commissioner shall employ a
+11 person in this position for a four (4) year term.
+12 Section 8. KRS 342.342 is amended to read as follows:
+13 (1) Notwithstanding the provisions of KRS 342.340, KRS 342.350, or any
+14 administrative regulations promulgated pursuant to those provisions, the
+15 commissioner shall annually review the adequacy of the financial or other security
+16 requirements contained in administrative regulations, promulgated pursuant to the
+17 individual self-insurance provisions in this chapter. The commissioner shall report
+18 the results of the review to the Economic Development and Workforce Investment
+19 Committee of the General Assembly and any recommendations for proposed
+20 changes to insure the financial soundness of the individual self-insurers authorized
+21 pursuant to this chapter. In addition, the commissioner shall report not less often
+22 than annually a summary report on the financial soundness of the individual self-
+23 insurers.
+24 (2) The Economic Development and Workforce Investment Committee of the General
+25 Assembly shall annually review the administrative regulations promulgated
+26 pursuant to the individual provisions under this chapter.
+27 (3) On July 1, 1994, the Division of Security and Compliance of the Department of
+Page 25 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 Workers' Claims[ in the Education and Labor Cabinet] shall be expanded by five
+2 (5) employees. These additional employees shall be employed for the purpose of
+3 conducting financial audits, examinations, and reviews and other activities
+4 necessary to ensure and monitor the financial soundness of the individual self-
+5 insured employers authorized pursuant to KRS 342.340.
+6 Section 9. KRS 12.020 is amended to read as follows:
+7 Departments, program cabinets and their departments, and the respective major
+8 administrative bodies that they include are enumerated in this section. It is not intended
+9 that this enumeration of administrative bodies be all-inclusive. Every authority, board,
+10 bureau, interstate compact, commission, committee, conference, council, office, or any
+11 other form of organization shall be included in or attached to the department or program
+12 cabinet in which they are included or to which they are attached by statute or statutorily
+13 authorized executive order; except in the case of the Personnel Board and where the
+14 attached department or administrative body is headed by a constitutionally elected
+15 officer, the attachment shall be solely for the purpose of dissemination of information and
+16 coordination of activities and shall not include any authority over the functions,
+17 personnel, funds, equipment, facilities, or records of the department or administrative
+18 body.
+19 I. Cabinet for General Government - Departments headed by elected officers:
+20 (1) The Governor.
+21 (2) Lieutenant Governor.
+22 (3) Department of State.
+23 (a) Secretary of State.
+24 (b) Board of Elections.
+25 (c) Registry of Election Finance.
+26 (4) Department of Law.
+27 (a) Attorney General.
+Page 26 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (5) Department of the Treasury.
+2 (a) Treasurer.
+3 (6) Department of Agriculture.
+4 (a) Commissioner of Agriculture.
+5 (b) Agricultural Development Board.
+6 (c) Kentucky Agricultural Finance Corporation.
+7 (7) Auditor of Public Accounts.
+8 (a) Commonwealth Office of the Ombudsman.
+9 II. Program cabinets headed by appointed officers:
+10 (1) Justice and Public Safety Cabinet:
+11 (a) Department of Kentucky State Police.
+12 1. Office of Administrative Services.
+13 a. Division of Operational Support.
+14 b. Division of Management Services.
+15 2. Office of Operations.
+16 a. Division of West Troops.
+17 b. Division of East Troops.
+18 c. Division of Special Enforcement.
+19 d. Division of Commercial Vehicle Enforcement.
+20 3. Office of Technical Services.
+21 a. Division of Forensic Sciences.
+22 b. Division of Electronic Services.
+23 c. Division of Records Management.
+24 (b) Department of Criminal Justice Training.
+25 (c) Department of Corrections.
+26 (d) Department of Juvenile Justice.
+27 (e) Office of the Secretary.
+Page 27 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (f) Office of Drug Control Policy.
+2 (g) Office of Legal Services.
+3 (h) Office of the Kentucky State Medical Examiner.
+4 (i) Parole Board.
+5 (j) Kentucky State Corrections Commission.
+6 (k) Office of Legislative and Intergovernmental Services.
+7 (l) Office of Human Resource Management.
+8 1. Division of Human Resource Administration.
+9 2. Division of Employee Management.
+10 (m) Department of Public Advocacy.
+11 (n) Office of Communications.
+12 1. Information Technology Services Division.
+13 (o) Office of Financial Management Services.
+14 1. Division of Financial Management.
+15 (p) Grants Management Division.
+16 (2) Energy and Environment Cabinet:
+17 (a) Office of the Secretary.
+18 1. Office of Legislative and Intergovernmental Affairs.
+19 2. Office of Legal Services.
+20 a. Legal Division I.
+21 b. Legal Division II.
+22 3. Office of Administrative Hearings.
+23 4. Office of Communication.
+24 5. Mine Safety Review Commission.
+25 6. Office of Kentucky Nature Preserves.
+26 7. Kentucky Public Service Commission.
+27 (b) Department for Environmental Protection.
+Page 28 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 1. Office of the Commissioner.
+2 2. Division for Air Quality.
+3 3. Division of Water.
+4 4. Division of Environmental Program Support.
+5 5. Division of Waste Management.
+6 6. Division of Enforcement.
+7 7. Division of Compliance Assistance.
+8 (c) Department for Natural Resources.
+9 1. Office of the Commissioner.
+10 2. Division of Mine Permits.
+11 3. Division of Mine Reclamation and Enforcement.
+12 4. Division of Abandoned Mine Lands.
+13 5. Division of Oil and Gas.
+14 6. Division of Mine Safety.
+15 7. Division of Forestry.
+16 8. Division of Conservation.
+17 9. Office of the Reclamation Guaranty Fund.
+18 (d) Office of Energy Policy.
+19 1. Division of Energy Assistance.
+20 (e) Office of Administrative Services.
+21 1. Division of Human Resources Management.
+22 2. Division of Financial Management.
+23 3. Division of Information Services.
+24 (3) Public Protection Cabinet.
+25 (a) Office of the Secretary.
+26 1. Office of Communications and Public Outreach.
+27 2. Office of Legal Services.
+Page 29 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 a. Insurance Legal Division.
+2 b. Alcoholic Beverage Control Legal Division.
+3 c. Housing, Buildings and Construction Legal Division.
+4 d. Financial Institutions Legal Division.
+5 e. Professional Licensing Legal Division.
+6 3. Office of Administrative Hearings.
+7 4. Office of Administrative Services.
+8 a. Division of Human Resources.
+9 b. Division of Fiscal Responsibility.
+10 (b) Office of Claims and Appeals.
+11 1. Board of Tax Appeals.
+12 2. Board of Claims.
+13 3. Crime Victims Compensation Board.
+14 (c) Kentucky Boxing and Wrestling Commission.
+15 (d) Department of Alcoholic Beverage Control.
+16 1. Division of Distilled Spirits.
+17 2. Division of Malt Beverages.
+18 3. Division of Enforcement.
+19 4. Division of Tobacco, Nicotine, and Vapor Product Licensing.
+20 (e) Department of Financial Institutions.
+21 1. Division of Depository Institutions.
+22 2. Division of Non-Depository Institutions.
+23 3. Division of Securities.
+24 (f) Department of Housing, Buildings and Construction.
+25 1. Division of Fire Prevention.
+26 2. Division of Plumbing.
+27 3. Division of Heating, Ventilation, and Air Conditioning.
+Page 30 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 4. Division of Building Code Enforcement.
+2 (g) Department of Insurance.
+3 1. Division of Health and Life Insurance and Managed Care.
+4 2. Division of Property and Casualty Insurance.
+5 3. Division of Administrative Services.
+6 4. Division of Financial Standards and Examination.
+7 5. Division of Licensing.
+8 6. Division of Insurance Fraud Investigation.
+9 7. Division of Consumer Protection.
+10 (h) Department of Professional Licensing.
+11 1. Real Estate Authority.
+12 2. Division of Real Property Boards.
+13 (4) Transportation Cabinet:
+14 (a) Department of Highways.
+15 1. Office of Project Development.
+16 2. Office of Project Delivery and Preservation.
+17 3. Office of Highway Safety.
+18 4. Highway District Offices One through Twelve.
+19 (b) Department of Vehicle Regulation.
+20 (c) Department of Aviation.
+21 (d) Department of Rural and Municipal Aid.
+22 1. Office of Local Programs.
+23 2. Office of Rural and Secondary Roads.
+24 (e) Office of the Secretary.
+25 1. Office of Public Affairs.
+26 2. Office for Civil Rights and Small Business Development.
+27 3. Office of Budget and Fiscal Management.
+Page 31 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 4. Office of Inspector General.
+2 5. Secretary's Office of Safety.
+3 (f) Office of Support Services.
+4 (g) Office of Transportation Delivery.
+5 (h) Office of Audits.
+6 (i) Office of Human Resource Management.
+7 (j) Office of Information Technology.
+8 (k) Office of Legal Services.
+9 (5) Cabinet for Economic Development:
+10 (a) Office of the Secretary.
+11 1. Office of Legal Services.
+12 2. Department for Business and Community Development.
+13 a. Development and Retention Division – West Kentucky.
+14 b. Development, Retention, and Administrative Division –
+15 Central and East Kentucky.
+16 c. Community and Workforce Development Division.
+17 3. Department for Financial Services.
+18 a. Kentucky Economic Development Finance Authority.
+19 b. Finance and Personnel Division.
+20 c. IT and Resource Management Division.
+21 d. Compliance Division.
+22 e. Program Administration Division.
+23 f. Bluegrass State Skills Corporation.
+24 g. The GRANT Commission.
+25 4. Office of Strategy and Public Affairs.
+26 a. Marketing and Communications Division.
+27 b. Research and Strategy Division.
+Page 32 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 5. Office of Entrepreneurship and Innovation.
+2 a. Commission on Small Business Innovation and Advocacy.
+3 6. Kentucky Film Office.
+4 a. Kentucky Film Leadership Council.
+5 (6) Cabinet for Health and Family Services:
+6 (a) Office of the Secretary.
+7 1. Office of Public Affairs.
+8 2. Office of Legal Services.
+9 3. Office of Inspector General.
+10 4. Office of Human Resource Management.
+11 5. Office of Finance and Budget.
+12 6. Office of Legislative and Regulatory Affairs.
+13 7. Office of Administrative Services.
+14 8. Office of Application Technology Services.
+15 9. Office of Data Analytics.
+16 10. Office of Medical Cannabis.
+17 a. Division of Enforcement and Compliance.
+18 b. Division of Licensure and Access.
+19 (b) Department for Public Health.
+20 (c) Department for Medicaid Services.
+21 (d) Department for Behavioral Health, Developmental and Intellectual
+22 Disabilities.
+23 (e) Department for Aging and Independent Living.
+24 (f) Department for Community Based Services.
+25 (g) Department for Family Resource Centers and Volunteer Services.
+26 (7) Finance and Administration Cabinet:
+27 (a) Office of the Secretary.
+Page 33 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (b) Office of the Inspector General.
+2 (c) Office of Legislative and Intergovernmental Affairs.
+3 (d) Office of General Counsel.
+4 (e) Office of the Controller.
+5 (f) Office of Administrative Services.
+6 (g) Office of Policy and Audit.
+7 (h) Department for Facilities and Support Services.
+8 (i) Department of Revenue.
+9 (j) Commonwealth Office of Technology.
+10 (k) State Property and Buildings Commission.
+11 (l) Office of Equal Employment Opportunity and Contract Compliance.
+12 (m) Kentucky Employees Retirement Systems.
+13 (n) Commonwealth Credit Union.
+14 (o) State Investment Commission.
+15 (p) Kentucky Housing Corporation.
+16 (q) Kentucky Local Correctional Facilities Construction Authority.
+17 (r) Kentucky Turnpike Authority.
+18 (s) Historic Properties Advisory Commission.
+19 (t) Kentucky Higher Education Assistance Authority.
+20 (u) Kentucky River Authority.
+21 (v) Kentucky Teachers' Retirement System Board of Trustees.
+22 (w) Executive Branch Ethics Commission.
+23 (x) Office of Fleet Management.
+24 (8) Tourism, Arts and Heritage Cabinet:
+25 (a) Kentucky Department of Tourism.
+26 1. Division of Tourism Services.
+27 2. Division of Marketing and Administration.
+Page 34 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 3. Division of Communications and Promotions.
+2 (b) Kentucky Department of Parks.
+3 1. Division of Information Technology.
+4 2. Division of Human Resources.
+5 3. Division of Financial Operations.
+6 4. Division of Purchasing.
+7 5. Division of Facilities.
+8 6. Division of Park Operations.
+9 7. Division of Sales, Marketing, and Customer Service.
+10 8. Division of Engagement.
+11 9. Division of Food Services.
+12 10. Division of Rangers.
+13 (c) Department of Fish and Wildlife Resources.
+14 1. Division of Law Enforcement.
+15 2. Division of Administrative Services.
+16 3. Division of Engineering, Infrastructure, and Technology.
+17 4. Division of Fisheries.
+18 5. Division of Information and Education.
+19 6. Division of Wildlife.
+20 7. Division of Marketing.
+21 (d) Kentucky Horse Park.
+22 1. Division of Support Services.
+23 2. Division of Buildings and Grounds.
+24 3. Division of Operational Services.
+25 (e) Kentucky State Fair Board.
+26 1. Office of Administrative and Information Technology Services.
+27 2. Office of Human Resources and Access Control.
+Page 35 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 3. Division of Expositions.
+2 4. Division of Kentucky Exposition Center Operations.
+3 5. Division of Kentucky International Convention Center.
+4 6. Division of Public Relations and Media.
+5 7. Division of Venue Services.
+6 8. Division of Personnel Management and Staff Development.
+7 9. Division of Sales.
+8 10. Division of Security and Traffic Control.
+9 11. Division of Information Technology.
+10 12. Division of the Louisville Arena.
+11 13. Division of Fiscal and Contract Management.
+12 14. Division of Access Control.
+13 (f) Office of the Secretary.
+14 1. Office of Finance.
+15 2. Office of Government Relations and Administration.
+16 (g) Office of Legal Affairs.
+17 (h) Office of Human Resources.
+18 (i) Office of Public Affairs and Constituent Services.
+19 (j) Office of Arts and Cultural Heritage.
+20 (k) Kentucky African-American Heritage Commission.
+21 (l) Kentucky Foundation for the Arts.
+22 (m) Kentucky Humanities Council.
+23 (n) Kentucky Heritage Council.
+24 (o) Kentucky Arts Council.
+25 (p) Kentucky Historical Society.
+26 1. Division of Museums.
+27 2. Division of Oral History and Educational Outreach.
+Page 36 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 3. Division of Research and Publications.
+2 4. Division of Administration.
+3 (q) Kentucky Center for the Arts.
+4 1. Division of Governor's School for the Arts.
+5 (r) Kentucky Artisans Center at Berea.
+6 (s) Northern Kentucky Convention Center.
+7 (t) Eastern Kentucky Exposition Center.
+8 (9) Personnel Cabinet:
+9 (a) Office of the Secretary.
+10 (b) Department of Human Resources Administration.
+11 (c) Office of Employee Relations.
+12 (d) Kentucky Public Employees Deferred Compensation Authority.
+13 (e) Office of Administrative Services.
+14 (f) Office of Legal Services.
+15 (g) Governmental Services Center.
+16 (h) Department of Employee Insurance.
+17 (i) Office of Diversity, Equality, and Training.
+18 (j) Office of Public Affairs.
+19 (10) Education and Labor Cabinet:
+20 (a) Office of the Secretary.
+21 1. Office of Legal Services.
+22 a. Workplace Standards Legal Division.
+23 b. Workers' Claims Legal Division.
+24 c. Workforce Development Legal Division.
+25 2. Office of Administrative Services.
+26 a. Division of Human Resources Management.
+27 b. Division of Fiscal Management.
+Page 37 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 c. Division of Operations and Support Services.
+2 3. Office of Technology Services.
+3 a. Division of Information Technology Services.
+4 4. Office of Policy and Audit.
+5 5. Office of Legislative Services.
+6 6. Office of Communications.
+7 7. Office of the Kentucky Center for Statistics.
+8 8. Board of the Kentucky Center for Statistics.
+9 9. Early Childhood Advisory Council.
+10 10. Governors' Scholars Program.
+11 11. Governor's School for Entrepreneurs Program.
+12 12. Foundation for Adult Education.
+13 (b) Department of Education.
+14 1. Kentucky Board of Education.
+15 2. Kentucky Technical Education Personnel Board.
+16 3. Education Professional Standards Board.
+17 (c) Board of Directors for the Center for School Safety.
+18 (d) Department for Libraries and Archives.
+19 (e) Kentucky Environmental Education Council.
+20 (f) Kentucky Educational Television.
+21 (g) Kentucky Commission on the Deaf and Hard of Hearing.
+22 (h) Department of Workforce Development.
+23 1. Career Development Office.
+24 2. Office of Vocational Rehabilitation.
+25 a. Division of Kentucky Business Enterprise.
+26 b. Division of the Carl D. Perkins Vocational Training Center.
+27 c. Division of Blind Services.
+Page 38 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 d. Division of Field Services.
+2 e. Statewide Council for Vocational Rehabilitation.
+3 f. Employment First Council.
+4 g. Division of Program Policy and Support.
+5 3. Office of Industry and Apprenticeship Services.
+6 a. Division of Apprenticeship.
+7 b. Division of Workforce Talent.
+8 4. Kentucky Apprenticeship Council.
+9 5. Division of Technical Assistance.
+10 6. Office of Adult Education.
+11 7. Office of the Kentucky Workforce Innovation Board.
+12 (i) Department of Workplace Standards.
+13 1. Division of Occupational Safety and Health Compliance.
+14 2. Division of Occupational Safety and Health Education and
+15 Training.
+16 3. Division of Wages and Hours.
+17 (j) Office of Unemployment Insurance.
+18 (k) Kentucky Unemployment Insurance Commission.
+19 (l)[ Department of Workers' Claims.
+20 1. Division of Workers' Compensation Funds.
+21 2. Office of Administrative Law Judges.
+22 3. Division of Claims Processing.
+23 4. Division of Security and Compliance.
+24 5. Division of Specialist and Medical Services.
+25 6. Workers' Compensation Board.
+26 (m)] Workers' Compensation Funding Commission.
+27 (m)[(n)] Kentucky Occupational Safety and Health Standards Board.
+Page 39 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (n)[(o)] State Labor Relations Board.
+2 (o)[(p)] Employers' Mutual Insurance Authority.
+3 (p)[(q)] Kentucky Occupational Safety and Health Review Commission.
+4 (q)[(r)] Workers' Compensation Nominating Committee.
+5 (r)[(s)] Office of Educational Programs.
+6 (s)[(t)] Kentucky Workforce Innovation Board.
+7 (t)[(u)] Kentucky Commission on Proprietary Education.
+8 (u)[(v)] Kentucky Work Ready Skills Advisory Committee.
+9 (v)[(w)] Kentucky Geographic Education Board.
+10 (w)[(x)] Department for Disability Determination Services.
+11 1. Division of Operations.
+12 2. Division of Support Services.
+13 3. Division of Specialized Cases.
+14 4. Division of Case Processing.
+15 III. Other departments headed by appointed officers:
+16 (1) Council on Postsecondary Education.
+17 (2) Department of Military Affairs.
+18 (3) Department for Local Government.
+19 (4) Kentucky Commission on Human Rights.
+20 (5) Kentucky Commission on Women.
+21 (6) Department of Veterans' Affairs.
+22 (7) Kentucky Commission on Military Affairs.
+23 (8) Office of Minority Empowerment.
+24 (9) Governor's Council on Wellness and Physical Activity.
+25 (10) Kentucky Communications Network Authority.
+26 (11) Department of Workers' Claims.
+27 (a) Division of Workers' Compensation Funds.
+Page 40 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (b) Office of Administrative Law Judges.
+2 (c) Division of Claims Processing.
+3 (d) Division of Security and Compliance.
+4 (e) Division of Specialist and Medical Services.
+5 (f) Workers' Compensation Board.
+6 Section 10. KRS 12.023 is amended to read as follows:
+7 The following organizational units and administrative bodies shall be attached to the
+8 Office of the Governor:
+9 (1) Council on Postsecondary Education;
+10 (2) Department of Military Affairs;
+11 (3) Department for Local Government;
+12 (4) Kentucky Commission on Human Rights;
+13 (5) Kentucky Commission on Women;
+14 (6) Kentucky Commission on Military Affairs;
+15 (7) Office of Minority Empowerment;
+16 (a) The Martin Luther King Commission;
+17 (8) Office of Homeland Security;[ and]
+18 (9) Kentucky Communications Network Authority; and
+19 (10) Department of Workers' Claims;
+20 (a) Division of Workers' Compensation Funds;
+21 (b) Office of Administrative Law Judges;
+22 (c) Division of Claims Processing;
+23 (d) Division of Security and Compliance;
+24 (e) Division of Specialist and Medical Services; and
+25 (f) Workers' Compensation Board.
+26 Section 11. KRS 13A.3441 is amended to read as follows:
+27 (1) The General Assembly finds that a proposed amendment of 803 KAR 25:190,
+Page 41 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 relating to utilization review and medical bill audits, filed with the Commission on
+2 February 18, 2021, by the [Labor Cabinet, ]Department of Workers' Claims, was
+3 found deficient on or after March 30, 2021, and before January 4, 2022, but
+4 determined to become effective notwithstanding the finding of deficiency pursuant
+5 to KRS 13A.330, as evidenced by records of the Legislative Research Commission.
+6 (2) Contrary provisions of any section of the Kentucky Revised Statutes
+7 notwithstanding:
+8 (a) If the proposed amendment of 803 KAR 25:190 referenced in subsection (1)
+9 of this section has not been adopted on or before April 14, 2022, the proposed
+10 amendment shall expire as of April 14, 2022; or
+11 (b) If the proposed amendment of 803 KAR 25:190 referenced in subsection (1)
+12 of this section has been adopted on or before April 14, 2022, 803 KAR 25:190
+13 shall be null, void, and unenforceable as of April 14, 2022.
+14 (3) Contrary provisions of any section of the Kentucky Revised Statutes
+15 notwithstanding, the administrative body shall be prohibited from promulgating an
+16 administrative regulation that is identical to, or substantially the same as, the
+17 proposed amendment of 803 KAR 25:190 referenced in subsection (1) of this
+18 section for a period beginning on January 4, 2022, and concluding on June 1, 2023.
+19 (4) The proposed amendment referenced in subsection (1) of this section shall be
+20 available to the public, in the office of the Legislative Research Commission's
+21 regulations compiler.
+22 Section 12. KRS 13B.020 is amended to read as follows:
+23 (1) The provisions of this chapter shall apply to all administrative hearings conducted
+24 by an agency, with the exception of those specifically exempted under this section.
+25 The provisions of this chapter shall supersede any other provisions of the Kentucky
+26 Revised Statutes and administrative regulations, unless exempted under this section,
+27 to the extent these other provisions are duplicative or in conflict. This chapter
+Page 42 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 creates only procedural rights and shall not be construed to confer upon any person
+2 a right to hearing not expressly provided by law.
+3 (2) The provisions of this chapter shall not apply to:
+4 (a) Investigations, hearings to determine probable cause, or any other type of
+5 information gathering or fact finding activities;
+6 (b) Public hearings required in KRS Chapter 13A for the promulgation of
+7 administrative regulations;
+8 (c) Any other public hearing conducted by an administrative agency which is
+9 nonadjudicatory in nature and the primary purpose of which is to seek public
+10 input on public policy making;
+11 (d) Military adjudicatory proceedings conducted in accordance with KRS Chapter
+12 35;
+13 (e) Administrative hearings conducted by the legislative and judicial branches of
+14 state government;
+15 (f) Administrative hearings conducted by any city, county, urban-county, charter
+16 county, or special district contained in KRS Chapters 65 to 109, or any other
+17 unit of local government operating strictly in a local jurisdictional capacity;
+18 (g) Informal hearings which are part of a multilevel hearing process that affords
+19 an administrative hearing at some point in the hearing process if the
+20 procedures for informal hearings are approved and promulgated in accordance
+21 with subsections (4) and (5) of this section;
+22 (h) Limited exemptions granted for specific hearing provisions and denoted by
+23 reference in the text of the applicable statutes or administrative regulations;
+24 (i) Administrative hearings exempted pursuant to subsection (3) of this section;
+25 (j) Administrative hearings exempted, in whole or in part, pursuant to
+26 subsections (4) and (5) of this section; and
+27 (k) Any administrative hearing which was commenced but not completed prior to
+Page 43 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 July 15, 1996.
+2 (3) The following administrative hearings are exempt from application of this chapter
+3 in compliance with 1994 Ky. Acts ch. 382, sec. 19:
+4 (a) Finance and Administration Cabinet
+5 1. Higher Education Assistance Authority
+6 a. Wage garnishment hearings conducted under authority of 20
+7 U.S.C. sec. 1095a and 34 C.F.R. sec. 682.410
+8 b. Offset hearings conducted under authority of 31 U.S.C. sec.
+9 3720A and sec. 3716, and 34 C.F.R. sec. 30.33
+10 2. Department of Revenue
+11 a. Any licensing and bond revocation hearings conducted under the
+12 authority of KRS 138.210 to 138.448 and 234.310 to 234.440
+13 b. Any license revocation hearings under KRS 131.630 and 138.130
+14 to 138.205
+15 (b) Cabinet for Health and Family Services
+16 1. Office of the Inspector General
+17 a. Certificate-of-need hearings and licensure conducted under
+18 authority of KRS Chapter 216B
+19 b. Licensure revocation hearings conducted under authority of KRS
+20 Chapter 216B
+21 2. Department for Community Based Services
+22 a. Supervised placement revocation hearings conducted under
+23 authority of KRS Chapter 630
+24 3. Department for Medicaid Services
+25 a. Administrative appeal hearings following an external independent
+26 third-party review of a Medicaid managed care organization's final
+27 decision that denies, in whole or in part, a health care service to an
+Page 44 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 enrollee or a claim for reimbursement to the provider for a health
+2 care service rendered by the provider to an enrollee of the
+3 Medicaid managed care organization, conducted under authority of
+4 KRS 205.646
+5 (c) Justice and Public Safety Cabinet
+6 1. Department of Kentucky State Police
+7 a. Kentucky State Police Trial Board disciplinary hearings conducted
+8 under authority of KRS Chapter 16
+9 2. Department of Corrections
+10 a. Parole Board hearings conducted under authority of KRS Chapter
+11 439
+12 b. Prison adjustment committee hearings conducted under authority
+13 of KRS Chapter 197
+14 c. Prison grievance committee hearings conducted under authority of
+15 KRS Chapters 196 and 197
+16 3. Department of Juvenile Justice
+17 a. Supervised placement revocation hearings conducted under KRS
+18 Chapter 635
+19 (d) Energy and Environment Cabinet
+20 1. Department for Natural Resources
+21 a. Surface mining hearings conducted under authority of KRS
+22 Chapter 350
+23 b. Oil and gas hearings conducted under the authority of KRS
+24 Chapter 353, except for those conducted by the Kentucky Oil and
+25 Gas Conservation Commission pursuant to KRS 353.500 to
+26 353.720
+27 c. Explosives and blasting hearings conducted under the authority of
+Page 45 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 KRS 351.315 to 351.375
+2 2. Department for Environmental Protection
+3 a. Wild River hearings conducted under authority of KRS Chapter
+4 146
+5 b. Water resources hearings conducted under authority of KRS
+6 Chapter 151
+7 c. Water plant operator and water well driller hearings conducted
+8 under authority of KRS Chapter 223
+9 d. Environmental protection hearings conducted under authority of
+10 KRS Chapter 224
+11 e. Petroleum Storage Tank Environmental Assurance Fund hearings
+12 under authority of KRS Chapter 224
+13 3. Public Service Commission
+14 a. Utility hearings conducted under authority of KRS Chapters 74,
+15 278, and 279
+16 (e) Education and Labor Cabinet
+17 1. [Department of Workers' Claims
+18 a. Workers' compensation hearings conducted under authority of
+19 KRS Chapter 342
+20 2. ]Kentucky Occupational Safety and Health Review Commission
+21 a. Occupational safety and health hearings conducted under authority
+22 of KRS Chapter 338
+23 2.[3.] Unemployment insurance hearings conducted under authority of KRS
+24 Chapter 341
+25 3.[4.] Disability determination hearings conducted under authority of 20
+26 C.F.R. pt. 404
+27 (f) Public Protection Cabinet
+Page 46 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 1. Board of Claims
+2 a. Liability hearings conducted under authority of KRS 49.020(5)
+3 and 49.040 to 49.180
+4 (g) State universities and colleges
+5 1. Student suspension and expulsion hearings conducted under authority of
+6 KRS Chapter 164
+7 2. University presidents and faculty removal hearings conducted under
+8 authority of KRS Chapter 164
+9 3. Campus residency hearings conducted under authority of KRS Chapter
+10 164
+11 4. Family Education Rights to Privacy Act hearings conducted under
+12 authority of 20 U.S.C. sec. 1232 and 34 C.F.R. sec. 99
+13 5. Federal Health Care Quality Improvement Act of 1986 hearings
+14 conducted under authority of 42 U.S.C. sec. 11101 to 11115 and KRS
+15 Chapter 311
+16 (h) Department of Workers' Claims
+17 1. Workers' compensation hearings conducted under authority of KRS
+18 Chapter 342.
+19 (4) Any administrative hearing, or portion thereof, may be certified as exempt by the
+20 Attorney General based on the following criteria:
+21 (a) The provisions of this chapter conflict with any provision of federal law or
+22 regulation with which the agency must comply, or with any federal law or
+23 regulation with which the agency must comply to permit the agency or
+24 persons within the Commonwealth to receive federal tax benefits or federal
+25 funds or other benefits;
+26 (b) Conformity with the requirement of this chapter from which exemption is
+27 sought would be so unreasonable or so impractical as to deny due process
+Page 47 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 because of undue delay in the conduct of administrative hearings; or
+2 (c) The hearing procedures represent informal proceedings which are the
+3 preliminary stages or the review stages of a multilevel hearing process, if the
+4 provisions of this chapter or the provisions of a substantially equivalent
+5 hearing procedure exempted under subsection (3) of this section are applied at
+6 some level within the multilevel process.
+7 (5) The Attorney General shall not exempt an agency from any requirement of this
+8 chapter until the agency establishes alternative procedures by administrative
+9 regulation which, insofar as practical, shall be consistent with the intent and
+10 purpose of this chapter. When regulations for alternative procedures are submitted
+11 to the Administrative Regulation Review Subcommittee, they shall be accompanied
+12 by the request for exemption and the approval of exemption from the Attorney
+13 General. The decision of the Attorney General, whether affirmative or negative,
+14 shall be subject to judicial review in the Franklin Circuit Court within thirty (30)
+15 days of the date of issuance. The court shall not overturn a decision of the Attorney
+16 General unless the decision was arbitrary or capricious or contrary to law.
+17 (6) Except to the extent precluded by another provision of law, a person may waive any
+18 procedural right conferred upon that person by this chapter.
+19 (7) The provisions of KRS 13B.030(2)(b) shall not apply to administrative hearings
+20 held under KRS 11A.100 or 18A.095.
+21 Section 13. KRS 151B.015 is amended to read as follows:
+22 (1) The Education and Labor Cabinet is hereby created, which shall constitute a cabinet
+23 of the state government within the meaning of KRS Chapter 12. The cabinet shall
+24 consist of a secretary and those administrative bodies and employees as provided by
+25 law.
+26 (2) Subject to KRS Chapter 12, the cabinet shall be composed of the major
+27 organizational units listed below, units listed in KRS 12.020, and other
+Page 48 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 departments, divisions, and sections as are from time to time deemed necessary for
+2 the proper and efficient operation of the cabinet:
+3 (a) Office of the Secretary, which shall include the Office of Legal Services, the
+4 Office of Administrative Services, the Office of Technology Services, the
+5 Office of Policy and Audit, the Office of Legislative Services, the Office of
+6 Communications, and the Office of Kentucky Center for Statistics, as follows:
+7 1. The Office of Legal Services shall:
+8 a. Be headed by an executive director appointed by the secretary with
+9 the approval of the Governor in accordance with KRS 12.050 and
+10 12.210; and
+11 b. Include the Workplace Standards Legal Division, Workforce
+12 Development Legal Division, and Workers' Claims Legal
+13 Division, each of which shall be headed by a general counsel
+14 appointed by the secretary with the approval of the Governor in
+15 accordance with KRS 12.050 and 12.210; and
+16 2. The following agencies and entities are attached to the Office of the
+17 Secretary for administrative purposes only:
+18 a. Early Childhood Advisory Council;
+19 b. Governor's School for Entrepreneurs Program;
+20 c. Governor's Scholar Program;
+21 d. Board of the Kentucky Center for Statistics; and
+22 e. Foundation for Adult Education;
+23 (b) [Department of Workers' Claims, which shall be headed by a commissioner
+24 appointed by the Governor and confirmed by the Senate in accordance with
+25 KRS 342.228. The department shall be divided for administrative purposes
+26 into the Office of Administrative Law Judges, the Division of Claims
+27 Processing, the Division of Security and Compliance, the Division of
+Page 49 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 Workers' Compensation Funds, and the Division of Specialist and Medical
+2 Services. The Office of Administrative Law Judges shall be headed by a chief
+3 administrative law judge appointed in accordance with KRS 342.230. Each
+4 division in the department shall be headed by a director appointed by the
+5 secretary with the approval of the Governor in accordance with KRS 12.050.
+6 The Workers' Compensation Board shall be attached to the Department of
+7 Workers' Claims for administrative purposes only;
+8 (c) ]Department of Workplace Standards, which shall be headed by a
+9 commissioner appointed by the Governor in accordance with KRS 12.040 and
+10 shall be divided for administrative purposes into the Division of Occupational
+11 Safety and Health Compliance, the Division of Occupational Safety and
+12 Health Education and Training, and the Division of Wages and Hours. Each
+13 of these divisions shall be headed by a director appointed by the secretary
+14 with the approval of the Governor in accordance with KRS 12.050;
+15 (c)[(d)] Office of Unemployment Insurance, which shall be headed by an
+16 executive director appointed by the Governor in accordance with KRS
+17 12.040;
+18 (d)[(e)] Kentucky Unemployment Insurance Commission;
+19 (e)[(f)] Department for Libraries and Archives;
+20 (f)[(g)] Office of Educational Programs;
+21 (g)[(h)] Kentucky Workforce Innovation Board;
+22 (h)[(i)] Department for Disability Determination Services, which shall include
+23 the:
+24 1. Division of Operations;
+25 2. Division of Support Services;
+26 3. Division of Specialized Cases; and
+27 4. Division of Case Processing; and
+Page 50 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (i)[(j)] Department of Workforce Development, which shall be headed by a
+2 commissioner appointed by the Governor in accordance with KRS 12.040
+3 who shall report to the secretary. Each office or division in the department
+4 shall be headed by an executive director or division director appointed by the
+5 secretary with the approval of the Governor in accordance with KRS 12.050.
+6 The department shall be composed of the following offices:
+7 1. Career Development Office;
+8 2. Office of Vocational Rehabilitation, which shall include the Division of
+9 Program Policy and Support. The division director shall report to the
+10 executive director for the Office of Vocational Rehabilitation;
+11 3. Office of Industry and Apprenticeship Services, which shall include the
+12 Division of Apprenticeship and the Division of Workforce Talent. The
+13 division directors shall report to the executive director of the Office of
+14 Industry and Apprenticeship Services;
+15 4. Office of Adult Education;
+16 5. Kentucky Apprenticeship Council, which shall be attached to the
+17 department for administrative purposes only;
+18 6. Division of Technical Assistance; and
+19 7. Office of the Kentucky Workforce Innovation Board.
+20 (3) The following agencies are attached to the cabinet for administrative purposes only:
+21 (a) Kentucky Occupational Safety and Health Review Commission;
+22 (b) State Labor Relations Board;
+23 (c) Workers' Compensation Funding Commission;
+24 (d) Kentucky Occupational Safety and Health Standards Board;
+25 (e) Kentucky Environmental Education Council;
+26 (f) Kentucky Geographic Education Board;
+27 (g) Board of Directors for the Center for School Safety;
+Page 51 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (h) Kentucky Commission on Proprietary Education;
+2 (i) Employers' Mutual Insurance Authority;
+3 (j) Workers' Compensation Nominating Committee;
+4 (k) Kentucky Commission on the Deaf and Hard of Hearing;
+5 (l) Kentucky Educational Television;
+6 (m) Kentucky Work Ready Skills Advisory Committee; and
+7 (n) Foundation for Adult Education.
+8 Section 14. KRS 218A.278 is amended to read as follows:
+9 (1) As used in[For the purposes of] this section:
+10 (a) "Analyze" means to apply scientific and mathematical measures to determine
+11 meaningful patterns and associations in data. "Analyze" includes descriptive
+12 analysis to examine historical data, predictive analysis to examine future
+13 probabilities and trends, and prescriptive analysis to examine how future
+14 decisions may impact the population and trends; and
+15 (b) "Pilot program" means a program in a county or set of counties, or a subset or
+16 subsets of the population, as designated by the Cabinet for Health and Family
+17 Services and the Office of Drug Control Policy for analyzing the effectiveness
+18 of substance abuse treatment services in Kentucky.
+19 (2) The general purpose of this section is to assist in the development of a pilot
+20 program to analyze the outcomes and effectiveness of substance abuse treatment
+21 programs in order to ensure that the Commonwealth is:
+22 (a) Addressing appropriate risk and protective factors for substance abuse in a
+23 defined population;
+24 (b) Using approaches that have been shown to be effective;
+25 (c) Intervening early at important stages and transitions;
+26 (d) Intervening in appropriate settings and domains; and
+27 (e) Managing programs effectively.
+Page 52 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 (3) Sources of data for the pilot program shall include, at a minimum, claims under the
+2 Kentucky Department for Medicaid Services, the electronic monitoring system for
+3 controlled substances established under KRS 218A.202, and the Department of
+4 Workers' Claims[ within the Education and Labor Cabinet].
+5 (4) As funds are available, the Cabinet for Health and Family Services and the Office
+6 of Drug Control Policy shall initiate a pilot program to determine, collect, and
+7 analyze performance measurement data for substance abuse treatment services to
+8 determine practices that reduce frequency of relapse, provide better outcomes for
+9 patients, hold patients accountable, and control health costs related to substance
+10 abuse.
+11 (5) By December 31, 2016, the Cabinet for Health and Family Services and the Office
+12 of Drug Control Policy shall issue a joint report to the Legislative Research
+13 Commission and the Office of the Governor that:
+14 (a) Details the findings of the pilot program;
+15 (b) Includes recommendations based on the pilot program's results for optimizing
+16 substance abuse treatment services; and
+17 (c) Includes recommendations for the continued application of analytics to further
+18 augment Kentucky's approach to fighting substance abuse in the future.
+19 Section 15. KRS 304.13-167 is amended to read as follows:
+20 (1) Every workers' compensation insurer shall adhere to a uniform classification system
+21 and uniform experience rating system filed with the commissioner by an advisory
+22 organization designated by the commissioner.
+23 (2) Every workers' compensation insurer shall report its experience in accordance with
+24 the statistical plans and other reporting requirements in use by an advisory
+25 organization designated by the commissioner.
+26 (3) A workers' compensation insurer may develop subclassifications of the uniform
+27 classification system upon which rates may be made. These subclassifications and
+Page 53 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 their filing shall be subject to the provisions of this chapter applicable to filings
+2 generally.
+3 (4) A workers' compensation insurer may develop rating plans which identify loss
+4 experience as a factor to be used. These rating plans and their filing shall be subject
+5 to the provisions of this chapter applicable to filings generally.
+6 (5) The commissioner shall disapprove subclassifications, rating plans, or other
+7 variations from manual rules filed by a workers' compensation insurer if the insurer
+8 fails to demonstrate that the data thereby produced can be reported consistent with
+9 the uniform classification system and experience rating system and in such a
+10 fashion so as to allow for the application of experience rating filed by the advisory
+11 organization.
+12 (6) The commissioner shall approve rating plans for workers' compensation insurance
+13 that give specific identifiable consideration in the setting of rates to employers who
+14 implement a drug-free workplace program pursuant to administrative regulations
+15 adopted by the Department of Workers' Claims[ in the Education and Labor
+16 Cabinet]. The plans shall take effect January 1, 2008, shall be actuarially sound, and
+17 shall state the savings anticipated to result from such drug-free workplace
+18 programs. The credit shall be at least five percent (5%) unless the commissioner
+19 determines that five percent (5%) is actuarially unsound. The commissioner is also
+20 authorized to develop a schedule of premium credits for workers' compensation
+21 insurance for employers who have safety programs that contain certain criteria for
+22 safety programs. The commissioner shall consult with the commissioner of the
+23 Department of Workers' Claims[ in the Education and Labor Cabinet] in setting
+24 such criteria. A drug-free workplace credit under this subsection shall not be
+25 available to employers who receive a credit under KRS 304.13-412 or KRS Chapter
+26 351.
+27 Section 16. KRS 304.20-090 is amended to read as follows:
+Page 54 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1402
+1 Any insurer providing workers' compensation insurance coverage for a Kentucky
+2 location shall provide proof of coverage to the commissioner of the Department of
+3 Workers' Claims[ in the Education and Labor Cabinet] in accordance with the
+4 requirements of the chapter.
+5 Section 17. Upon the effective date of this Act, all records, files, documents,
+6 equipment, staff, supporting budgets, and any and all unexpended funds associated with
+7 the activities of the Department of Workers' Claims when it was attached to the
+8 Education and Labor Cabinet shall be transferred to the Department of Workers' Claims
+9 administratively attached to the Office of the Governor. All administrative regulations,
+10 decisions, and actions promulgated, made, or taken by the Department of Workers'
+11 Claims prior to the effective date of this Act that have not been repealed or rescinded
+12 shall continue in effect on or after the effective date of this Act, unless and until they are
+13 amended, repealed, or rescinded by the department after the effective date of this Act.
+14 Section 18. Whereas it is critical to the proper management and administration
+15 of the reorganized Department of Workers' Claims that consolidation take place as soon
+16 as possible, an emergency is declared to exist, and this Act takes effect upon its passage
+17 and approval by the Governor or upon its otherwise becoming a law.
+Page 55 of 55
+BR140200.100 - 1402 - XXXX 3/10/2026 2:38 PM Jacketed
