@@ -1,0 +1,1790 @@
+Title: 
+Official Title: 
+Source: versions - Current/Final
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 AN ACT relating to energy production and byproduct management.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+4 READ AS FOLLOWS:
+5 The purposes of Sections 1 to 24 of this Act are to:
+6 (1) Establish a legal and regulatory framework for the development and approval of
+7 underground carbon dioxide sequestration facilities;
+8 (2) Designate a government agency responsible for establishing standards and
+9 promulgating administrative regulations for the development and approval of
+10 underground carbon dioxide sequestration and sequestration facilities;
+11 (3) Safeguard and protect the correlative rights of operators, mineral owners, pore
+12 space owners, and surface owners and provide for just and reasonable
+13 compensation for their respective interests in underground carbon dioxide
+14 sequestration facilities; and
+15 (4) Ensure that long-term geologic sequestration of carbon dioxide in the
+16 Commonwealth is accomplished without unreasonable disturbance of surface,
+17 mineral, or water resources or endangering public safety.
+18 SECTION 2. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+19 READ AS FOLLOWS:
+20 As used in Sections 1 to 24 of this Act:
+21 (1) "Administratively complete," with respect to an application means an application
+22 for permit approval that the cabinet determines contains:
+23 (a) Information addressing each application requirement of the regulatory
+24 program; and
+25 (b) All information necessary to initiate technical processing and public review;
+26 (2) "Cabinet" means the Energy and Environment Cabinet;
+27 (3) "Carbon dioxide" means anthropogenic carbon dioxide of sufficient purity and
+Page 1 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 quality as to not compromise:
+2 (a) The safety of geologic sequestration; and
+3 (b) Those properties of the sequestration reservoir which allow the reservoir to
+4 effectively enclose and contain a stored gas;
+5 (4) "Carbon dioxide sequestration" means the injection of carbon dioxide and
+6 associated constituents into subsurface geologic reservoirs intended to provide for
+7 the long-term containment of a gaseous, liquid, or supercritical carbon dioxide
+8 stream in subsurface geologic formations and thereby prevent its release into the
+9 atmosphere;
+10 (5) "Class II well" has the same meaning as in KRS 353.510;
+11 (6) "Class VI injection well" or "Class VI well" means the classification by the US
+12 EPA of wells for injection of substances or materials into subsurface rock
+13 formations and, specifically, to the class of wells that are used to inject carbon
+14 dioxide into subsurface rock formations;
+15 (7) "Class VI underground injection control permit" or "Class VI permit" means a
+16 permit for a specified site authorizing a person or business entity to construct and
+17 operate a carbon dioxide sequestration facility issued by the:
+18 (a) US EPA prior to granting the cabinet primary enforcement authority; or
+19 (b) Cabinet after primary enforcement authority is granted by the US EPA;
+20 (8) "Completion certificate" means a Certificate of Underground Carbon Dioxide
+21 Sequestration Project Completion;
+22 (9) "Control person" has the same meaning as in KRS 353.510;
+23 (10) "Drilling permit" means a permit issued by the cabinet to drill a well or convert
+24 an existing well for the purposes of constructing a Class VI underground
+25 injection control facility;
+26 (11) "Gas well" has the same meaning as in KRS 353.010;
+27 (12) "Monitoring well" means a well authorized under a Class VI underground
+Page 2 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 injection control permit that is designed and completed in a specified subsurface
+2 interval to monitor pressure, fluid chemistry, or other parameters to confirm
+3 containment of injected carbon dioxide within the sequestration reservoir and
+4 confining system and to demonstrate non-endangerment of underground sources
+5 of drinking water;
+6 (13) "Oil well" has the same meaning as in KRS 353.010;
+7 (14) "Person" has the same meaning as in KRS 353.510;
+8 (15) "Pore space" means a cavity or void, whether naturally or artificially created, in
+9 subsurface stratum beneath individual properties within a reservoir into which
+10 injection of carbon dioxide is proposed;
+11 (16) "Reservoir" means a subsurface stratum, formation, cavity, or void, whether
+12 naturally or artificially created, including oil and gas reservoirs, saline
+13 formation, and coal seams suitable for, or capable of being made suitable for, the
+14 injection and storage of carbon dioxide;
+15 (17) "Secretary" means the secretary of the Energy and Environment Cabinet;
+16 (18) "Sequestration facility" means the reservoir, well, underground equipment, and
+17 surface facilities and equipment used or proposed to be used in a carbon dioxide
+18 sequestration project, but does not include pipelines used to transport carbon
+19 dioxide to the sequestration facility;
+20 (19) "Sequestration operator" means a person applying for or holding a Class VI
+21 permit until the issuance of a completion certificate for the relevant sequestration
+22 facility;
+23 (20) "Sequestration reservoir" means a reservoir proposed, authorized, and used for
+24 storing carbon dioxide;
+25 (21) "Surface waters":
+26 (a) Means:
+27 1. Those waters having well-defined banks and beds, either constantly or
+Page 3 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 intermittently flowing;
+2 2. Lakes and impounded waters;
+3 3. Marshes and wetlands; and
+4 4. Any subterranean waters flowing in well-defined channels and having
+5 a demonstrable hydrologic connection with the surface; and
+6 (b) Does not include lagoons used for waste treatment and effluent ditches that
+7 are situated on property owned, leased, or under valid easement by a
+8 permitted discharger;
+9 (22) "Third party" means a party who is independent of the corporate structure of a
+10 sequestration operator;
+11 (23) "Underground source of drinking water" or "USDW" has the same meaning as
+12 in 40 C.F.R. sec. 144.3;
+13 (24) "Unknown or missing owner" means a person vested with a present ownership
+14 interest in the pore space whose present identity or location cannot be determined
+15 from:
+16 (a) A reasonable review of county clerk records for the county or counties in
+17 which the property is located, and includes unknown heirs, successors, and
+18 assigns known to be alive;
+19 (b) A reasonable inquiry in the county of the owner's last known place of
+20 residence;
+21 (c) A diligent inquiry into known interest owners in the same tract; and
+22 (d) A reasonable review of available internet resources commonly utilized by
+23 the industry; and
+24 (25) "US EPA" means the United States Environmental Protection Agency.
+25 SECTION 3. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) A person shall not construct or operate a carbon dioxide sequestration facility
+Page 4 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 without first securing a:
+2 (a) Class VI underground injection control permit from the US EPA or the
+3 cabinet; and
+4 (b) Drilling permit issued by the cabinet.
+5 (2) The injection of carbon dioxide for purposes of enhancing the recovery of oil or
+6 natural gas pursuant to a permit approved by the cabinet under KRS 353.592
+7 shall not be subject to the provisions of Sections 1 to 24 of this Act.
+8 (3) If an oil, natural gas, or coalbed methane well operator proposes to convert its
+9 operations to carbon dioxide sequestration, then the underground carbon dioxide
+10 sequestration facility shall be regulated pursuant to Sections 1 to 24 of this Act.
+11 SECTION 4. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+12 READ AS FOLLOWS:
+13 (1) Every Class VI underground injection control permit application filed under this
+14 section shall:
+15 (a) Be on a form prescribed by the cabinet;
+16 (b) Be certified by the applicant; and
+17 (c) Contain all information specified by administrative regulations promulgated
+18 by the cabinet in accordance with KRS Chapter 13A.
+19 (2) (a) Upon filing an application for a Class VI permit, an applicant shall:
+20 1. Pay a fee in an amount set by the cabinet; and
+21 2. Submit proof of public notice of the application pursuant to Section 5
+22 of this Act.
+23 (b) The fee shall be deposited into the carbon dioxide sequestration facility
+24 administrative fund established in Section 14 of this Act.
+25 (3) In addition to obtaining a Class VI underground injection control permit, the
+26 applicant shall secure drilling permits from the cabinet for each well described in
+27 the approved Class VI permit.
+Page 5 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 (4) If, prior to approval of an application, the cabinet determines that the proposed
+2 sequestration facility contains commercially valuable minerals, the cabinet shall
+3 ensure that the interests of the mineral owners or mineral lessees:
+4 (a) Will not be adversely affected; or
+5 (b) Have been addressed in a written agreement entered into by the mineral
+6 owners, mineral lessees, and the sequestration operator pursuant to Section
+7 10 of this Act.
+8 (5) To be considered an administratively complete application, a Class VI permit
+9 application shall include documentation that:
+10 (a) The sequestration operator has the written consent of those persons having
+11 ownership interests in at least seventy-five percent (75%) of the proposed
+12 sequestration reservoir's pore space acreage; and
+13 (b) A pooling order has been requested pursuant to Section 20 of this Act for up
+14 to twenty-five percent (25%) of the proposed sequestration reservoir's pore
+15 space acreage for nonconsenting, unknown, and missing pore space
+16 owners.
+17 (6) The cabinet shall not begin technical review of an administratively complete
+18 application until the sequestration operator has:
+19 (a) Demonstrated that it possesses through the requisite consent and the
+20 petition for a pooling order in accordance with Section 20 of this Act, the
+21 legal right to utilize one hundred percent (100%) of the pore space acreage
+22 of the proposed sequestration reservoir; and
+23 (b) Provided documentation demonstrating the legal right to enter onto and
+24 conduct all surface activities and operations associated with the proposed
+25 sequestration facility.
+26 (7) If the cabinet determines that a bona fide dispute exists regarding the applicant's
+27 legal right, consistent with subsections (5) and (6) of this section, to utilize any of
+Page 6 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 the pore space acreage of the proposed sequestration reservoir, the cabinet shall:
+2 (a) Suspend technical permit review pending resolution of the property dispute
+3 by a court of competent jurisdiction or resolution by the parties; or
+4 (b) Require the applicant to revise the permit application to exclude the
+5 contested pore space acreage.
+6 (8) A Class VI permit shall not be issued under this section unless the cabinet finds
+7 that:
+8 (a) The application and proposed operations comply with all requirements
+9 established by the cabinet, including any applicable Class VI underground
+10 injection control administrative regulations, and all applicable provisions of
+11 state and federal law;
+12 (b) The sequestration facility is suitable and feasible for carbon dioxide
+13 injection and sequestration;
+14 (c) The sequestration operator has made a good-faith effort to obtain the
+15 written consent of all persons who own the sequestration reservoir's pore
+16 space;
+17 (d) The applicant has demonstrated the legal right to utilize one hundred
+18 percent (100%) of the sequestration reservoir's pore space acreage;
+19 (e) The application contains documentation sufficient to demonstrate the legal
+20 right to enter onto and conduct all surface activities and operations
+21 associated with the proposed sequestration facility;
+22 (f) The proposed sequestration facility will not endanger surface waters or any
+23 USDW;
+24 (g) The creation, operation, and maintenance of the sequestration facility will
+25 not appreciably endanger human health or the environment;
+26 (h) Adequate horizontal and vertical boundaries of the sequestration reservoir
+27 are defined, including buffer areas, to ensure that the sequestration facility
+Page 7 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 is operated safely and prudently;
+2 (i) The sequestration operator will establish monitoring facilities and protocols
+3 to assess the location and migration of carbon dioxide injected for
+4 sequestration and to ensure compliance with all Class VI permit, statutory,
+5 and administrative regulation requirements;
+6 (j) All nonconsenting pore space owners are or will be justly and reasonably
+7 compensated in accordance with the administrative regulations and
+8 procedures set forth in and promulgated under this section by the cabinet;
+9 and
+10 (k) The sequestration operator demonstrates financial responsibility as
+11 determined by the cabinet pursuant to subsections (10) and (11) of this
+12 section and applicable administrative regulations.
+13 (9) The cabinet shall render a decision on a permit application in accordance with
+14 Section 6 of this Act.
+15 (10) (a) A permit shall not be issued under this section unless the sequestration
+16 operator posts qualifying financial responsibility sufficient to cover the cost
+17 of:
+18 1. Corrective action;
+19 2. Well plugging of Class VI injection wells and monitoring wells;
+20 3. Post-injection site care and facility closure;
+21 4. Emergency and remedial response; and
+22 5. Addressing endangerment of underground sources of drinking water.
+23 (b) The financial responsibility instruments shall contain protective conditions
+24 for coverage for cancellation, renewal, and continuation provisions. The
+25 sequestration operator shall have detailed written estimates, in current
+26 dollars, of the cost of performing the activities contained in paragraph (a)1.
+27 to 5. of this subsection. The cost estimates shall be separate for each phase
+Page 8 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 and shall be based on the costs of the cabinet to hire third parties to perform
+2 the required activity.
+3 (c) For the duration of the permit, the sequestration operator shall annually
+4 adjust the cost estimates of each activity and provide the information to the
+5 cabinet. Any decrease or increase in the initial cost estimate shall be subject
+6 to the cabinet's approval. If at any time the current cost estimate:
+7 1. Increases to an amount greater than the face amount of the financial
+8 responsibility instruments currently in use, the sequestration operator
+9 shall submit to the cabinet within sixty (60) days, written evidence of
+10 an increase of the face amount of the existing financial responsibility
+11 instruments or substitute another instrument in the increased amount;
+12 or
+13 2. Decreases to an amount lesser than the face amount of the financial
+14 responsibility instruments, those instruments may be reduced to the
+15 amount of the current estimate upon receipt of written approval from
+16 the cabinet.
+17 (d) The cabinet shall perform an annual evaluation of the qualifying financial
+18 responsibility to determine if the amount of financial responsibility provided
+19 by the sequestration operator is sufficient to secure the operator's
+20 obligations under state and federal law. A cabinet determination under this
+21 subsection is considered final. If the cabinet determines the amount of
+22 financial responsibility is insufficient, the sequestration operator shall:
+23 1. Provide an adjustment of the cost estimate to the cabinet within sixty
+24 (60) days of notification by the cabinet; and
+25 2. Adjust the financial responsibility instruments in accordance with
+26 paragraph (c) of this subsection.
+27 (e) The initial deposit, use, and length of pay-in periods for trust funds or
+Page 9 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 escrow accounts are subject to the cabinet's approval. The sequestration
+2 operator may make periodic deposits into a trust fund or escrow account
+3 throughout the operational period to ensure sufficient funds are available to
+4 carry out the required activities on the date on which they may occur. The
+5 cabinet shall consider project-specific risk assessments, projected timing of
+6 activities, and interest accumulation in determining whether sufficient
+7 funds are available to conduct the required activities.
+8 (11) (a) In demonstrating and maintaining financial responsibility as determined by
+9 the cabinet, the sequestration operator shall provide financial responsibility
+10 from the following list of qualifying instruments:
+11 1. Trust funds;
+12 2. Surety or cash bonds;
+13 3. Letters of credit;
+14 4. Insurance;
+15 5. Self-insurance; or
+16 6. Any other instrument the cabinet finds satisfactory.
+17 (b) The cabinet may promulgate administrative regulations in accordance with
+18 KRS Chapter 13A to allow self-insurance as a financial responsibility
+19 mechanism for some or all of the costs and obligations of the sequestration
+20 operator under terms and conditions as the cabinet deems necessary to
+21 ensure completion of all obligations of the Class VI permit. To account for
+22 the risks of default and resulting responsibility obligations incurred by the
+23 carbon dioxide sequestration facility trust fund established in Section 16 of
+24 this Act, the cabinet's terms and conditions may include:
+25 1. Corporate guarantees;
+26 2. Securing performance by lien or collateral; and
+27 3. Adjustments in assessed contributions by the sequestration operator to
+Page 10 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 the carbon dioxide sequestration facility trust fund established in
+2 Section 16 of this Act.
+3 (c) All qualifying financial instruments are subject to the cabinet's approval.
+4 (12) (a) The cabinet shall not issue a permit under this section or approve an
+5 application to transfer a sequestration facility to a successor operator
+6 pursuant to subsection (13) of this section, and an operator shall not be
+7 eligible to receive any permits or become a successor operator under this
+8 section if:
+9 1. The applicant has falsified or otherwise misrepresented any
+10 information on or relating to the permit application;
+11 2. The applicant has failed to abate or reach an agreement with the
+12 cabinet regarding an unappealed violation of Sections 1 to 24 of this
+13 Act or the administrative regulations promulgated thereunder;
+14 3. A control person of the applicant has a forfeiture of a financial
+15 responsibility instrument;
+16 4. The applicant is a control person for another operator that has a
+17 forfeiture of a financial responsibility instrument;
+18 5. A control person for the applicant served as a control person for
+19 another operator when an unresolved financial responsibility
+20 instrument forfeiture occurred;
+21 6. The applicant is or has a control person who controls or is controlled
+22 by another operator that has a forfeiture of a bond; or
+23 7. The cabinet determines that an activity of the applicant is currently in
+24 violation of KRS Chapter 149, 151, 224, 349, 350, 351, 352, or 353 or
+25 any administrative regulation promulgated thereunder.
+26 (b) The cabinet:
+27 1. May restore the eligibility of applicants, operators, and control persons
+Page 11 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 who are deemed permit-ineligible pursuant to paragraph (a)1. of this
+2 subsection upon resubmission of the application correcting the false
+3 or misrepresented information;
+4 2. Shall restore the eligibility of applicants, operators, or control persons
+5 who are deemed permit-ineligible pursuant to paragraph (a)2. of this
+6 subsection upon satisfactory abatement of the violation and payment
+7 of any civil penalties;
+8 3. Shall restore the eligibility of applicants, operators, or control persons
+9 who are deemed permit-ineligible pursuant to paragraph (a)3. to 6. of
+10 this subsection upon entry of and satisfactory compliance with an
+11 agreed order between the operator and the cabinet that resolves all the
+12 operator's outstanding violations, requires payment of any civil
+13 penalties, and provides restitution to the cabinet for any costs
+14 associated with the forfeiture, plugging, and proper abandonment of a
+15 well in excess of the financial responsibility instruments forfeited to
+16 the cabinet by the operator; and
+17 4. a. Shall provisionally restore the eligibility of applicants who are
+18 deemed permit-ineligible pursuant to paragraph (a)7. of this
+19 subsection upon either submittal of proof that the violation is in
+20 the process of being corrected to the satisfaction of the cabinet or
+21 a demonstration that the applicant has filed and is pursuing a
+22 good-faith administrative or judicial appeal to contest the
+23 violation. If the Circuit Court affirms the violation, then the
+24 applicant shall, within thirty (30) days of the judicial action,
+25 submit proof that the violation is in the process of being
+26 corrected to the satisfaction of the cabinet. Provisional
+27 restoration of permit eligibility related to paragraph (a)7. of this
+Page 12 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 subsection may be withdrawn at any time if the cabinet
+2 determines that the applicant no longer satisfies the
+3 requirements of this section.
+4 b. The cabinet shall fully restore the eligibility of applicants who
+5 are deemed permit-ineligible pursuant to paragraph (a)7. of this
+6 subsection upon either submittal of proof that the violation has
+7 been corrected to the satisfaction of the cabinet or that the
+8 violations have been ordered vacated in a final decision of the
+9 secretary or a reviewing court after all appeals have been
+10 exhausted.
+11 (13) A permit issued pursuant to this section shall not be transferred by sale,
+12 assignment, lease, or otherwise, except upon the written approval by the cabinet
+13 of a joint application submitted by both the transferor and the transferee. The
+14 joint application for transfer shall be on a form prescribed by the cabinet and
+15 accompanied by a fee in an amount set by the cabinet. Fees under this subsection
+16 shall be deposited in the carbon dioxide sequestration facility administrative fund
+17 established in Section 14 of this Act. The transferee shall file financial
+18 responsibility with the application in an amount and form that the cabinet deems
+19 satisfactory to cover the costs of the activities listed in subsection (10)(a) of this
+20 section. All rights and liabilities under the permit shall pass to the transferee
+21 upon written approval of the transfer by the cabinet.
+22 (14) The cabinet shall conduct periodic reviews of each permit issued pursuant to this
+23 section. The cabinet shall review each permit at least once every five (5) years
+24 from the date of the permit issuance and whenever the cabinet has reason to
+25 believe, based on available information, that the permit may no longer be in
+26 compliance with Sections 1 to 24 of this Act. During permit review, the cabinet
+27 shall review all provisions of the existing permit, including the adequacy of the
+Page 13 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 financial responsibility required by this section. The cabinet may, by
+2 determination issued to the permit holder, require revision or modification of the
+3 permit provisions, including requiring the posting of additional financial
+4 responsibility, in order to ensure compliance with this section.
+5 SECTION 5. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+6 READ AS FOLLOWS:
+7 (1) Public notice of an application for a Class VI well permit under Sections 1 to 24
+8 of this Act shall allow at least thirty (30) days for public comment.
+9 (2) The cabinet shall send the public notice to the applicant, who shall be responsible
+10 for publication of the notice pursuant to KRS Chapter 424 within thirty (30) days
+11 prior to the submission of an application. Upon publication, the applicant shall
+12 send the cabinet a copy of the certificate of publication. The cost of publication
+13 shall be borne by the applicant.
+14 (3) Notice of an application for a Class VI well permit shall be served on each
+15 mineral lessee, mineral owner, and pore space owner with a legal interest in the
+16 property or properties that involves the sequestration reservoir, and adjoining
+17 surface and mineral owners of record.
+18 (4) Service of individual notices required by this section shall be through personal
+19 service, by registered mail, or by any method of delivery that requires a receipt or
+20 signature confirmation.
+21 (5) Service of any unknown or missing owners shall be deemed to have occurred,
+22 provided that the sequestration operator has complied with this section and
+23 Section 20 of this Act.
+24 (6) The cabinet may hold a public hearing at its discretion if a hearing may assist in
+25 clarifying one (1) or more issues involved in the Class VI well permit decision. If
+26 a public hearing is held, notice of the hearing shall be provided in the same
+27 manner as set forth in subsection (2) of this section.
+Page 14 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 SECTION 6. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+2 READ AS FOLLOWS:
+3 (1) Within sixty (60) calendar days of receiving an application for a Class VI
+4 underground injection control well, the cabinet shall provide written notice to the
+5 applicant as to the administrative completeness of the application. If the
+6 application is determined to be administratively:
+7 (a) Complete, the cabinet shall notify the applicant in writing that the technical
+8 review period provided by subsection (2) of this section has begun; or
+9 (b) Incomplete, the cabinet shall notify the applicant of the deficiencies that
+10 render it administratively incomplete. The applicant shall have thirty (30)
+11 calendar days from receiving the cabinet's notice of deficiency to correct the
+12 deficiencies and render the application administratively complete.
+13 (2) (a) Technical review of an application shall begin when the cabinet has deemed
+14 the application administratively complete and ready for review. The cabinet
+15 shall issue a final determination to either approve or deny the application
+16 within three hundred sixty-five (365) calendar days from the date an
+17 administrative completeness determination has been made by the cabinet.
+18 (b) If the application is found deficient during technical review, the cabinet
+19 shall notify the applicant in writing of the deficiencies identified by the
+20 cabinet during the review. The applicant shall respond to the deficiencies
+21 with information that addresses the identified deficiencies.
+22 (3) An application shall be considered temporarily withdrawn when an applicant is
+23 correcting deficiencies noted by the cabinet pursuant to subsection (1)(b) or (2)(b)
+24 of this section. Periods of temporary withdrawal shall not be counted against the
+25 review period allotted to the cabinet for administrative or technical review. Upon
+26 resubmittal the review period allotted to the cabinet shall resume.
+27 SECTION 7. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+Page 15 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 READ AS FOLLOWS:
+2 (1) The cabinet shall include in any Class VI underground injection control permit
+3 or order all provisions necessary to:
+4 (a) Carry out the objectives of Sections 1 to 24 of this Act;
+5 (b) Protect and adjust the respective rights and obligations of persons affected
+6 by a carbon dioxide sequestration facility; and
+7 (c) Protect public health, safety, and the environment.
+8 (2) The cabinet shall require that a copy of any Class VI permit issued and a land
+9 survey of the permitted sequestration reservoir indicating impacted surface, pore
+10 space and mineral owners and mineral lessees be filed with the county clerk in
+11 the county or counties where the carbon dioxide sequestration facility is located.
+12 Any amendments or modifications to the Class VI permit or land survey shall also
+13 be filed.
+14 SECTION 8. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+15 READ AS FOLLOWS:
+16 (1) A person shall not drill, deepen, reopen, or convert a well for the purposes of
+17 developing a Class VI underground injection control well without first securing
+18 drilling permits from the cabinet.
+19 (2) To both protect and prevent endangerment of underground sources of drinking
+20 water, the cabinet shall promulgate administrative regulations in accordance with
+21 KRS Chapter 13A regarding the drilling, casing, and construction of the wells.
+22 The cabinet shall prescribe the use of materials that are compatible and can
+23 withstand contact with carbon dioxide over the life of the sequestration project,
+24 including the project's conversion, maintenance, and abandonment of wells.
+25 SECTION 9. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) For the purposes of Sections 1 to 24 of this Act and in all other respects, any
+Page 16 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 carbon dioxide injected and sequestered in accordance with a Class VI
+2 underground injection control permit issued by the cabinet and in compliance
+3 with Sections 1 to 24 of this Act and the cabinet's administrative regulations shall
+4 not be considered a pollutant, and the operation and existence of such a carbon
+5 dioxide sequestration facility shall not be considered a public nuisance.
+6 (2) The cabinet's authority under Sections 1 to 24 of this Act shall not otherwise limit
+7 the authority or jurisdiction of the cabinet in any manner under any other state
+8 or federal law.
+9 SECTION 10. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+10 READ AS FOLLOWS:
+11 The provisions of this section shall apply to activities occurring within or proposed to
+12 occur within a sequestration reservoir:
+13 (1) Nothing contained in Sections 1 to 24 of this Act prohibits the mineral owner or
+14 lessee or the pore space owner or lessee from exploring, developing, or producing
+15 oil, gas, or other minerals above or below a sequestration reservoir or from using
+16 other strata or formations for carbon dioxide sequestration. Wells penetrating
+17 sequestration reservoirs shall protect their integrity and prevent carbon dioxide
+18 release. Wells penetrating oil and gas formations shall protect their integrity and
+19 prevent contamination or damage;
+20 (2) Before drilling, deepening, reopening, converting, or plugging wells drilled
+21 pursuant to KRS Chapters 349 and 353 on any property with a permitted
+22 sequestration reservoir, the oil and gas operator shall, at the time of filing with
+23 the cabinet, forward a copy of the application to the sequestration operator via
+24 registered or certified mail or by personal service;
+25 (3) When the cabinet receives a permit application for a well within a sequestration
+26 reservoir or buffer zone, the cabinet shall notify both the oil and gas operator and
+27 sequestration operator by registered or certified mail or by personal service;
+Page 17 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 (4) Before drilling, deepening, reopening, converting, or plugging a Class VI
+2 injection well or monitoring well on a property where oil, gas, or other minerals
+3 are owned by a person other than the sequestration operator, the sequestration
+4 operator shall, at the time of filing, forward a copy of the application and plat to
+5 the oil, gas, or other mineral owner via registered or certified mail or by personal
+6 service;
+7 (5) The sequestration operator shall:
+8 (a) Notify the oil, gas, or other mineral operator when sequestration rights are
+9 acquired on property with:
+10 1. An oil or gas lease or oil and gas operations; or
+11 2. A coal or noncoal lease, or coal or noncoal operations pursuant to
+12 KRS Chapter 350; and
+13 (b) Ensure that notice of future applications to drill Class VI injection wells or
+14 monitoring wells are sent to the oil, gas, coal, or other mineral lessee and
+15 operator, if any;
+16 (6) Upon receiving an application to drill, deepen, convert, reopen, complete, or plug
+17 an oil or gas well or a Class VI injection or monitoring well, the cabinet shall
+18 hold the application for fifteen (15) days to allow non-applicant operators to file
+19 objections. If objections are filed, the objecting non-applicant operator shall serve
+20 the objections on the applicant operator. The cabinet shall schedule a hearing,
+21 pursuant to subsection (6) of Section 5 of this Act, within ten (10) days of
+22 receiving the objection. If, during or before the hearing, the parties reach an
+23 agreement regarding the objections, changes to the drilling plan in accordance
+24 with the agreement shall be submitted by the applicant operator in an amended
+25 application. If an agreement is not reached, the cabinet, after considering the
+26 objections and the evidence presented at the hearing, shall enter an order and
+27 issue a permit to drill with modifications to protect the rights and resources of the
+Page 18 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 parties involved;
+2 (7) If the oil and gas operator and the sequestration operator disagree on the drilling,
+3 deepening, reopening, completing, or plugging of an oil or gas well or a Class VI
+4 or monitoring well, the cabinet shall:
+5 (a) Determine how the costs above those normally incurred in the drilling,
+6 completion, or plugging of the well will be allocated to the applicant
+7 operator and non-applicant operator; and
+8 (b) Specify the payment terms;
+9 (8) Upon receipt of notice of an application to drill, deepen, reopen, complete, or
+10 plug an oil or gas well or a Class VI or monitoring well, a non-applicant operator
+11 may waive his or her objection and specify whether the waiver applies to one (1)
+12 or more wells, a group of wells, or specific areas. The waiver shall be made by
+13 letter or by telephone with written confirmation. If the waiver is filed and the
+14 cabinet determines that the application is otherwise complete and the public
+15 interest is served, the permit shall be issued; and
+16 (9) (a) Before plugging and abandoning an oil or gas well that penetrates a
+17 sequestration reservoir or a Class VI or monitoring well that penetrates an
+18 oil or gas formation:
+19 1. The operator proposing to plug and abandon the well shall notify the
+20 other non-plugging operator and the cabinet of the operator's
+21 intention to plug and abandon the well and shall state the date and
+22 time when the plugging will occur;
+23 2. Notice shall be sufficient to reasonably allow the non-plugging
+24 operator to attend and view the plugging of the well. The operator may
+25 proceed with plugging the well if, after notice, the non-plugging
+26 operator does not attend; and
+27 3. The operator shall:
+Page 19 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 a. Seek and receive the approval of the cabinet; and
+2 b. Allow a cabinet representative to be present at the well plugging.
+3 (b) Plugging shall not occur except pursuant to the approval of the cabinet and
+4 with a cabinet representative present at the plugging.
+5 SECTION 11. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+6 READ AS FOLLOWS:
+7 The secretary may enter into cooperative agreements with corresponding officials in
+8 other state governments or governmental agencies for the purpose of regulating carbon
+9 dioxide sequestration projects that extend beyond state regulatory authority under
+10 Sections 1 to 24 of this Act.
+11 SECTION 12. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+12 READ AS FOLLOWS:
+13 The sequestration operator shall be the owner of the carbon dioxide injected into and
+14 stored in a sequestration reservoir approved under Sections 1 to 24 of this Act and shall
+15 maintain ownership and control until the cabinet issues a completion certificate. While
+16 the sequestration operator has ownership, the sequestration operator is liable for any
+17 damage the carbon dioxide may cause, including damage caused by carbon dioxide
+18 that escapes from the sequestration facility.
+19 SECTION 13. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+20 READ AS FOLLOWS:
+21 (1) The cabinet may issue a completion certificate upon application by the
+22 sequestration operator demonstrating compliance with Sections 1 to 24 of this Act
+23 at one (1) of the following times:
+24 (a) Fifty (50) years after carbon dioxide injections into a reservoir end; or
+25 (b) At any other time frame established on a site-specific basis by administrative
+26 regulations promulgated pursuant to KRS Chapter 13A regarding the time
+27 frame for a sequestration operator's post-injection site care and site closure
+Page 20 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 plan.
+2 (2) The completion certificate shall only be issued:
+3 (a) After public notice and hearing; and
+4 (b) If the sequestration operator demonstrates that:
+5 1. The operator is in full compliance with all laws and other
+6 requirements governing the sequestration facility, including without
+7 limitation, the requirements of any Class VI underground injection
+8 control permit associated with the facility and other applicable
+9 requirements;
+10 2. All pending claims regarding the sequestration facility's operation
+11 have been addressed and resolved; and
+12 3. The carbon dioxide injected into the sequestration reservoir has
+13 stabilized, and the reservoir is reasonably expected to retain the stored
+14 carbon dioxide.
+15 (3) As of the effective date of a completion certificate:
+16 (a) Ownership of the stored carbon dioxide shall transfer by operation of law,
+17 without payment of any compensation, to the Commonwealth;
+18 (b) If any claim for damages or injury is made against the pore space or
+19 surface owner arising from stored carbon dioxide, the Commonwealth shall
+20 defend the pore space or surface owner against that claim and indemnify
+21 and hold the pore space or surface owner harmless from any damages
+22 awarded, except that a pore space owner or surface owner may be liable for
+23 causing or contributing to migration or release of stored carbon dioxide
+24 from the reservoir. The Commonwealth's liability for such claims and its
+25 obligation to indemnify a pore space owner or surface owner for any claim
+26 shall not obligate payment of any damages in excess of the balance of the
+27 carbon dioxide sequestration facility trust fund established in Section 16 of
+Page 21 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 this Act;
+2 (c) The sequestration operator and all persons who transported or generated
+3 any stored carbon dioxide shall be released from all regulatory liability and
+4 regulatory requirements associated with the sequestration facility, provided
+5 that the sequestration operator shall not be released from regulatory
+6 liability for fraud or misrepresentation, nor from any liability existing at
+7 common law; and
+8 (d) The Commonwealth's responsibility for monitoring and managing the
+9 sequestration facility following issuance of the completion certificate and
+10 assumption of ownership of the sequestered carbon dioxide shall be funded
+11 from the carbon dioxide sequestration facility trust fund established in
+12 Section 16 of this Act until and unless the federal government assumes
+13 responsibility for the long-term monitoring and management of
+14 sequestration facilities.
+15 (4) The cabinet shall require that a copy of the completion certificate and a survey of
+16 the sequestration field be filed with the county clerk in the county or counties
+17 where the carbon dioxide sequestration facility is located.
+18 SECTION 14. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+19 READ AS FOLLOWS:
+20 (1) There is hereby created in the State Treasury an interest-bearing, restricted,
+21 agency account to be known as the carbon dioxide sequestration facility
+22 administrative fund. All amounts required to be deposited into the fund shall not
+23 be segregated into separate accounts but may be used by the cabinet as provided
+24 in this section for any carbon dioxide sequestration project. Notwithstanding KRS
+25 45.229, any balance remaining in the fund at the end of any fiscal year shall not
+26 lapse but shall be carried forward for the purposes of the fund until expended.
+27 Expenditures from the fund shall be made by the cabinet for the purposes of:
+Page 22 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 (a) Payment of all expenses of the cabinet in processing Class VI permits and
+2 certificate applications;
+3 (b) Regulating sequestration facilities during their construction, operation, and
+4 pre-closure phases; and
+5 (c) Certifying the sequestration amount determinations under Section 18 of this
+6 Act.
+7 (2) The secretary may:
+8 (a) Enter into a cooperative agreement with another government agency to
+9 carry out regulatory responsibilities over a sequestration facility on behalf
+10 of the Commonwealth; and
+11 (b) Compensate the government agency for its expenses with money from the
+12 fund.
+13 SECTION 15. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+14 READ AS FOLLOWS:
+15 (1) Class VI permit applicants shall pay an application fee to the cabinet. The
+16 application fee established on the fee schedule developed under Section 24 of this
+17 Act shall be calculated to ensure sufficient funds are available for the actual or
+18 anticipated cost to the cabinet for the review of the application.
+19 (2) Sequestration operators shall pay an annual administrative fee to the cabinet.
+20 The administrative fee established on the fee schedule developed under Section
+21 24 of this Act shall be calculated to ensure sufficient funds are available for the
+22 actual or anticipated cost to the cabinet for the regulation of sequestration
+23 facilities.
+24 (3) Sequestration operators seeking completion certificates shall pay the cabinet a fee
+25 established on the fee schedule developed under Section 24 of this Act. The fee
+26 shall be calculated to ensure sufficient funds are available for the actual or
+27 anticipated cost to the cabinet for the review of the permit and records relating to
+Page 23 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 the operation of the sequestration facility to determine eligibility for issuance of
+2 the completion certificate.
+3 (4) The application and completion certificate fees shall be deposited in the carbon
+4 dioxide sequestration facility administrative fund established in Section 14 of this
+5 Act.
+6 SECTION 16. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+7 READ AS FOLLOWS:
+8 (1) There is hereby created in the State Treasury an interest-bearing, restricted,
+9 agency account to be known as the carbon dioxide sequestration facility trust
+10 fund. Moneys in the fund shall be used for:
+11 (a) The long-term monitoring and management of sequestration facilities prior
+12 to closure, plugging, and abandonment of all monitoring wells in the event
+13 of operator default;
+14 (b) Expenses associated with the long-term monitoring and management after
+15 issuance of a completion certificate; and
+16 (c) Determining the causes and remediating the effects of any releases or
+17 environmental emergencies associated with sequestration facilities.
+18 (2) All amounts required to be deposited into the fund shall not be segregated into
+19 separate accounts but may be used by the cabinet as provided in this section for
+20 any carbon dioxide sequestration project. Notwithstanding KRS 45.229, any
+21 balance remaining in the fund at the end of any fiscal year shall not lapse but
+22 shall be carried forward to carry out the purposes of the fund until fully
+23 expended.
+24 (3) The secretary may:
+25 (a) Enter into a cooperative agreement with another government agency to
+26 carry out regulatory responsibilities over a sequestration facility on behalf
+27 of the Commonwealth; and
+Page 24 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 (b) Compensate the government agency for its expenses with money from the
+2 fund.
+3 SECTION 17. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) Sequestration operators shall pay the cabinet a fee on each ton of carbon dioxide
+6 injected for sequestration. The fee shall be paid at the time of injection and
+7 deposited into the carbon dioxide sequestration facility trust fund established in
+8 Section 16 of this Act. The fee shall be calculated to ensure sufficient funds are
+9 available for the actual or anticipated cost of:
+10 (a) Long-term monitoring and management of sequestration facilities; and
+11 (b) The effects of any releases or environmental emergencies associated with
+12 the sequestration facilities.
+13 (2) On or before December 31 of the first year in which the cabinet receives its first
+14 application for a Class VI underground injection control permit and each
+15 December 31 thereafter, the cabinet shall prepare and make publicly available an
+16 annual report on the carbon dioxide sequestration facility trust fund established
+17 in Section 16 of this Act that includes, at a minimum, information on receipts,
+18 disbursements, and projections for meeting the fund's objectives in Section 16 of
+19 this Act. The purpose of the report is to determine the sufficiency of fees
+20 authorized in Section 24 of this Act.
+21 SECTION 18. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+22 READ AS FOLLOWS:
+23 (1) The cabinet shall, upon request of an operator, certify the amount of injected
+24 carbon dioxide demonstrated to have been stored in a reservoir that has been or is
+25 being used for a Class II well in an enhanced oil or gas recovery project. Upon
+26 request of an operator, the cabinet may also certify the amount of injected carbon
+27 dioxide sequestered under Sections 1 to 24 of this Act.
+Page 25 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 (2) The amounts determined by the cabinet under subsection (1) of this section may
+2 be used for such matters as establishing the amounts of carbon credits,
+3 allowances, trading, emissions allocations, offsets, and for other similar
+4 purposes.
+5 (3) A person requesting a certification of a sequestration determination shall pay the
+6 cabinet a certification fee as authorized in Section 24 of this Act. The fee shall be
+7 calculated to ensure sufficient funds are available for the actual or anticipated
+8 cost to the cabinet to provide the certifications described in subsection (1) of this
+9 section.
+10 (4) Any fees the cabinet receives to provide the certifications described in subsection
+11 (1) of this section shall be deposited into the carbon dioxide sequestration facility
+12 administrative fund established in Section 14 of this Act.
+13 SECTION 19. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+14 READ AS FOLLOWS:
+15 Sections 1 to 24 of this Act shall not be construed as altering the respective legal rights
+16 or relationship between the severed mineral estate and a pore space owner as they exist
+17 at common law.
+18 SECTION 20. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+19 READ AS FOLLOWS:
+20 (1) If a sequestration operator is unable, after reasonable effort, to obtain the
+21 consent of all pore space owners within a proposed reservoir for an underground
+22 carbon dioxide sequestration facility, the cabinet may on petition satisfying the
+23 conditions established in this section, issue an order that the identified pore space
+24 owned by nonconsenting owners be included in a sequestration facility for the
+25 purpose of geologic sequestration of carbon dioxide pursuant to subsection (5) of
+26 this section.
+27 (2) The Class VI permit applicant shall negotiate in good faith with the pore space
+Page 26 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 owners and acquire rights needed to access the pore space.
+2 (3) Except for temporary access in cases of emergency, the cabinet shall not allow
+3 any surface disturbance on any surface tract or tracts overlying the pore space of
+4 a nonconsenting owner.
+5 (4) The sequestration operator shall provide a list to the cabinet of all persons
+6 reasonably known to own an interest in pore space proposed to be included in the
+7 reservoir.
+8 (5) (a) If the applicant or operator cannot reach an agreement with the owners of
+9 the pore space acreage in a proposed reservoir, but has secured written
+10 consent for at least seventy-five percent (75%) of the pore space acreage in
+11 the proposed reservoir, all the pore space in the sequestration reservoir shall
+12 be declared to be included within the proposed sequestration facility if the
+13 cabinet finds that the requirements of this section have been met.
+14 (b) For the purposes of this section, the interests of any unknown or missing
+15 pore space owners may be declared to be included through the pooling
+16 order provided reasonable effort to locate and notify the owners has been
+17 made and the sequestration operator has complied with the publication
+18 requirements of subsection (7) of this section. A pooling order shall be made
+19 only after the cabinet provides notice to all pore space owners proposed to
+20 be included within the order.
+21 (6) The applicant shall pay to the cabinet all costs associated with the conduct of the
+22 administrative hearing as assessed in the pooling order. The payment shall be
+23 made prior to the pooling order becoming effective. These funds shall be
+24 deposited into the carbon dioxide sequestration facility administrative fund
+25 established in Section 14 of this Act.
+26 (7) If the proposed pooling order concerns pore space with unknown or missing
+27 owners, the sequestration operator shall, after reasonable efforts to locate the
+Page 27 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 pore space owners, publish one (1) notice in the newspaper of the largest
+2 circulation in each county in which the pore space is located. The notice shall
+3 appear no more than forty-five (45) days nor less than thirty (30) days prior to the
+4 initial application for the pooling order. The applicant shall file proof of notice
+5 with the cabinet concurrently with the application. The notice shall:
+6 (a) State that an application for a pooling order has been filed with the cabinet;
+7 (b) Describe the property under which the pore space proposed to be collectively
+8 used is located;
+9 (c) In the case of an unknown pore space owner, indicate the name of the last
+10 known owner;
+11 (d) In the case of a missing pore space owner, identify the owner and the
+12 owner's last known address; and
+13 (e) State that any person claiming an interest in the pore space proposed to be
+14 collectively used shall notify the cabinet and the Class VI permit applicant
+15 at the published address within twenty (20) days of the publication date.
+16 (8) A pooling order shall authorize the injection and sequestration of carbon dioxide
+17 beneath the tract or portion thereof. The pooling order shall identify the
+18 compensation to be paid to unknown, missing, and nonconsenting pore space
+19 owners and the basis for valuation of the collective interest. The cabinet may
+20 consider evidence submitted by nonconsenting pore space owners as to the
+21 valuation of their interest.
+22 (9) Except for temporary access in cases of emergency, the pooling order issued by
+23 the cabinet shall not authorize any surface entry or surface disturbance by the
+24 permittee on any surface tract or tracts overlying the pore space of a
+25 nonconsenting, missing, or unknown owner.
+26 (10) A certified copy of any pooling order and a survey of the sequestration field shall
+27 be maintained by the cabinet.
+Page 28 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 (11) If the cabinet or US EPA requires a seismic survey of lands owned by the
+2 nonconsenting surface owner and an operator is unable to reasonably obtain by
+3 negotiation with a property owner the right to conduct seismic surveys on lands
+4 owned by the nonconsenting surface owner, then:
+5 (a) The cabinet may issue an order allowing the operator to conduct a seismic
+6 survey of the lands owned by the nonconsenting surface owner from outside
+7 the boundaries of the lands owned by the nonconsenting surface owner;
+8 (b) The operator shall, prior to conducting the survey, pay the surface owner
+9 just and reasonable compensation as established by the cabinet; and
+10 (c) Any data obtained by the operator through a seismic survey of the lands
+11 owned by a nonconsenting surface owner shall be held as confidential and
+12 shall be used only by the permittee, the cabinet, and US EPA for the
+13 purpose of satisfying statutory or regulatory requirements.
+14 (12) Except for the authorized persons and circumstances in subsection (11) of this
+15 section, any person disclosing confidential seismic survey data may be liable to
+16 the nonconsenting surface owner as provided under law.
+17 (13) The operator shall defend, indemnify, and hold harmless the property owner for
+18 all claims arising out of any surface or subsurface entry onto the property by the
+19 operator, its contractors, and its agents, except those claims arising from the
+20 intentional acts of a property owner.
+21 SECTION 21. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+22 READ AS FOLLOWS:
+23 (1) The sequestration operator shall deposit the funds due to unknown or missing
+24 pore space owners in an interest-bearing trust account.
+25 (2) If the unknown or missing pore space owners remain unknown or missing for a
+26 period of seven (7) years from the date of first injection into the sequestration
+27 reservoir, the sequestration operator shall pay the funds held in trust to the
+Page 29 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 surface owners of the tract overlying the pore space owned by the unknown or
+2 missing pore space owners.
+3 (3) If a surface owner remains missing or unknown for a period of seven (7) years
+4 from the date of first injection into the sequestration reservoir, the sequestration
+5 operator shall deposit the funds held in trust to the carbon dioxide sequestration
+6 facility trust fund established in Section 16 of this Act.
+7 SECTION 22. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+8 READ AS FOLLOWS:
+9 If any provision of Sections 1 to 24 of this Act or its application to any person or
+10 circumstances is held invalid, the invalidity does not affect other provisions or
+11 applications of Sections 1 to 24 of this Act which can be given effect without the invalid
+12 provision or application, and to this end the provisions of Sections 1 to 24 of this Act
+13 are severable.
+14 SECTION 23. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+15 READ AS FOLLOWS:
+16 (1) (a) If a person or operator fails to comply with the requirements of Sections 1
+17 to 24 of this Act or any administrative regulation or order promulgated or
+18 issued thereunder, the cabinet shall issue a notice of noncompliance to the
+19 person or operator and serve the notice in accordance with subsection (5) of
+20 this section. The notice shall specify the nature of the violation, the
+21 remedial action required to abate the violation, and the period of time set by
+22 the cabinet for abatement of the violation.
+23 (b) If a person or operator fails to abate the violation within the time prescribed
+24 in the notice, the cabinet shall issue a failure to abate cessation order to the
+25 person or operator and serve the notice in accordance with subsection (5) of
+26 this section. The order shall:
+27 1. Require the person or operator to immediately complete remedial
+Page 30 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 actions to abate the violation described in the notice and to cease any
+2 underground injection activity at the sequestration facility or site
+3 where the violation is occurring; and
+4 2. Remain in effect until the violation has been abated or the order is
+5 vacated or terminated in writing by the cabinet.
+6 (c) The cabinet shall issue a forfeiture order and order the financial
+7 responsibility instruments covering the sequestration facility be forfeited to
+8 the cabinet if:
+9 1. An agreement has not been reached with the cabinet regarding the
+10 alleged failure to comply with the notice to abate the violation; and
+11 2. The director determines the operator has not complied with the
+12 requirements set forth in the notice of noncompliance or the failure to
+13 abate cessation order.
+14 (d) The forfeiture order shall become effective thirty (30) days after the cabinet
+15 gives the operator notice of the order, unless a petition has been filed
+16 pursuant to KRS 353.700, in which case the forfeiture order shall become
+17 effective only upon a final determination of the secretary affirming the
+18 forfeiture order following the conclusion of the petition process.
+19 (2) (a) In addition to a notice of noncompliance or failure to abate cessation order
+20 issued pursuant to subsection (1) of this section, the cabinet may issue a
+21 closure order to any person or operator where:
+22 1. A sequestration facility is in violation of Sections 1 to 24 of this Act or
+23 any administrative regulation or order promulgated or issued
+24 thereunder, and the violation creates an imminent danger to the
+25 health or safety of the public or is causing or can be reasonably
+26 expected to cause significant imminent environmental harm; or
+27 2. A sequestration facility is in operation by any person without first
+Page 31 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 posting financial responsibility and obtaining written approval of the
+2 cabinet.
+3 (b) The closure order shall be affixed by a red tag marker at the conspicuous
+4 location at the facility with a letter of violation and a copy of the closure
+5 order mailed to the address of record for the responsible person or operator,
+6 if an address is on file with the cabinet. The letter of violation and closure
+7 order shall notify the person or operator to immediately:
+8 1. Cease operation of the sequestration facility; and
+9 2. Abate the violation.
+10 (c) Any person operating a sequestration facility under the circumstances
+11 described in paragraph (a)2. of this subsection may be ordered to either
+12 submit financial responsibility and obtain transfer of the facility or
+13 complete final reclamation and site closure for the facility, but the order
+14 does not relieve any prior obligation owed by the current operator of record.
+15 The closure order may be appealed pursuant to KRS 353.700 within thirty
+16 (30) days of issuance. Any person or operator that fails to comply with a
+17 closure order issued pursuant to this section shall be subject to a civil and
+18 criminal penalty under KRS 353.990.
+19 (3) (a) A copy of:
+20 1. All enforcement documents under this section shall be served on the
+21 surface and pore space owner, if they are different from the property
+22 owner, where the violation occurred; and
+23 2. The notice, at the time of issuance, shall be delivered to the
+24 complaining party if he or she is different from the operator, and if the
+25 enforcement document arises out of a citizen complaint.
+26 (b) Resolution of the enforcement action issued under this section shall require
+27 reimbursement of costs incurred by the cabinet.
+Page 32 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 (4) When it appears that any person is violating or threatening to violate any
+2 provision of Sections 1 to 24 of this Act or any rule, administrative regulation, or
+3 order promulgated or issued thereunder, the cabinet may bring suit to restrain the
+4 person from continuing the violation or from carrying out the threatened
+5 violation. A suit brought under this subsection shall:
+6 (a) Be filed in the:
+7 1. Franklin Circuit Court;
+8 2. Circuit Court of the county in which the violation occurred or is
+9 threatened; or
+10 3. Circuit Court of the county in which the defendant resides or in which
+11 any defendant resides if there is more than one (1) defendant; and
+12 (b) Give the court jurisdiction to grant without bond or other undertaking the
+13 prohibitory or mandatory injunction, as the facts may warrant, including a
+14 temporary restraining order or injunction.
+15 (5) (a) Service of any notice or order issued under this section shall be:
+16 1. Handed to the person in charge of the sequestration facility;
+17 2. Sent by certified mail, return receipt requested, addressed to the
+18 permanent address shown on the application for a permit;
+19 3. Sent by electronic mail to the address shown on the permit application
+20 or to an address provided to the cabinet voluntarily; or
+21 4. Sent by certified or electronic mail to the address known to the
+22 cabinet, if no address is shown on the application for a permit or the
+23 address is no longer valid.
+24 (b) Service in accordance with paragraph (a)3. or 4. of this subsection shall be
+25 effective upon delivery of the notice or the order to the recipient's inbox by
+26 email and verification sent to the cabinet by an electronic registered receipt.
+27 (6) The commencement of a proceeding pursuant to KRS 353.700 shall not operate
+Page 33 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 as a stay of a notice or order, including a notice or order that contains the
+2 requirement to complete all remedial measures to abate the cited violation, issued
+3 under this section. A party served with a notice or order under this section may
+4 request a stay of the notice or order by filing a written petition for temporary
+5 relief with the cabinet's Office of Administrative Hearings. A hearing on the
+6 petition shall occur within ten (10) days of the office's receipt of the petition for
+7 temporary relief unless the petitioner waives this requirement. The hearing
+8 officer shall render a decision on the petition for temporary relief within three (3)
+9 working days of the hearing. A party aggrieved by the decision of the hearing
+10 officer may file a written request for review by the secretary. Temporary relief
+11 may be granted from a notice or order issued under this section if:
+12 (a) The person requesting relief shows that there is substantial likelihood that
+13 the findings on the merits in an administrative hearing conducted by the
+14 cabinet will be favorable to the person; and
+15 (b) The relief will not adversely affect the public health or safety or cause
+16 significant imminent environmental harm to land, air, or water resources.
+17 (7) (a) If the cabinet fails to bring suit to enjoin a violation or threatened violation
+18 of any provision of Sections 1 to 24 of this Act or any rule, administrative
+19 regulation, or order promulgated or issued thereunder within ten (10) days
+20 after receipt of a written request to do so by any person who is or will be
+21 adversely affected by the violation, the person making the request may bring
+22 suit to restrain the violation or threatened violation in any court in which
+23 the cabinet might have brought suit.
+24 (b) The cabinet shall be made a party defendant in the suit in addition to the
+25 person allegedly violating or threatening to violate a provision of Sections 1
+26 to 24 of the Act, or any rule, administrative regulation, or order
+27 promulgated or issued thereunder.
+Page 34 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 SECTION 24. A NEW SECTION OF KRS CHAPTER 353 IS CREATED TO
+2 READ AS FOLLOWS:
+3 (1) In addition to the powers conferred upon the cabinet in other provisions of
+4 Sections 1 to 24 of this Act, the cabinet may develop, promulgate, and submit for
+5 approval a regulatory program for the purpose of accepting primary
+6 responsibility for the administration of the underground injection control
+7 program under 42 U.S.C. sec. 300h et seq. The cabinet shall include in any
+8 regulatory program developed in administrative regulations promulgated in
+9 accordance with KRS Chapter 13A:
+10 (a) Regarding the plugging, conversion, maintenance, monitoring, and
+11 abandonment of Class VI wells, measures to protect underground sources
+12 of drinking water and to prevent their endangerment;
+13 (b) A prohibition of underground injection through Class VI wells, except as
+14 authorized by a Class VI permit issued pursuant thereto;
+15 (c) The details of the requirements for a permit application, including:
+16 1. Site characterization;
+17 2. Operation of injection wells;
+18 3. A permitting process, including detailed time frames and methods to
+19 modify and transfer permits;
+20 4. Comprehensive monitoring that addresses all aspects of well integrity,
+21 carbon dioxide injection and sequestration, and air and groundwater
+22 quality during the injection operation and the post-injection site care
+23 period;
+24 5. Financial responsibility ensuring the availability of funds for the life
+25 of a carbon dioxide sequestration project, including post-injection site
+26 care and emergency response; and
+27 6. Reporting and recordkeeping that provide project-specific information
+Page 35 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 to evaluate the site operations and ensure environmental protection;
+2 (d) The criteria for reviewing compliance with eligibility requirements in
+3 subsection (12) of Section 4 of this Act and procedures for restoration of
+4 eligibility for a permit;
+5 (e) The requisite features of the Class VI underground injection control
+6 program including those for the:
+7 1. Administration of the carbon dioxide sequestration facility
+8 administration fund established in Section 14 of this Act;
+9 2. Issuance of determinations that certify the amount of carbon dioxide
+10 stored pursuant to individual Class VI underground injection control
+11 permits issued for that purpose, based upon requests for sequestration
+12 determination;
+13 3. Issuance of pooling orders as part of the development of a proposed
+14 carbon dioxide sequestration project;
+15 4. Issuance of completion certificates; and
+16 5. Requirement for owners or operators of Class VI underground
+17 injection control wells to demonstrate financial responsibility for the
+18 cost of closing all Class VI underground injection control wells. The
+19 demonstration of financial responsibility may include but is not be
+20 limited to the qualifying instruments required by Section 4 of this Act;
+21 (f) The requirements for reasonable public notice and public participation for:
+22 1. Applications for Class VI underground injection control permits;
+23 2. Applications for drilling permits;
+24 3. Issuance of a completion certificate; and
+25 4. Unknown or missing owners; and
+26 (g) A schedule of fees to be assessed on applicants and operators. The fees shall
+27 cover all costs to the cabinet for administering the underground injection
+Page 36 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 control program. The schedule of fees shall be reviewed and amended as
+2 necessary to ensure that the underground injection control program is fully
+3 funded at all times. The cabinet may collect application fees for the drilling
+4 of wells for use as Class VI wells prior to delegation of authority by the US
+5 EPA.
+6 (2) Administrative regulations promulgated pursuant to this section to allow for
+7 assumption of primary responsibility for administration of the underground
+8 injection control program under 42 U.S.C. sec. 300h et seq. shall conform to the
+9 standards and procedures established by US EPA for Class VI wells.
+10 (3) Any administrative regulations promulgated pursuant to Sections 1 to 24 of this
+11 Act shall be:
+12 (a) Promulgated in accordance with KRS Chapter 13A; and
+13 (b) Deemed to be necessary to prevent the loss of federal or state funds for the
+14 purposes of KRS 13A.105.
+15 (4) (a) Any order or final determination of the cabinet that is issued pursuant to
+16 Sections 1 to 24 of this Act shall be subject to review in accordance with
+17 KRS 353.700 and any administrative regulation promulgated thereunder.
+18 (b) As used in this subsection, "order or final determination" includes but is
+19 not limited to the issuance, denial, modification, or revocation of a permit,
+20 but does not include the issuance of a letter identifying deficiencies in an
+21 application for a permit or other nonfinal determinations.
+22 Section 25. KRS 278.704 is amended to read as follows:
+23 (1) No person shall commence to construct a merchant electric generating facility until
+24 that person has applied for and obtained a construction certificate for the facility
+25 from the board. The construction certificate shall be valid for a period of three (3)
+26 years after the issuance date of the last permit required to be obtained from the
+27 Energy and Environment Cabinet after which the certificate shall be void. The
+Page 37 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 certificate shall be conditioned upon the applicant obtaining necessary air, water,
+2 and waste permits. If an applicant has not obtained all necessary permits and has
+3 not commenced to construct prior to the expiration date of the certificate, the
+4 applicant shall be required to obtain a new valid certificate from the board.
+5 (2) (a) Except as provided in subsections (3), (4), and (5) of this section, no
+6 construction certificate shall be issued to construct a merchant electric
+7 generating facility unless:
+8 1. The exhaust stack of the proposed facility and any wind turbine is at
+9 least one thousand (1,000) feet from the property boundary of any
+10 adjoining property owner;[ and]
+11 2. All proposed structures or facilities used in connection with the
+12 generation or storage[for generation] of electricity are two thousand
+13 (2,000) feet from any residential neighborhood, school, hospital, or
+14 nursing home facility; and
+15 3. With regard to a wind power facility, the maximum height of the wind
+16 turbine, as measured from the natural grade to the top of the hub
+17 where the rotor attaches, does not exceed three hundred fifty (350)
+18 feet.
+19 (b) For purposes of applications for site compatibility certificates pursuant to
+20 KRS 278.216:[,]
+21 1. Only the exhaust stack of the proposed facility to be actually used for
+22 coal or gas-fired generation[ or, beginning with applications for site
+23 compatibility certificates filed on or after January 1, 2015, the proposed
+24 structure or facility to be actually used for solar or wind generation]
+25 shall be required to be at least one thousand (1,000) feet from the
+26 property boundary of any adjoining property owner and two thousand
+27 (2,000) feet from any residential neighborhood, school, hospital, or
+Page 38 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 nursing home facility;
+2 2. Any proposed structure to be actually used for the generation of
+3 electricity from solar or wind power shall be at least one thousand
+4 (1,000) feet from the property boundary of any adjoining property
+5 owner; and
+6 3. Any proposed structures or facilities used in connection with the
+7 generation or storage of electricity from solar or wind power shall be
+8 at least two thousand (2,000) feet from any residential neighborhood,
+9 school, hospital, or nursing home facility.
+10 (3) If the merchant electric generating facility is proposed to be located in a county or a
+11 municipality with planning and zoning, then maximum height, decommissioning,
+12 and setback requirements from a property boundary, residential neighborhood,
+13 school, hospital, or nursing home facility may be established by the planning and
+14 zoning commission. Any decommissioning requirement, maximum height
+15 limitation, or setback established by a planning and zoning commission for a
+16 facility in an area over which it has jurisdiction shall:
+17 (a) Except with regard to the minimum decommission bonding amount
+18 required in subsection (2)(m)5.a. of Section 26 of this Act, have primacy
+19 over the decommissioning requirements in KRS 278.706(2)(m), the
+20 maximum height limitation in subsection (2)(a)3. of this section, and the
+21 setback requirement in subsections (2) and (5) of this section; and
+22 (b) Not be subject to modification or waiver by the board through a request for
+23 deviation by the applicant, as provided in subsection (4) of this section or
+24 otherwise.
+25 (4) The board may grant a deviation from the requirements of subsection (2) of this
+26 section on a finding that the proposed facility is designed to and, as located, would
+27 meet the goals of KRS 224.10-280, 278.010, 278.212, 278.214, 278.216, 278.218,
+Page 39 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 and 278.700 to 278.716 at a distance closer than those provided in subsection (2) of
+2 this section.
+3 (5) If the merchant electric generating facility is proposed to be located on a site of a
+4 former coal processing plant in the Commonwealth where the electric generating
+5 facility will utilize on-site waste coal as a fuel source, then the one thousand (1,000)
+6 foot property boundary requirement in subsection (2)(a)1. of this section shall not
+7 be applicable; however, the applicant shall be required to meet any other setback
+8 requirements contained in subsection (2)(a)2. of this section.
+9 (6) If requested, a merchant electric generating entity considering construction of a
+10 facility for the generation of electricity or a person acting on behalf of such an
+11 entity shall hold a public meeting in any county where acquisition of real estate or
+12 any interest in real estate is being considered for the facility. A request for such a
+13 meeting may be made by the commission, or by any city or county governmental
+14 entity, including a board of commissioners, planning and zoning, fiscal court,
+15 mayor, or county judge/executive. The meeting shall be held not more than thirty
+16 (30) days from the date of the request.
+17 (7) The purpose of the meeting under subsection (6) of this section is to fully inform
+18 landowners and other interested parties of the full extent of the project being
+19 considered, including the project time line. One (1) or more representatives of the
+20 entity with full knowledge of all aspects of the project shall be present and shall
+21 answer questions from the public.
+22 (8) Notice of the time, subject, and location of the meeting under subsection (6) of this
+23 section shall be posted in both a local newspaper, if any, and a newspaper of
+24 general circulation in the county. Notice shall also be placed on the websites of the
+25 unregulated entity, and any local governmental unit. Owners of real estate known to
+26 be included in the project and any person whose property adjoins at any point any
+27 property to be included in the project shall be notified personally by mail. All
+Page 40 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 notices must be mailed or posted at least two (2) weeks prior to the meeting.
+2 (9) The merchant electric generating entity or a person acting on behalf of a merchant
+3 electric generating entity shall, on or before the date of the public meeting held
+4 under subsection (6) of this section, provide notice of all research, testing, or any
+5 other activities being planned or considered to:
+6 (a) The Energy and Environment Cabinet;
+7 (b) The Public Service Commission;
+8 (c) The Transportation Cabinet;
+9 (d) The Attorney General; and
+10 (e) The Office of the Governor.
+11 (10) Subsections (6) to (9) of this section shall not apply to any facility or project that
+12 has already received a certificate of construction from the board.
+13 Section 26. KRS 278.706 is amended to read as follows:
+14 (1) Any person seeking to obtain a construction certificate from the board to construct a
+15 merchant electric generating facility shall file an application at the office of the
+16 Public Service Commission.
+17 (2) A completed application shall include the following:
+18 (a) The name, address, and telephone number of the person proposing to
+19 construct and own the merchant electric generating facility;
+20 (b) A full description of the proposed site, including a map showing the distance
+21 of the proposed site from residential neighborhoods, the nearest residential
+22 structures, schools, and public and private parks that are located within a two
+23 (2) mile radius of the proposed facility;
+24 (c) Evidence of public notice that shall include the location of the proposed site
+25 and a general description of the project, state that the proposed construction is
+26 subject to approval by the board, and provide the telephone number and
+27 address of the Public Service Commission. Public notice shall be given within
+Page 41 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 thirty (30) days immediately preceding the application filing to:
+2 1. Landowners whose property borders the proposed site; and
+3 2. The general public in a newspaper of general circulation in the county or
+4 municipality in which the facility is proposed to be located;
+5 (d) A statement certifying that the proposed plant will be in compliance with all
+6 local ordinances and regulations concerning noise control and with any local
+7 planning and zoning ordinances. The statement shall also disclose setback
+8 requirements established by the planning and zoning commission as provided
+9 under KRS 278.704(3);
+10 (e) If the facility is not proposed to be located on a site of a former coal
+11 processing plant and the facility will use on-site waste coal as a fuel source or
+12 in an area where a planning and zoning commission has established a setback
+13 requirement pursuant to KRS 278.704(3), a statement that the exhaust stack of
+14 the proposed facility and any wind turbine is at least one thousand (1,000) feet
+15 from the property boundary of any adjoining property owner and all proposed
+16 structures or facilities used in connection with the generation or storage[for
+17 generation] of electricity are two thousand (2,000) feet from any residential
+18 neighborhood, school, hospital, or nursing home facility, unless coal or gas-
+19 fired generating facilities capable of generating ten megawatts (10MW) or
+20 more currently exist on the site. If the facility is proposed to be located on a
+21 site of a former coal processing plant and the facility will use on-site waste
+22 coal as a fuel source, a statement that the proposed site is compatible with the
+23 setback requirements provided under KRS 278.704(5). If the facility is
+24 proposed to be located in a jurisdiction that has established setback
+25 requirements pursuant to KRS 278.704(3), a statement that the proposed site
+26 is in compliance with those established setback requirements;
+27 (f) A complete report of the applicant's public involvement program activities
+Page 42 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 undertaken prior to the filing of the application, including:
+2 1. The scheduling and conducting of a public meeting in the county or
+3 counties in which the proposed facility will be constructed at least
+4 ninety (90) days prior to the filing of an application, for the purpose of
+5 informing the public of the project being considered and receiving
+6 comment on it;
+7 2. Evidence that notice of the time, subject, and location of the meeting
+8 was published in the newspaper of general circulation in the county, and
+9 that individual notice was mailed to all owners of property adjoining the
+10 proposed project at least two (2) weeks prior to the meeting; and
+11 3. Any use of media coverage, direct mailing, fliers, newsletters, additional
+12 public meetings, establishment of a community advisory group, and any
+13 other efforts to obtain local involvement in the siting process;
+14 (g) A summary of the efforts made by the applicant to locate the proposed facility
+15 on a site where existing electric generating facilities are located;
+16 (h) Proof of service of a copy of the application upon the chief executive officer
+17 of each county and municipal corporation in which the proposed facility is to
+18 be located, and upon the chief officer of each public agency charged with the
+19 duty of planning land use in the jurisdiction in which the facility is proposed
+20 to be located;
+21 (i) An analysis of the proposed facility's projected effect on the electricity
+22 transmission system in Kentucky;
+23 (j) An analysis of the proposed facility's economic impact on the affected region
+24 and the state;
+25 (k) A detailed listing of all violations by it, or any person with an ownership
+26 interest, of federal or state environmental laws, rules, or administrative
+27 regulations, whether judicial or administrative, where violations have resulted
+Page 43 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 in criminal convictions or civil or administrative fines exceeding five
+2 thousand dollars ($5,000). The status of any pending action, whether judicial
+3 or administrative, shall also be submitted;
+4 (l) A site assessment report as specified in KRS 278.708. The applicant may
+5 submit and the board may accept documentation of compliance with the
+6 National Environmental Policy Act (NEPA) rather than a site assessment
+7 report;[ and]
+8 (m) A decommissioning plan that shall describe how the merchant electric
+9 generating facility will be decommissioned and dismantled following the end
+10 of its useful life. The decommissioning plan shall, at a minimum, include
+11 plans to:
+12 1. Unless otherwise requested by the current landowner at the time of
+13 decommissioning, remove all above-ground facilities;
+14 2. Unless otherwise requested by the current landowner at the time of
+15 decommissioning, remove any underground components and
+16 foundations of above-ground facilities. Facilities removed under this
+17 subparagraph shall be removed in their entirety[to a depth of three (3)
+18 feet below the surface grade of the land in or on which the component
+19 was installed], unless the current landowner and the applicant otherwise
+20 agree at the time of decommissioning to a different depth;
+21 3. Return the land to a substantially similar state with the same or similar
+22 soil quality as it was prior to the commencement of construction;
+23 4. Unless otherwise requested by the current landowner at the time of
+24 decommissioning, leave any interconnection or other facilities in place
+25 for future use at the completion of the decommissioning process;
+26 5. Secure a bond or other similar security for the project to assure financial
+27 performance of the decommissioning obligation, provided that:
+Page 44 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 a. The amount of the proposed bond or similar security shall be
+2 determined by an independent, licensed engineer who is
+3 experienced in the decommissioning the type of[ solar] electric
+4 generating facility to be decommissioned[facilities] and has no
+5 financial interest in either the merchant electric generating facility
+6 or any parcel of land upon which the merchant electric generating
+7 facility is located. The proposed amount of the bond or similar
+8 security shall be the greater of[either]:
+9 i. The net present value of the total estimated cost of
+10 completing the decommissioning plan[, less the current net
+11 salvage value of the merchant electric generating facility's
+12 components]; or
+13 ii. The bond amount required by a county or municipal
+14 government that has established a decommissioning bond
+15 requirement or similar security obligation in the county or
+16 municipality where the merchant electric generating facility
+17 will be located. If the facility will be located in more than
+18 one (1) county or municipality that has established a
+19 decommissioning bond or similar security obligation, then
+20 the higher amount shall be required for the facility;
+21 b. The bond or other similar security names:
+22 i. For property that is leased by the applicant, each landowner
+23 from whom the applicant leases land and the Energy and
+24 Environment Cabinet as the primary co-beneficiaries; or
+25 ii. For property that is owned by the applicant, the Energy and
+26 Environment Cabinet as the primary beneficiary;
+27 c. If the merchant electric generating facility is to be located in a
+Page 45 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 county or municipality that has not established a decommissioning
+2 bond or other similar security obligation, the bond or other similar
+3 security shall name the county or municipality as a secondary
+4 beneficiary with the county's or municipality's consent;
+5 d. The bond or other similar security shall be provided by an
+6 insurance company or surety that shall at all times maintain at least
+7 an "Excellent" rating as measured by the AM Best rating agency
+8 or an investment grade credit rating by any national credit rating
+9 agency and, if available, shall be noncancelable by the provider or
+10 the customer until completion of the decommissioning plan or
+11 until a replacement bond is secured; and
+12 e. The bond or other similar security shall provide that at least thirty
+13 (30) days prior to its cancellation or lapse, the surety shall notify
+14 the applicant, its successor or assign, each landowner, the Energy
+15 and Environment Cabinet, and each[the] county or city in which
+16 the facility is located of the impending cancellation or lapse. The
+17 notice shall specify the reason for the cancellation or lapse and
+18 provide any of the parties, either jointly or separately, the
+19 opportunity to cure the cancellation or lapse prior to it becoming
+20 effective. The applicant, its successor, or its assign, shall be
+21 responsible for all costs incurred by all parties to cure the
+22 cancellation or lapse of the bond. Each landowner, or the Energy
+23 and Environment Cabinet with the prior approval of each
+24 landowner, may make a demand on the bond and initiate and
+25 complete the decommissioning plan;[.]
+26 6. Communicate with each affected landowner at the end of the merchant
+27 electric generating facility's useful life so that any requests of the
+Page 46 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 landowner that are in addition to the minimum requirements set forth in
+2 this paragraph and in addition to any other requirements specified in the
+3 lease with the landowner may, in the sole discretion of the applicant or
+4 its successor or assign, be accommodated; and
+5 7. Incorporate the requirements of subparagraphs 1. to 6. of this paragraph
+6 into the applicant's leases with landowners; and
+7 (n) For applications for the construction of wind power facilities, a statement
+8 certifying that:
+9 1. Any wind turbine will not be artificially lighted except as required by
+10 law;
+11 2. Wind power facilities will be sited in a manner that minimizes
+12 shadowing or flicker impacts; and
+13 3. Any shadowing or flicker impacts will not have a significant adverse
+14 impact on neighboring or adjacent property uses through siting or
+15 mitigation.
+16 (3) (a) The entity causing the decommissioning plan required under subsection
+17 (2)(m) of this section to be carried out shall be entitled to the proceeds from
+18 the sale of any salvaged materials or components of the merchant electric
+19 generating facility recovered during the decommissioning process.
+20 (b) Any proceeds that the Energy and Environment Cabinet recovers from the
+21 sale of salvaged materials or components in the course of carrying out a
+22 decommissioning plan under subsection (2)(m) of this section that, taken
+23 with the decommissioning bond amounts that have been drawn upon,
+24 exceed the cost of completing the decommissioning plan shall be deposited
+25 in the merchant electric generating facility monitoring and enforcement
+26 fund established in KRS 224.10-285.
+27 (4) Application fees for a construction certificate shall be set by the board and
+Page 47 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 deposited into a trust and agency account to the credit of the commission.
+2 (5)[(4)] Replacement of a merchant electric generating facility with a like facility, or
+3 the repair, modification, retrofitting, enhancement, or reconfiguration of a merchant
+4 electric generating facility shall not, for the purposes of this section and KRS
+5 224.10-280, 278.704, 278.708, 278.710, and 278.712, constitute construction of a
+6 merchant electric generating facility.
+7 (6)[(5)] The board shall promulgate administrative regulations prescribing fees to pay
+8 expenses associated with its review of applications filed with it pursuant to KRS
+9 278.700 to 278.716. All application fees collected by the board shall be deposited in
+10 a trust and agency account to the credit of the Public Service Commission. If a
+11 majority of the members of the board find that an applicant's initial fees are
+12 insufficient to pay the board's expenses associated with the application, including
+13 the board's expenses associated with legal review thereof, the board shall assess a
+14 supplemental application fee to cover the additional expenses. An applicant's failure
+15 to pay a fee assessed pursuant to this subsection shall be grounds for denial of the
+16 application.
+17 Section 27. KRS 278.710 is amended to read as follows:
+18 (1) Within one hundred twenty (120) days of receipt of an administratively complete
+19 application, or within one hundred eighty (180) days of receipt of an
+20 administratively complete application if a hearing is requested, the board shall, by
+21 majority vote, grant or deny a construction certificate, either in whole or in part,
+22 based upon the following criteria:
+23 (a) Impact of the facility on scenic surroundings, property values, the pattern and
+24 type of development of adjacent property, and surrounding roads;
+25 (b) Anticipated noise levels expected as a result of construction and operation of
+26 the proposed facility;
+27 (c) The economic impact of the facility upon the affected region and the state;
+Page 48 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 (d) Whether the facility is proposed for a site upon which existing generating
+2 facilities, capable of generating ten megawatts (10MW) or more of electricity,
+3 are currently located;
+4 (e) Whether the proposed facility will meet all local planning and zoning
+5 requirements that existed on the date the application was filed;
+6 (f) Whether the additional load imposed upon the electricity transmission system
+7 by use of the merchant electric generating facility will adversely affect the
+8 reliability of service for retail customers of electric utilities regulated by the
+9 Public Service Commission;
+10 (g) Except where the facility is subject to a statewide setback established by a
+11 planning and zoning commission as provided in KRS 278.704(3) and except
+12 for a facility proposed to be located on a site of a former coal processing plant
+13 and the facility will use on-site waste coal as a fuel source, whether the
+14 exhaust stack of the proposed merchant electric generating facility and any
+15 wind turbine is at least one thousand (1,000) feet from the property boundary
+16 of any adjoining property owner and all proposed structures or facilities used
+17 in connection with the generation or storage[for generation] of electricity are
+18 two thousand (2,000) feet from any residential neighborhood, school, hospital,
+19 or nursing home facility, unless a different setback has been requested and
+20 approved under KRS 278.704(4). If a planning and zoning commission has
+21 established setback requirements that differ from those under KRS
+22 278.704(2), the applicant shall provide evidence of compliance. If the facility
+23 is proposed to be located on site of a former coal processing plant and the
+24 facility will use on-site waste coal as a fuel source, the applicant shall provide
+25 evidence of compliance with the setback requirements provided in KRS
+26 278.704(5);
+27 (h) The efficacy of any proposed measures to mitigate adverse impacts that are
+Page 49 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 identified pursuant to paragraph (a), (b), (e), or (f) of this subsection from the
+2 construction or operation of the proposed facility;
+3 (i) Whether the applicant has a good environmental compliance history;[ and]
+4 (j) Whether the decommissioning plan is complete and complies with the
+5 requirements of KRS 278.706(2)(m) and any other local requirements that
+6 may apply; and
+7 (k) Whether, for applications for the construction of wind power facilities, the
+8 applicant and facilities will comply with the certifications required in
+9 subsection (2)(n) of Section 26 of this Act.
+10 (2) When considering an application for a construction certificate for a merchant
+11 electric generating facility, the board may consider the policy of the General
+12 Assembly to encourage the use of coal as a principal fuel for electricity generation
+13 as set forth in KRS 152.210, provided that any facility, regardless of fuel choice,
+14 shall comply fully with KRS 224.10-280, 278.212, 278.216, and 278.700 to
+15 278.716.
+16 (3) A person that has received a construction certificate for a merchant electric
+17 generating facility shall:
+18 (a) File with the Energy and Environment Cabinet the copy of the bond or other
+19 similar security that, pursuant to KRS 278.706(2)(m)5., is required by a
+20 county or a municipal government or as part of a decommissioning plan, no
+21 later than the date upon which the construction of the merchant generating
+22 facility commences, and refile an updated copy at least once every five (5)
+23 years thereafter;
+24 (b) Not transfer rights and obligation under the certificate without having first
+25 applied for and received a board determination that:
+26 1. The acquirer has a good environmental compliance history; and
+27 2. The acquirer has the financial, technical, and managerial capacity to
+Page 50 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 meet the obligations imposed by the terms of the approval or has the
+2 ability to contract to meet these obligations;
+3 (c) File with the Energy and Environment Cabinet a notice of the date that
+4 construction is complete and the merchant electric generating facility begins
+5 producing electricity for sale; and
+6 (d) Following the date the merchant electric generating facility begins producing
+7 electricity for sale, file a notice of any transaction involving the transfer or
+8 sale of ownership, control, or the right to control the merchant electric
+9 generating facility, with lessors of property where the merchant electric
+10 generating facility is located, the Energy and Environment Cabinet, the county
+11 judge/executive of a county and, if applicable, the mayor of a municipality in
+12 which the merchant electric generating facility is located, within ten (10) days
+13 of completing the transaction. The notice shall include the name, street
+14 address, telephone number, and e-mail address of the person acquiring
+15 ownership, control, or the right to control the merchant electric generating
+16 facility.
+17 (4) A person that has acquired ownership, control, or the right to control a merchant
+18 electric generating facility from the applicant or its successor or assign shall file
+19 with the Energy and Environment Cabinet within ten (10) days of completing the
+20 acquisition:
+21 (a) A written consent to assume the obligations set forth in the decommissioning
+22 plan as of the date the acquisition occurred; and
+23 (b) A notice of adoption of an existing bond or other similar security previously
+24 filed pursuant to subsection (3)(a) of this section or a replacement bond or
+25 other similar security that complies with KRS 278.706(2)(m)5. An existing
+26 bond or other similar security shall be adopted, or a replacement bond or other
+27 similar security shall be in place, as of the date the acquisition occurs so that
+Page 51 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 there is no lapse in coverage of the decommissioning bond or other similar
+2 security. A person making a filing pursuant to this subsection shall file an
+3 updated bond or other similar security that complies with KRS
+4 278.706(2)(m)5. at least once every five (5) years.
+5 (5) Any person who transfers or sells ownership, control, or the right to control a
+6 merchant electric generating facility shall remain liable for all existing
+7 decommissioning obligations and bond requirements until the person who acquires
+8 ownership, control, or the right to control the merchant electric generating facility
+9 files with the Energy and Environment Cabinet the documents required by
+10 subsection (4) of this section and they are accepted as complete by the secretary.
+11 (6) Any application approval condition that requires the approval of the transfer of
+12 control of a merchant electric generating facility after construction is complete shall
+13 be void and unenforceable, but any transfer of control of a merchant electric
+14 generating facility shall be subject to compliance with the requirements of
+15 subsections (3)(d), (4), and (5) of this section.
+16 (7) Notwithstanding any provision of law to the contrary, including any order issued by
+17 the board prior to June 29, 2023, after the board has approved an application for a
+18 construction certificate for a merchant electric generating facility under this section,
+19 the approved applicant has posted the bond or similar security required under KRS
+20 278.706(2)(m)5., and the facility is constructed and begins generating electricity for
+21 sale, the board's authority to enforce any conditions of the construction certificate,
+22 including bonding and decommissioning requirements, shall end and the secretary
+23 of the Energy and Environment Cabinet shall monitor and enforce the construction
+24 certificate holder's compliance with the requirements of KRS 278.700 to 278.716
+25 and the conditions of its construction certificate application approval.
+26 (8) In addition to all compliance monitoring and enforcement performed by the
+27 secretary of the Energy and Environment Cabinet, and notwithstanding any
+Page 52 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 provision of law to the contrary, the secretary shall also review the
+2 decommissioning plan required by KRS 278.706(2)(m) or by local ordinance,
+3 license, or permit and the bond or similar security amount required by KRS
+4 278.706(2)(m)5. or by local ordinance, license, or permit as needed, including any
+5 time a transfer determination is made under subsection (5) of this section, but in any
+6 event at least once every five (5) years. Upon review, the secretary of the Energy
+7 and Environment Cabinet shall require the decommissioning plan to be updated and
+8 the bond amount to be changed to match any significant change in circumstances or
+9 change to the estimated cost of effectuating the decommissioning plan[ or to the
+10 salvage value of the facility or its components].
+11 (9) After the facility for which an application for a construction certificate has been
+12 approved is constructed and begins generating electricity for sale, the secretary of
+13 the Energy and Environment Cabinet shall ensure ongoing compliance with the
+14 mitigation measures that were conditions of the application approval under KRS
+15 278.708(6) and any enforcement by the board of the mitigation measures shall
+16 cease.
+17 (10) During the period that the merchant electric generating facility is operational, if
+18 solar panels or wind turbine components are replaced and discarded, the facility
+19 owner-operator shall remove discarded solar panels or wind turbine components
+20 from the site within ninety (90) days of completion of the work. Upon request of the
+21 facility owner-operator, the secretary of the Energy and Environment Cabinet may
+22 extend the time period under this subsection for removing discarded solar panels or
+23 wind turbine components.
+24 Section 28. KRS 278.714 is amended to read as follows:
+25 (1) No person shall commence to construct a nonregulated electric transmission line or
+26 a carbon dioxide transmission pipeline without a construction certificate issued by
+27 the board. An application for a construction certificate shall be filed at the offices of
+Page 53 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 the Public Service Commission along with an application fee as set forth in
+2 subsection (6) of this section. The board may hire a consultant to review the
+3 transmission line or carbon dioxide pipeline and provide recommendations
+4 concerning the adequacy of the application and proposed mitigation measures. The
+5 board may direct the consultant to prepare a report recommending changes in the
+6 route of the carbon dioxide pipeline or the route of the electric transmission line.
+7 Any consultant expenses or fees shall be borne by the applicant.
+8 (2) A completed application shall include the following:
+9 (a) The name, address, and telephone number of the person proposing
+10 construction of the nonregulated electric transmission line or the carbon
+11 dioxide transmission pipeline;
+12 (b) A full description of the proposed route of the electric transmission line or the
+13 carbon dioxide transmission pipeline and its appurtenances. The description
+14 shall include a map or maps showing:
+15 1. The location of the proposed line or pipeline and all proposed structures
+16 that will support it;
+17 2. The proposed right-of-way limits;
+18 3. Existing property lines and the names of persons who own the property
+19 over which the line or pipeline will cross; and
+20 4. a. The distance of the proposed electric transmission line from
+21 residential neighborhoods, schools, and public and private parks
+22 within one (1) mile of the proposed facilities; or
+23 b. The distance of the proposed carbon dioxide transmission pipeline
+24 from residential neighborhoods, schools, and parks, either private
+25 or public, within one thousand (1,000) feet of the proposed
+26 facilities;
+27 (c) With respect to electric transmission lines, a full description of the proposed
+Page 54 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 line and appurtenances, including the following:
+2 1. Initial and design voltages and capacities;
+3 2. Length of line;
+4 3. Terminal points; and
+5 4. Substation connections;
+6 (d) A statement that the proposed electric transmission line and appurtenances
+7 will be constructed and maintained in accordance with accepted engineering
+8 practices and the National Electric Safety Code;
+9 (e) With respect to both electric transmission lines and carbon dioxide
+10 transmission pipelines, evidence that public notice has been given by
+11 publication in a newspaper of general circulation in the general area
+12 concerned. Public notice shall include the location of the proposed electric
+13 transmission line or carbon dioxide pipeline, shall state that the proposed line
+14 or pipeline is subject to approval by the board, and shall provide the telephone
+15 number and address of the Public Service Commission; and
+16 (f) Proof of service of a copy of the application upon the chief executive officer
+17 of each county and municipal corporation in which the proposed electric
+18 transmission line or carbon dioxide transmission pipeline is to be located, and
+19 upon the chief officer of each public agency charged with the duty of planning
+20 land use in the general area in which the line or pipeline is proposed to be
+21 located.
+22 (3) With respect to electric transmission lines, within one hundred twenty (120) days of
+23 receipt of the application, or one hundred eighty (180) days if a local public hearing
+24 is held, the board shall, by majority vote, grant or deny the construction certificate
+25 either in whole or in part. Action to grant the certificate shall be based on the
+26 board's determination that the proposed route of the line will minimize significant
+27 adverse impact on the scenic assets of Kentucky and that the applicant will
+Page 55 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 construct and maintain the line according to all applicable legal requirements. In
+2 addition, the board may consider the interstate benefits expected to be achieved by
+3 the proposed construction or modification of electric transmission facilities in the
+4 Commonwealth. If the board determines that locating the transmission line will
+5 result in significant degradation of scenic factors or if the board determines that the
+6 construction and maintenance of the line will be in violation of applicable legal
+7 requirements, the board may deny the application or condition the application's
+8 approval upon relocation of the route of the line, or changes in design or
+9 configuration of the line.
+10 (4) A public hearing on an application to construct a nonregulated electric transmission
+11 line may be held in accordance with the provisions of KRS 278.712.
+12 (5) The board shall convene a local public information meeting upon receipt of a
+13 request by not less than three (3) interested persons that reside in the county or
+14 counties in which the carbon dioxide pipeline is proposed to be constructed. If the
+15 board convenes the local public information meeting, the meeting will be in the
+16 county seat of one (1) of the counties, as determined by the board, in which the
+17 proposed carbon dioxide pipeline will be located. The meeting shall provide an
+18 opportunity for members of the public to be briefed and ask the party proposing the
+19 carbon dioxide pipeline questions about the pipeline.
+20 (6) Pursuant to KRS 278.706(4)[(3)] and (6)[(5)], the board shall promulgate
+21 administrative regulations to establish an application fee for a construction
+22 certificate for:
+23 (a) A nonregulated transmission line; and
+24 (b) A carbon dioxide transmission pipeline.
+25 (7) With respect to carbon dioxide transmission lines, within one hundred twenty (120)
+26 days of receipt of the application or one hundred eighty (180) days if a local public
+27 information meeting is held, the board shall, by majority vote, grant or deny the
+Page 56 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 construction certificate either in whole or in part. Action to grant the certificate
+2 shall be based on the board's determination that the proposed route of the pipeline
+3 will minimize significant adverse impact on the scenic assets of Kentucky and that
+4 the applicant will construct and maintain the line according to all applicable legal
+5 requirements. In addition, the board may consider the interstate benefits expected to
+6 be achieved by the proposed carbon dioxide transmission pipeline in the
+7 Commonwealth. If the board determines that locating the transmission line will
+8 result in significant degradation of scenic factors or if the board determines that
+9 locating the carbon dioxide transmission line will be in violation of applicable legal
+10 requirements, the board may deny the application or condition the application's
+11 approval upon relocation of the route of the pipeline.
+12 Section 29. KRS 278.718 is amended to read as follows:
+13 The provisions of KRS 278.700, 278.704, 278.706, 278.708, and 278.710 shall not
+14 supplant, any other state or federal law, including the powers available to local
+15 governments under the provisions of home rule under KRS 67.080, 67.083, 67.850,
+16 67.922, 67A.060, 67C.101, and 82.082. Except with regard to the minimum
+17 decommissioning bond amount required in subsection (2)(m)5.a. of Section 26 of this
+18 Act, an ordinance, permit, or license issued by a local government shall have primacy
+19 over the provisions and requirements of KRS 278.700, 278.704, 278.706, and 278.708,
+20 and any conflict between an order of the board and a local ordinance, permit, or license
+21 shall be resolved in favor of the local government's ordinance, permit, or license.
+22 Section 30. The following KRS sections are repealed:
+23 353.800 Definitions for KRS 353.800 to 353.812.
+24 353.802 Legislative findings and declarations relating to geologic storage of carbon
+25 dioxide.
+26 353.804 Jurisdiction and authority over geologic storage of carbon dioxide --
+27 Application for and approval of demonstration projects -- Cabinet to testify
+Page 57 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 677/EN
+1 annually on program's development.
+2 353.806 Negotiations between storage operators and pore space owners -- Hearings and
+3 findings preceding pooling of pore space -- Carbon dioxide wells exempt -- Review
+4 under KRS 353.700.
+5 353.808 Pooling orders -- Requirements for contents of order and notice -- Fees --
+6 Recording of pooling orders with county clerks -- Review under KRS 353.700.
+7 353.810 Carbon injection wells to be closed and plugged after completion of active
+8 injection -- Monitoring for leaking and migration -- Transfer of ownership and
+9 liability of storage facilities -- Finance and Administration Cabinet to effect
+10 transfer.
+11 353.812 Cabinet and bordering states to discuss and develop unified approach to
+12 subsurface migration -- Reports to Governor and Legislative Research Commission.
+Page 58 of 58
+HB067720.100 - 2168 - XXXX 4/1/2026 10:42 PM Engrossed

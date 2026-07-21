@@ -1,0 +1,339 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 AN ACT relating to consumer protection.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in Sections 1 and 2 of this Act:
+6 (a) "Beneficiary" means any one (1) of the following who is solicited by or
+7 signs a contract with a solar energy salesperson or a solar energy contractor
+8 for a residential or commercial solar energy system:
+9 1. An owner or leaseholder of residential or commercial property; or
+10 2. An owner or lessee of a solar energy system;
+11 (b) "Dealer fee" means an amount paid by a solar energy contractor or solar
+12 energy salesperson to a lender in order to offer a beneficiary credit to
+13 finance the purchase and installation of a solar energy system;
+14 (c) "Electric utility" means:
+15 1. A municipal electric utility established under KRS Chapter 96; or
+16 2. An electric utility subject to KRS Chapter 278;
+17 (d) "Major system components" means any inverters, module-level power
+18 electronics, solar panels, racking systems, or battery energy storage
+19 equipment included in the solar energy installation;
+20 (e) "Solar array" means a mechanically and electrically integrated grouping of
+21 modules with support structures, including any attached system components
+22 such as inverters or direct current-to-direct current converters and attached
+23 associated wiring;
+24 (f) "Solar energy contractor" means a person that:
+25 1. Designs, installs, repairs, replaces, or maintains solar energy systems;
+26 and
+27 2. Is licensed as an electrical contractor under KRS Chapter 227A;
+Page 1 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 (g) "Solar energy installation contract" means an agreement between a solar
+2 energy contractor or solar energy salesperson and a beneficiary that
+3 includes, in part, an agreement to install a residential or commercial solar
+4 energy system for a total cost including labor and materials in excess of one
+5 thousand dollars ($1,000);
+6 (h) "Solar energy salesperson" means a person who solicits, negotiates, or
+7 otherwise endeavors to procure a solar energy installation contract with a
+8 beneficiary to install, repair, or replace residential or commercial solar
+9 energy systems on behalf of a solar energy contractor or any other person;
+10 (i) "Solar energy system" is any purchased, leased, or otherwise financed
+11 system comprised of components, circuits, solar energy equipment, and
+12 other equipment that in combination convert solar energy into electrical
+13 energy; and
+14 (j) "Solicit" means to make contact with a beneficiary for the purpose of
+15 selling or installing residential or commercial solar energy systems
+16 including but not limited to contact through any of the following methods:
+17 1. Door-to-door contact;
+18 2. Telephone contact or text messages;
+19 3. Flyers left at a residence or commercial property;
+20 4. Internet or social media advertisements; or
+21 5. Other promotional advertisements that offer gifts, cash, or services if
+22 the beneficiary contacts the solar energy contractor or solar energy
+23 salesperson.
+24 (2) (a) A person shall not advertise, offer to do work, submit a bid, engage in,
+25 conduct, or carry on the business of designing, installing, repairing,
+26 replacing, or maintaining residential or commercial solar energy systems
+27 for a total cost including labor and materials in excess of one thousand
+Page 2 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 dollars ($1,000) unless he or she is licensed as an electrical contractor
+2 under KRS Chapter 227A.
+3 (b) Any solar energy installation contract executed between a beneficiary and
+4 an unlicensed person shall be void and unenforceable.
+5 (3) A solar energy installation contract shall:
+6 (a) Be made in writing using the same language and terms as were principally
+7 used in any sales presentations made to a beneficiary including any
+8 material contract terms from print or digital marketing material given to the
+9 beneficiary;
+10 (b) Be given to the beneficiary at the time the beneficiary signs the contract;
+11 and
+12 (c) Contain the following:
+13 1. An itemized list of work to be performed including any known or
+14 anticipated electrical system upgrades or utility equipment upgrades
+15 that are necessary for installation;
+16 2. Any loan financing, leasing, or purchase agreement that is
+17 incorporated directly into the contract, included as a separate
+18 attachment or component of the contract, and conforming to all
+19 federal and state consumer credit protection statutes, regulations, and
+20 disclosure requirements, including terms and conditions, rents,
+21 amount financed, finance charge, interest rates, total of payments,
+22 annual percentage rate, the amortization schedule, late fees and
+23 penalties, prepayment penalties, and information describing how the
+24 loan financing is secured;
+25 3. Disclosure of the exact amount paid, if any, by a solar energy
+26 contractor or solar energy salesperson to any lender, lessor, or third-
+27 party financing company in the form of a dealer fee, commission, or
+Page 3 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 other similar inducement to obtain financing, regardless of whether
+2 financing is incorporated within the contract or in conjunction with a
+3 third-party lender;
+4 4. The total dollar amount of the contract;
+5 5. The cost per watt calculated as the total contract amount, including
+6 labor and materials, for installing the solar energy system divided by
+7 the total direct current nameplate rating of the solar energy system;
+8 6. A detailed payment schedule based on project completion milestones
+9 that explains when payments are due, the beneficiary's right to cancel
+10 the contract, and the cancellation fees due at each milestone in the
+11 payment schedule;
+12 7. The model and brand name of major system components to be
+13 installed, and, in the case of a change in any major system
+14 components throughout the duration of the contract, documentation
+15 of those changes and the efficiency and warranty period of the new
+16 major system components, and the agreement in writing by the
+17 beneficiary to those changes;
+18 8. The manufacturer's warranty period for each major system
+19 component of the solar energy system;
+20 9. The solar energy system's first year annual production projections in
+21 kilowatt hours, which:
+22 a. Shall be based on site-specific considerations of each solar
+23 array, including location of the installation, orientation and
+24 angle of the panels, and on-site shading factors;
+25 b. Shall not exceed optimal inverter performance identified by the
+26 manufacturer of the inverter equipment identified in the
+27 contract; and
+Page 4 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 c. Shall be developed using nationally recognized, industry
+2 standard tools and methodologies;
+3 10. A provision detailing that if there is a change to the solar array that
+4 reduces solar array production, the change order shall be submitted to
+5 the beneficiary, and the beneficiary shall have a period of up to two
+6 (2) weeks to cancel the contract;
+7 11. The name, business address, email address, and phone number of the
+8 primary solar energy salesperson, if different from the solar energy
+9 contractor;
+10 12. The name, business address, email address and license number of the
+11 solar energy contractor;
+12 13. A statement identifying whether all of the work will be performed by
+13 employees of the solar energy contractor and, in the case of any part
+14 of the work being subject to subcontracting by or assignment from the
+15 solar energy contractor to another person, the circumstances by which
+16 the subcontracting or assignment will occur and a disclosure of how
+17 the solar energy contractor will monitor and ensure that the work is
+18 completed in a safe, timely, and professional manner;
+19 14. A notice of the beneficiary's right to cancel, which shall be initialed by
+20 the beneficiary acknowledging that he or she has read and understood
+21 the following applicable notice, in twelve (12) point font or larger and
+22 including the following terms:
+23 a. For a residential property, a right to cancel notice that is
+24 consistent with requirements of KRS 367.430;
+25 b. For a commercial property, a rescission rights notice that reads
+26 as follows: "IF THIS AGREEMENT WAS SOLICITED TO
+27 YOUR COMMERCIAL PROPERTY AND YOU DO NOT
+Page 5 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 WANT THE GOODS OR SERVICES, YOU MAY CANCEL
+2 THIS AGREEMENT BY MAILING A NOTICE TO THE
+3 SELLER. THE NOTICE MUST SAY THAT YOU DO NOT
+4 WANT THE GOODS OR SERVICES AND MUST BE MAILED
+5 BEFORE MIDNIGHT OF THE THIRD BUSINESS DAY
+6 AFTER YOU SIGN THIS AGREEMENT. THE NOTICE
+7 MUST BE MAILED TO:
+8 ..................................................
+9 .................................................."
+10 15. A statement of warranty that the solar energy contractor shall:
+11 a. Install the solar energy system in compliance with:
+12 i. The manufacturer instructions;
+13 ii. The national electric code as enforced in the local
+14 jurisdiction;
+15 iii. Local building codes; and
+16 iv. The applicable utility's interconnection standards; and
+17 b. Correct or remedy any lack of compliance in the installation of
+18 the system for at least one (1) year;
+19 16. A statement fully and accurately describing the ability or inability of
+20 the solar energy system to produce power during a grid outage,
+21 including all applicable utility restrictions and conditions;
+22 17. A statement authorizing the solar energy contractor to interact as
+23 necessary with the beneficiary's electric utility on the beneficiary's
+24 behalf to provide any required information to and obtain any
+25 necessary approvals from the electric utility prior to, during, and
+26 following construction and initial operation of the solar energy
+27 system; and
+Page 6 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 18. A statement fully and accurately describing the solar energy
+2 contractor's affiliation or lack of affiliation with the beneficiary's
+3 electric utility.
+4 (4) (a) If a beneficiary finances the purchase of the solar energy system with a
+5 financed sales contract or leases the solar energy system, the financed sales
+6 contract or lease shall state the beneficiary's:
+7 1. Prior year mean electric bill;
+8 2. Estimated monthly electric bill after the solar energy system begins
+9 operation;
+10 3. Monthly finance costs or rent after the solar energy system begins
+11 operation; and
+12 4. Total monthly bill for electricity and finance costs or for electricity
+13 and rent after the solar energy system begins operation.
+14 (b) The statement required in this subsection shall be initialed by the
+15 beneficiary acknowledging that he or she has read and understood the
+16 statement.
+17 (5) If a beneficiary exercises any of the rescission rights as described in subsection
+18 (3)(c) of this section, the solar energy contractor shall not enforce the terms of
+19 the contract against the beneficiary, including any claims for labor or materials,
+20 and shall terminate any security interest and release any statutory lien created
+21 under the transaction within twenty (20) days of receiving written rescission of
+22 the contract from the beneficiary. If a beneficiary exercises the rescission rights
+23 via email or a certified letter postmarked within the three (3) day window to the
+24 contacts listed in the solar energy installation contract, even if the solar energy
+25 contractor or solar energy salesperson has not responded, the solar energy
+26 contractor is prohibited from enforcing the terms of the contract and shall not
+27 charge any cancellation fees.
+Page 7 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 (6) The solar energy contractor or beneficiary shall ensure that all required review
+2 and approvals, as dictated by the appropriate net metering or qualifying facility
+3 application process, are obtained from the beneficiary's electric utility prior to
+4 energizing the solar energy system.
+5 (7) A beneficiary is under no obligation to begin monthly payments on a financed
+6 solar energy system until the beneficiary’s system has been granted permission to
+7 operate by the applicable local or state inspection authority.
+8 (8) If the scope of work in the solar energy installation contract includes roofing
+9 work, the solar energy contractor shall provide the beneficiary separate invoices
+10 for the roofing work, and the solar energy installation contract shall separately
+11 itemize and identify the cost of any roofing tear-off and replacement.
+12 (9) A person that purchases or is otherwise assigned a solar energy installation
+13 contract is subject to all claims and defenses with respect to the contract that the
+14 beneficiary could assert against the solar energy contractor. A person, firm,
+15 partnership, corporation, or other entity which sells or otherwise assigns a solar
+16 energy installation contract shall include a prominent notice of the potential
+17 liability under this section.
+18 (10) A person shall not solicit using any statement or representation with regard to the
+19 costs, financing, terms, or conditions of purchase or installation of residential or
+20 commercial solar energy systems that is deceptive.
+21 (11) A solar energy contractor or solar energy salesperson who fails to substantially
+22 comply with the requirements of this chapter is liable to the beneficiary for any
+23 actual damages sustained by the beneficiary as a result of the failure. This
+24 section does not limit any other cause of action or remedy available under KRS
+25 Chapter 367.
+26 SECTION 2. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+27 READ AS FOLLOWS:
+Page 8 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 (1) Any person may maintain an action to enjoin the continuing of any act in
+2 violation of Section 1 of this Act, and if injured may also maintain an action for
+3 the recovery of damages.
+4 (2) If the court finds based on evidence presented by the plaintiff that the defendant
+5 is violating or has violated Section 1 of this Act, the court shall enjoin the
+6 defendant from continuing the violations.
+7 (3) Actual economic damages shall not be required to be alleged or proved by the
+8 plaintiff in order for the court to enjoin violations.
+9 (4) In addition to injunctive relief and any other relief the plaintiff may be entitled to
+10 under this section:
+11 (a) The plaintiff shall be entitled to recover from the defendant two (2) times
+12 the amount of any actual economic damages sustained; and
+13 (b) The court may award the plaintiff reasonable attorney's fees and costs.
+14 (5) In addition to the remedies provided under this section, all remedies, powers, and
+15 duties provided to the Attorney General under KRS 367.110 to 367.300, and the
+16 penalties provided in KRS 367.990, any other applicable remedies, powers, and
+17 duties provided under applicable law shall apply with equal force and effect to
+18 any act declared unlawful in Section 1 of this Act.
+19 (6) The Attorney General may recover a civil penalty of five thousand dollars
+20 ($5,000) per violation against any person who violates Section 1 of this Act.
+21 (7) An electric utility shall not be held liable for any violation of Section 1 of this Act
+22 unless it is acting in the capacity of a solar energy contractor or solar energy
+23 salesperson.
+24 (8) This section shall not prohibit the Attorney General or any other person from
+25 pursuing the recovery of damages, penalties, restitution, disgorgement, or
+26 injunctive relief afforded elsewhere under the law.
+27 Section 3. KRS 227.480 is amended to read as follows:
+Page 9 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 (1) (a) A city, county, urban-county government, charter county, or consolidated
+2 local government or the state shall, according to the Uniform State Building
+3 Code as it pertains to the plan review and inspection responsibilities of local
+4 governments or the state, require any person to obtain a permit before
+5 commencing construction, alteration, or repairs of any electrical system.
+6 (b) The city, county, urban-county government, charter county, or consolidated
+7 local government or the state shall require all inspections that are deemed
+8 necessary by the department for the safety of life and property. The
+9 department shall promulgate administrative regulations to describe the
+10 circumstances where inspections are required.
+11 (2) A city, county, urban-county government, charter county, or consolidated local
+12 government or the state shall not issue a permit unless the applicant submits proof
+13 of being licensed as an electrical contractor under KRS Chapter 227A or of acting
+14 on behalf of a licensed electrical contractor. However, the provisions of this
+15 subsection shall not apply to:
+16 (a) A homeowner or farmer who does construction, alteration, or repairs of any
+17 electrical system on his or her own premises or any other person exempt from
+18 licensing under KRS 227A.030 or 227A.150;
+19 (b) Electrical work performed by the Commonwealth of Kentucky, a city, county,
+20 urban-county government, charter county, or consolidated local government,
+21 or any subdivision thereof;
+22 (c) A company with a recently deceased licensed electrical contractor, which
+23 shall be granted an interim period of up to one hundred eighty (180)
+24 continuous calendar days by the city, county, urban-county government,
+25 charter county, consolidated local government, or state to allow the company
+26 to utilize the license of the deceased electrical contractor if:
+27 1. The company effectuates and documents all necessary bonding and
+Page 10 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2053
+1 insurance policies required by KRS Chapter 227A; and
+2 2. Ensures that the bonding and insurance policies remain in effect for the
+3 entirety of the interim period of time extended; or
+4 (d) A disaster response business as defined in KRS 141.010.
+5 (3) A city, county, urban-county government, charter county, or consolidated local
+6 government shall appoint and may fix the compensation of city, county, urban-
+7 county government, charter county, or consolidated local government electrical
+8 inspectors, and may by ordinance fix reasonable fees and establish other
+9 requirements for the conduct of electrical inspections within its boundaries. All
+10 electrical inspectors shall be certified under KRS 227.489.
+11 (4) Reasonable standards for the construction, alteration, and repair of any electrical
+12 system shall be those adopted in the Uniform State Building Code, as promulgated
+13 by the department, and shall have as a minimum standard the requirements of the
+14 National Electrical Code, which may include Kentucky amendments. These
+15 standards shall be used by the electrical inspector in making his or her inspections.
+16 (5) Local standards and fees for inspection of any solar energy system, as defined in
+17 Section 1 of this Act, shall be applied in a nondiscriminatory manner consistent
+18 with the treatment of comparable facilities.
+Page 11 of 11
+BR205300.100 - 2053 - XXXX 3/3/2026 3:16 PM Jacketed

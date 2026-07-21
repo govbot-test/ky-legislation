@@ -1,0 +1,1011 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 AN ACT relating to sex offender registrants.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 17.500 is amended to read as follows:
+4 As used in KRS 17.500 to 17.580:
+5 (1) "Approved provider" means a mental health professional licensed or certified in
+6 Kentucky whose scope of practice includes providing mental health treatment
+7 services and who is approved by the Sex Offender Risk Assessment Advisory
+8 Board[,] under administrative regulations promulgated by the board[,] to provide
+9 comprehensive sex offender presentence evaluations or treatment to adults and
+10 youthful offenders[,] as defined in KRS 600.020;
+11 (2) "Authorized personnel" means an agent of state government who is properly
+12 trained in DNA sample collection pursuant to administrative regulation;
+13 (3) "Board" means the Sex Offender Risk Assessment Advisory Board created under
+14 KRS 17.554;
+15 (4) "Cabinet" means the Justice and Public Safety Cabinet;
+16 (5)[(3)] (a) Except as provided in paragraph (b) of this subsection, "criminal offense
+17 against a victim who is a minor" means any of the following offenses if the
+18 victim is under the age of eighteen (18) at the time of the commission of the
+19 offense:
+20 1. Kidnapping, as set forth in KRS 509.040, except by a parent;
+21 2. Unlawful imprisonment, as set forth in KRS 509.020, except by a
+22 parent;
+23 3. Sex crime;
+24 4. Promoting a sexual performance of a minor, as set forth in KRS
+25 531.320;
+26 5. Human trafficking involving commercial sexual activity, as set forth in
+27 KRS 529.100;
+Page 1 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 6. Promoting human trafficking involving commercial sexual activity, as
+2 set forth in KRS 529.110;
+3 7. Promoting prostitution, as set forth in KRS 529.040, when the defendant
+4 advances or profits from the prostitution of a person under the age of
+5 eighteen (18);
+6 8. Use of a minor in a sexual performance, as set forth in KRS 531.310;
+7 9. Sexual abuse, as set forth in KRS 510.120 and 510.130;
+8 10. Unlawful transaction with a minor in the first degree, as set forth in KRS
+9 530.064(1)(a);
+10 11. Any offense involving a minor or depictions of a minor, as set forth in
+11 KRS Chapter 531;
+12 12. Any attempt to commit any of the offenses described in subparagraphs
+13 1. to 11. of this paragraph;
+14 13. Solicitation to commit any of the offenses described in subparagraphs 1.
+15 to 11. of this paragraph; or
+16 14. Any offense from another state or territory, any federal offense, or any
+17 offense subject to a court martial of the United States Armed Forces,
+18 which is similar to any of the offenses described in subparagraphs 1. to
+19 13. of this paragraph.
+20 (b) Conduct which is criminal only because of the age of the victim shall not be
+21 considered a criminal offense against a victim who is a minor if the
+22 perpetrator was under the age of eighteen (18) at the time of the commission
+23 of the offense;
+24 (6) "DNA sample" or "deoxyribonucleic acid sample" means a blood or swab
+25 specimen from a person, as prescribed by administrative regulation, that is
+26 required to provide a DNA sample pursuant to KRS 17.170 or 17.510, that shall
+27 be submitted to the Department of Kentucky State Police forensic laboratory for
+Page 2 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 law enforcement identification purposes and inclusion in law enforcement
+2 identification databases;
+3 (7)[(4)] "Law enforcement agency" means any lawfully organized investigative
+4 agency, sheriff's office, police unit, or police force of federal, state, county, urban-
+5 county government, charter county, city, consolidated local government, or a
+6 combination of these, responsible for the detection of crime and the enforcement of
+7 the general criminal federal or state laws;
+8 (8)[(5)] "Registrant" means:
+9 (a) Any person eighteen (18) years of age or older at the time of the offense or
+10 any youthful offender, as defined in KRS 600.020, who has committed:
+11 1. A sex crime; or
+12 2. A criminal offense against a victim who is a minor; or
+13 (b) Any person required to register under KRS 17.510; or
+14 (c) Any sexually violent predator; or
+15 (d) Any person whose sexual offense has been diverted pursuant to KRS 533.250,
+16 until the diversionary period is successfully completed;
+17 (9)[(6)] "Registrant information" means information about a registrant, including:
+18 (a) The registrant's:
+19 1. Name, including any lawful name change together with any[the]
+20 previous name;[,]
+21 2. Social Security number;[,]
+22 3. Age;[,]
+23 4. Race;[,]
+24 5. Sex;[,]
+25 6. Date of birth;[,]
+26 7. Height, weight, hair, and eye color;[,]
+27 8. Fingerprints, palm prints, DNA sample, and a photograph;[,]
+Page 3 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 9. Aliases used;[,]
+2 10. Residence;[,]
+3 11. Telephone numbers;
+4 12. Email addresses; and
+5 13. Motor vehicle operator's license number as well as any other
+6 government-issued identification card numbers, if any;[,]
+7 (b) A brief description of the crime or crimes committed;[, and]
+8 (c) The name and address of any place where the registrant:
+9 1. Is enrolled as a student; and
+10 2. Is employed or, if the registrant is employed with no fixed place of
+11 employment, other information describing where the registrant works;
+12 (d) Copies of:
+13 1. Each passport the registrant possesses; and
+14 2. Any document establishing the registrant's immigration status,
+15 including immigration document type and number, if the sex offender
+16 is an alien as defined in 8 U.S.C. sec. 1101(a)(3);
+17 (e) For a vehicle, including watercraft, aircraft, and motor vehicles owned or
+18 routinely operated by the registrant:
+19 1. The license plate number or, if a vehicle has no license plate, the
+20 registration number or other identifier;
+21 2. A description of the vehicle, including the make, model, year
+22 manufactured, and color; and
+23 3. An address or other information describing the location where the
+24 vehicle is habitually parked, docked, or otherwise kept;
+25 (f) Copies of any occupational or professional licenses that authorize the
+26 registrant to engage in an occupation or carry out a trade or business;
+27 (g) Designations used for self-identification or routing in internet
+Page 4 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 communications or postings; and
+2 (h) Other information the cabinet determines[,] by administrative regulation[,]
+3 may be useful in the identification of registrants;
+4 (10)[(7)] "Residence" means any place where a person sleeps. For the purposes of this
+5 statute, a registrant may have more than one (1) residence. A registrant is required
+6 to register each residence address;
+7 (11)[(8)] "Sex crime" means:
+8 (a) A felony offense defined in KRS Chapter 510, KRS 529.100 or 529.110
+9 involving commercial sexual activity, 530.020, 530.064(1)(a), 531.125,
+10 531.310, 531.320, 531.335, 531.340, 531.365, 531.366, 531.367, or 531.368.
+11 (b) A felony attempt to commit a felony offense specified in paragraph (a) of this
+12 subsection; or
+13 (c) A federal felony offense, a felony offense subject to a court-martial of the
+14 United States Armed Forces, or a felony offense from another state or a
+15 territory where the felony offense is similar to a felony offense specified in
+16 paragraph (a) of this subsection;
+17 (12)[(9)] "Sexual offender" means any person who has been convicted of,
+18 pled[pleading] guilty to, or entered[entering] an Alford plea to a sex crime as
+19 defined in this section, as of the date the verdict is entered by the court;
+20 (13)[(10)] "Sexually violent predator" means any person who has been subjected to
+21 involuntary civil commitment as a sexually violent predator, or a similar
+22 designation, under a state, territory, or federal statutory scheme; and
+23 (14)[(11) "The board" means the Sex Offender Risk Assessment Advisory Board
+24 created under KRS 17.554;
+25 (12)] "Victim" has the same meaning as in KRS 421.500[;
+26 (13) "DNA sample" or "deoxyribonucleic acid sample" means a blood or swab specimen
+27 from a person, as prescribed by administrative regulation, that is required to provide
+Page 5 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 a DNA sample pursuant to KRS 17.170 or 17.510, that shall be submitted to the
+2 Department of Kentucky State Police forensic laboratory for law enforcement
+3 identification purposes and inclusion in law enforcement identification databases;
+4 and
+5 (14) "Authorized personnel" means an agent of state government who is properly trained
+6 in DNA sample collection pursuant to administrative regulation].
+7 Section 2. KRS 17.510 is amended to read as follows:
+8 (1) The cabinet shall develop and implement a registration system for registrants which
+9 includes creating a new computerized information file to be accessed through the
+10 Law Information Network of Kentucky.
+11 (2) A registrant shall, on or before the date of his or her release by the court, the parole
+12 board, the cabinet, or any detention facility, register with the appropriate local
+13 probation and parole office in the county in which he or she intends to reside. The
+14 person in charge of the release shall facilitate the registration process.
+15 (3) (a) Any person required to register pursuant to subsection (2) of this section shall
+16 be informed of the duty to register by:
+17 1. The court at the time of sentencing if the court grants probation or
+18 conditional discharge or does not impose a penalty of incarceration;[,]
+19 or
+20 2. If incarcerated, by the official in charge of the place of confinement
+21 upon release.
+22 (b) The court and the official shall require the person to read and sign any form
+23 that may be required by the cabinet[,] stating that the duty of the person to
+24 register has been explained to the person. The court and the official in charge
+25 of the place of confinement shall require the releasee to complete the
+26 acknowledgment form and the court or the official shall retain the original
+27 completed form. The official shall then send the form to the Sex Offender
+Page 6 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 Registry Section, Department of Kentucky State Police, Frankfort, Kentucky
+2 40601.
+3 (4) (a) The court or the official shall order the person to register with the appropriate
+4 local probation and parole office which shall obtain the person's registrant
+5 information[fingerprints, palm prints, DNA sample, photograph, and a copy
+6 of his or her motor vehicle operator's license as well as any other government-
+7 issued identification cards, if any].
+8 (b) [Thereafter, ]The registrant shall return to the appropriate local probation and
+9 parole office not less than one (1) time every two (2) years in order for a new
+10 photograph to be obtained, and the registrant shall pay the cost of updating the
+11 photo for registration purposes. Any registrant who has not provided palm
+12 prints, a copy of his or her motor vehicle operator's license, or a copy of any
+13 other government-issued identification cards, if any, as of July 14, 2018, shall
+14 provide the information to the appropriate local probation and parole office
+15 when the registrant appears for a new photograph to be obtained. Any change
+16 to a registrant's information[motor vehicle operator's license number or any
+17 other government-issued identification card] after the registrant appears for a
+18 new photograph shall be registered in accordance with subsection (11) of this
+19 section. Failure to comply with this requirement shall be punished as set forth
+20 in subsection (12) of this section.
+21 (5) (a) The appropriate probation and parole office shall send the registration form
+22 containing the registrant information[, fingerprints, palm prints, photograph,
+23 and a copy of his or her motor vehicle operator's license as well as any other
+24 government-issued identification cards, if any,] and any special conditions
+25 imposed by the court or the Parole Board, to the Sex Offender Registry
+26 Section, Department of Kentucky State Police, Frankfort, Kentucky 40601 or
+27 in electronic format on forms designated by the Department of Kentucky
+Page 7 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 State Police. The appropriate probation and parole office shall send the DNA
+2 sample to the Department of Kentucky State Police forensic laboratory in
+3 accordance with administrative regulations promulgated by the cabinet.
+4 (b) The Sex Offender Registry Section, upon request by a state or local law
+5 enforcement agency, shall make available to that agency registrant
+6 information, including a person's fingerprints and photograph, where
+7 available, as well as any special conditions imposed by the court or the Parole
+8 Board.
+9 (c) Any employee of the Justice and Public Safety Cabinet who disseminates, or
+10 does not disseminate, registrant information in good-faith compliance with the
+11 requirements of this subsection shall be immune from criminal and civil
+12 liability for the dissemination or lack thereof.
+13 (6) (a) Except as provided in paragraph (b) of this subsection, any person who has
+14 been:
+15 1. Convicted of a sex crime or criminal offense against a victim who is a
+16 minor and has been notified of the duty to register by:[ in]
+17 a. A court of any state or territory, a court of the United States, the
+18 District of Columbia, or any federally recognized Indian tribe;[
+19 or]
+20 b. A similar conviction from a court of competent jurisdiction in any
+21 other country;[,] or
+22 c. A court martial of the United States Armed Forces;[ of a sex crime
+23 or criminal offense against a victim who is a minor and who has
+24 been notified of the duty to register by that state, territory, or
+25 court,] or[ who has been]
+26 2. Committed as a sexually violent predator:
+27 a. Under the laws of another state, laws of a territory, or federal laws,
+Page 8 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 or
+2 b. Has a similar commitment[conviction] from a court of competent
+3 jurisdiction in any other country;[,]
+4 shall comply with the registration requirement of this section, including the
+5 requirements of subsection (4) of this section, and shall register with the
+6 appropriate local probation and parole office in the county of residence within
+7 three (3)[five (5)] working days of relocation. [No ]Additional notice of the
+8 duty to register shall not be required of any official charged with a duty of
+9 enforcing the laws of this Commonwealth.
+10 (b) A[No] person shall not be required to register under this subsection for a
+11 juvenile adjudication if such an adjudication in this Commonwealth would not
+12 create a duty to register. This paragraph shall be retroactive.
+13 (7) (a) 1. Except as provided in paragraph (b) of this subsection, if a person:
+14 a. Is required to register under federal law or the laws of another state
+15 or territory;[,] or[ if the person]
+16 b. Has been convicted of an offense in a court of the United States,
+17 the District of Columbia, or any federally recognized Indian
+18 tribe, in a court martial of the United States Armed Forces, or
+19 under the laws of another state or territory that would require
+20 registration if committed in this Commonwealth,
+21 that person upon changing residence from the other state or territory of
+22 the United States to the Commonwealth or upon entering the
+23 Commonwealth for employment, to carry on a vocation, or as a student
+24 shall comply with the registration requirement of this section, including
+25 the requirements of subsection (4) of this section, and shall register
+26 within three (3)[five (5)] working days with the appropriate local
+27 probation and parole office in the county of residence, employment,
+Page 9 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 vocation, or schooling.
+2 2. A person required to register under federal law or the laws of another
+3 state or territory shall be presumed to know of the duty to register in the
+4 Commonwealth. As used in this subsection, "employment" or "carry on
+5 a vocation" includes employment that is full-time or part-time for a
+6 period exceeding fourteen (14) days or for an aggregate period of time
+7 exceeding thirty (30) days during any calendar year, whether financially
+8 compensated, volunteered, or for the purpose of government or
+9 educational benefit. As used in this subsection, "student" means a person
+10 who is enrolled on a full-time or part-time basis, in any public or private
+11 educational institution, including any secondary school, trade or
+12 professional institution, or institution of higher education.
+13 (b) A[No] person shall not be required to register under this subsection for a
+14 juvenile adjudication if such an adjudication in this Commonwealth would not
+15 create a duty to register. This paragraph shall be retroactive.
+16 (8) The registration form shall be a written or electronic statement signed, either
+17 physically or digitally, by the person that[which] shall include registrant
+18 information, including an up-to-date photograph of the registrant for public
+19 dissemination.
+20 (9) For purposes of KRS 17.500 to 17.580 and 17.991, a post office box number shall
+21 not be considered an address.
+22 (10) (a) If a registrant does not have an established and fixed residence of regular
+23 return, he or she shall report in person no less than every thirty (30) days to
+24 the local probation and parole office in the county in which he or she is
+25 present and register the approximate area where he or she can be located.
+26 (b) If the registrant changes his or her location, employer or employer address, or
+27 school or school address to a new county, the person shall notify his or her
+Page 10 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 current local probation and parole office of the new location on or before the
+2 date of the change of location.
+3 (c) The registrant shall also report in person to the appropriate local probation and
+4 parole office in the county of his or her new location, employer or employer
+5 address, or school or school address no later than three (3)[five (5)] working
+6 days after the date of the change of location.
+7 (11) (a) If the residence, employer, or school address of any registrant changes[,] but
+8 the registrant remains in the same county, the registrant[person] shall
+9 register[,] on or before the date of the change of address[,] with the
+10 appropriate local probation and parole office in the county in which he or she
+11 resides.
+12 (b) 1. If the registrant changes his or her residence, employer, or school to a
+13 new county, the person shall notify his or her current local probation and
+14 parole office of the new residence, employer, or school address on or
+15 before the date of the change of address.
+16 2. The registrant shall also register with the appropriate local probation and
+17 parole office in the county of his or her new residence, employer, or
+18 school no later than three (3)[five (5)] working days after the date of the
+19 change of address.
+20 (c) If a registrant's information changes, other than the registrant information
+21 described in subsection (10)(b) and (c) of this section or paragraphs (a) and
+22 (b) of this subsection,[the:
+23 1. Motor vehicle operator's license number or any other government-issued
+24 identification card number of any registrant changes; or
+25 2. Registrant obtains for the first time a motor vehicle operator's license
+26 number or any other government-issued identification card number;
+27 ] the registrant shall register the change or addition no later than three (3)[five
+Page 11 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 (5)] working days after the date of the change or the date of the addition[,]
+2 with the appropriate local probation and parole office in the county in which
+3 he or she resides.
+4 (d) 1. As soon as a probation and parole office learns of the person's new
+5 address under paragraph (b)1. of this subsection, that probation and
+6 parole office shall notify the appropriate local probation and parole
+7 office in the county of the new address of the effective date of the new
+8 address.
+9 2. As soon as a probation and parole office learns of the person's new
+10 address under paragraph (b)2. of this subsection, that office shall
+11 forward this information as set forth under subsection (5) of this section.
+12 (e) 1. A registrant shall register the following information with the appropriate
+13 local probation and parole office no less than twenty-one (21) days
+14 before traveling outside of the United States:
+15 a. [His or her passport number and country of issue;
+16 b. ]The dates of departure, travel, and return; and
+17 b.[c.] The foreign countries, colonies, territories, or possessions that the
+18 registrant will visit.
+19 2. The registrant shall register the following information with the
+20 appropriate local probation and parole office no later than three (3)[five
+21 (5)] working days after the date of his or her return from traveling
+22 outside of the United States:
+23 a. The date he or she departed, traveled, and returned; and
+24 b. The foreign countries, colonies, territories, or possessions that the
+25 registrant visited.
+26 (12) Any person required to register under this section who knowingly violates any of
+27 the provisions of this section or prior law is guilty of a Class D felony for the first
+Page 12 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 offense and a Class C felony for each subsequent offense.
+2 (13) Any person required to register under this section or prior law who knowingly
+3 provides false, misleading, or incomplete information is guilty of a Class D felony
+4 for the first offense and a Class C felony for each subsequent offense.
+5 (14) (a) [The cabinet shall]Any person required to register under this section shall
+6 verify his or her registrant information at least once every:[ the addresses,
+7 names, motor vehicle operator's license numbers, and government-issued
+8 identification card numbers of individuals required to register under this
+9 section. Verification shall occur at least once every]
+10 1. Ninety (90) days for a person required to register under KRS
+11 17.520(2);[, at least once every ]
+12 2. Calendar year for a person required to register under KRS 17.520(3);[,]
+13 and[ at least once every]
+14 3. Thirty (30) days for a person who does not have an established and fixed
+15 residence of regular return.
+16 (b) If the cabinet determines that a person has:
+17 1. Moved without providing his or her new address;
+18 2. Failed to notify the local probation and parole office of his or her
+19 presence in a new county without an established and fixed residence of
+20 regular return; or
+21 3. Other registrant information[A new name, motor vehicle operator's
+22 license number, or government-issued identification card number] that
+23 he or she has not provided;
+24 to the appropriate local probation and parole office or offices as required
+25 under subsection (11)(a), (b), and (c) of this section, the cabinet shall notify
+26 the appropriate local probation and parole office of the newly discovered
+27 information[new address, name, motor vehicle operator's license number, or
+Page 13 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 government-issued identification card number] used by the person. The office
+2 shall then forward this information as set forth under subsection (5) of this
+3 section. The cabinet shall attempt to notify the registrant and also notify the
+4 appropriate court, Parole Board, and appropriate Commonwealth's attorney,
+5 sheriff's office, probation and parole office, corrections agency, and law
+6 enforcement agency responsible for the investigation of the report of
+7 noncompliance.
+8 (c) An agency that receives notice of the noncompliance from the cabinet under
+9 paragraph (a) of this subsection:
+10 1. Shall consider revocation of the parole, probation, postincarceration
+11 supervision, or conditional discharge of any person released under its
+12 authority; and
+13 2. Shall notify the appropriate county or Commonwealth's Attorney for
+14 prosecution.
+15 (15) The cabinet may promulgate administrative regulations in accordance with KRS
+16 Chapter 13A to implement this section.
+17 (16) The provisions of subsections (10) and (14) of this section relating to registrants
+18 who do not have an established and fixed residence of regular return shall apply to
+19 any person required to register on or after January 1, 2024.
+20 Section 3. KRS 17.520 is amended to read as follows:
+21 (1) A registrant, upon his or her release by the court, the Parole Board, the cabinet, or
+22 any detention facility, shall be required to register for a period of time required
+23 under this section.
+24 (2) (a) Lifetime registration is required for:
+25 1. Any person who has been convicted of kidnapping, as set forth in KRS
+26 509.040, when the victim is under the age of eighteen (18) at the time of
+27 the commission of the offense, except when the offense is committed by
+Page 14 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 a parent;
+2 2. Any person who has been convicted of unlawful imprisonment, as set
+3 forth in KRS 509.020, when the victim is under the age of eighteen (18)
+4 at the time of the commission of the offense, except when the offense is
+5 committed by a parent;
+6 3. Any person convicted of a sex crime:
+7 a. Who has one (1) or more prior convictions of a felony criminal
+8 offense against a victim who is a minor; or
+9 b. Who has one (1) or more prior sex crime convictions;
+10 4. Any person who has been convicted of two (2) or more felony criminal
+11 offenses against a victim who is a minor;
+12 5. Any person who has been convicted of:
+13 a. Any degree of rape under KRS Chapter 510[Rape in the first
+14 degree under KRS 510.040];[ or]
+15 b. Any degree of sodomy under KRS Chapter 510[Sodomy in the
+16 first degree under KRS 510.070];
+17 c. Incest under KRS 530.020(2)(b) or (c);
+18 d. Sexual abuse in the first degree under KRS 510.110(1)(b)2.; or
+19 e. Any criminal attempt, conspiracy, or solicitation to commit any
+20 of the offenses described in subdivisions a. to d. of this
+21 subparagraph; and
+22 6. Any sexually violent predator.
+23 (3) All other registrants are required to register for twenty-five (25)[twenty (20)] years
+24 following discharge from confinement or twenty-five (25)[twenty (20)] years
+25 following the maximum discharge date on probation, shock probation, conditional
+26 discharge, parole, or other form of early release, whichever period is greater.
+27 (4) If a person required to register under this section is reincarcerated for another
+Page 15 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 offense or as the result of having violated the terms of probation, parole,
+2 postincarceration supervision, or conditional discharge, the registration
+3 requirements and the remaining period of time for which the registrant shall register
+4 are tolled during the reincarceration.
+5 (5) A person who has pled guilty, entered an Alford plea, or been convicted in a court
+6 of another state or territory, in a court of the United States, the District of
+7 Columbia, or any federally recognized Indian tribe, or in a court-martial of the
+8 United States Armed Forces who is required to register in Kentucky shall be subject
+9 to registration in Kentucky based on the conviction in the foreign jurisdiction. The
+10 [Justice and Public Safety ]cabinet shall promulgate administrative regulations in
+11 accordance with KRS Chapter 13A to carry out the provisions of this subsection.
+12 (6) The court shall designate the registration period as mandated by this section in its
+13 judgment and shall cause a copy of its judgment to be mailed to the Information
+14 Services Center, Department of Kentucky State Police, Frankfort, Kentucky 40601.
+15 (7) If the court fails to designate the registration period as mandated by this section,
+16 or the registrant has been:
+17 (a) Convicted of a sex crime or criminal offense against a victim who is a minor
+18 and has been notified of the duty to register by:
+19 1. A court of any state or territory, a court of the United States, the
+20 District of Columbia, or any federally recognized Indian tribe;
+21 2. A similar conviction from a court of competent jurisdiction in any
+22 other country; or
+23 3. A court martial of the United States Armed Forces; or
+24 (b) Committed as a sexually violent predator:
+25 1. Under the laws of another state, laws of a territory, or federal laws; or
+26 2. Has a similar commitment from a court of competent jurisdiction in
+27 any other country;
+Page 16 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 the Department of Kentucky State Police shall determine the registration period
+2 as mandated by this section.
+3 Section 4. KRS 17.580 is amended to read as follows:
+4 (1) The Department of Kentucky State Police shall establish a website[Web site]
+5 available to the public. The website[Web site] shall display:
+6 (a) The registrant information, except for:
+7 1. Information that identifies a victim;[,]
+8 2. DNA samples, fingerprints, and palm prints;[,]
+9 3. Social Security numbers;[,]
+10 4. Motor vehicle operator's license numbers;[,]
+11 5. The name and address of the registrant's school or employer;
+12 6. Copies of passports or documents establishing the registrant's
+13 immigration status;
+14 7. Copies of any occupational or professional licenses that authorize the
+15 registrant to engage in an occupation or carry out a trade or business;
+16 8. Designations used for self-identification or routing in internet
+17 communications or postings; and
+18 9. Government-issued identification card numbers obtained by the
+19 Information Services Center, Department of Kentucky State Police,
+20 under KRS 17.510;
+21 (b) The sex offender information, except for information that identifies a victim,
+22 DNA samples, Social Security numbers, and vehicle registration data,
+23 obtained by the Information Services Center, Department of Kentucky State
+24 Police, under KRS 17.510 prior to April 11, 2000; and
+25 (c) The registrant's conviction, the elements of the offense for which the
+26 registrant was convicted, whether the registrant is currently on probation or
+27 parole, and whether the registrant is compliant or noncompliant.
+Page 17 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 The website[Web site] shall be updated every day except for Saturdays, Sundays,
+2 and state holidays.
+3 (2) The information pertaining to an individual shall be maintained on the website[Web
+4 site] so long as that individual is registered in accordance with KRS 17.500 to
+5 17.580.
+6 (3) The following language shall be prominently displayed on the website[Web site]:
+7 "UNDER KRS 525.070 AND 525.080, USE OF INFORMATION OBTAINED
+8 FROM THIS WEB SITE TO HARASS A PERSON IDENTIFIED ON THIS WEB
+9 SITE IS A CRIMINAL OFFENSE PUNISHABLE BY UP TO NINETY (90)
+10 DAYS IN THE COUNTY JAIL. MORE SEVERE CRIMINAL PENALTIES
+11 APPLY FOR MORE SEVERE CRIMES COMMITTED AGAINST A PERSON
+12 IDENTIFIED ON THIS WEBSITE[WEB SITE]."
+13 (4) (a) Any Department of Kentucky State Police employee who disseminates, or
+14 does not disseminate, registrant information or sex offender information in
+15 good-faith compliance with the requirements of this section shall be immune
+16 from criminal and civil liability for the dissemination or lack thereof.
+17 (b) Any person, including an employee of a sheriff's office, acting in good faith in
+18 disseminating, or not disseminating, information previously disseminated by
+19 the Department of Kentucky State Police shall be immune from criminal and
+20 civil liability for the dissemination or lack thereof.
+21 (5) On or before July 1, 2027, the website established under this section shall display,
+22 in addition to the information required under subsection (1) of this section:
+23 (a) The name and address of any place where a registrant is employed or, if the
+24 registrant is employed with no fixed place of employment, other information
+25 describing where the registrant works; and
+26 (b) For a vehicle including watercraft, aircraft, and motor vehicles owned or
+27 routinely operated by the registrant:
+Page 18 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 1. The license plate number or, if a vehicle has no license plate, the
+2 registration number or other identifier;
+3 2. A description of the vehicle, including the make, model, year
+4 manufactured, and color; and
+5 3. An address or other information describing the location where the
+6 vehicle is habitually parked, docked, or otherwise kept[The cabinet
+7 shall establish a toll-free telephone number for a person to call to learn
+8 the identity of the Web site created in this section and the location of
+9 public access to the Web site in the county where the person resides].
+10 (6) In addition to the website[Web site,] a local law enforcement agency may provide
+11 personal notification regarding the registrants located in its jurisdiction. Any
+12 notification shall contain the warning specified in subsection (3) of this section.
+13 Section 5. KRS 17.165 is amended to read as follows:
+14 (1) As used in this section:[,]
+15 (a) "Criminal offense against a victim who is minor" means a conviction of or
+16 a plea of guilty to a criminal offense against a victim who is a minor as
+17 specified in Section 1 of this Act;
+18 (b) "Sex crime" means a conviction or a plea of guilty to a sex crime specified in
+19 KRS 17.500; and[.]
+20 (c)[(2)] [As used in this section, "Violent offender" means any person who has
+21 been convicted of or pled guilty to the commission of a capital offense, Class
+22 A felony, or Class B felony involving the death of the victim, or rape in the
+23 first degree or sodomy in the first degree of the victim or serious physical
+24 injury to a victim.
+25 (3) As used in this section, ]"Violent crime" shall mean a conviction of or a plea of
+26 guilty to the commission of a capital offense, Class A felony, or Class B felony
+27 involving the death of the victim, or rape in the first degree or sodomy in the first
+Page 19 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 degree of the victim or serious physical injury to a victim.[
+2 (4) As used in this section, "criminal offense against a victim who is a minor" means a
+3 conviction of or a plea of guilty to a criminal offense against a victim who is a
+4 minor as specified in KRS 17.500(3).]
+5 (2)[(5)] (a) Excluding a child care staff member pursuant to KRS 199.8965, the
+6 provisions of this section shall apply to all applicants for initial employment
+7 in a position which involves care and supervision of a minor as a child-
+8 serving professional on or after March 27, 2017.
+9 (b) Each employer of an applicant for initial employment in a position which
+10 involves care and supervision of a minor as a child-serving professional shall
+11 request all conviction information for the applicant for employment from the
+12 Justice and Public Safety Cabinet or the Administrative Office of the Courts
+13 prior to employing the applicant.
+14 (c) This subsection shall not be construed to apply to an employer of a minor.
+15 (3)[(6)] An[No] employee in a position which involves care and supervision of a
+16 minor as a child-serving professional pursuant to subsection (2)[(5)] of this section
+17 shall not have been convicted of a violent crime, a criminal offense against a victim
+18 who is a minor, or a sex crime, or have been found by the Cabinet for Health and
+19 Family Services or a court to have abused or neglected a child.
+20 (4)[(7)] Each application form, provided by the employer to the applicant, shall
+21 conspicuously state the following: "FOR THIS TYPE OF EMPLOYMENT,
+22 STATE LAW REQUIRES A CRIMINAL RECORD CHECK AS A CONDITION
+23 OF EMPLOYMENT."
+24 (5)[(8)] Any request for records under subsection (2)[(5)] of this section shall be on a
+25 form approved by the Justice and Public Safety Cabinet or the Administrative
+26 Office of the Courts, and the cabinet may charge a fee to be paid by the applicant in
+27 an amount no greater than the actual cost of processing the request.
+Page 20 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 Section 6. KRS 160.151 is amended to read as follows:
+2 (1) (a) 1. A private, parochial, or church school that has voluntarily been certified
+3 by the Kentucky Board of Education in accordance with KRS
+4 156.160(2) may require a national and state criminal background check
+5 and require a clear CA/N check, as defined in KRS 160.380, on all new
+6 certified hires in the school and student teachers assigned to the school
+7 and may require a new national and state criminal background check
+8 and require a clear CA/N check on each certified teacher once every five
+9 (5) years of employment.
+10 2. Certified individuals who were employed in another certified position in
+11 a Kentucky school within six (6) months of the date of the hire and who
+12 had previously submitted to a national and state criminal background
+13 check and were required to have a clear CA/N check for previous
+14 employment may be excluded from the initial national or state criminal
+15 background checks.
+16 (b) The national criminal history background check shall be conducted by the
+17 Federal Bureau of Investigation. The state criminal history background check
+18 shall be conducted by the Department of Kentucky State Police or the
+19 Administrative Office of the Courts.
+20 (c) All fingerprints requested under this section shall be on an applicant
+21 fingerprint card provided by the Department of Kentucky State Police. The
+22 fingerprint cards shall be forwarded to the Federal Bureau of Investigation by
+23 the Department of Kentucky State Police after a state criminal background
+24 check has been conducted. Any fee charged by the Department of Kentucky
+25 State Police, the Administrative Office of the Courts, or the Federal Bureau of
+26 Investigation shall be an amount no greater than the actual cost of processing
+27 the request and conducting the search.
+Page 21 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 (2) (a) If a school requires a criminal background check or requires a clear CA/N
+2 check for a new hire, the school shall conspicuously include the following
+3 disclosure statement on each application or renewal form provided by the
+4 employer to an applicant for a certified position: "STATE LAW
+5 AUTHORIZES THIS SCHOOL TO REQUIRE A CRIMINAL HISTORY
+6 BACKGROUND CHECK AND A LETTER FROM THE CABINET FOR
+7 HEALTH AND FAMILY SERVICES STATING THE APPLICANT IS
+8 CLEAR TO HIRE BASED ON NO FINDINGS OF SUBSTANTIATED
+9 CHILD ABUSE OR NEGLECT FOUND THROUGH A BACKGROUND
+10 CHECK OF CHILD ABUSE AND NEGLECT RECORDS AS A
+11 CONDITION OF EMPLOYMENT FOR THIS TYPE OF POSITION."
+12 (b) The school or school board may require an adult who is permitted access to
+13 school grounds on a regularly scheduled and continuing basis pursuant to a
+14 written agreement for the purpose of providing services directly to a student
+15 or students as part of a school-sponsored program or activity, a volunteer, or a
+16 visitor to submit to a national criminal history check by the Federal Bureau of
+17 Investigation and state criminal history background check by the Department
+18 of Kentucky State Police or Administrative Office of the Courts and require a
+19 clear CA/N check.
+20 (c) Any request for records from the Department of Kentucky State Police under
+21 this section shall be on an applicant fingerprint card provided by the
+22 Department of Kentucky State Police if required. The results of the state
+23 criminal background check and the results of the national criminal history
+24 background check, if requested, shall be sent to the hiring superintendent. If a
+25 background check of child abuse and neglect records is requested, the person
+26 seeking employment shall provide to the hiring superintendent a clear CA/N
+27 check.
+Page 22 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 (d) Any fee charged by the Department of Kentucky State Police shall be an
+2 amount no greater than the actual cost of processing the request and
+3 conducting the search.
+4 (3) (a) A nonpublic school voluntarily implementing the provisions of this chapter
+5 may choose not to employ any person who[ is a violent offender as defined by
+6 KRS 17.165(2),] has been convicted of a sex crime which is classified as a
+7 felony as defined by KRS 17.165[(1),] or has committed a violent crime as
+8 defined in KRS 17.165[(3)] or persons with a substantiated finding of child
+9 abuse or neglect in records maintained by the Cabinet for Health and Family
+10 Services. A nonpublic school may employ, at its discretion, persons convicted
+11 of sex crimes classified as a misdemeanor.
+12 (b) If a school term has begun and a certified position remains unfilled or if a
+13 vacancy occurs during a school term, a nonpublic school implementing this
+14 chapter may employ an individual who will have supervisory or disciplinary
+15 authority over minors on probationary status pending receipt of a criminal
+16 history background check or the receipt of a clear CA/N check, provided by
+17 the individual.
+18 (c) Employment at a nonpublic school implementing this chapter may be
+19 contingent on the receipt of a criminal history background check documenting
+20 a record[ as a violent offender,] of a sex crime[,] or[ of] a violent crime as
+21 defined in KRS 17.165 or the receipt of a clear CA/N check, provided by the
+22 individual.
+23 (d) Nonpublic schools implementing this chapter may terminate probationary
+24 employment under this section upon receipt of a criminal history background
+25 check documenting a record[ as a violent offender,] of a sex crime[,] or[ of] a
+26 violent crime as defined in KRS 17.165 or the receipt of a clear CA/N check.
+27 (4) The form for requesting a clear CA/N check shall be made available on the Cabinet
+Page 23 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 for Health and Family Services website.
+2 Section 7. KRS 160.380 is amended to read as follows:
+3 (1) As used in this section:
+4 (a) "Administrative finding of child abuse or neglect" means a substantiated
+5 finding of child abuse or neglect issued by the Cabinet for Health and Family
+6 Services that is:
+7 1. Not appealed through an administrative hearing conducted in
+8 accordance with KRS Chapter 13B;
+9 2. Upheld at an administrative hearing conducted in accordance with KRS
+10 Chapter 13B and not appealed to a Circuit Court; or
+11 3. Upheld by a Circuit Court in an appeal of the results of an
+12 administrative hearing conducted in accordance with KRS Chapter 13B;
+13 (b) "Alternative education program" means a program that exists to meet the
+14 needs of students that cannot be addressed in a traditional classroom setting
+15 but through the assignment of students to alternative classrooms, centers, or
+16 campuses that are designed to remediate academic performance, improve
+17 behavior, or provide an enhanced learning experience. Alternative education
+18 programs do not include career or technical centers or departments;
+19 (c) "Clear CA/N check" means a letter from the Cabinet for Health and Family
+20 Services indicating that there are no administrative findings of child abuse or
+21 neglect relating to a specific individual;
+22 (d) "Relative" means father, mother, brother, sister, husband, wife, son and
+23 daughter; and
+24 (e) "Vacancy" means any certified position opening created by the resignation,
+25 dismissal, nonrenewal of contract, transfer, or death of a certified staff
+26 member of a local school district, or a new position created in a local school
+27 district for which certification is required. However, if an employer-employee
+Page 24 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 bargained contract contains procedures for filling certified position openings
+2 created by the resignation, dismissal, nonrenewal of contract, transfer, or
+3 death of a certified staff member, or creation of a new position for which
+4 certification is required, a vacancy shall not exist, unless certified positions
+5 remain open after compliance with those procedures.
+6 (2) Except as provided in KRS 160.346, the school district personnel actions identified
+7 in this section shall be carried out as follows:
+8 (a) All appointments, promotions, and transfers of principals, supervisors,
+9 teachers, and other public school employees shall be made only by the
+10 superintendent of schools, who shall notify the board of the action taken. All
+11 employees of the local district shall have the qualifications prescribed by law
+12 and by the administrative regulations of the Kentucky Board of Education and
+13 of the employing board. Supervisors, principals, teachers, and other
+14 employees may be appointed by the superintendent for any school year at any
+15 time after February 1 preceding the beginning of the school year. No
+16 superintendent of schools shall appoint or transfer himself or herself to
+17 another position within the school district;
+18 (b) When a vacancy occurs in a local school district, the superintendent shall
+19 submit the job posting to the statewide job posting system described in KRS
+20 160.152 fifteen (15) days before the position shall be filled. The local school
+21 district shall post position openings in the local board office for public
+22 viewing;
+23 (c) When a vacancy needs to be filled in less than fifteen (15) days' time to
+24 prevent disruption of necessary instructional or support services of the school
+25 district, the superintendent may seek a waiver from the chief state school
+26 officer outside of the process established in KRS 156.161. If the waiver is
+27 approved, the appointment shall not be made until the person recommended
+Page 25 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 for the position has been approved by the chief state school officer. The chief
+2 state school officer shall respond to a district's request for waiver or for
+3 approval of an appointment within two (2) working days; and
+4 (d) When a vacancy occurs in a local district, the superintendent shall conduct a
+5 search to locate minority teachers to be considered for the position. The
+6 superintendent shall, pursuant to administrative regulations of the Kentucky
+7 Board of Education, report annually the district's recruitment process and the
+8 activities used to increase the percentage of minority teachers in the district.
+9 (3) Restrictions on employment of relatives shall be as follows:
+10 (a) No relative of a superintendent of schools shall be an employee of the school
+11 district. However, this shall not apply to a relative who is a classified or
+12 certified employee of the school district for at least thirty-six (36) months
+13 prior to the superintendent assuming office and who is qualified for the
+14 position the employee holds. A superintendent's spouse who has previously
+15 been employed in a school system may be an employee of the school district.
+16 A superintendent's spouse who is employed under this provision shall not hold
+17 a position in which the spouse supervises certified or classified employees. A
+18 superintendent's spouse may supervise teacher aides and student teachers.
+19 However, the superintendent shall not promote a relative who continues
+20 employment under an exception of this subsection;
+21 (b) No superintendent shall employ a relative of a school board member of the
+22 district;
+23 (c) No principal's relative shall be employed in the principal's school; and
+24 (d) A relative that is ineligible for employment under paragraph (a), (b), or (c) of
+25 this subsection may be employed as a substitute for a certified or classified
+26 employee if the relative is not:
+27 1. A regular full-time or part-time employee of the district;
+Page 26 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 2. Accruing continuing contract status or any other right to continuous
+2 employment;
+3 3. Receiving fringe benefits other than those provided other substitutes; or
+4 4. Receiving preference in employment or assignment over other
+5 substitutes.
+6 (4) No superintendent shall assign a certified or classified staff person to an alternative
+7 education program as part of any disciplinary action taken pursuant to KRS 161.011
+8 or 161.790 as part of a corrective action plan established pursuant to the local
+9 district evaluation plan.
+10 (5) No superintendent shall employ in any position in the district any person who:
+11 (a) Has been convicted of an offense that would classify a person as a violent
+12 offender under KRS 439.3401;
+13 (b) Has been convicted of a sex crime as defined by KRS 17.500 or a
+14 misdemeanor offense under KRS Chapter 510;
+15 (c) Is required to register as a sex offender under KRS 17.500 to 17.580; or
+16 (d) Has an administrative finding of child abuse or neglect in records maintained
+17 by the Cabinet for Health and Family Services.
+18 (6) Requirements for background checks shall be as follows:
+19 (a) A superintendent shall require the following individuals to submit to a
+20 national and state criminal background check by the Department of Kentucky
+21 State Police and the Federal Bureau of Investigation and have a clear CA/N
+22 check, provided by the individual:
+23 1. Each new certified or classified hire;
+24 2. A nonfaculty coach or nonfaculty assistant as defined under KRS
+25 161.185;
+26 3. A student teacher;
+27 4. A school-based decision making council parent member; and
+Page 27 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 5. Any adult who is permitted access to school grounds on a regularly
+2 scheduled and continuing basis pursuant to a written agreement for the
+3 purpose of providing services directly to a student or students as part of
+4 a school-sponsored program or activity;
+5 (b) 1. The requirements of paragraph (a) of this subsection shall not apply to:
+6 a. Classified and certified individuals employed by the school district
+7 prior to June 27, 2019;
+8 b. Certified individuals who were employed in another certified
+9 position in a Kentucky school district within six (6) months of the
+10 date of hire and who had previously submitted to a national and
+11 state criminal background check and who have a clear CA/N check
+12 for the previous employment; or
+13 c. Student teachers who have submitted to and provide a copy of a
+14 national and state criminal background check by the Department
+15 of Kentucky State Police and the Federal Bureau of Investigation
+16 through an accredited teacher education institution in which the
+17 student teacher is enrolled and who have a clear CA/N check.
+18 2. The Education Professional Standards Board may promulgate
+19 administrative regulations to impose additional qualifications to meet
+20 the requirements of Pub. L. No. 92-544;
+21 (c) A parent member may serve prior to the receipt of the criminal history
+22 background check and CA/N letter required by paragraph (a) of this
+23 subsection but shall be removed from the council on receipt by the school
+24 district of a report documenting a record of abuse or neglect, or a sex crime or
+25 criminal offense against a victim who is a minor as defined in KRS 17.500, or
+26 as a violent crime[offender] as defined in KRS 17.165, and no further
+27 procedures shall be required;
+Page 28 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 (d) A superintendent may require a volunteer or a visitor to submit to a national
+2 and state criminal history background check by the Department of Kentucky
+3 State Police and the Federal Bureau of Investigation and have a clear CA/N
+4 check, provided by the individual; and
+5 (e) The superintendent of a school district operating under an alternative
+6 transportation plan approved by the Kentucky Department of Education in
+7 accordance with KRS 156.153(3) shall require the driver of any non-school
+8 bus passenger vehicle authorized to transport students to and from school
+9 pursuant to the alternative transportation plan who does not have a valid
+10 commercial driver's license issued in accordance with KRS Chapter 281A
+11 with an "S" endorsement to:
+12 1. Submit to a national and state criminal background check by the
+13 Department of Kentucky State Police and the Federal Bureau of
+14 Investigation at least once every three (3) years and a criminal records
+15 check conducted in accordance with KRS 27A.090 in all other years;
+16 2. Submit to drug testing consistent with the requirements of 49 C.F.R. pt.
+17 40;
+18 3. Provide a biannual driving history record check performed by the
+19 Transportation Cabinet;
+20 4. Provide an annual clear CA/N check;
+21 5. Immediately notify the superintendent of any conviction for a violation
+22 under KRS Chapter 189 for which penalty points are assessed; and
+23 6. Immediately notify the superintendent of any citation or arrest for a
+24 violation of any provision of KRS Chapter 189A. The superintendent
+25 shall inform the Kentucky Department of Education of the notification.
+26 (7) (a) If a certified or classified position remains unfilled after July 31 or if a
+27 vacancy occurs during a school term, a superintendent may employ an
+Page 29 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 individual, who will have supervisory or disciplinary authority over minors,
+2 on probationary status pending receipt of the criminal history background
+3 check and a clear CA/N check, provided by the individual. Application for the
+4 criminal record and a request for a clear CA/N check of a probationary
+5 employee shall be made no later than the date probationary employment
+6 begins.
+7 (b) Employment shall be contingent on the receipt of the criminal history
+8 background check documenting that the probationary employee has no record
+9 of a sex crime or[nor as] a violent crime[offender] as defined in KRS 17.165
+10 and receipt of a letter, provided by the individual, from the Cabinet for Health
+11 and Family Services stating the employee is clear to hire based on no
+12 administrative findings of child abuse or neglect found through a background
+13 check of child abuse and neglect records maintained by the Cabinet for Health
+14 and Family Services.
+15 (c) Notwithstanding KRS 161.720 to 161.800 or any other statute to the contrary,
+16 probationary employment under this section shall terminate on receipt by the
+17 school district of a criminal history background check documenting a record
+18 of a sex crime or[ as] a violent crime[offender] as defined in KRS 17.165 and
+19 no further procedures shall be required.
+20 (8) The provisions of KRS 161.790 shall apply to terminate employment of a certified
+21 employee on the basis of a criminal record other than a record of a sex crime or[ as]
+22 a violent crime[offender] as defined in KRS 17.165, or on the basis of a CA/N
+23 check showing an administrative finding of child abuse or neglect.
+24 (9) (a) All fingerprints requested under this section shall be on an applicant
+25 fingerprint card provided by the Department of Kentucky State Police. The
+26 fingerprint cards shall be forwarded to the Federal Bureau of Investigation
+27 from the Department of Kentucky State Police after a state criminal
+Page 30 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 background check is conducted. The results of the state and federal criminal
+2 background check shall be sent to the hiring superintendent. Any fee charged
+3 by the Department of Kentucky State Police, the Federal Bureau of
+4 Investigation, and the Cabinet for Health and Family Services shall be an
+5 amount no greater than the actual cost of processing the request and
+6 conducting the search.
+7 (b) Each application form, provided by the employer to an applicant for a
+8 certified or classified position, shall conspicuously state the following: "FOR
+9 THIS TYPE OF EMPLOYMENT, STATE LAW REQUIRES A NATIONAL
+10 AND STATE CRIMINAL HISTORY BACKGROUND CHECK AND A
+11 LETTER, PROVIDED BY THE INDIVIDUAL, FROM THE CABINET
+12 FOR HEALTH AND FAMILY SERVICES STATING THE APPLICANT
+13 HAS NO ADMINISTRATIVE FINDINGS OF CHILD ABUSE OR
+14 NEGLECT FOUND THROUGH A BACKGROUND CHECK OF CHILD
+15 ABUSE AND NEGLECT RECORDS MAINTAINED BY THE CABINET
+16 FOR HEALTH AND FAMILY SERVICES."
+17 (c) Each application form for a district position shall require the applicant to:
+18 1. Identify the states in which he or she has maintained residency,
+19 including the dates of residency; and
+20 2. Provide picture identification.
+21 (10) Notwithstanding any provision of the Kentucky Revised Statutes to the contrary,
+22 when an employee of the school district is charged with any offense which is
+23 classified as a felony, the superintendent may transfer the employee to a second
+24 position until such time as the employee is found not guilty, the charges are
+25 dismissed, the employee is terminated, or the superintendent determines that further
+26 personnel action is not required. The employee shall continue to be paid at the same
+27 rate of pay he or she received prior to the transfer. If an employee is charged with
+Page 31 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 an offense outside of the Commonwealth, this provision may also be applied if the
+2 charge would have been treated as a felony if committed within the
+3 Commonwealth. Transfers shall be made to prevent disruption of the educational
+4 process and district operations and in the interest of students and staff and shall not
+5 be construed as evidence of misconduct.
+6 (11) Notwithstanding any law to the contrary, each certified and classified employee of
+7 the school district shall notify the superintendent if he or she has been found by the
+8 Cabinet for Health and Family Services to have abused or neglected a child, and if
+9 he or she has waived the right to appeal a substantiated finding of child abuse or
+10 neglect or if the substantiated incident was upheld upon appeal. Any failure to
+11 report this finding shall result in the certified or classified employee being subject
+12 to dismissal or termination.
+13 (12) The form for requesting a CA/N check shall be made available on the Cabinet for
+14 Health and Family Services website.
+15 Section 8. KRS 161.185 is amended to read as follows:
+16 (1) Except as provided in subsection (2), boards of education shall require a certified or
+17 classified staff member who is at least twenty-one (21) years of age to accompany
+18 students on all school-sponsored or school-endorsed trips. Local boards of
+19 education may adopt a policy that specifies the job classifications of staff members
+20 who may accompany students on trips under this section.
+21 (2) Boards of education may permit a nonfaculty coach or nonfaculty assistant, as
+22 defined by administrative regulation promulgated by the Kentucky Board of
+23 Education under KRS 156.070(2), to accompany students on all school-sponsored
+24 or school-endorsed athletic trips. A nonfaculty coach or nonfaculty assistant shall
+25 be at least twenty-one (21) years of age, shall not be[ a violent offender or]
+26 convicted of a sex crime or violent crime as defined by KRS 17.165 which is
+27 classified as a felony, and shall submit to a criminal record check under KRS
+Page 32 of 33
+XXXX 3/3/2026 10:46 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2396
+1 160.380.
+2 (3) Prior to assuming his or her duties, a nonfaculty coach or nonfaculty assistant shall
+3 successfully complete training provided by the local school district. The training
+4 shall include, but not be limited to, information on the physical and emotional
+5 development of students of the age with whom the nonfaculty coach and nonfaculty
+6 assistant will be working, the district's and school's discipline policies, procedures
+7 for dealing with discipline problems, and safety and first aid training. Follow-up
+8 training shall be provided annually.
+Page 33 of 33
+XXXX 3/3/2026 10:46 AM Jacketed

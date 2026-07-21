@@ -1,0 +1,375 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 AN ACT relating to the Kentucky Business Investment Program.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 154.32-010 is amended to read as follows:
+4 (1) "Activation date" means the date established in the tax incentive agreement that is
+5 within two (2) years of final approval;
+6 (2) "Affiliate" means the following:
+7 (a) Members of a family, including only brothers and sisters of the whole or half
+8 blood, spouse, ancestors, and lineal descendants of an individual;
+9 (b) An individual, and a corporation more than fifty percent (50%) in value of the
+10 outstanding stock of which is owned, directly or indirectly, by or for that
+11 individual;
+12 (c) An individual, and a limited liability company of which more than fifty
+13 percent (50%) of the capital interest or profits are owned or controlled,
+14 directly or indirectly, by or for that individual;
+15 (d) Two (2) corporations which are members of the same controlled group, which
+16 includes and is limited to:
+17 1. One (1) or more chains of corporations connected through stock
+18 ownership with a common parent corporation if:
+19 a. Stock possessing more than fifty percent (50%) of the total
+20 combined voting power of all classes of stock entitled to vote or
+21 more than fifty percent (50%) of the total value of shares of all
+22 classes of stock of each of the corporations, except the common
+23 parent corporation, is owned by one (1) or more of the other
+24 corporations; and
+25 b. The common parent corporation owns stock possessing more than
+26 fifty percent (50%) of the total combined voting power of all
+27 classes of stock entitled to vote or more than fifty percent (50%) of
+Page 1 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 the total value of shares of all classes of stock of at least one (1) of
+2 the other corporations, excluding, in computing the voting power
+3 or value, stock owned directly by the other corporations; or
+4 2. Two (2) or more corporations if five (5) or fewer persons who are
+5 individuals, estates, or trusts own stock possessing more than fifty
+6 percent (50%) of the total combined voting power of all classes of stock
+7 entitled to vote or more than fifty percent (50%) of the total value of
+8 shares of all classes of stock of each corporation, taking into account the
+9 stock ownership of each person only to the extent the stock ownership is
+10 identical with respect to each corporation;
+11 (e) A grantor and a fiduciary of any trust;
+12 (f) A fiduciary of a trust and a fiduciary of another trust, if the same person is a
+13 grantor of both trusts;
+14 (g) A fiduciary of a trust and a beneficiary of that trust;
+15 (h) A fiduciary of a trust and a beneficiary of another trust, if the same person is a
+16 grantor of both trusts;
+17 (i) A fiduciary of a trust and a corporation more than fifty percent (50%) in value
+18 of the outstanding stock of which is owned, directly or indirectly, by or for the
+19 trust or by or for a person who is a grantor of the trust;
+20 (j) A fiduciary of a trust and a limited liability company more than fifty percent
+21 (50%) of the capital interest, or the interest in profits, of which is owned
+22 directly or indirectly, by or for the trust or by or for a person who is a grantor
+23 of the trust;
+24 (k) A corporation, a partnership, or a limited partnership if the same persons own:
+25 1. More than fifty percent (50%) in value of the outstanding stock of the
+26 corporation; and
+27 2. More than fifty percent (50%) of the capital interest, or the profits
+Page 2 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 interest, in the partnership or limited partnership;
+2 (l) A corporation and a limited liability company if the same persons own:
+3 1. More than fifty percent (50%) in value of the outstanding stock of the
+4 corporation; and
+5 2. More than fifty percent (50%) of the capital interest or the profits in the
+6 limited liability company;
+7 (m) A partnership or limited partnership and a limited liability company if the
+8 same persons own:
+9 1. More than fifty percent (50%) of the capital interest or profits in the
+10 partnership or limited partnership; and
+11 2. More than fifty percent (50%) of the capital interest or the profits in the
+12 limited liability company;
+13 (n) An S corporation and another S corporation if the same persons own more
+14 than fifty percent (50%) in value of the outstanding stock of each corporation;
+15 S corporation designation being the same as that designation under the
+16 Internal Revenue Code of 1986, as amended;
+17 (o) An S corporation and a C corporation, if the same persons own more than
+18 fifty percent (50%) in value of the outstanding stock of each corporation; S
+19 and C corporation designations being the same as those designations under the
+20 Internal Revenue Code of 1986, as amended; or
+21 (p) Two (2) or more limited liability companies, if the same persons own more
+22 than fifty percent (50%) of the capital interest or are entitled to more than fifty
+23 percent (50%) of the capital profits in the limited liability companies;
+24 (3) "Agribusiness" means the processing of raw agricultural products, including but not
+25 limited to timber and industrial hemp, or the performance of value-added functions
+26 with regard to raw agricultural products;
+27 (4) "Alternative fuel production" means a Kentucky operation that primarily produces
+Page 3 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 alternative transportation fuels for sale. The alternative fuel production may
+2 produce electricity as a by-product if the primary function of the operations remains
+3 the production and sale of alternative transportation fuels;
+4 (5) "Alternative transportation fuels" has the same meaning as in KRS 152.715;
+5 (6) "Approved company" means an eligible company that has received final approval
+6 to receive incentives under this subchapter;
+7 (7) "Approved costs" means the amount of eligible costs approved by the authority at
+8 final approval;
+9 (8) "Authority" means the Kentucky Economic Development Finance Authority
+10 established by KRS 154.20-010;
+11 (9) "Biomass resources" has the same meaning as in KRS 152.715;
+12 (10) "Capital lease" means a lease classified as a capital lease by the Statement of
+13 Financial Accounting Standards No. 13, Accounting for Leases, issued by the
+14 Financial Accounting Standards Board, November 1976, as amended;
+15 (11) "Carbon dioxide or hydrogen transmission pipeline" means the in-state portion of a
+16 pipeline, including appurtenant facilities, property rights, and easements, that is
+17 used exclusively for the purpose of transporting carbon dioxide or hydrogen to the
+18 point of sale, storage, or other carbon or hydrogen management applications;
+19 (12) "Coal severing and processing" means activities resulting in the eligible company
+20 being subject to the tax imposed by KRS Chapter 143;
+21 (13) "Commonwealth" means the Commonwealth of Kentucky;
+22 (14) "Confirmed approved costs" means:
+23 (a) For owned economic development projects, the documented eligible costs
+24 incurred on or before the activation date; or
+25 (b) For leased economic development projects:
+26 1. The documented eligible costs incurred on or before the activation date;
+27 and
+Page 4 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 2. Estimated rent to be incurred by the approved company throughout the
+2 term of the tax incentive agreement.
+3 For both owned and leased economic development projects, "confirmed approved
+4 costs" may be less than approved costs, but shall not be more than approved costs;
+5 (15) "Department" means the Department of Revenue;
+6 (16) "Economic development project" means:
+7 (a) The acquisition, leasing, or construction of a new facility;
+8 (b) The acquisition, leasing, rehabilitation, or expansion of an existing facility; or
+9 (c) The installation and equipping of a facility;
+10 by an eligible company. "Economic development project" does not include any
+11 economic development project that will result in the replacement of facilities
+12 existing in the Commonwealth, except as provided in KRS 154.32-060;
+13 (17) (a) "Eligible company" means any corporation, limited liability company,
+14 partnership, limited partnership, sole proprietorship, business trust, or any
+15 other entity with a proposed economic development project that is engaged in
+16 or is planning to be engaged in one (1) or more of the following activities
+17 within the Commonwealth:
+18 1. Manufacturing;
+19 2. Agribusiness;
+20 3. Nonretail service or technology;
+21 4. Headquarters operations, regardless of the underlying business activity
+22 of the company;
+23 5. Alternative fuel, gasification, energy-efficient alternative fuel, or
+24 renewable energy production;
+25 6. Carbon dioxide or hydrogen transmission pipeline;
+26 7. Coal severing and processing; or
+27 8. Hospital operations.
+Page 5 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 (b) "Eligible company" does not include companies where the primary activity to
+2 be conducted within the Commonwealth is forestry, fishing, the provision of
+3 utilities, construction, wholesale trade, retail trade, real estate, rental and
+4 leasing, educational services, accommodation and food services, or public
+5 administration services;
+6 (18) "Eligible costs" means:
+7 (a) For owned economic development projects:
+8 1. Start-up costs;
+9 2. Nonrecurring obligations incurred for labor and nonrecurring payments
+10 to contractors, subcontractors, builders, and materialmen in connection
+11 with the economic development project;
+12 3. The cost of acquiring land or rights in land and any cost incidental
+13 thereto, including recording fees;
+14 4. The cost of contract bonds and of insurance of all kinds that may be
+15 required or necessary for completion of an economic development
+16 project which is not paid by a contractor or otherwise provided for;
+17 5. All costs of architectural and engineering services, including test
+18 borings, surveys, estimated plans and specifications, preliminary
+19 investigations, and supervision of construction, as well as for the
+20 performance of all the duties required for construction of the economic
+21 development project;
+22 6. All costs which are required to be paid under the terms of any contract
+23 for the economic development project;
+24 7. All costs incurred for construction activities, including site tests and
+25 inspections; subsurface site work; excavation; removal of structures,
+26 roadways, cemeteries, and other surface obstructions; filling, grading,
+27 and providing drainage and storm water retention; installation of utilities
+Page 6 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 such as water, sewer, sewage treatment, gas, electric, communications,
+2 and similar facilities; off-site construction of utility extensions to the
+3 boundaries of the real estate; construction and installation of railroad
+4 spurs as needed to connect the economic development project to existing
+5 railways; or similar activities as the authority may determine necessary
+6 for construction of the economic development project; and
+7 8. All other costs of a nature comparable to those described in this
+8 paragraph,[above] including but not limited to investments in:
+9 a. Laboratory equipment;
+10 b. Computer servers;
+11 c. Software;
+12 d. Capitalized leases; and
+13 e. Leasehold improvements;
+14 when the costs are integral to the operation of research and
+15 development, headquarters, high-technology operations, or service
+16 sector facilities; and
+17 (b) For leased economic development projects:
+18 1. Start-up costs;
+19 2. Building/leasehold improvements;[ and]
+20 3. Fifty percent (50%) of the estimated annual rent for each year of the tax
+21 incentive agreement; and
+22 4. Investments in:
+23 a. Laboratory equipment;
+24 b. Computer servers;
+25 c. Software; and
+26 d. Capitalized leases;
+27 when the costs are directly related to the establishment or expansion of
+Page 7 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 research and development, headquarters, high-technology operations,
+2 or service sector facilities.
+3 Notwithstanding any other provision of this subsection, for economic development
+4 projects that are not in enhanced incentive counties, the cost of equipment eligible
+5 for recovery as an eligible cost shall not exceed twenty thousand dollars ($20,000)
+6 for each new full-time job created as of the activation date;
+7 (19) "Employee benefits" means payments by an approved company for its full-time
+8 employees for health insurance, life insurance, dental insurance, vision insurance,
+9 defined benefits, 401(k), or similar plans;
+10 (20) "Energy-efficient alternative fuel production" means a Kentucky operation that
+11 produces for sale energy-efficient alternative fuels;
+12 (21) "Energy-efficient alternative fuels" means homogeneous fuels that:
+13 (a) Are produced from processes designed to densify feedstock coal, waste coal,
+14 or biomass resources; and
+15 (b) Have an energy content that is greater than the feedstock coal, waste coal, or
+16 biomass resource;
+17 (22) "Enhanced incentive counties" means counties certified by the authority pursuant to
+18 KRS 154.32-050;
+19 (23) "Final approval" means the action taken by the authority authorizing the eligible
+20 company to receive incentives under this subchapter;
+21 (24) (a) "Full-time job" means a job held by a person who:
+22 1. Is required to work a minimum of thirty-five (35) hours per week; and
+23 2. a. Is subject to the Kentucky individual income tax imposed by KRS
+24 141.020; or
+25 b. Works remotely away from the economic development project if
+26 the job meets all of the following conditions:
+27 i. Is held by a Kentucky resident;
+Page 8 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 ii. Was created as a result of the economic development project;
+2 and
+3 iii. The payroll of this job is expensed to the economic
+4 development project.
+5 (b) "Full-time job" does not include a job held by a resident of any state with a
+6 reciprocal agreement between the Commonwealth and the other state as
+7 described in KRS 141.070;
+8 (25) "Gasification process" means a process that converts any carbon-containing
+9 material into a synthesis gas composed primarily of carbon monoxide and
+10 hydrogen;
+11 (26) "Gasification production" means a Kentucky operation that primarily produces for
+12 sale:
+13 (a) Alternative transportation fuels;
+14 (b) Synthetic natural gas;
+15 (c) Chemicals;
+16 (d) Chemical feedstocks; or
+17 (e) Liquid fuels;
+18 from coal, waste coal, coal-processing waste, or biomass resources, through a
+19 gasification process. The gasification production may produce electricity as a by-
+20 product if the primary function of the operations remains the production and sale of
+21 alternative transportation fuels, synthetic natural gas, chemicals, chemical
+22 feedstocks, or liquid fuels;
+23 (27) "Headquarters" means the principal office where the principal executives of the
+24 entity are located and from which other personnel, branches, affiliates, offices, or
+25 entities are controlled;
+26 (28) "Hospital" means a facility licensed by the Cabinet for Health and Family Services
+27 under KRS Chapter 216B for the operation of a hospital and the basic services
+Page 9 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 provided by a hospital;
+2 (29) "Incentives" means the incentives available under this subchapter, as listed in KRS
+3 154.32-020(3);
+4 (30) "Job target" means the annual average number of new full-time jobs that the
+5 approved company commits to create and maintain at the economic development
+6 project, which shall not be less than ten (10) new full-time jobs;
+7 (31) "Kentucky gross receipts" has the same meaning as in KRS 141.0401;
+8 (32) "Kentucky gross profits" has the same meaning as in KRS 141.0401;
+9 (33) "Lease agreement" means an agreement between an approved company and an
+10 unrelated entity conveying the right to use a facility, the terms of which reflect an
+11 arms' length transaction. "Lease agreement" does not include a capital lease;
+12 (34) "Leased project" means an economic development project site occupied by an
+13 approved company pursuant to a lease agreement;
+14 (35) "Manufacturing" means any activity involving:
+15 (a) Processing, assembling, or production of any property, including the
+16 processing resulting in a change in the conditions of the property and any
+17 activity related to the processing, assembling, or production of property,
+18 together with the storage, warehousing, distribution, and related office
+19 facilities; or
+20 (b) Production of vital medications, personal protective equipment, or equipment
+21 necessary to produce personal protective equipment;
+22 (36) (a) "Nonretail service or technology" means any activity where service or
+23 technology is provided predominantly outside the Commonwealth and
+24 designed to serve a multistate, national, or international market.
+25 (b) "Nonretail service or technology" includes but is not limited to call centers,
+26 centralized administrative or processing centers, telephone or Internet sales
+27 order or processing centers, distribution or fulfillment centers, data processing
+Page 10 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 centers, research and development facilities, and other similar activities;
+2 (37) "Owned project" means an economic development project owned in fee simple by
+3 the approved company or an affiliate, or possessed by the approved company or an
+4 affiliate pursuant to a capital lease;
+5 (38) "Personal protective equipment" means protective clothing, helmets, gloves, face
+6 shields, goggles, face masks, respirators, and other equipment designed to protect
+7 the user from injury or the spread of infection or illness;
+8 (39) "Preliminary approval" means the action taken by the authority preliminarily
+9 approving an eligible company for incentives under this subchapter;
+10 (40) "Renewable energy production" means a Kentucky operation that utilizes wind
+11 power, biomass resources, landfill methane gas, hydropower, solar power, or other
+12 similar renewable resources to generate electricity for sale to unrelated entities;
+13 (41) "Rent" means the actual annual rent or fee paid by an approved company under a
+14 lease agreement;
+15 (42) "Start-up costs" means nonrecurring costs incurred to furnish and equip a facility
+16 for an economic development project, including costs incurred for:
+17 (a) Computers, furnishings, office equipment, manufacturing equipment, and
+18 fixtures;
+19 (b) The relocation of out-of-state equipment;[ and]
+20 (c) Cost of fixed telecommunications equipment; and
+21 (d) Investments in:
+22 1. Laboratory equipment;
+23 2. Computer servers;
+24 3. Software;
+25 4. Capitalized leases; and
+26 5. Leasehold improvements;
+27 when the costs are necessary to accommodate research and development,
+Page 11 of 12
+XXXX 3/3/2026 3:49 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2515
+1 headquarters, high-technology operations, or service sector facilities;
+2 as certified to the authority in accordance with KRS 154.32-030;
+3 (43) "Synthetic natural gas" means the same thing as in KRS 152.715;
+4 (44) "Tax incentive agreement" means the agreement entered into pursuant to KRS
+5 154.32-040 between the authority and an approved company;
+6 (45) "Term" means the period of time for which a tax incentive agreement may be in
+7 effect, which shall not exceed fifteen (15) years for an economic development
+8 project located in an enhanced incentive county, or ten (10) years for an economic
+9 development project not located in any other county;
+10 (46) "Vital medications" means any drug or biologic used to prevent or treat a serious
+11 life-threatening disease or medical condition for which there is no other available
+12 source with sufficient supply of that drug or biologic or alternative drug or biologic;
+13 (47) "Wage" means the per hour earnings of a full-time employee, including wages, tips,
+14 overtime, bonuses, and commissions, as reflected on the employee's federal form
+15 W-2 wage and tax statement, but excludes employee benefits; and
+16 (48) "Wage target" means the average total hourly compensation amount, including the
+17 minimum wage and employee benefits, that the approved company commits to
+18 meet for all new full-time jobs created and maintained as a result of the economic
+19 development project, which shall not be less than:
+20 (a) One hundred twenty-five percent (125%) of the federal minimum wage in
+21 enhanced incentive counties; or
+22 (b) One hundred fifty percent (150%) of the federal minimum wage in all other
+23 counties.
+Page 12 of 12
+XXXX 3/3/2026 3:49 PM Jacketed

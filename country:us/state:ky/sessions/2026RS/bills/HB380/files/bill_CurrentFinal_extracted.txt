@@ -1,0 +1,2372 @@
+Title: 
+Official Title: 
+Source: versions - Current/Final
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 AN ACT relating to the regulation of digital asset business.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. SUBTITLE 13 OF KRS CHAPTER 286 IS ESTABLISHED,
+4 AND A NEW SECTION THEREOF IS CREATED TO READ AS FOLLOWS:
+5 As used in this subtitle, unless the context requires otherwise:
+6 (1) "Affiliate" means a person that, either directly or indirectly through one (1) or
+7 more intermediaries, controls, is controlled by, or is under common control with
+8 another person;
+9 (2) "Agent":
+10 (a) Means a person authorized by written agreement and designated by a
+11 virtual currency kiosk operator to engage in virtual currency kiosk business
+12 in this state on behalf of the operator;
+13 (b) Includes, as the context requires, a person that an applicant proposes to
+14 engage in virtual currency kiosk business in this state as an agent on behalf
+15 of the applicant; and
+16 (c) Does not include an employee of a virtual currency kiosk operator or
+17 applicant;
+18 (3) "Control" means one (1) or more of the following:
+19 (a) The power to direct the management, operations, or policies of a person,
+20 which power may be:
+21 1. Direct or indirect; and
+22 2. Obtained:
+23 a. Through legal or beneficial ownership of voting power in the
+24 person; or
+25 b. Under a contract, arrangement, or understanding;
+26 (b) The power to vote, directly or indirectly, at least twenty-five percent (25%) of
+27 the outstanding voting shares or voting interests of a person or a person in
+Page 1 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 control of the person;
+2 (c) The power to elect or appoint a majority of a person's executive officers,
+3 managers, directors, trustees, or other persons exercising managerial
+4 authority of a person or a person in control of the person;
+5 (d) The power to exercise, directly or indirectly, a controlling influence over the
+6 management or policies of a person or a person in control of the person;
+7 and
+8 (e) Any other set of facts or circumstances, as determined by the commissioner
+9 through promulgation of an administrative regulation in accordance with
+10 KRS Chapter 13A, that constitutes control;
+11 (4) "Director" means any of the following:
+12 (a) A member of a corporation's board of directors;
+13 (b) A manager of a limited liability company;
+14 (c) A partner of a partnership; or
+15 (d) A member of any other entity's governing body;
+16 (5) "Executive officer" means:
+17 (a) A president, chairperson of the executive committee, responsible individual,
+18 or chief financial officer; or
+19 (b) Any other natural person who performs similar functions for an applicant,
+20 licensee, or agent;
+21 (6) "Fiat currency" means a government-issued currency that is:
+22 (a) Backed by the government's authority; and
+23 (b) Not backed by a physical commodity;
+24 (7) "Key shareholder" means any person, or group of persons acting in concert, that
+25 is the owner of twenty percent (20%) or more of any voting class of the stock of
+26 an applicant, licensee, or agent;
+27 (8) "Legal tender":
+Page 2 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (a) Means a medium of exchange or unit of value, including the coin or paper
+2 money of the United States, that is:
+3 1. Issued by:
+4 a. The United States; or
+5 b. Another government; or
+6 2. Recognized by the Commonwealth of Kentucky, as permitted under
+7 Article 1, Section 10, of the Constitution of the United States; and
+8 (b) Does not include any medium of exchange or unit of value authorized,
+9 recognized, or adopted by a foreign government if the medium of exchange
+10 or unit of value was a virtual currency before the government authorized,
+11 recognized, or adopted the medium of exchange or unit of value;
+12 (9) "License" means a license issued by the commissioner under this subtitle;
+13 (10) "Licensee" means a person issued a license;
+14 (11) "Material litigation":
+15 (a) Means litigation that according to generally accepted accounting principles:
+16 1. Is significant to the financial health of an applicant, licensee, or
+17 agent; and
+18 2. Would be required to be disclosed in the applicant's, licensee's, or
+19 agent's annual audited financial statements, report to shareholders, or
+20 similar records; and
+21 (b) Includes any adjudication against an applicant, licensee, or agent by a
+22 federal or state administrative or regulatory agency relating to a violation of
+23 the Bank Secrecy Act, 31 U.S.C. secs. 5311 to 5332 and 31 C.F.R. pt. 103,
+24 regardless of whether liability or fault has been admitted;
+25 (12) "Responsible individual":
+26 (a) Means a natural person who:
+27 1. Is employed by a virtual currency kiosk operator; and
+Page 3 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 2. Has principal managerial authority over the virtual currency kiosk
+2 operator's virtual currency kiosk business in this state; and
+3 (b) Includes, as the context requires, a natural person who:
+4 1. Is employed by an applicant; and
+5 2. The applicant proposes to have principal managerial authority over its
+6 virtual currency kiosk business in this state;
+7 (13) "Virtual currency":
+8 (a) Except as provided in paragraph (b) of this subsection, means a digital
+9 representation of value that is:
+10 1. Used as a:
+11 a. Medium of exchange;
+12 b. Unit of account; or
+13 c. Store of value; and
+14 2. Not legal tender, whether or not denominated in legal tender; and
+15 (b) Does not include:
+16 1. A transaction in which a merchant grants, as part of an affinity or
+17 rewards program, value that cannot be taken from or exchanged with
+18 a merchant for legal tender, bank credit, or virtual currency; or
+19 2. A digital representation of value:
+20 a. Issued by or on behalf of a publisher; and
+21 b. Used solely within an online game, game platform, or family of
+22 games:
+23 i. Sold by the same publisher; or
+24 ii. Offered on the same game platform;
+25 (14) (a) "Virtual currency kiosk" means a physical electronic terminal acting as a
+26 mechanical agent of a virtual currency kiosk operator to enable the
+27 operator to facilitate the exchange of one (1) or more of the following:
+Page 4 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 1. Fiat currency for virtual currency;
+2 2. Virtual currency for fiat currency; and
+3 3. Virtual currency for other virtual currency.
+4 (b) As used in this subsection, "facilitate" includes:
+5 1. Connecting directly to a separate virtual currency exchanger that
+6 performs the exchange; and
+7 2. Drawing upon the virtual currency or fiat currency in the possession
+8 or control of the virtual currency kiosk operator to perform the
+9 exchange;
+10 (15) "Virtual currency kiosk charges" means all of the following:
+11 (a) Fees and expenses charged to a virtual currency kiosk user; and
+12 (b) The difference between the market price of virtual currency and the price of
+13 the virtual currency charged to a virtual currency kiosk user;
+14 (16) "Virtual currency kiosk operator" or "operator" means a person, including a
+15 licensee, that engages in virtual currency kiosk business in this state;
+16 (17) "Virtual currency kiosk transaction" means any transaction:
+17 (a) Conducted or performed by electronic means via a virtual currency kiosk
+18 located in this state; or
+19 (b) Made at a virtual currency kiosk located in this state to purchase, sell,
+20 transfer, or otherwise exchange virtual currency; and
+21 (18) "Virtual currency kiosk user" or "user" means a person, other than a virtual
+22 currency kiosk operator, that initiates, authorizes, completes, or engages in a
+23 virtual currency kiosk transaction.
+24 SECTION 2. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+25 IS CREATED TO READ AS FOLLOWS:
+26 This subtitle shall not apply to:
+27 (1) The United States or any department, agency, or instrumentality thereof;
+Page 5 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (2) A state or any agency, department, or political subdivision of a state;
+2 (3) A state-chartered or federally chartered bank, savings bank, savings and loan
+3 association, trust company, or credit union;
+4 (4) A bank holding company, as defined in 12 U.S.C. sec. 1841, as amended;
+5 (5) A subsidiary, affiliate, or service corporation of a person referenced in subsection
+6 (3) or (4) of this section;
+7 (6) An office of an international banking corporation;
+8 (7) A branch of a foreign bank;
+9 (8) A bank service company, as defined in 12 U.S.C. sec. 1861, as amended;
+10 (9) A corporation organized under the Edge Act, 12 U.S.C. sec. 611, et seq., as
+11 amended; or
+12 (10) A service provider that:
+13 (a) Pursuant to a written agreement, acts on behalf of an entity referenced in
+14 subsection (3), (4), (5), (6), (7), (8), or (9) of this section; and
+15 (b) Allows the state or federal regulators with regulatory jurisdiction over the
+16 entity on whose behalf the service provider is acting to examine and inspect
+17 the service provider's applicable records, books, and transactions.
+18 SECTION 3. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+19 IS CREATED TO READ AS FOLLOWS:
+20 (1) (a) The commissioner:
+21 1. Shall enforce the provisions of this subtitle; and
+22 2. Subject to paragraph (b) of this subsection, may promulgate
+23 administrative regulations in accordance with KRS Chapter 13A that
+24 the commissioner determines are necessary to effectuate, or aid in the
+25 effectuation of, this subtitle.
+26 (b) The discretion to promulgate administrative regulations under paragraph
+27 (a)2. of this subsection shall be supplemental to any other provisions of this
+Page 6 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 subtitle relating to the promulgation of administrative regulations.
+2 (2) (a) The commissioner may, by order, require licensees to file with the
+3 commissioner any:
+4 1. Special report that the commissioner determines is necessary for the
+5 proper supervision of virtual currency kiosk business under this
+6 subtitle; and
+7 2. Regular report that is:
+8 a. Developed as a uniform report by state regulators; and
+9 b. Submitted in accordance with Section 5 of this Act.
+10 (b) All reports filed under this subtitle shall contain a certification by an
+11 executive officer or director of the licensee that attests to the truth and
+12 correctness of the report.
+13 (3) The commissioner may invoke the aid of the courts through injunction or other
+14 proper process to:
+15 (a) Enjoin any existing or threatened violation of this subtitle; or
+16 (b) Enforce any proper order or action issued or taken by the commissioner.
+17 (4) (a) The remedies and penalties set forth in this subtitle shall be cumulative.
+18 (b) This subtitle shall not be construed to limit or restrict the powers, duties,
+19 remedies, or penalties available to the commissioner or any other person
+20 under any other statutory or common law.
+21 SECTION 4. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+22 IS CREATED TO READ AS FOLLOWS:
+23 (1) (a) A person shall not engage in virtual currency kiosk business in this state
+24 without:
+25 1. A license; and
+26 2. First obtaining, for each:
+27 a. Agent, the written approval of the commissioner to designate the
+Page 7 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 agent to engage in virtual currency kiosk business in this state
+2 on behalf of the person; and
+3 b. Location at which the person, or an agent of the person, engages
+4 in virtual currency kiosk business in this state:
+5 i. Any license, permit, registration, or other authorization
+6 required for the person, agent, or location under any
+7 applicable local ordinance, resolution, or regulation; and
+8 ii. The written approval of the commissioner to do business at
+9 the location, as provided in Section 8 of this Act.
+10 (b) Except as provided in paragraph (c) of this subsection, a person shall be
+11 deemed to be engaged in virtual currency kiosk business in this state if the
+12 person:
+13 1. Owns, operates, solicits, markets, or advertises a virtual currency kiosk
+14 located in this state; or
+15 2. Engages in, or holds out as being able to engage in, a virtual currency
+16 kiosk transaction with or on behalf of any virtual currency kiosk user.
+17 (c) A person shall not be deemed to be engaged in virtual currency kiosk
+18 business in this state solely because the person leases space to, or otherwise
+19 contracts for or allows, a virtual currency kiosk operator to locate a virtual
+20 currency kiosk at a store or locale in this state.
+21 (2) A license shall:
+22 (a) Be valid unless it is:
+23 1. Revoked or suspended by the commissioner;
+24 2. Surrendered by the licensee; or
+25 3. Expired;
+26 (b) Except as provided in Section 12 of this Act, not be transferred or assigned;
+27 and
+Page 8 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (c) Expire on December 31 of the year in which it is issued, unless renewed or
+2 reinstated in accordance with Section 11 of this Act.
+3 SECTION 5. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+4 IS CREATED TO READ AS FOLLOWS:
+5 (1) As used in this section, "registry" means the State Regulatory Registry, LLC, or
+6 its successor organization.
+7 (2) When an application, report, or approval request is required to be filed with the
+8 commissioner under this subtitle, the commissioner may require that the filing,
+9 including any applicable fees and supporting documentation, be submitted to:
+10 (a) The registry or its successor organization;
+11 (b) The registry's parent, affiliate, or operating subsidiary; or
+12 (c) Other agencies or authorities as part of a nationwide licensing system;
+13 which may act as an agent for receiving, requesting, and distributing information
+14 to and from any source directed by the commissioner.
+15 (3) The commissioner:
+16 (a) May report violations of this subtitle, enforcement actions, and other
+17 relevant information that the commissioner deems necessary to carry out
+18 the purpose of this section to the registry or its affiliated entities; and
+19 (b) Shall establish a process whereby licensees may challenge information
+20 entered into the registry by the commissioner.
+21 (4) The commissioner shall annually request:
+22 (a) Audited financial reports, including inquiring as to the budget and fees
+23 collected, both proposed and actual, from the registry; and
+24 (b) Any nonconfidential protocols or reports for the security and safeguarding
+25 of personal information maintained by the registry, including inquiring as
+26 to:
+27 1. Whether the system has implemented and complied with the data
+Page 9 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 security guidelines set forth in the Gramm-Leach-Bliley Act, 15 U.S.C.
+2 sec. 6801;
+3 2. The results of any nonconfidential periodic data protection audits that
+4 the system may conduct; and
+5 3. Whether any security breaches have occurred resulting in the
+6 substantial likelihood that personal information may be misused or
+7 stolen.
+8 (5) The commissioner may establish relationships and contracts with other
+9 governmental agencies or entities affiliated with the registry that the
+10 commissioner deems necessary to carry out this section.
+11 (6) For purposes of this section, the commissioner may use other governmental
+12 agencies or the registry or its affiliated entities as an agent for requesting
+13 information from, and distributing information to, the United States Department
+14 of Justice or other governmental agencies.
+15 SECTION 6. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+16 IS CREATED TO READ AS FOLLOWS:
+17 (1) (a) A person seeking to become a licensee shall file a complete application for a
+18 license with the commissioner.
+19 (b) An application for a license shall not be complete unless it:
+20 1. Is made in writing, under oath or affirmation;
+21 2. Is in the format required by the commissioner;
+22 3. Contains, and is accompanied by, the information, documentation,
+23 and evidence required under Section 7 of this Act;
+24 4. Contains an attestation that the applicant is in, and will maintain,
+25 compliance with Section 10 of this Act;
+26 5. Is accompanied by evidence that the requirements of Section 9 of this
+27 Act have been satisfied; and
+Page 10 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 6. Is accompanied by a nonrefundable application fee that is determined
+2 by the commissioner in accordance with Section 13 of this Act.
+3 (2) Within ninety (90) days after receipt of a complete application for a license,
+4 which period may be extended by the commissioner for good cause, the
+5 commissioner shall:
+6 (a) Review the application and all attachments for compliance with the
+7 requirements of this subtitle;
+8 (b) Investigate the following of the applicant, including for each person in
+9 control of the applicant and each responsible individual:
+10 1. Competence;
+11 2. Experience;
+12 3. Character;
+13 4. Financial condition; and
+14 5. Responsibility; and
+15 (c) Subject to Section 24 of this Act and subsection (4) of this section, issue:
+16 1. An unconditional license to the applicant to engage in virtual
+17 currency kiosk business at one (1) or more locations in this state;
+18 2. A notice of intent to issue a conditional license to the applicant to
+19 engage in virtual currency kiosk business at one (1) or more locations
+20 in this state; or
+21 3. A notice of intent to deny the applicant's application for a license.
+22 (3) As part of the review and investigation of an application under subsection (2) of
+23 this section, the commissioner may, in his or her discretion, investigate an
+24 applicant's business premises.
+25 (4) (a) The commissioner shall issue an unconditional license to an applicant to
+26 engage in virtual currency kiosk business at one (1) or more locations in
+27 this state if the commissioner determines that the applicant:
+Page 11 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 1. Is in compliance with the requirements of this subtitle;
+2 2. Has reasonably demonstrated that it has the competence, experience,
+3 character, financial condition, and responsibility to continue to satisfy
+4 the requirements of this subtitle; and
+5 3. Has satisfied the requirements of subsection (3)(a)1. and 2. of Section
+6 8 of this Act for at least one (1) location in this state.
+7 (b) 1. The commissioner may issue a notice of intent to issue a conditional
+8 license to an applicant to engage in virtual currency kiosk business at
+9 one (1) or more locations in this state if the commissioner determines
+10 that the conditions, including any additional bond amount specified by
+11 the commissioner under Section 9 of this Act, are necessary for the
+12 applicant to satisfy the requirements of paragraph (a)1., 2., and 3. of
+13 this subsection.
+14 2. A notice of intent issued under subparagraph 1. of this paragraph
+15 shall specify the additional conditions that are required for the
+16 applicant to obtain and maintain a license.
+17 3. The commissioner may issue a conditional license to an applicant to
+18 engage in virtual currency kiosk business at one (1) or more locations
+19 in this state if the applicant files with the commissioner a written
+20 acceptance of the conditions specified in the notice issued under
+21 subparagraph 1. of this paragraph to the applicant within thirty (30)
+22 days after service of the notice.
+23 4. If the department does not receive an applicant's written acceptance of
+24 the conditions specified in the notice issued under subparagraph 1. of
+25 this paragraph to the applicant within thirty (30) days after service of
+26 the notice, the commissioner shall issue a notice of intent to deny the
+27 applicant's application for a license.
+Page 12 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (c) 1. Except as provided in paragraph (b) of this subsection, the
+2 commissioner shall issue a notice of intent to deny an applicant's
+3 application for a license if the commissioner determines that:
+4 a. Denial of the license is warranted under Section 25 of this Act;
+5 or
+6 b. The requirements of paragraph (a)1., 2., and 3. of this subsection
+7 are not satisfied.
+8 2. A notice of intent to deny an applicant's application for a license shall
+9 specify the reasons for the determination.
+10 SECTION 7. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+11 IS CREATED TO READ AS FOLLOWS:
+12 An application filed under Section 6 of this Act shall provide all of the following
+13 information, documentation, and evidence unless the commissioner, for good cause,
+14 waives any requirement of this section with respect to a license application:
+15 (1) The following for the applicant, each executive officer, director, key shareholder,
+16 and person in control of the applicant, and each responsible individual and
+17 agent, as applicable:
+18 (a) Legal name;
+19 (b) Any former names used, including former fictitious or trade names;
+20 (c) Any fictitious or trade names used;
+21 (d) Business addresses;
+22 (e) Residential addresses;
+23 (f) Social Security number;
+24 (g) Employment history for the ten (10) year period preceding the application
+25 filing; and
+26 (h) A description of the activities conducted by the person and a history of
+27 operations, including a description of any money or virtual currency
+Page 13 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 services, money transmission, or virtual currency kiosk business that has
+2 been previously conducted in this state;
+3 (2) The physical address of each proposed virtual currency kiosk in this state;
+4 (3) A copy of any agreement between the applicant and each responsible individual
+5 and agent;
+6 (4) A list of each license or other authorization the applicant holds to conduct money
+7 or virtual currency services, money transmission, or virtual currency kiosk
+8 business in any state, federal, or foreign jurisdiction and the date each license or
+9 authorization expires;
+10 (5) A list of all regulatory revocations, suspensions, restrictions, and other
+11 disciplinary actions in any state, federal, or foreign jurisdiction, including all
+12 rejected applications, taken against any of the following:
+13 (a) The applicant;
+14 (b) A responsible individual; or
+15 (c) An agent;
+16 (6) (a) A list and description of all criminal convictions, deferred prosecution
+17 agreements, and pending criminal proceedings, other than traffic violations,
+18 in any jurisdiction for the ten (10) year period preceding the filing of the
+19 application against any of the following:
+20 1. The applicant;
+21 2. A responsible individual;
+22 3. An agent;
+23 4. An executive officer of the applicant; or
+24 5. A key shareholder of the applicant.
+25 (b) The commissioner may request a copy of any criminal conviction, which
+26 shall be promptly provided within ten (10) working days of the request;
+27 (7) (a) A list and description of all material litigation for the ten (10) year period
+Page 14 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 preceding the filing of the application against any of the following:
+2 1. The applicant;
+3 2. A responsible individual;
+4 3. An agent;
+5 4. An executive officer of the applicant; or
+6 5. A key shareholder of the applicant.
+7 (b) The commissioner may request a copy of any material litigation, which
+8 shall be promptly provided within ten (10) working days of the request;
+9 (8) A list of all bankruptcy and receivership proceedings in any jurisdiction for the
+10 past ten (10) years in which any of the following was a debtor:
+11 (a) The applicant;
+12 (b) A responsible individual;
+13 (c) An agent;
+14 (d) A person in control of the applicant; or
+15 (e) A person over which the applicant has control;
+16 (9) The name, business address, and telephone number of each financial institution
+17 in which the applicant and its agents plan to deposit or clear funds obtained by or
+18 through its virtual currency kiosk business in this state;
+19 (10) A description of the source of funds and credit to be used by the applicant and its
+20 agents to conduct virtual currency kiosk business in this state;
+21 (11) A sample contract for an agent;
+22 (12) A copy of the written procedures that will be provided by the applicant or licensee
+23 to its responsible individuals and agents;
+24 (13) The physical address and email address to which communications from the
+25 department may be sent;
+26 (14) The name, physical address, email address, and telephone number of the
+27 applicant's registered agent for service of process in this state;
+Page 15 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (15) The name, business address, email address, and telephone number of the
+2 applicant's chief compliance officer for virtual currency kiosk business
+3 conducted in this state;
+4 (16) With respect to the applicant's virtual currency kiosk business in this state, a copy
+5 of the certificate of coverage for each liability, casualty, business interruption,
+6 and cybersecurity insurance policy maintained by the applicant for any of the
+7 following:
+8 (a) Itself;
+9 (b) A responsible individual;
+10 (c) An agent;
+11 (d) An affiliate of the applicant;
+12 (e) A person in control of the applicant; or
+13 (f) A person over which the applicant has control;
+14 (17) If applicable:
+15 (a) The date on which, and the state where, the applicant is formed;
+16 (b) A copy of any current certificate of good standing issued by the state where
+17 the applicant is formed;
+18 (c) A copy of the applicant's filed articles of incorporation;
+19 (d) Evidence that the applicant is registered or qualified to do business in this
+20 state;
+21 (e) The name, business address, and telephone number of each affiliate of the
+22 applicant;
+23 (f) A description of the control relationship between the applicant and each
+24 affiliate of the applicant; and
+25 (g) A description of the corporate or business structure of the applicant,
+26 including:
+27 1. The identity of any parent and subsidiary of the applicant; and
+Page 16 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 2. Disclosure of whether any parent or subsidiary of the applicant is
+2 publicly traded on any stock exchange;
+3 (18) A copy of the following for the most recent fiscal year and, if available, for the
+4 two (2) year period preceding filing of the application:
+5 (a) The applicant's audited annual financial statements; or
+6 (b) If the applicant is a wholly owned subsidiary of another corporation:
+7 1. The audited consolidated annual financial statement of the parent
+8 corporation; or
+9 2. The applicant's audited consolidated annual financial statements;
+10 (19) A copy of the applicant's unconsolidated financial statements, whether audited or
+11 not, for:
+12 (a) The current fiscal year; and
+13 (b) If available, for the two (2) year period preceding the filing of the
+14 application;
+15 (20) If the applicant is publicly traded in the United States, a copy of the most recent
+16 report filed by the person pursuant to 15 U.S.C. sec. 78m, as amended;
+17 (21) If a person in control of the applicant is publicly traded in the United States, a
+18 copy of the:
+19 (a) Audited financial statements of the person for the most recent fiscal year; or
+20 (b) Most recent report filed by the person pursuant to 15 U.S.C. sec. 78m, as
+21 amended;
+22 (22) If a person in control of the applicant is publicly traded outside the United States,
+23 a copy of the most recent documentation filed by the person with a relevant
+24 foreign regulator in the person's domicile that is similar to that required in
+25 subsection (20) of this section;
+26 (23) If the applicant or its agents are required to register with the Financial Crimes
+27 Enforcement Network of the United States Department of the Treasury as a
+Page 17 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 money service business, evidence of the registration;
+2 (24) Any substituted information, documentation, or evidence the commissioner, for
+3 good cause, permits for any license application in lieu of the information,
+4 documentation, or evidence required by this section; and
+5 (25) Any other information, documentation, or evidence the commissioner reasonably
+6 requires to determine whether an applicant satisfies the requirements of this
+7 subtitle.
+8 SECTION 8. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+9 IS CREATED TO READ AS FOLLOWS:
+10 (1) (a) An applicant or licensee seeking to engage in virtual currency kiosk
+11 business at one (1) or more locations in this state, either directly or through
+12 an agent, shall file a complete application for approval of the location or
+13 locations with the commissioner.
+14 (b) An applicant or licensee seeking to designate one (1) or more agents to
+15 engage in virtual currency kiosk business on behalf of the applicant or
+16 licensee in this state shall file a complete application for approval of the
+17 agent or agents with the commissioner.
+18 (2) (a) Subject to paragraph (b) of this subsection, an application for approval to
+19 engage in virtual currency kiosk business at one (1) or more locations, or
+20 through one (1) or more agents, in this state shall not be complete unless it:
+21 1. Is made in writing, under oath or affirmation;
+22 2. Is in a format required by the commissioner;
+23 3. Contains, and is accompanied by, the information, documentation,
+24 and evidence required or permitted under Section 7 of this Act that the
+25 commissioner determines is necessary and appropriate for the purpose
+26 of making the determination under subsection (3) of this section; and
+27 4. Is accompanied by a nonrefundable fee for each location and agent
+Page 18 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 that is determined by the commissioner in accordance with Section 13
+2 of this Act, except the commissioner may waive the nonrefundable fee
+3 for any application that is made at the same time as a license
+4 application under Section 6 of this Act.
+5 (b) When an applicant seeks approval to engage in virtual currency kiosk
+6 business at one (1) or more locations, or through one (1) or more agents, in
+7 this state at the same time as filing a license application under Section 6 of
+8 this Act, the commissioner may:
+9 1. Accept the license application as the complete application required
+10 under this section; or
+11 2. Require the applicant to submit additional information to the
+12 commissioner as part of the license application for each location,
+13 agent, or location and agent.
+14 (3) Upon receipt of a complete application in accordance with subsection (2) of this
+15 section, and subject to Section 24 of this Act, the commissioner shall do one (1) of
+16 the following for each proposed location and agent:
+17 (a) The commissioner shall issue an unconditional approval to the applicant or
+18 licensee to engage in virtual currency kiosk business at the location, or
+19 through the agent, in this state if, after investigation, the commissioner
+20 determines that:
+21 1. The applicant or licensee will conduct business at the location, or
+22 through the agent, in a lawful and proper manner; and
+23 2. The interest of the public will not be jeopardized by the applicant or
+24 licensee conducting business at the location or through the agent;
+25 (b) 1. The commissioner may issue a notice of intent to issue a conditional
+26 approval to the applicant or licensee to engage in virtual currency
+27 kiosk business at the location, or through the agent, in this state if the
+Page 19 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 commissioner, after investigation, determines that the conditions,
+2 including any additional bond amount specified by the commissioner
+3 under Section 9 of this Act, are necessary for the applicant or licensee
+4 to satisfy the requirements of paragraph (a)1. and 2. of this
+5 subsection.
+6 2. A notice of intent issued under subparagraph 1. of this paragraph
+7 shall specify the additional conditions that are required for the
+8 applicant or licensee to engage in the proposed activity.
+9 3. The commissioner may issue a conditional approval to an applicant or
+10 licensee to engage in virtual currency kiosk business at the location,
+11 or through the agent, in this state if the applicant or licensee files a
+12 written acceptance of the conditions specified in the notice issued
+13 under subparagraph 1. of this paragraph to the applicant or licensee
+14 within thirty (30) days after service of the notice.
+15 4. If the department does not receive an applicant's or a licensee's
+16 written acceptance of the conditions specified in the notice issued
+17 under subparagraph 1. of this paragraph to the applicant or licensee
+18 within thirty (30) days after service of the notice, the commissioner
+19 shall issue a notice of intent to deny the applicant's or licensee's
+20 application for approval to engage in the proposed activity; or
+21 (c) 1. Except as provided in paragraph (b) of this subsection, the
+22 commissioner shall issue a notice of intent to deny the applicant's or
+23 licensee's application to engage in virtual currency kiosk business at
+24 the location, or through the agent, in this state if, after investigation,
+25 the commissioner determines that:
+26 a. For a proposed agent, denial is warranted under Section 25 of
+27 this Act; or
+Page 20 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 b. The requirements of paragraph (a)1. and 2. of this subsection
+2 are not satisfied.
+3 2. A notice of intent to deny an applicant's or licensee's application to
+4 engage in virtual currency kiosk business at a location, or through an
+5 agent, shall specify the reasons for the determination.
+6 SECTION 9. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+7 IS CREATED TO READ AS FOLLOWS:
+8 (1) As used in this section:
+9 (a) "Bond" means:
+10 1. A surety bond; or
+11 2. Another similar security acceptable to the commissioner;
+12 (b) "Net worth" means assets less liabilities as determined by generally
+13 accepted accounting principles; and
+14 (c) "Person" includes any applicant and licensee.
+15 (2) (a) Except as otherwise provided in paragraph (b) of this subsection, an
+16 applicant shall submit with its license application, and a licensee shall at all
+17 times maintain, a bond in an amount that is not less than five hundred
+18 thousand dollars ($500,000).
+19 (b) The commissioner may require an applicant to submit before a license is
+20 issued, and a licensee to maintain at all times, a bond in an amount in
+21 excess of five hundred thousand dollars ($500,000) but not exceeding five
+22 million dollars ($5,000,000) if the commissioner determines the additional
+23 amount is necessary to cover the nature and extent of risks associated with
+24 the virtual currency kiosk business activity in this state of the:
+25 1. Applicant and its proposed agents; or
+26 2. The licensee and its agents.
+27 (c) An applicant or a licensee that is required to increase its bond under
+Page 21 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 paragraph (b) of this subsection shall submit to the commissioner evidence
+2 that it has secured the additional bond amount not later than thirty (30)
+3 days after the applicant or licensee is notified by the commissioner in
+4 writing of the required increase.
+5 (3) (a) The bond required under this section shall:
+6 1. Be in a form satisfactory to the commissioner;
+7 2. Hold and bind the principal and surety to the Commonwealth of
+8 Kentucky for the benefit of any claimants against the person and its
+9 agents to secure the faithful performance of the obligations of the
+10 person and its agents in accordance with the requirements of this
+11 subtitle, including the payment of unpaid fee amounts and civil
+12 monetary penalties due to the department under this subtitle;
+13 3. Except as provided in paragraph (e) of this subsection, cover claims
+14 brought by a claimant for as long as the commissioner specifies, but
+15 not less than five (5) years after the later of the following:
+16 a. The date of any violation of this subtitle by the person or its
+17 agents; or
+18 b. The date the person ceases to do business in this state;
+19 4. Be continuous and remain in effect until canceled;
+20 5. Require the person and surety to provide the commissioner at least
+21 thirty (30) days written notice of an intent to cancel the bond; and
+22 6. Provide that cancellation of the bond shall not affect any liability
+23 incurred or accrued under the bond during the thirty (30) day notice
+24 period required under subparagraph 5. of this paragraph.
+25 (b) The aggregate liability on a bond shall not exceed the principal sum of the
+26 bond.
+27 (c) A claimant may maintain a civil action on a bond.
+Page 22 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (d) The commissioner may maintain a civil action on a bond on behalf of the
+2 department or any other claimant in the Franklin Circuit Court or in any
+3 other court of competent jurisdiction, either in one (1) action or successive
+4 actions.
+5 (e) The commissioner may permit the amount of a bond to be reduced or
+6 eliminated after a person ceases to do business in this state to the extent the
+7 amount of a person's and its agents' outstanding obligations in this state are
+8 reduced.
+9 (4) In addition to the bond required under this section, an applicant shall submit
+10 with its license application, and a licensee shall at all times maintain, evidence of
+11 a net worth that is not less than five hundred thousand dollars ($500,000).
+12 (5) The commissioner may promulgate an administrative regulation in accordance
+13 with KRS Chapter 13A or issue an order to:
+14 (a) Exercise his or her discretion under this section; or
+15 (b) Otherwise carry out the requirements of this section.
+16 SECTION 10. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+17 IS CREATED TO READ AS FOLLOWS:
+18 Every applicant and licensee shall, at the time of filing a license application and at all
+19 times during the consideration of the application and licensure:
+20 (1) Be in good standing in its state of incorporation or formation;
+21 (2) Be registered or qualified to do business in this state;
+22 (3) Maintain a registered agent for service of process in this state; and
+23 (4) (a) File a written report with the commissioner within fifteen (15) business days
+24 of knowledge of any of the following events:
+25 1. A material change in the information provided in:
+26 a. A license application;
+27 b. An application for approval to engage in virtual currency kiosk
+Page 23 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 business at one (1) or more locations, or through one (1) or more
+2 agents, in this state; or
+3 c. Any report filed under this subtitle;
+4 2. A failure to satisfy the requirements of Section 9 of this Act;
+5 3. Insolvency, the filing for bankruptcy, reorganization, dissolution, or
+6 receivership under the United States bankruptcy code or any other
+7 law, or the making of a general assignment for the benefit of creditors
+8 by:
+9 a. The applicant or licensee;
+10 b. A responsible individual;
+11 c. An agent;
+12 d. An executive officer of the applicant or licensee; or
+13 e. A director of the applicant or licensee;
+14 4. The filing of any material litigation against the applicant or licensee
+15 by any state, federal, or foreign governmental authority; or
+16 5. The applicant or licensee, a responsible individual or agent, or an
+17 executive officer or director of the applicant, the licensee, or an agent
+18 has been:
+19 a. Indicted for or convicted of any felony; or
+20 b. Convicted of a misdemeanor involving fraud, theft, breach of
+21 trust, or virtual currency kiosk business in this state.
+22 (b) The report required under paragraph (a) of this subsection shall describe
+23 the event and its expected impact on:
+24 1. The applicant's proposed activities in this state; or
+25 2. The licensee's activities in this state.
+26 SECTION 11. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+27 IS CREATED TO READ AS FOLLOWS:
+Page 24 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (1) As used in this section, "United States dollar equivalent of virtual currency"
+2 means the equivalent value of virtual currency in United States dollars shown on
+3 a virtual currency exchange based in the United States for a particular date or
+4 period.
+5 (2) On or before December 31 of each year, each licensee shall:
+6 (a) Pay a nonrefundable annual renewal fee to the department that is
+7 determined by the commissioner in accordance with Section 13 of this Act;
+8 and
+9 (b) File the licensee's annual renewal report with the commissioner in
+10 accordance with subsection (5) of this section.
+11 (3) The failure of a licensee to comply with subsection (2) of this section shall result
+12 in the expiration of the licensee's license by operation of law on January 1 of the
+13 following year.
+14 (4) (a) The commissioner may reinstate an expired license if, before February 1 of
+15 the calendar year in which the license expired, the licensee:
+16 1. Pays the annual renewal fee and files the annual renewal report
+17 required under subsection (2) of this section; and
+18 2. Pays a civil penalty to the department that is equal to the amount of
+19 the annual renewal fee determined by the commissioner in accordance
+20 with Section 13 of this Act.
+21 (b) Any reinstatement of a license under paragraph (a) of this subsection shall
+22 be retroactive to January 1 of the calendar year in which the license
+23 expired.
+24 (5) Except as provided in subsection (6) of this section, each licensee shall file an
+25 annual renewal report with the commissioner that contains all of the following:
+26 (a) A copy of:
+27 1. The licensee's most recent audited annual financial statement; or
+Page 25 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 2. If the licensee is a wholly owned subsidiary of another corporation,
+2 the:
+3 a. Most recent audited consolidated annual financial statement of
+4 the parent corporation; or
+5 b. Licensee's most recent audited consolidated annual financial
+6 statements;
+7 (b) A description of the following, if the information has not been previously
+8 reported to the commissioner on any other report filed under this subtitle:
+9 1. Any material changes to any of the information submitted by the
+10 licensee on its original application; and
+11 2. Any data security breach involving the licensee;
+12 (c) A list of the licensee's permissible investments under Section 16 of this Act;
+13 (d) A certification from the licensee that the licensee continues to maintain
+14 permissible investments in accordance with Section 16 of this Act;
+15 (e) A list of each location where the licensee, or an agent of the licensee,
+16 conducts virtual currency kiosk business in this state;
+17 (f) For January 1 to December 31 of the preceding calendar year and January
+18 1 to September 30 of the current year:
+19 1. The number of virtual currency kiosk transactions at each location in
+20 this state where the licensee, or an agent of the licensee, conducts
+21 virtual currency kiosk business;
+22 2. The United States dollar amount of virtual currency kiosk transactions
+23 at each location in this state where the licensee, or an agent of the
+24 licensee, conducts virtual currency kiosk business; and
+25 3. The total number and dollar amount of refund requests received by
+26 the licensee, or an agent of the licensee, from virtual currency kiosk
+27 users that were:
+Page 26 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 a. Granted by the licensee or agent; and
+2 b. Denied by the licensee or agent;
+3 (g) As of December 31 of the preceding calendar year and September 30 of the
+4 current year:
+5 1. The amount of United States dollar equivalent of virtual currency in
+6 the possession or control of the licensee or an agent of the licensee;
+7 2. The number of virtual currency kiosk users for whom the licensee, or
+8 an agent of the licensee, had possession or control of virtual currency;
+9 and
+10 3. The amount of United States dollar equivalent of virtual currency in
+11 the possession or control of the licensee, or an agent of the licensee,
+12 on behalf of virtual currency kiosk users;
+13 (h) Evidence that the licensee continues to satisfy the requirements of Section 9
+14 of this Act;
+15 (i) The name, business address, email address, and telephone number of the
+16 licensee's chief compliance officer for virtual currency kiosk business
+17 conducted in this state; and
+18 (j) Any other information the commissioner determines is necessary to aid in
+19 the enforcement of this subtitle.
+20 (6) A licensee that was not licensed in Kentucky at any time between January 1 and
+21 October 31 of a calendar year shall not be required to file an annual renewal
+22 report for the following year.
+23 SECTION 12. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+24 IS CREATED TO READ AS FOLLOWS:
+25 (1) A person shall not take any action that results in a change of control of a licensee
+26 without:
+27 (a) Providing the notice required under subsection (2) of this section; and
+Page 27 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (b) Obtaining the prior written approval of the commissioner in accordance
+2 with subsection (3) of this section, except this paragraph shall not apply to:
+3 1. A person that acts as a proxy for the sole purpose of voting at a
+4 designated meeting of the security holders or holders of voting
+5 interests of a licensee or person in control of a licensee;
+6 2. A person that acquires control of a licensee by devise or descent;
+7 3. A person that acquires control as a personal representative, custodian,
+8 guardian, conservator, or trustee, or as an officer appointed by a court
+9 of competent jurisdiction or by operation of law;
+10 4. A public offering of securities under the laws of the United States; or
+11 5. a. Any other person or circumstance that the commissioner
+12 determines is exempted from compliance with this paragraph in
+13 an administrative regulation promulgated in accordance with
+14 KRS Chapter 13A.
+15 b. The commissioner may promulgate an administrative regulation
+16 to exempt a person or circumstance from compliance with this
+17 paragraph if the commissioner determines that the exemption is
+18 necessary to serve the public interest.
+19 (2) (a) A licensee shall file a complete notice of a:
+20 1. Change of control of the licensee under subsection (1)(b)1. to 5. of this
+21 section with the commissioner within fifteen (15) days of learning of
+22 the change of control; and
+23 2. Proposed change of control of the licensee, other than a change of
+24 control under subsection (1)(b)1. to 5. of this section, with the
+25 commissioner:
+26 a. Within fifteen (15) days of learning of the proposed change of
+27 control; and
+Page 28 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 b. At least thirty (30) days prior to the proposed change of control.
+2 (b) A notice of a change of control, or a proposed change of control, of a
+3 licensee shall not be complete unless it:
+4 1. Is made in writing, under oath or affirmation;
+5 2. Is in a format required by the commissioner; and
+6 3. Contains the information that the commissioner determines is
+7 necessary to provide reasonable notice of the licensee's change of
+8 control or proposed change of control.
+9 (3) (a) Except as provided in subsection (1) of this section, a person seeking to
+10 acquire control of a licensee shall file a complete application for approval of
+11 the change of control with the commissioner at least thirty (30) days prior to
+12 the proposed change of control.
+13 (b) An application for approval of a change of control shall not be complete
+14 unless it:
+15 1. Is made in writing, under oath or affirmation;
+16 2. Is in the format required by the commissioner;
+17 3. Contains, and is accompanied by, any or all of the information,
+18 documentation, and evidence required or permitted for an applicant
+19 under Section 7 of this Act that the commissioner determines is
+20 necessary and appropriate for the purpose of making the
+21 determination under paragraph (c) of this subsection; and
+22 4. Is accompanied by a nonrefundable investigation fee of one hundred
+23 dollars ($100).
+24 (c) Upon receipt of a complete application for approval of a change of control
+25 and subject to Section 24 of this Act, the commissioner shall:
+26 1. Approve the application if the commissioner determines that the
+27 person satisfies the requirements of this subtitle for obtaining a
+Page 29 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 license; or
+2 2. a. Issue a notice of intent to deny the application if the
+3 commissioner determines that the person does not satisfy the
+4 requirements of this subtitle for obtaining a license.
+5 b. A notice of intent to deny an application for approval of a
+6 change of control shall specify the requirements of this subtitle
+7 that the person does not satisfy.
+8 (4) (a) The commissioner may determine whether any set of facts or a proposed
+9 transaction constitutes, or would constitute, control for purposes of this
+10 section.
+11 (b) Any of the following may make a request to the commissioner for a
+12 determination under paragraph (a) of this subsection:
+13 1. A licensee; or
+14 2. A person that seeks to enter a proposed transaction with a licensee.
+15 (5) (a) A licensee shall file a complete notice of the termination or resignation of a
+16 responsible individual or agent with the commissioner within fifteen (15)
+17 days of the termination or resignation.
+18 (b) A notice of termination or resignation of a licensee's responsible individual
+19 or agent shall not be complete unless it:
+20 1. Is made in writing, under oath or affirmation;
+21 2. Is in a format required by the commissioner; and
+22 3. Contains the information that the commissioner determines is
+23 necessary to provide reasonable notice of the licensee's change in
+24 responsible individual or agent.
+25 (6) (a) A licensee shall obtain the prior written approval of the commissioner in
+26 accordance with this subsection prior to adding or replacing a responsible
+27 individual.
+Page 30 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (b) A licensee shall file a complete application for approval of the addition or
+2 replacement of a responsible individual with the commissioner.
+3 (c) An application for approval of the addition or replacement of a responsible
+4 individual shall not be complete unless it:
+5 1. Is made in writing, under oath or affirmation;
+6 2. Is in the format required by the commissioner; and
+7 3. Contains, and is accompanied by, any or all of the information,
+8 documentation, and evidence required or permitted under Section 7 of
+9 this Act that the commissioner determines is necessary and
+10 appropriate for the purpose of making the determination under
+11 paragraph (d) of this subsection.
+12 (d) Upon receipt of a complete application for approval of the addition or
+13 replacement of a responsible individual and subject to Section 24 of this
+14 Act, the commissioner shall:
+15 1. Approve the application if the commissioner determines that the
+16 licensee will continue to satisfy the requirements of this subtitle for
+17 maintaining a license after the addition or replacement; or
+18 2. a. Issue a notice of intent to deny the application if the
+19 commissioner determines that the addition or replacement will
+20 cause the licensee to no longer satisfy the requirements of this
+21 subtitle for maintaining a license.
+22 b. A notice of intent to deny an application for approval of the
+23 addition or replacement of a responsible individual shall specify
+24 the requirements of this subtitle that the licensee will not satisfy
+25 if the addition or replacement is made.
+26 SECTION 13. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+27 IS CREATED TO READ AS FOLLOWS:
+Page 31 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (1) Subject to subsection (2) of this section, the commissioner shall promulgate
+2 administrative regulations in accordance with KRS Chapter 13A to establish:
+3 (a) The format of, and manner of submission for, applications, notices, and
+4 reports required under this subtitle;
+5 (b) The nonrefundable application fees required under Sections 6 and 8 of this
+6 Act;
+7 (c) The nonrefundable annual renewal fee required under Section 11 of this
+8 Act;
+9 (d) Any additional information, documentation, or evidence that the
+10 commissioner may require under Section 7 of this Act; and
+11 (e) The information, documentation, and evidence that shall be contained in or
+12 accompany an application or notice filed under Section 8 or 12 of this Act.
+13 (2) (a) The nonrefundable fees required under Sections 6, 8, and 11 of this Act
+14 shall be determined based on a reasonable estimation of the amount
+15 required to cover the reasonable costs to the department to:
+16 1. Review, investigate, and process the relevant applications and reports;
+17 and
+18 2. Enforce the requirements of this subtitle.
+19 (b) The determination made under paragraph (a) of this subsection shall take
+20 into account any other costs, fees, and expenses that are otherwise payable
+21 to the commissioner under this subtitle.
+22 SECTION 14. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+23 IS CREATED TO READ AS FOLLOWS:
+24 (1) Virtual currency kiosk operators desiring to engage in virtual currency kiosk
+25 business through agents shall authorize each agent to operate pursuant to an
+26 express written contract, which shall include the following provisions:
+27 (a) That the operator designates the person as its agent with authority to
+Page 32 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 engage in virtual currency kiosk business on behalf of the operator as
+2 authorized under this subtitle;
+3 (b) That the agent shall operate in full compliance with this subtitle,
+4 administrative regulations promulgated under this subtitle, and any order
+5 issued by the commissioner pursuant to this subtitle;
+6 (c) That both the operator and the agent shall not authorize subagents;
+7 (d) That the agent shall timely remit all legal tender and virtual currency
+8 legally due to the operator in accordance with the terms of the written
+9 contract between the operator and the agent;
+10 (e) That the operator and agent are subject to regulation by the commissioner;
+11 and
+12 (f) That the operator and agent shall comply with all applicable federal and
+13 state laws.
+14 (2) An agent shall not make any fraudulent statements or misrepresentations to:
+15 (a) The virtual currency kiosk operator; or
+16 (b) The commissioner, including any person acting under the commissioner's
+17 authority.
+18 (3) All virtual currency kiosk business conducted by agents shall be strictly
+19 conducted in accordance with the virtual currency kiosk operator's written
+20 procedures provided to the agent.
+21 (4) (a) An agent shall timely remit all legal tender and virtual currency legally due
+22 to the virtual currency kiosk operator in accordance with the terms of the
+23 written contract between the licensee and the agent.
+24 (b) The commissioner shall have the discretion to set, by administrative
+25 regulation or order, the maximum remittance time.
+26 (5) An agent shall act only as authorized under the written contract with the virtual
+27 currency kiosk operator.
+Page 33 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (6) (a) All funds, less fees, received by an agent of a virtual currency kiosk
+2 operator from virtual currency kiosk business shall, from the time the funds
+3 are received by the agent until such time when the funds or an equivalent
+4 amount are remitted by the agent to the operator, constitute trust funds
+5 owned by and belonging to the operator.
+6 (b) If an agent commingles any of these funds with any other funds or property
+7 owned or controlled by the agent, then all commingled proceeds and other
+8 property shall be impressed with a trust in favor of the virtual currency
+9 kiosk operator in an amount equal to the amount of the proceeds due the
+10 operator.
+11 (7) An agent shall report to the virtual currency kiosk operator the theft, forgery, or
+12 loss of the operator's or a virtual currency kiosk user's funds within twenty-four
+13 (24) hours from the time the agent learned of the theft, forgery, or loss.
+14 SECTION 15. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+15 IS CREATED TO READ AS FOLLOWS:
+16 (1) Each virtual currency kiosk operator and its agents shall:
+17 (a) Maintain the books, accounts, and records of its virtual currency kiosk
+18 business activities in this state that are required under subsection (2) of this
+19 section; and
+20 (b) Keep the books, accounts, and records referenced in paragraph (a) of this
+21 subsection for:
+22 1. A period of time determined by the commissioner in an administrative
+23 regulation promulgated in accordance with KRS Chapter 13A; or
+24 2. For a period that is longer than the period referenced in subparagraph
+25 1. of this paragraph if required by:
+26 a. Other state or federal law; or
+27 b. The commissioner to resolve any examination, investigation, or
+Page 34 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 claim.
+2 (2) The following books, accounts, and records shall be maintained:
+3 (a) For each virtual currency kiosk transaction:
+4 1. The amount, date, and precise time of the transaction;
+5 2. Any payment instructions for the transaction;
+6 3. The total amount of virtual currency kiosk charges received by and
+7 paid to the virtual currency kiosk operator or agent, including any
+8 virtual currency kiosk charges received on behalf of the operator or
+9 agent;
+10 4. The exchange rate of the virtual currency to the United States dollar;
+11 and
+12 5. The names, account numbers, and physical addresses of the parties to
+13 the transaction;
+14 (b) A general ledger containing all assets, liabilities, ownership equity, income,
+15 and expense accounts;
+16 (c) Bank statements and bank reconciliation records;
+17 (d) Any receipts, statements, and valuations provided to virtual currency kiosk
+18 users and account holders;
+19 (e) Records or minutes of meetings of the board of directors or an equivalent
+20 governing body of the virtual currency kiosk operator or agent;
+21 (f) Records demonstrating compliance with applicable state and federal anti-
+22 money laundering laws, including virtual currency kiosk user and account
+23 holder identification and verification documents, records linking virtual
+24 currency kiosk users and account holders to their respective accounts and
+25 balances, and a record of any compliance breaches;
+26 (g) Communications and documentation related to:
+27 1. Investigations of virtual currency kiosk user and account holder
+Page 35 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 complaints; and
+2 2. Transaction error resolutions;
+3 (h) The policies required under Section 18 of this Act; and
+4 (i) Any other books, accounts, or records that are required by the
+5 commissioner in an administrative regulation promulgated in accordance
+6 with KRS Chapter 13A for determining whether a virtual currency kiosk
+7 operator or agent is in compliance with this subtitle, including whether an
+8 operator or agent is in compliance with any administrative regulation
+9 promulgated, or order issued, under this subtitle.
+10 (3) The books, accounts, and records that are required to be maintained under this
+11 section:
+12 (a) May be maintained in any electronic format consistent with the virtual
+13 currency kiosk operator's or agent's ordinary business practices unless the
+14 operator or agent receives specific written instructions from the
+15 commissioner to the contrary;
+16 (b) Shall be maintained separate and apart from any other business in which
+17 the virtual currency kiosk operator or agent is involved;
+18 (c) Shall be kept at the virtual currency kiosk operator's or agent's principal
+19 office or an office located in this state unless otherwise permitted in writing
+20 by the commissioner; and
+21 (d) Shall be made available for review or examination at a nonresidential
+22 location approved by the commissioner.
+23 (4) Books, accounts, or records of any person described in this section may be
+24 maintained at a location outside of this state so long as they are made accessible
+25 to the commissioner upon seven (7) business days' written notice.
+26 SECTION 16. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+27 IS CREATED TO READ AS FOLLOWS:
+Page 36 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (1) Every virtual currency kiosk operator shall, at all times, maintain permissible
+2 investments that:
+3 (a) Have a market value that is computed in accordance with generally
+4 accepted accounting principles; and
+5 (b) Are not less than the aggregate amount of all of the operator's and its
+6 agents' outstanding virtual currency kiosk transactions.
+7 (2) Except to the extent otherwise limited in subsection (3) of this section, the
+8 investments permitted under KRS 286.11-015 are permissible for a virtual
+9 currency kiosk operator.
+10 (3) The commissioner may:
+11 (a) Limit the extent to which a type of investment within a class of permissible
+12 investments may be considered a permissible investment, except for money,
+13 time deposits, savings deposits, demand deposits, and certificates of deposit
+14 issued by a federally insured financial institution; and
+15 (b) By administrative regulation or order allow other types of investments that
+16 the commissioner determines to be substantially equivalent to other
+17 permissible investments in regards to safety and soundness.
+18 (4) Permissible investments, even if commingled with other assets of the virtual
+19 currency kiosk operator, shall be deemed by operation of law to be held in trust
+20 for the benefit of the purchasers and holders of the operator's outstanding virtual
+21 currency kiosk transactions in the event of the operator's insolvency or
+22 bankruptcy.
+23 SECTION 17. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+24 IS CREATED TO READ AS FOLLOWS:
+25 (1) As used in this section:
+26 (a) "New virtual currency kiosk user":
+27 1. Means a virtual currency kiosk user:
+Page 37 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 a. On the day of the user's first virtual currency kiosk transaction
+2 with the virtual currency kiosk operator; and
+3 b. For twenty-nine (29) calendar days thereafter; and
+4 2. Does not include a virtual currency kiosk user on any day that the
+5 user enters a virtual currency kiosk transaction with the virtual
+6 currency kiosk operator following twenty-nine (29) calendar days after
+7 the user's first virtual currency kiosk transaction with the operator;
+8 (b) "Virtual currency kiosk operator" includes an agent of the virtual currency
+9 kiosk operator;
+10 (c) "Virtual currency wallet" means a software application or other
+11 mechanism providing a means to hold the keys necessary to access and
+12 transfer virtual currency; and
+13 (d) "Virtual currency wallet address" means an alphanumeric identifier
+14 associated with a virtual currency wallet that identifies the location to which
+15 a virtual currency transaction can be sent.
+16 (2) A virtual currency kiosk operator shall:
+17 (a) Have maximum virtual currency kiosk transaction limits that do not exceed:
+18 1. Two thousand dollars ($2,000), or the equivalent in virtual currency,
+19 per day for all virtual currency kiosk transactions entered with a
+20 virtual currency kiosk user; and
+21 2. Ten thousand five hundred dollars ($10,500), or the equivalent in
+22 virtual currency, for all virtual currency kiosk transactions entered
+23 with a new virtual currency kiosk user;
+24 (b) Either:
+25 1. Wait seventy-two (72) hours before processing a virtual currency kiosk
+26 transaction for a new virtual currency kiosk user; or
+27 2. At the operator's cost, allow a new virtual currency kiosk user to
+Page 38 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 cancel, and receive a full refund for, a virtual currency kiosk
+2 transaction within seventy-two (72) hours after the transaction;
+3 (c) Not collect, directly or indirectly, virtual currency kiosk charges from a
+4 virtual currency kiosk user for any single virtual currency kiosk transaction
+5 that exceeds the greater of:
+6 1. Five dollars ($5); or
+7 2. Eighteen percent (18%) of the value, in United States dollars, of the
+8 transaction;
+9 (d) Provide live customer service via a toll-free telephone number during the
+10 operating hours of each virtual currency kiosk in this state; and
+11 (e) Provide a notice at each virtual currency kiosk in this state that:
+12 1. Describes, in general terms, common scam tactics involving virtual
+13 currency kiosks;
+14 2. Advises virtual currency kiosk users not to proceed with a transaction
+15 if the user:
+16 a. Is being instructed or pressured by a third party; or
+17 b. Suspects fraud;
+18 3. States that a government agency or official will never request payment
+19 using a virtual currency kiosk;
+20 4. Directs virtual currency kiosk users to contact the following to report
+21 fraud or suspected fraud:
+22 a. Any relevant state and local law enforcement;
+23 b. The department; and
+24 c. The Attorney General;
+25 5. Provides the contact information, including a telephone number, for
+26 each of the agencies referenced in subparagraph 4. of this paragraph;
+27 6. Provides the name, address, and toll-free customer service telephone
+Page 39 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 number of the virtual currency kiosk operator;
+2 7. Provides the days, time, and means by which a virtual currency kiosk
+3 user can contact the virtual currency kiosk operator for assistance;
+4 and
+5 8. Provides the operator's dedicated United States telephone number or
+6 email address for law enforcement, the department, and the Attorney
+7 General, as required under subsection (6) of Section 18 of this Act.
+8 (3) The notices required under subsection (2)(e) of this section shall be:
+9 (a) 1. On the virtual currency kiosk;
+10 2. Near, and within readable sight of, the virtual currency kiosk; or
+11 3. On the first screen of the virtual currency kiosk, which shall be
+12 viewable by any person without requiring the person to input money,
+13 virtual currency, data, or information; and
+14 (b) Displayed prominently and in bold type.
+15 (4) (a) Prior to entering a virtual currency kiosk transaction with a virtual
+16 currency kiosk user, a virtual currency kiosk operator shall:
+17 1. Provide accurate and appropriate disclosures to the user; and
+18 2. Obtain an acknowledgment from the user that the user received the
+19 disclosures.
+20 (b) The disclosures required under paragraph (a) of this subsection shall:
+21 1. Describe the terms and conditions of the transaction, which shall
+22 include but not be limited to:
+23 a. The amount of the transaction;
+24 b. A description of all virtual currency kiosk charges, which shall
+25 be disclosed to the user in United States dollars; and
+26 c. The exchange rate of the virtual currency to the United States
+27 dollar;
+Page 40 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 2. Describe all material risks associated with the virtual currency kiosk
+2 transaction, including the following:
+3 a. Virtual currency is not legal tender in the United States, is not
+4 backed by the United States government, and accounts and value
+5 balances are not subject to Federal Deposit Insurance
+6 Corporation, National Credit Union Administration, or
+7 Securities Investor Protection Corporation protections;
+8 b. Virtual currency value relative to the United States dollar may
+9 fluctuate significantly;
+10 c. Transactions in virtual currency may result in losses due to
+11 fraudulent or accidental transactions that are not recoverable;
+12 and
+13 d. The circumstances under which the virtual currency kiosk
+14 operator will, in the ordinary course of business, disclose the
+15 user's financial and account information to third parties;
+16 3. Include any other terms, conditions, or information the commissioner
+17 determines is necessary and appropriate to disclose to virtual currency
+18 kiosk users;
+19 4. Be made separately from any other information provided by a virtual
+20 currency kiosk operator; and
+21 5. Be clear, conspicuous, and in legible writing.
+22 (5) (a) Upon completion of a virtual currency kiosk transaction, a virtual currency
+23 kiosk operator shall provide a receipt in paper or electronic retainable form,
+24 as designated under paragraph (b) of this subsection, to the virtual currency
+25 kiosk user that contains all of the following information:
+26 1. The name and toll-free customer service telephone number of the
+27 operator;
+Page 41 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 2. The contact information required under subsection (2)(e)5. of this
+2 section to report fraud or suspected fraud;
+3 3. The type, value, date, and precise time of the transaction;
+4 4. Each applicable virtual currency wallet address and transaction hash,
+5 where available;
+6 5. A description of all virtual currency kiosk charges, which shall be
+7 disclosed in United States dollars;
+8 6. The exchange rate of the virtual currency to the United States dollar;
+9 7. The operator's liability for nondelivery or delayed delivery;
+10 8. The operator's refund policy; and
+11 9. Any additional information required by the commissioner.
+12 (b) Each virtual currency kiosk user shall be provided the option to receive a
+13 paper or electronic receipt for each virtual currency kiosk transaction.
+14 (6) A virtual currency kiosk operator may provide additional notices or disclosures,
+15 or information on a receipt provided, to a virtual currency kiosk user.
+16 (7) A fraud victim's eligibility for a refund shall not be waived, affected, or prevented
+17 by, or due to, a disclosure made in accordance with this section.
+18 (8) The notices, disclosures, and receipts required under this section shall be in the
+19 English language.
+20 (9) The commissioner may promulgate an administrative regulation in accordance
+21 with KRS Chapter 13A to:
+22 (a) Establish the format and content of the notices required under subsection
+23 (2)(e) of this section;
+24 (b) Establish any additional disclosures or information the commissioner
+25 requires under subsection (4) or (5) of this section; and
+26 (c) Require virtual currency kiosk operators to comply with one (1) or more
+27 specified industry standards or practices if the commissioner determines
+Page 42 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 that compliance with the standard or practice is necessary to:
+2 1. Ensure the lawful conduct of business under this subtitle; or
+3 2. Protect the interest of the public.
+4 SECTION 18. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+5 IS CREATED TO READ AS FOLLOWS:
+6 (1) As used in this section:
+7 (a) "Blockchain analytics" means the analysis of data from blockchains or
+8 publicly distributed ledgers, including associated transaction information;
+9 (b) "Blockchain analytics and tracing software" means a software service that
+10 uses blockchain analytics data to provide:
+11 1. Risk-specific information;
+12 2. Tracing of virtual currency wallet addresses; and
+13 3. Other information and services; and
+14 (c) "Virtual currency wallet" and "virtual currency wallet address" have the
+15 same meanings as in Section 17 of this Act.
+16 (2) (a) Each virtual currency kiosk operator shall take reasonable steps to detect
+17 and prevent fraud and money laundering associated with its virtual
+18 currency kiosk business in this state.
+19 (b) The reasonable steps required under paragraph (a) of this subsection shall
+20 include establishing, implementing, maintaining, and enforcing:
+21 1. An anti-fraud and anti-money laundering policy that, at a minimum:
+22 a. Identifies and assesses fraud-related and money laundering-
+23 related risk areas;
+24 b. Establishes procedures and controls to protect against identified
+25 risks;
+26 c. Allocates responsibility for monitoring risks;
+27 d. Establishes procedures for the periodic evaluation and revision
+Page 43 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 of the policy's procedures, controls, and monitoring
+2 mechanisms; and
+3 e. Requires compliance with the federal Bank Secrecy Act, codified
+4 at 31 U.S.C. sec. 5311 et seq.;
+5 2. An enhanced due diligence policy that, at a minimum, establishes
+6 protocols to identify individuals who are at risk of fraud based on age
+7 or mental capacity; and
+8 3. Policies that address:
+9 a. Cybersecurity, the privacy of personal information, and
+10 information security; and
+11 b. Any other subjects required by the commissioner in an
+12 administrative regulation promulgated in accordance with KRS
+13 Chapter 13A.
+14 (c) The policies required under paragraph (b) of this subsection shall:
+15 1. Be in writing;
+16 2. Apply to all employees and agents of the virtual currency kiosk
+17 operator; and
+18 3. Be reviewed and approved by the virtual currency kiosk operator's
+19 board of directors or equivalent governing body.
+20 (3) (a) Each virtual currency kiosk operator and its agents shall use blockchain
+21 analytics and tracing software to:
+22 1. Assist in the prevention of sending virtual currency to a virtual
+23 currency wallet known or likely to be affiliated with fraudulent activity
+24 at the time of a virtual currency kiosk transaction; and
+25 2. Detect virtual currency kiosk transaction patterns that are indicative
+26 of fraud or other illicit activities.
+27 (b) A virtual currency kiosk operator and its agents shall block a virtual
+Page 44 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 currency kiosk transaction to a virtual currency wallet that is associated
+2 with overseas exchanges that are not accessible for virtual currency kiosk
+3 users in the United States.
+4 (c) The department may request evidence from any virtual currency kiosk
+5 operator or agent of current use of blockchain analytics.
+6 (4) (a) Prior to accepting payment from any virtual currency kiosk user in this
+7 state, a virtual currency kiosk operator and its agents shall verify the
+8 identity of the user.
+9 (b) To comply with paragraph (a) of this subsection, the virtual currency kiosk
+10 operator or agent, or an authorized delegate of the operator or agent, shall:
+11 1. Obtain a copy of a government-issued identification card that
+12 identifies the virtual currency kiosk user; and
+13 2. Collect additional information about the virtual currency kiosk user,
+14 including the user's:
+15 a. Name;
+16 b. Date of birth;
+17 c. Telephone number;
+18 d. Physical address; and
+19 e. Email address.
+20 (c) A virtual currency kiosk operator and its agents shall not allow a virtual
+21 currency kiosk user to engage in a virtual currency kiosk transaction under
+22 or using any name, account, or identity that is not the user's own true name,
+23 account, or identity.
+24 (d) A virtual currency kiosk operator and its agents shall be strictly liable for
+25 any violation of this subsection.
+26 (5) (a) Except as provided in paragraph (b) of this subsection, upon request of a
+27 virtual currency kiosk user, a virtual currency kiosk operator and its agents
+Page 45 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 shall issue a refund of all virtual currency kiosk charges to the user for
+2 each virtual currency kiosk transaction that satisfies all of the following:
+3 1. The user was fraudulently induced to engage in the transaction;
+4 2. The user reported the fraud within ninety (90) days of the transaction
+5 to:
+6 a. The operator or agent; and
+7 b. One (1) of the following:
+8 i. The department;
+9 ii. The Attorney General; or
+10 iii. Any relevant state or local law enforcement agency; and
+11 3. The user submitted proof of the fraud to the operator or agent and the
+12 person referenced in subparagraph 2.b. of this paragraph, which may
+13 include one (1) of the following:
+14 a. A police report; or
+15 b. A sworn statement made to the department, Attorney General,
+16 operator, or agent;
+17 that details the fraudulent nature of the transaction.
+18 (b) 1. In addition to any other remedies and penalties available under this
+19 subtitle or any other statutory or common law, a virtual currency kiosk
+20 operator and its agents shall issue a refund to a virtual currency kiosk
+21 user in the full amount of any virtual currency kiosk transaction,
+22 including all virtual currency kiosk charges, if the user submits proof,
+23 which may be in the form of a police report or sworn statement, that
+24 the operator or agent, or an employee or other representative of the
+25 operator or agent, defrauded, deceived, or mislead the user in
+26 connection with the transaction.
+27 2. A virtual currency kiosk user shall submit the proof required under
+Page 46 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 this paragraph in accordance with the requirements of paragraph (a)
+2 of this subsection, except the user shall be required to submit the proof
+3 within any applicable statute of limitations associated with the
+4 violation or offense, which shall not be less than one (1) year after the
+5 transaction.
+6 (c) The refund required under paragraph (a) or (b) of this subsection shall be:
+7 1. Paid in the originating currency; and
+8 2. Made to a virtual currency kiosk user by the virtual currency kiosk
+9 operator or agent within seventy-two (72) hours after the requirements
+10 of paragraph (a) or (b) of this subsection, as applicable, are satisfied.
+11 (6) (a) A virtual currency kiosk operator and its agents shall provide a dedicated
+12 and frequently monitored communications line for law enforcement, the
+13 department, and the Attorney General, via a United States telephone
+14 number or email address posted on each virtual currency kiosk in
+15 accordance with Section 17 of this Act, to be used by the agencies to
+16 facilitate communications with the operator or agent in the event of a report
+17 from a virtual currency kiosk user of fraud or suspected fraud.
+18 (b) Upon request from law enforcement, the department, or the Attorney
+19 General, a virtual currency kiosk operator and its agents shall:
+20 1. Provide the agency with its trace findings; and
+21 2. Grant the agency assistance with blockchain analytics to assist in any
+22 fraud investigation.
+23 (c) A virtual currency kiosk operator and its agents shall cooperate with law
+24 enforcement, the department, and the Attorney General in the investigation
+25 of fraud and other unlawful activity, which shall include without limitation:
+26 1. Promptly complying with lawful subpoenas, court orders, and other
+27 official requests for records or information relating to virtual currency
+Page 47 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 kiosk transactions or virtual currency kiosk users;
+2 2. Responding in good faith to lawful requests relating to fraud involving
+3 a virtual currency kiosk; and
+4 3. Designating a point of contact for communication with law
+5 enforcement, the department, and the Attorney General regarding
+6 fraud-related matters.
+7 (7) (a) Each virtual currency kiosk operator shall designate a qualified natural
+8 person to serve as the operator's chief compliance officer for virtual
+9 currency kiosk business conducted in this state.
+10 (b) The chief compliance officer shall be responsible for coordinating,
+11 monitoring, and ensuring the operator's and its agents' compliance with:
+12 1. This section; and
+13 2. All other applicable state and federal laws, including all
+14 administrative regulations, rules, and orders promulgated or issued
+15 thereunder.
+16 SECTION 19. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+17 IS CREATED TO READ AS FOLLOWS:
+18 It shall be a violation of this subtitle for an applicant, a licensee, a virtual currency
+19 kiosk operator, an agent, or any other person to do any of the following:
+20 (1) With regard to virtual currency kiosk business in this state, whether or not the
+21 person is required to have a license:
+22 (a) Directly or indirectly employ any scheme, device, or artifice to defraud or
+23 mislead, when the applicant, licensee, operator, agent, or person should
+24 have known that the scheme, device, or artifice was defrauding or
+25 misleading; or
+26 (b) Engage in any:
+27 1. Unfair or deceptive practice; or
+Page 48 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 2. Other act or conduct that would warrant the denial, suspension, or
+2 revocation of a license under Section 25 of this Act;
+3 (2) Negligently make any false statement, or knowingly or willfully make any
+4 omission of material fact, in connection with:
+5 (a)_ Any information or reports relating to virtual currency kiosk business in
+6 this state filed with:
+7 1. A state or federal government agency;
+8 2. The registry, as defined in Section 5 of this Act; or
+9 3. Any agency or authority, as part of a nationwide licensing system, that
+10 is designated by the commissioner to accept filings under Section 5 of
+11 this Act; or
+12 (b) Any investigation or examination conducted by the commissioner or any
+13 other state or federal government agency relating to virtual currency kiosk
+14 business in this state; or
+15 (3) Fail to truthfully account for any assets in connection with any virtual currency
+16 kiosk transaction.
+17 SECTION 20. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+18 IS CREATED TO READ AS FOLLOWS:
+19 In addition to the requirements of this subtitle, every virtual currency kiosk operator
+20 and its agents shall comply with all applicable federal and state laws.
+21 SECTION 21. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+22 IS CREATED TO READ AS FOLLOWS:
+23 (1) Any person may file a written complaint with the commissioner relating to:
+24 (a) Virtual currency kiosk business in this state; or
+25 (b) The conduct of any person engaged or participating in virtual currency
+26 kiosk business in this state.
+27 (2) The commissioner may conduct an investigation, upon complaint or otherwise, of
+Page 49 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 any virtual currency kiosk operator or other person within or outside this state
+2 that he or she deems necessary to:
+3 (a) Discover violations of this subtitle, including violations of any
+4 administrative regulation promulgated, or order issued, under this subtitle;
+5 or
+6 (b) Secure information necessary for the proper enforcement of this subtitle.
+7 (3) (a) The commissioner may conduct routine examinations of the virtual
+8 currency kiosk affairs, business, offices, books, accounts, and records of
+9 licensees and agents of licensees.
+10 (b) A licensee shall pay a reasonable fee sufficient to cover the cost of each
+11 routine examination based upon fair compensation for time and actual
+12 expenses.
+13 (c) Upon written notice of the amount assessed under paragraph (b) of this
+14 subsection, the licensee shall become liable for and pay the assessment to
+15 the department.
+16 (4) To the extent necessary to conduct any investigation or examination authorized
+17 under this section, the commissioner may:
+18 (a) Compel the attendance of any person or obtain any books, accounts, or
+19 records by subpoenas;
+20 (b) Administer oaths and affirmations;
+21 (c) Examine under oath or affirmation all persons whose testimony he or she
+22 may require; and
+23 (d) To the extent permitted under federal law, access and review records and
+24 related information relating to compliance with federal anti-money
+25 laundering laws, including suspicious activity reports filed pursuant to the
+26 Bank Secrecy Act, 31 U.S.C. sec. 5311 et seq., as amended.
+27 (5) As a condition of licensure under this subtitle, a licensee and its agents shall, by
+Page 50 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 operation of law, be deemed to consent to any examination or investigation
+2 conducted under this section, whether or not prior notice is given to the licensee
+3 or agent.
+4 (6) When conducting an investigation or examination, the commissioner may do any
+5 of the following:
+6 (a) Conduct an on-site or off-site investigation or examination;
+7 (b) Participate in a joint or concurrent investigation or examination with one
+8 (1) or more states or federal agencies, including a multistate investigation
+9 or examination; and
+10 (c) Accept and rely upon an investigation or examination report of one (1) or
+11 more states or federal agencies, including a multistate investigation or
+12 examination report.
+13 (7) (a) Except as provided in paragraph (b) of this subsection and Section 22 of
+14 this Act, a routine examination report, related correspondence, and
+15 examination-related information shall:
+16 1. Be considered confidential by law and privileged; and
+17 2. Not be subject to disclosure under KRS 61.870 to 61.884.
+18 (b) A licensee:
+19 1. May disclose a Kentucky routine examination report to a financial
+20 institution upon written request from the financial institution for the
+21 purpose of assisting the financial institution in its compliance with the
+22 Bank Secrecy Act, 31 U.S.C. secs. 5311 to 5332 and 31 C.F.R. pt. 103;
+23 and
+24 2. Shall provide written notice to the commissioner of a disclosure made
+25 under this paragraph at the same time that the disclosure is made.
+26 SECTION 22. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+27 IS CREATED TO READ AS FOLLOWS:
+Page 51 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (1) Except as otherwise provided in subsection (3) of this section, any document,
+2 material, report, or other information in the possession or control of the
+3 commissioner that is provided to the commissioner according to this subtitle
+4 shall:
+5 (a) Be confidential by law and privileged;
+6 (b) Not be subject to disclosure under KRS 61.870 to 61.884; and
+7 (c) Not be subject to subpoena or discovery, or admissible as evidence in any
+8 civil action, unless the commissioner determines or, after notice to the
+9 commissioner and a hearing, a court of competent jurisdiction determines
+10 that the commissioner would not be prejudiced by disclosure of the
+11 document, material, report, or information.
+12 (2) (a) The commissioner shall not be required to testify in any civil action
+13 concerning any document, material, report, or information that is
+14 confidential under subsection (1) of this section.
+15 (b) Any person who received documents, materials, reports, or other
+16 information that is confidential under subsection (1) of this section while
+17 acting under the authority of the commissioner shall not be required to
+18 testify in any civil action concerning the documents, materials, reports, or
+19 other information.
+20 (3) In order to assist in the performance of the commissioner's duties, the
+21 commissioner may do all of the following:
+22 (a) Share or disclose documents, materials, reports, and other information in
+23 the commissioner's possession or control, including otherwise confidential
+24 and privileged documents, materials, reports, and other information:
+25 1. In accordance with Section 5 of this Act;
+26 2. In accordance with a joint, concurrent, or multistate investigation or
+27 examination conducted under Section 21 of this Act; or
+Page 52 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 3. With the following, if the recipient agrees to maintain the
+2 confidentiality and privileged status of shared documents, materials,
+3 reports, and information:
+4 a. Other state, federal, and international regulatory agencies;
+5 b. Organizations made up of other state regulators of virtual
+6 currency businesses; and
+7 c. Local, state, federal, and international law enforcement
+8 authorities;
+9 (b) Report apparent violations of law to:
+10 1. Other state, federal, and international regulators of virtual currency
+11 businesses;
+12 2. The registry, as defined in Section 5 of this Act; or
+13 3. Local, state, federal, and international law enforcement authorities;
+14 (c) Disclose to the public:
+15 1. A list of licensees and agents;
+16 2. A licensee's registered agent for service of process in this state;
+17 3. The aggregate financial or other data of persons regulated under this
+18 subtitle; or
+19 4. Violations of this subtitle, enforcement actions, and other relevant
+20 information that the commissioner deems necessary to carry out the
+21 requirements and purposes of this subtitle;
+22 (d) Disclose and use documents, materials, reports, and other information in
+23 the commissioner's possession or control, including otherwise confidential
+24 and privileged documents, materials, reports, and other information, in
+25 furtherance of any regulatory or legal action brought as part of the
+26 commissioner's official duties;
+27 (e) Receive any documents, materials, reports, or other information, including
+Page 53 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 otherwise confidential and privileged documents, materials, reports, or
+2 other information, from any source;
+3 (f) Agree to maintain the confidentiality and privileged status of any
+4 documents, materials, reports, or information received;
+5 (g) Enter into agreements or relationships with other government officials,
+6 federal and state regulatory agencies, and regulatory associations;
+7 (h) Use, hire, contract, or employ analytical systems, methods, or software;
+8 (i) Consider, accept, and rely upon audit reports prepared by an independent
+9 certified public accountant or other qualified third-party auditor for any
+10 person subject to this subtitle; or
+11 (j) Incorporate all or part of any audit report referenced in paragraph (i) of
+12 this subsection into an examination or investigation report.
+13 (4) A waiver of any applicable privilege or claim of confidentiality in documents,
+14 materials, reports, or other information shall not occur as a result of a disclosure:
+15 (a) To the commissioner under this section; or
+16 (b) That is made under subsection (3)(a) of this section.
+17 SECTION 23. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+18 IS CREATED TO READ AS FOLLOWS:
+19 The commissioner shall prepare and publish for public distribution on the
+20 department's website an annual report that details and summarizes, in composite form:
+21 (1) The data received from virtual currency kiosk operators relating to virtual
+22 currency kiosk business conducted in this state; and
+23 (2) Information about the licensing of virtual currency kiosk business in this state,
+24 including the following information, by calendar year:
+25 (a) The number of applications made for a license;
+26 (b) The number of applicants who have a license to engage in money
+27 transmission;
+Page 54 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (c) The number of licenses granted;
+2 (d) The number of applicants who have been denied a license; and
+3 (e) A list of fees that applicants are required to pay.
+4 SECTION 24. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+5 IS CREATED TO READ AS FOLLOWS:
+6 (1) As used in this section:
+7 (a) "Applicant" includes:
+8 1. With respect to conditions placed on, or denial of an application for,
+9 an approval to engage in virtual currency kiosk business through an
+10 agent in this state, a proposed agent; and
+11 2. With respect to a denial of an application for approval of a change of
+12 control, a person that filed the application seeking the change of
+13 control; and
+14 (b) "Person" means any applicant, licensee, virtual currency kiosk operator,
+15 agent, or other person.
+16 (2) The commissioner shall serve written notice on an applicant prior to:
+17 (a) Placing conditions on:
+18 1. A license; or
+19 2. An approval to engage in virtual currency kiosk business at a location,
+20 or through an agent, in this state; or
+21 (b) Denying any license or application made under this subtitle.
+22 (3) An applicant that is served a notice of intent to deny any license or application
+23 made under this subtitle shall be entitled to an administrative hearing on the
+24 notice conducted in accordance with KRS Chapter 13B if the applicant files a
+25 written request for a hearing with the commissioner within twenty (20) days of
+26 the date of service.
+27 (4) (a) The commissioner shall serve an administrative complaint on a person:
+Page 55 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 1. Prior to doing any of the following:
+2 a. Taking an adverse action against the person under subsection
+3 (1)(a)4. of Section 25 of this Act;
+4 b. Issuing a cease and desist order against the person under
+5 Section 27 of this Act; or
+6 c. Issuing an order that directs the person to:
+7 i. Pay any fee or civil penalty;
+8 ii. Provide any remedy; or
+9 iii. Be subject to a penalty; and
+10 2. Simultaneous with the service of an emergency order on the person
+11 under Section 26 of this Act.
+12 (b) Except as provided in paragraph (c) of this subsection, a person that is
+13 served an administrative complaint under paragraph (a) of this subsection
+14 shall be entitled to an administrative hearing on the complaint conducted in
+15 accordance with KRS Chapter 13B if the person files both of the following
+16 with the commissioner within twenty (20) days of the date of service:
+17 1. A written answer to the complaint; and
+18 2. A request for hearing.
+19 (c) A person that complies with paragraph (b) of this subsection in response to
+20 an administrative complaint and emergency order issued under Section 25
+21 of this Act shall be entitled to an emergency administrative hearing
+22 conducted in accordance with KRS 13B.125.
+23 (5) (a) Except as provided in paragraph (b) of this subsection, the commissioner
+24 shall serve any notice, complaint, or emergency order referenced in this
+25 section by certified mail or personal delivery to the person's last known
+26 address or upon the person's agent for service of process.
+27 (b) If the commissioner is unable to reasonably determine a person's last
+Page 56 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 known address or agent for service of process, the commissioner may serve
+2 a notice, a complaint, or an emergency order by certified mail or personal
+3 delivery to any owner or operator of the premises or real property upon
+4 which the person's virtual currency kiosk or kiosks are located.
+5 (6) Service by certified mail shall be complete as provided in KRS 13B.050(2).
+6 (7) If any person fails to timely file a request for hearing under subsection (3) of this
+7 section, or a written answer and request for hearing under subsection (4) of this
+8 section, the commissioner may, as applicable and subject to KRS Chapter 13B,
+9 issue a final order:
+10 (a) Taking the action that was:
+11 1. Set forth in the notice; or
+12 2. Sought in the complaint; or
+13 (b) Affirming the emergency action that was taken.
+14 (8) All other requirements of and rights arising under KRS Chapter 13B shall apply
+15 to administrative hearings conducted and orders issued under this subtitle.
+16 (9) The commissioner may, at any time, enter into a consent order with any person to
+17 resolve a matter arising under this subtitle.
+18 SECTION 25. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+19 IS CREATED TO READ AS FOLLOWS:
+20 (1) As used in this section:
+21 (a) "Adverse action" means to take any of the following actions:
+22 1. Deny or condition a license;
+23 2. Deny, in whole or in part, an application to engage in virtual currency
+24 kiosk business at one (1) or more locations, or through one (1) or
+25 more agents, in this state;
+26 3. Condition an approval:
+27 a. To engage in virtual currency kiosk business at a location in this
+Page 57 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 state; or
+2 b. Of an agent to engage in virtual currency kiosk business in this
+3 state on behalf of an applicant or licensee; or
+4 4. Suspend, revoke, or refuse to renew:
+5 a. A license;
+6 b. An approval to engage in virtual currency kiosk business at a
+7 location in this state; or
+8 c. An approval of an agent to engage in virtual currency kiosk
+9 business in this state on behalf of a licensee;
+10 (b) "Regulated person" means any applicant, licensee, or agent; and
+11 (c) 1. "Unsafe or unsound act or practice" means an act or practice that:
+12 a. Creates a likelihood of material loss, insolvency, or dissipation of
+13 a regulated person's assets; or
+14 b. Materially prejudices the:
+15 i. Financial condition of a regulated person; or
+16 ii. Interests of a regulated person's customers.
+17 2. In determining whether a regulated person has engaged, or is
+18 engaging, in an unsafe or unsound act or practice, the commissioner
+19 may consider:
+20 a. The size and condition of the person's business;
+21 b. The magnitude of the loss;
+22 c. The gravity of the violation of this subtitle;
+23 d. Any action taken by another state or federal government against
+24 the person; and
+25 e. The previous conduct of the person.
+26 (2) Subject to Section 24 of this Act and KRS 335B.020, the commissioner may take
+27 an adverse action against a regulated person if the commissioner finds one (1) or
+Page 58 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 more of the following:
+2 (a) The regulated person has:
+3 1. Violated any:
+4 a. Provision of this subtitle;
+5 b. Other state or federal law related to money transmission or
+6 virtual currency kiosk business; or
+7 c. Consent order or compliance agreement entered into with the
+8 commissioner;
+9 2. Engaged in:
+10 a. An unsafe or unsound act or practice;
+11 b. An unfair, deceptive, or dishonest act or practice;
+12 c. Fraud, an intentional misrepresentation, or gross negligence; or
+13 d. A misappropriation of legal tender, virtual currency, or other
+14 assets;
+15 3. Misrepresented material facts or made a false promise likely to
+16 influence, persuade, or induce a virtual currency kiosk user to engage
+17 in a virtual currency kiosk transaction;
+18 4. Misrepresented or concealed a material fact, term, or condition of a
+19 virtual currency kiosk transaction;
+20 5. Knowingly engaged in a transaction, practice, or course of business
+21 that perpetrates a fraud upon any person in connection with a virtual
+22 currency kiosk transaction;
+23 6. Failed to exchange, transfer, or store, without just cause, any funds in
+24 accordance with any agreement connected with a virtual currency
+25 kiosk business;
+26 7. Failed to timely remit, account for, or deliver to any person any legal
+27 tender, virtual currency, precious metals, electronic certificates, or
+Page 59 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 other assets legally due to the person;
+2 8. Failed to implement reasonable risk-mitigation measures to prevent
+3 fraudulent activity by third parties in connection with a virtual
+4 currency kiosk transaction;
+5 9. Been found to have violated any of the recordkeeping and reporting
+6 requirements of the United States government, including 31 U.S.C.
+7 secs. 5311 to 5332 and 31 C.F.R. pt. 103;
+8 10. Been convicted of, pled guilty to, or pled nolo contendere, or
+9 knowingly employed or contracted with a responsible individual that
+10 has been convicted of, pled guilty to, or pled nolo contendere, to a:
+11 a. Felony; or
+12 b. A misdemeanor:
+13 i. Related to money transmission or virtual currency kiosk
+14 business; or
+15 ii. Involving theft, fraud, or breach of trust; or
+16 11. Has had any license, registration, claim of exemption, or other
+17 authorization to do business relating to the financial services industry
+18 denied, revoked, suspended, conditioned, restricted, probated, or
+19 terminated by any state, federal, or foreign jurisdiction;
+20 (b) The regulated person:
+21 1. Is insolvent;
+22 2. Has suspended payment of its obligations or made a general
+23 assignment for the benefit of its creditors;
+24 3. Has:
+25 a. Become the debtor, alleged debtor, respondent, or person in a
+26 similar capacity in a case or other proceeding under any
+27 bankruptcy, reorganization, arrangement, readjustment,
+Page 60 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 insolvency, receivership, dissolution, liquidation, or similar law;
+2 and
+3 b. Not obtained from a court, within a reasonable time,
+4 confirmation of a plan or dismissal of the case or proceeding; or
+5 4. Has applied for, or has permitted the appointment of, a receiver,
+6 trustee, or other agent of a court for itself or for a substantial part of
+7 its assets;
+8 (c) The regulated person has knowingly made or provided, or caused to be
+9 made or provided, to the commissioner one (1) or more of the following:
+10 1. A material misrepresentation; or
+11 2. A false or fraudulent:
+12 a. Material fact; or
+13 b. Financial statement;
+14 (d) The applicant or licensee suppressed or withheld from the commissioner
+15 any information which, if submitted by the applicant or licensee, warrants
+16 or would have warranted the commissioner denying a license;
+17 (e) The applicant or licensee failed to terminate or suspend the authority of its
+18 responsible individual or agent to act on its behalf when the applicant or
+19 licensee knew, or was given reasonable notice, that its responsible
+20 individual or agent:
+21 1. Violated, or was about to violate, a material provision of this subtitle,
+22 including any administrative regulation or order promulgated or
+23 issued by the commissioner; or
+24 2. Engaged in, or was about to engage in, an act or practice that would
+25 warrant an adverse action under this section;
+26 (f) Any of the following are listed on the specially designated nationals and
+27 blocked persons list prepared by the United States Department of the
+Page 61 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 Treasury or the United States Department of State under Presidential
+2 Executive Order No. 13224 as a potential threat to commit terrorist acts or
+3 to finance terrorist acts:
+4 1. The regulated person;
+5 2. An executive officer of the regulated person;
+6 3. A director of the regulated person;
+7 4. A key shareholder of the regulated person;
+8 5. A person in control of the regulated person; or
+9 6. A responsible individual of the applicant or licensee;
+10 (g) The competence, experience, character, or general fitness of an agent, or a
+11 person in control of the agent, indicates that it is not in the public interest to
+12 permit the agent to be engaged in virtual currency kiosk business in this
+13 state;
+14 (h) The applicant or licensee no longer meets the requirements of this subtitle
+15 to:
+16 1. Hold a license; or
+17 2. Engage in virtual currency kiosk business at one (1) or more locations
+18 in this state; or
+19 (i) Any fact or condition exists that, if it existed at the time the applicant or
+20 licensee applied for a license, or approval to engage in virtual currency
+21 kiosk business at one (1) or more locations, or through one (1) or more
+22 agents, in this state, would have been grounds for denying the application.
+23 (3) Subsection (2)(a)1. of this section includes all of the following:
+24 (a) Violating any administrative regulation promulgated, or order of general
+25 application issued, under this subtitle;
+26 (b) Failing to pay any fee, civil penalty, or remedy that is owed under this
+27 subtitle;
+Page 62 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (c) Violating the written conditions under which a license or approval was
+2 issued, renewed, or maintained under this subtitle;
+3 (d) Refusing to permit, or failing to cooperate substantially with, an
+4 investigation or examination under this subtitle;
+5 (e) Failing, within a reasonable time, to furnish any information or file any
+6 notice or report required or otherwise requested by the commissioner under
+7 this subtitle; and
+8 (f) Failing to comply with a lawful order or subpoena issued by the
+9 commissioner.
+10 (4) Subject to Section 24 of this Act:
+11 (a) The commissioner may, at any time, issue a notice of intent to impose
+12 conditions on a license, or approval to engage in virtual currency kiosk
+13 business at one (1) or more locations, or through one (1) or more agents, in
+14 this state if the commissioner finds that the conditions, including any
+15 additional bond amount specified by the commissioner under Section 9 of
+16 this Act, are necessary for a licensee to continue to satisfy the requirements
+17 of this subtitle for licensure;
+18 (b) A notice of intent issued under paragraph (a) of this subsection shall specify
+19 the additional conditions that are required for the licensee and any agent;
+20 (c) The commissioner may impose conditions on a license, or approval to
+21 engage in virtual currency kiosk business at one (1) or more locations, or
+22 through one (1) or more agents, in this state if the licensee, agent, or both,
+23 as applicable, files a written acceptance of the conditions specified in the
+24 notice issued under paragraph (a) of this subsection to the licensee, agent,
+25 or both within thirty (30) days after service of the notice; and
+26 (d) If the department does not receive a written acceptance of the conditions
+27 specified in a notice issued under paragraph (a) of this subsection to a
+Page 63 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 licensee, agent, or both within thirty (30) days after service of the notice, the
+2 commissioner shall serve an administrative complaint on the licensee,
+3 agent, or both, as applicable, seeking to take an appropriate adverse action
+4 under subsection (1)(a)4. of this section relating to the license or approval.
+5 (5) Any person or person in control whose license, or agent or person in control of
+6 an agent whose approval as an agent, has been:
+7 (a) Denied shall not be eligible to apply for a license, to serve as an agent, or to
+8 serve as a person in control of a licensee or agent for one (1) year after the
+9 date of denial; or
+10 (b) Revoked shall not be eligible to apply for a license, to serve as an agent, or
+11 to serve as a person in control of a licensee or agent:
+12 1. For the first revocation, until three (3) years after the date of
+13 revocation; and
+14 2. For any subsequent revocation, permanently.
+15 (6) The surrender or expiration of a license, or an agent designation, shall not affect
+16 a proceeding to suspend or revoke the license or approval of the agent.
+17 SECTION 26. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+18 IS CREATED TO READ AS FOLLOWS:
+19 (1) As used in this section:
+20 (a) "Emergency order" means an order that does one (1) or more the following
+21 without prior notice and hearing:
+22 1. Suspends or conditions:
+23 a. Any license; or
+24 b. An approval to engage in virtual currency kiosk business at a
+25 location, or through an agent, in this state; or
+26 2. Directs any peace officer to:
+27 a. Seize or impound a virtual currency kiosk, including any
+Page 64 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 contents thereof; or
+2 b. Render a virtual currency kiosk inoperable; and
+3 (b) "Person" means any licensee, virtual currency kiosk operator, agent, or
+4 other person.
+5 (2) Subject to Section 24 of this Act, the commissioner may issue an emergency order
+6 against any person, pending further investigation, the entry of a final order, or
+7 other final legal action, if the commissioner has reason to believe or determines
+8 one (1) or more of the following:
+9 (a) The person is acting in violation of Section 4 of this Act;
+10 (b) The licensee is not in compliance with Section 9 of this Act;
+11 (c) The person has committed a material violation of this subtitle that poses an
+12 immediate and irreparable harm to the public health, safety, or welfare;
+13 (d) Subject to KRS 335B.020, the licensee or agent has been convicted of, pled
+14 guilty to, or pled nolo contendere, or the licensee is knowingly employing or
+15 contracting with a responsible individual that has been convicted of, pled
+16 guilty to, or pled nolo contendere, to a:
+17 1. Felony involving theft, fraud, or breach of trust; or
+18 2. A crime under the USA PATRIOT Act of 2001, Pub. L. No. 107-56;
+19 (e) The licensee has had any license, registration, claim of exemption, or other
+20 authorization to do business relating to money transmission or virtual
+21 currency kiosk business denied, revoked, suspended, or terminated by any
+22 state, federal, or foreign jurisdiction;
+23 (f) The licensee, agent, the licensee's responsible individual, or any key
+24 shareholder, executive officer, director, or other person in control of the
+25 licensee or agent is listed or becomes listed on the specially designated
+26 nationals and blocked persons list prepared by the United States
+27 Department of the Treasury or United States Department of State under
+Page 65 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 Presidential Executive Order No. 13224 as a potential threat to commit
+2 terrorist acts or to finance terrorist acts; or
+3 (g) The licensee or agent is insolvent or otherwise satisfies one (1) of the
+4 grounds listed in subsection (2)(b) of Section 25 of this Act.
+5 (3) An emergency order issued under this section shall:
+6 (a) Pursuant to KRS 13B.125, become effective when served by the
+7 commissioner; and
+8 (b) Remain in effect until it is:
+9 1. Stayed, withdrawn, suspended, or superseded by order of the
+10 commissioner; or
+11 2. Terminated by court order.
+12 SECTION 27. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+13 IS CREATED TO READ AS FOLLOWS:
+14 (1) Subject to Section 24 of this Act, the commissioner may issue a cease and desist
+15 order requiring an applicant, a licensee, a virtual currency kiosk operator, an
+16 agent, or any other person to cease and desist from violating one (1) or more
+17 identified provisions of the following, if the commissioner has reason to believe or
+18 determines that the violations have occurred or will occur:
+19 (a) This subtitle;
+20 (b) An administrative regulation promulgated under this subtitle;
+21 (c) An order issued under this subtitle; or
+22 (d) An agreement entered with the commissioner relating to compliance with
+23 this subtitle.
+24 (2) A cease and desist order issued under this section shall remain in effect until it is:
+25 (a) Stayed, withdrawn, suspended, or superseded by order of the commissioner;
+26 or
+27 (b) Terminated by court order.
+Page 66 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 SECTION 28. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+2 IS CREATED TO READ AS FOLLOWS:
+3 (1) As used in this section, "person" means any applicant, licensee, virtual currency
+4 kiosk operator, agent, or other person.
+5 (2) Subject to Section 24 of this Act, the commissioner may do one (1) or more of the
+6 following:
+7 (a) Issue an order against any person to:
+8 1. Refund any amount charged or collected in violation of this subtitle;
+9 or
+10 2. Pay any fee or civil penalty, or provide any other remedy, authorized
+11 under this subtitle;
+12 (b) Levy a civil penalty against any person that violates, or participates in the
+13 violation of, any:
+14 1. Provision of this subtitle;
+15 2. Administrative regulation promulgated under this subtitle;
+16 3. Order issued under this subtitle; or
+17 4. Agreement with the commissioner relating to compliance with this
+18 subtitle; and
+19 (c) For any virtual currency kiosk operator or its agent that is subject to a civil
+20 penalty under paragraph (b) of this subsection, issue an order directing any
+21 peace officer to:
+22 1. Seize or impound the operator's or agent's virtual currency kiosk,
+23 including any contents thereof; or
+24 2. Render the operator's or agent's virtual currency kiosk inoperable.
+25 (3) The civil penalty levied under subsection (2)(b) of this section:
+26 (a) Shall be not less than one thousand dollars ($1,000) nor more than five
+27 thousand dollars ($5,000) per violation; and
+Page 67 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (b) May:
+2 1. Be assessed for each day the violation is outstanding; and
+3 2. Include an order for the person to pay the state's costs and expenses
+4 for the examination, investigation, and prosecution of the matter,
+5 including reasonable attorney's fees and court costs.
+6 SECTION 29. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+7 IS CREATED TO READ AS FOLLOWS:
+8 (1) A person that intentionally or knowingly makes a false statement,
+9 misrepresentation, false certification, or false entry, or omits a material entry, in
+10 a record filed or required to be maintained under this subtitle is guilty of a Class
+11 D felony.
+12 (2) A person that intentionally or knowingly engages in virtual currency kiosk
+13 business in this state for which a license is required under this subtitle without
+14 being licensed under this subtitle is guilty of a Class C felony.
+15 Section 30. KRS 286.2-015 is amended to read as follows:
+16 (1) Except as provided in KRS 41.470 to 41.476 and 41.480, and
+17 subsections[subsection] (3) and (4) of this section, all political subdivisions of the
+18 Commonwealth shall be prohibited from enacting and enforcing ordinances,
+19 resolutions, and regulations pertaining to the financial or lending activities of
+20 persons or entities that:
+21 (a) Are subject to:
+22 1. The jurisdiction of the department; or
+23 2. The provisions of this chapter;
+24 (b) Are subject to the jurisdiction or regulatory supervision of the Board of
+25 Governors of the Federal Reserve System, the Office of the Comptroller of
+26 the Currency, the National Credit Union Administration, the Farm Credit
+27 Administration, the Federal Deposit Insurance Corporation, or the United
+Page 68 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 States Department of Housing and Urban Development; or
+2 (c) Originate, purchase, sell, assign, securitize, assist, facilitate, or service
+3 property interests or obligations created by financial transactions or loans
+4 made, executed, or originated by persons or entities referred to in paragraph
+5 (a) or (b) of this subsection.
+6 (2) The requirements of this section shall apply to all ordinances, resolutions, or
+7 regulations pertaining to financial or lending activities, including any ordinances,
+8 resolutions, or regulations that:
+9 (a) Limit or disqualify persons or entities from doing business with a political
+10 subdivision based upon financial or lending activities; or
+11 (b) Impose additional reporting requirements or other obligations on persons or
+12 entities referred to in subsection (1) of this section seeking to do business with
+13 a political subdivision.
+14 (3) Nothing in this section shall be interpreted as preventing the enforcement of
+15 ordinances, regulations, or resolutions of political subdivisions of the
+16 Commonwealth pertaining to civil rights.
+17 (4) (a) Political subdivisions of this Commonwealth may enact and enforce
+18 ordinances, regulations, and resolutions pertaining to virtual currency
+19 kiosk business that are not in direct conflict with state law.
+20 (b) Ordinances, regulations, and resolutions of political subdivisions of the
+21 Commonwealth that impose greater requirements or restrictions on virtual
+22 currency kiosk business than the requirements or restrictions set forth in
+23 Subtitle 13 of KRS Chapter 286 shall not be considered in direct conflict
+24 with state law.
+25 SECTION 31. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) A violation of any provision of Subtitle 13 of KRS Chapter 286 by a person
+Page 69 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 subject to regulation as a virtual currency kiosk operator or agent under that
+2 subtitle shall be deemed an unfair, false, misleading, or deceptive act or practice
+3 in the conduct of trade or commerce in violation of KRS 367.170.
+4 (2) All of the remedies, powers, and duties provided to the Attorney General or any
+5 other person under KRS 367.110 to 367.300, and the penalties provided in KRS
+6 367.990, pertaining to acts and practices declared unlawful by KRS 367.170, shall
+7 apply with equal force and effect to a violation of any provision of Subtitle 13 of
+8 KRS Chapter 286 by a person subject to regulation as a virtual currency kiosk
+9 operator or agent under that subtitle.
+10 (3) (a) The remedies and penalties prescribed in this section shall be cumulative.
+11 (b) This section shall not be construed to limit or restrict the powers, duties,
+12 remedies, or penalties available to the Attorney General, the
+13 Commonwealth, or any other person under any other statutory or common
+14 law.
+15 Section 32. KRS 431.073 is amended to read as follows:
+16 (1) Any person who has been:
+17 (a) Convicted of a Class D felony violation of Section 29 of this Act or KRS
+18 17.175, 186.990, 194A.505, 194B.505, 217.181, 217.207, 217.208, 218A.140,
+19 218A.1415, 218A.1416, 218A.1417, 218A.1418, 218A.1423, 218A.1439,
+20 218A.282, 218A.284, 218A.286, 218A.320, 218A.322, 218A.324, 218A.500,
+21 244.165, 286.11-057, 304.47-025, 324.990, 365.241, 434.155, 434.675,
+22 434.850, 434.872, 511.040, 512.020, 514.030, 514.040, 514.050, 514.060,
+23 514.065, 514.070, 514.080, 514.090, 514.100, 514.110, 514.120, 514.140,
+24 514.150, 514.160, 516.030, 516.060, 516.090, 516.108, 517.120, 518.040,
+25 522.040, 524.100, 525.113, 526.020, 526.030, 528.020, 528.040, 528.050,
+26 530.010, or 530.050;
+27 (b) Convicted of a series of Class D felony violations of one (1) or more statutes
+Page 70 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 enumerated in paragraph (a) of this subsection arising from a single incident;
+2 (c) Granted a full pardon; or
+3 (d) Convicted of a Class D felony, or an offense prior to January 1, 1975 which
+4 was punishable by not more than five (5) years' incarceration, which was not a
+5 violation of KRS 189A.010, 508.032, or 519.055, abuse of public office, a sex
+6 offense, or an offense committed against a child, and did not result in serious
+7 bodily injury or death; or of multiple felony offenses eligible under this
+8 paragraph;
+9 may file with the court in which he or she was convicted an application to have the
+10 judgment vacated. The application shall be filed as a motion in the original criminal
+11 case. The person shall be informed of the right at the time of adjudication.
+12 (2) (a) A verified application to have the judgment vacated under this section shall be
+13 filed no sooner than five (5) years after the completion of the person's
+14 sentence, or five (5) years after the successful completion of the person's
+15 probation or parole, whichever occurs later.
+16 (b) Upon the payment of the filing fee and the filing of the application, the Circuit
+17 Court clerk shall serve a notice of filing upon the office of the
+18 Commonwealth's attorney or county attorney that prosecuted the case and the
+19 county attorney of the county where the judgment was entered. The office of
+20 the Commonwealth's attorney or county attorney that prosecuted the case
+21 shall file a response within sixty (60) days after being served with the notice
+22 of filing. That time period may be extended for good cause, but the hearing on
+23 the application to vacate the judgment shall occur no later than one hundred
+24 twenty (120) days following the filing of the application. The inability to
+25 determine the location of the crime victim shall constitute good cause for an
+26 extension of time. No hearing upon the merits of the application shall be
+27 scheduled until the Commonwealth's response has been filed, or if no
+Page 71 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 response is received, no later than one hundred twenty (120) days after the
+2 filing of the application.
+3 (c) In any case in which the Commonwealth objects that the application is grossly
+4 incomplete, the court shall order the person or agency originating the
+5 application to supplement the application.
+6 (3) Upon the filing of the Commonwealth's response to an application, or if no
+7 response is received, no later than one hundred twenty (120) days after the filing of
+8 the application, the court shall set a date for a hearing and the Circuit Court clerk
+9 shall notify the office of the Commonwealth's attorney or county attorney that
+10 prosecuted the case. The office of the Commonwealth's attorney or county attorney
+11 that prosecuted the case shall notify the victim of the crime, if there was an
+12 identified victim. The Commonwealth's attorney or county attorney shall be
+13 authorized to obtain without payment of any fee information from the
+14 Transportation Cabinet regarding the crime victim's address on file regarding any
+15 vehicle operator's license issued to that person.
+16 (4) (a) In an application pursuant to subsection (1)(d) of this section, upon the filing
+17 of the Commonwealth's response objecting to the vacating of a judgment and
+18 expungement of a record, the court shall schedule a hearing within one
+19 hundred twenty (120) days of the Commonwealth's response. The prosecutor
+20 shall specify in the objection the reasons for believing a denial of the
+21 application is justified. At the hearing at which the applicant or his or her
+22 attorney must be present, the applicant must prove by clear and convincing
+23 evidence that:
+24 1. Vacating the judgment and expunging the record is consistent with the
+25 welfare and safety of the public;
+26 2. The action is supported by his or her behavior since the conviction or
+27 convictions, as evidenced that he or she has been active in rehabilitative
+Page 72 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 activities in prison and is living a law-abiding life since release;
+2 3. The vacation and expungement is warranted by the interests of justice;
+3 and
+4 4. Any other matter deemed appropriate or necessary by the court to make
+5 a determination regarding the petition for expungement is met.
+6 (b) At the hearing, the applicant may testify as to the specific adverse
+7 consequences he or she may be subject to if the application is denied. The
+8 court may hear testimony of witnesses and any other matter the court deems
+9 proper and relevant to its determination regarding the application. The
+10 Commonwealth may present proof of any extraordinary circumstances that
+11 exist to deny the application. A victim of any offense listed in the application
+12 shall have an opportunity to be heard at any hearing held under this section.
+13 (c) If the court determines that circumstances warrant vacation and expungement
+14 and that the harm otherwise resulting to the applicant clearly outweighs the
+15 public interest in the criminal history record information being publicly
+16 available, then the original conviction or convictions shall be vacated and the
+17 records shall be expunged. The order of expungement shall not preclude a
+18 prosecutor's office from retaining a nonpublic record for law enforcement
+19 purposes only.
+20 (5) The court may order the judgment vacated, and if the judgment is vacated the court
+21 shall dismiss with prejudice any charges which are eligible for expungement under
+22 subsection (1) of this section or KRS 431.076 or 431.078, and, upon full payment of
+23 the fee in subsection (11) of this section, order expunged all records in the custody
+24 of the court and any records in the custody of any other agency or official, including
+25 law enforcement records, if the court finds that:
+26 (a) The person had not in the five (5) years prior to the filing of the application to
+27 have the judgment vacated been convicted of a felony or a misdemeanor;
+Page 73 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (b) No proceeding concerning a felony or misdemeanor is pending or being
+2 instituted against the person; and
+3 (c) For an application pursuant to subsection (1)(d) of this section, the person has
+4 been rehabilitated and poses no significant threat of recidivism.
+5 (6) If the court has received a response from the office of the Commonwealth's attorney
+6 or county attorney that prosecuted the case stating no objection to the application to
+7 have the judgment vacated, or if one hundred twenty (120) days have elapsed since
+8 the filing of the application and no response has been received from the victim or
+9 the office of the Commonwealth's attorney or county attorney that prosecuted the
+10 case, the court may, without a hearing, vacate the judgment in the manner
+11 established in subsection (5) of this section.
+12 (7) Upon entry of an order vacating and expunging a conviction, the original conviction
+13 shall be vacated and, upon full payment of the fee in subsection (11) of this section,
+14 the record shall be expunged. The court and other agencies shall cause records to be
+15 deleted or removed from their computer systems so that the matter shall not appear
+16 on official state-performed background checks. The court and other agencies shall
+17 reply to any inquiry that no record exists on the matter. The person whose record is
+18 expunged shall not have to disclose the fact of the record or any matter relating
+19 thereto on an application for employment, credit, or other type of application. If the
+20 person is not prohibited from voting for any other reason, the person's ability to
+21 vote shall be restored and the person may register to vote.
+22 (8) An order vacating a conviction under this section shall not extend or revive an
+23 expired statute of limitations, shall not constitute a finding of legal error regarding
+24 the proceedings leading to or resulting in the conviction, shall not nullify any
+25 findings of fact or conclusions of law made by the trial court or any appellate court
+26 regarding the conviction, and shall not constitute a finding of innocence regarding
+27 the conviction.
+Page 74 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (9) The Administrative Office of the Courts shall establish a form application to be
+2 used in filing an application to have judgment vacated and records expunged.
+3 (10) The filing fee for an application to have judgment vacated and records expunged
+4 shall be fifty dollars ($50), which shall be deposited into a trust and agency account
+5 for deputy clerks and shall not be refundable.
+6 (11) (a) Upon the issuance of an order vacating and expunging a conviction pursuant
+7 to this section, the applicant shall be charged an expungement fee of two
+8 hundred fifty dollars ($250), which may be payable by an installment plan in
+9 accordance with KRS 534.020.
+10 (b) When the order is issued, the court shall set a date, no sooner than eighteen
+11 (18) months after the date of the order, by which the defendant must comply
+12 with the installment payment plan. The applicant shall be given notice of the
+13 total amount due, the payment frequency, and the date by which all payments
+14 must be made. The notice shall state that the expungement cannot be
+15 completed until full payment is received, and that if the applicant has not
+16 completed the installment payment plan by the scheduled date, he or she shall
+17 appear on that date to show good cause as to why he or she is unable to satisfy
+18 the obligations. Notwithstanding provisions of KRS 534.020 to the contrary,
+19 no applicant shall be ordered to jail for failure to complete an installment plan
+20 ordered pursuant to this section.
+21 (c) The revenues and interest from the expungement fee shall be deposited in the
+22 expungement fund created in KRS 431.0795.
+23 (12) This section shall be retroactive.
+24 SECTION 33. A NEW SECTION OF KRS 369.130 TO 369.139 IS CREATED
+25 TO READ AS FOLLOWS:
+26 (1) As used in this section, "hardware wallet provider" or "provider" means a
+27 person that offers or provides a hardware wallet.
+Page 75 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 (2) A hardware wallet provider:
+2 (a) Shall:
+3 1. Provide live customer service via a toll-free telephone number during
+4 operating hours, which shall not be less than the hours between 8 a.m.
+5 and 10 p.m. local time within the Commonwealth; and
+6 2. Provide a mechanism for, and assist any person who owns a hardware
+7 wallet that was provided by the provider with, resetting any password,
+8 pin, seed phrase, or other similar information that is necessary to
+9 access the contents of the hardware wallet; and
+10 (b) May require any person requesting assistance under paragraph (a)2. of this
+11 subsection to verify the person's identity prior to providing the assistance by
+12 means other than providing the password, pin, seed phrase, or other
+13 information.
+14 (3) (a) A violation of this section shall be deemed to be an unfair, false, misleading,
+15 or deceptive act or practice in the conduct of trade or commerce in violation
+16 of KRS 367.170.
+17 (b) All of the remedies, powers, and duties provided to the Attorney General or
+18 any other person under KRS 367.110 to 367.300, and the penalties provided
+19 in KRS 367.990, pertaining to acts and practices declared unlawful by KRS
+20 367.170, shall apply with equal force and effect to a violation of this section.
+21 (4) (a) The remedies and penalties prescribed in this section shall be cumulative.
+22 (b) This section shall not be construed to limit or restrict the powers, duties,
+23 remedies, or penalties available to the Attorney General, the
+24 Commonwealth, or any other person under any other statutory or common
+25 law.
+26 (5) The Attorney General may promulgate administrative regulations in accordance
+27 with KRS Chapter 13A necessary to effectuate, or as an aid to the effectuation of,
+Page 76 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA
+
+UNOFFICIAL COPY 26 RS HB 380/GA
+1 the proper enforcement of this section.
+2 Section 34. Sections 1 to 32 of this Act take effect April 30, 2027.
+3 Section 35. On or before January 1, 2027, the commissioner of the Kentucky
+4 Department of Financial Institutions shall promulgate any emergency and ordinary
+5 administrative regulations required under Sections 1 to 30 of this Act.
+Page 77 of 77
+HB038010.100 - 1451 - XXXX 3/13/2026 9:53 AM GA

@@ -1,0 +1,331 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 AN ACT relating to critical facility mapping, making an appropriation therefor, and
+2 declaring an emergency.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 Section 1. KRS 158.4433 is amended to read as follows:
+5 (1) As used in this section, "school mapping data" means mapping information
+6 provided in an electronic or a digital format to assist first responders in responding
+7 to emergencies at schools.
+8 (2) (a) The General Assembly does hereby establish the School Mapping Data
+9 Program to be administered by the Kentucky 911 Services Board[Center for
+10 School Safety]. The Kentucky 911 Services Board[Center for School Safety]
+11 shall utilize available funds to develop school mapping data for each public
+12 school, public charter school, and any private school that requests to
+13 participate in the program. The program shall be administered by the
+14 Kentucky 911 Services Board[Center for School Safety] pursuant to this
+15 section, which may include contracting for services pursuant to the relevant
+16 provisions of the Kentucky Model Procurement Code in KRS Chapter 45A.
+17 The Kentucky 911 Services Board[Center for School Safety] shall be
+18 responsible for ensuring that all funds received for and expended related to the
+19 School Mapping Data Program are utilized for the purposes of school
+20 mapping.
+21 (b) The Kentucky 911 Services Board[Center for School Safety] shall provide the
+22 data developed by the program to the state school security marshal,
+23 participating schools, participating districts, and local law enforcement and
+24 public safety agencies for use in response to emergencies and for conducting
+25 drills required under KRS 158.162(5). The school mapping data shall be
+26 excluded from the application of KRS 61.870 to 61.884.
+27 (c) The Kentucky 911 Services Board[Center for School Safety] shall apply for
+Page 1 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 any federal grant funds that may be used to accomplish the purposes of the
+2 program. The Kentucky 911 Services Board[Center for School Safety] may
+3 also solicit private funds to support the program.
+4 (3) The School Mapping Data Program shall establish a single verified source of
+5 mapping data for each participating school campus in the state that is standardized,
+6 accurate, and accessible to public safety agencies to ensure efficient response to any
+7 emergency on a school campus. The school mapping data provided shall:
+8 (a) Be compatible with software platforms used by local, county, state, and
+9 federal public safety agencies that provide emergency services to the specific
+10 school for which the data is provided without requiring such agencies to
+11 purchase additional software or requiring a fee to view or access the data;
+12 (b) Be compatible with security software platforms in use by the participating
+13 school or district for which the data is provided without requiring the school
+14 or district to purchase additional software or requiring a fee to view or access
+15 the data;
+16 (c) Be in a printable format and, if requested by a law enforcement or public
+17 safety agency or participating school or district in addition to those described
+18 in paragraph (a) of this subsection, be in a digital file format that can be
+19 integrated into interactive mobile platforms in use;
+20 (d) Be verified by the Kentucky 911 Services Board, or any entity contracted by
+21 the Kentucky 911 Services Board to develop the mapping data pursuant to
+22 this section[Center for School Safety] for accuracy by a walk-through of
+23 school buildings and grounds;
+24 (e) Be oriented to true north;
+25 (f) Include accurate floor plans overlaid on current, verified aerial imagery of
+26 campus;
+27 (g) Contain site-specific labeling that matches the structure of school buildings
+Page 2 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 that includes:
+2 1. Room labels;
+3 2. Hallway names or identifiers;
+4 3. External door or stairwell numbers;
+5 4. Locations of hazards;
+6 5. Critical utility locations;
+7 6. Key boxes;
+8 7. Automated external defibrillators; and
+9 8. Trauma kits;
+10 (h) Contain site-specific labeling that matches the school grounds that includes:
+11 1. Parking areas;
+12 2. Athletic fields;
+13 3. Surrounding roads; and
+14 4. Neighboring properties;
+15 (i) Be overlaid with a gridded coordinate system;
+16 (j) Not be modified or updated independently without corresponding updates to
+17 school mapping data within software platforms used by local, county, state,
+18 and federal public safety agencies that provide emergency services to the
+19 specific school; and
+20 (k) Provide to public safety agencies and participating schools or districts the
+21 school mapping data developed pursuant to the program perpetually and at no
+22 cost to the public safety agencies or participating schools or districts.
+23 (4) A participating school district or campus shall not be required to adopt new school
+24 mapping data if, as of July 1, 2024, the school district or campus previously
+25 implemented school mapping data with capabilities that meet the requirements of
+26 subsection (3)(a) to (k) of this section.
+27 Section 2. KRS 65.7629 is amended to read as follows:
+Page 3 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 The board shall administer the provisions of KRS 65.7621 to 65.7643, and shall have the
+2 following powers and duties:
+3 (1) To review, evaluate, and approve or disapprove the plans or plan modifications that
+4 are submitted to the board for complying with the wireless E911 service
+5 requirements established by the FCC order and by any rules or regulations which
+6 are or may be adopted by the Federal Communications Commission in carrying out
+7 the FCC order;
+8 (2) To develop standards to be followed by the board in reviewing, evaluating,
+9 approving, or disapproving the plans or plan modifications that are submitted to the
+10 board;
+11 (3) (a) To collect the CMRS service charge from each CMRS connection:
+12 1. With a place of primary use, as defined in 4 U.S.C. sec. 124, within the
+13 Commonwealth; or
+14 2. For prepaid CMRS connections, until January 1, 2017, at which time the
+15 CMRS prepaid service charge imposed under KRS 65.7634 and
+16 collected under KRS 142.100 to 142.135 shall take effect and this
+17 subparagraph shall no longer be in force:
+18 a. With a place of primary use, as defined in 4 U.S.C. sec. 124,
+19 within the Commonwealth; or
+20 b. With a geographical location associated with the first six (6) digits,
+21 or NPA/NXX, of the mobile telephone number is inside the
+22 geographic boundaries of the Commonwealth.
+23 (b) The CMRS postpaid service charge, and until January 1, 2017, the CMRS
+24 prepaid service charge, shall be seventy cents ($0.70) per month per CMRS
+25 connection, to be calculated, collected, and remitted in accordance with KRS
+26 65.7635. The amount of the CMRS service charge shall not be increased
+27 except by act of the General Assembly;
+Page 4 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 (4) To deposit the proceeds of the CMRS prepaid service charge levied under KRS
+2 65.7634 that are collected by the Department of Revenue into the CMRS fund
+3 established by KRS 65.7627 and to distribute those revenues in accordance with
+4 KRS 65.7631. The CMRS prepaid service charge shall be calculated, collected, and
+5 remitted in accordance with KRS 65.7634 and 142.100 to 142.135;
+6 (5) To administer and maintain the CMRS fund according to the provisions of KRS
+7 65.7627, and promptly to deposit all revenues from the CMRS service charges into
+8 the CMRS fund;
+9 (6) To make disbursements from the CMRS fund, according to the allocations and
+10 requirements established in KRS 65.7631;
+11 (7) To establish procedures and guidelines to be followed by the board in reviewing,
+12 evaluating, and approving or disapproving disbursements from the CMRS fund and
+13 requests for disbursements made in accordance with KRS 65.7631;
+14 (8) To resolve conflicts regarding reimbursable costs and expenses under KRS
+15 65.7631(4);
+16 (9) To submit annual reports to the Auditor of Public Accounts no later than sixty (60)
+17 days after the close of each fiscal year, which shall provide an accounting for all
+18 CMRS service charges deposited into the CMRS fund during the preceding fiscal
+19 year and all disbursements to CMRS providers and PSAPs during the preceding
+20 fiscal year;
+21 (10) To employ consultants, engineers, and other persons and employees as may be, in
+22 the judgment of the board, essential to the board's operations, functions, and
+23 responsibilities, and to fix and pay their compensation from funds available to the
+24 board;
+25 (11) To acquire, by gift, purchase, installment purchase, or lease, any equipment
+26 necessary to carry out the board's purposes and duties;
+27 (12) To retain any and all information, including all proprietary information, that is
+Page 5 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 submitted to the board by CMRS providers and PSAPs, for the purposes of
+2 maintaining it and verifying its accuracy;
+3 (13) To retain, with approval by the Auditor of Public Accounts, an independent
+4 certified public accountant who shall audit, once every twenty-four (24) months, the
+5 books of the board, CMRS providers, and PSAPs eligible to request or receive
+6 disbursements from the CMRS fund under KRS 65.7631 for the following
+7 purposes:
+8 (a) To verify the accuracy of collection, receipts, and disbursements of all
+9 revenues derived from the CMRS service charges and the number of wireless
+10 E911 calls received by each PSAP eligible to request or receive disbursements
+11 from the CMRS fund;
+12 (b) To determine whether the revenues generated by the CMRS service charges
+13 equal, exceed, or are less than the costs incurred in order to comply with the
+14 FCC order;
+15 (c) To determine the sufficiency of the funds currently being withheld for
+16 administrative purposes under KRS 65.7631(2); and
+17 (d) To verify the accuracy of CMRS customer count information reported to the
+18 board by CMRS providers.
+19 The independent certified public accountant shall make a report of the audits to the
+20 board and to the appropriate chief executive officer or officers of the CMRS
+21 providers and PSAPs, and to the local governments responsible for the formation of
+22 the PSAP. The independent certified public accountant shall also forward a copy of
+23 the audits conducted pursuant to this subsection to the Legislative Research
+24 Commission for referral to the appropriate committee or committees and to the
+25 Auditor of Public Accounts. Upon request, the independent certified accountant
+26 shall send any work papers related to the audits to the Auditor of Public Accounts.
+27 All information with respect to the audits shall be released to the public or
+Page 6 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 published only in aggregate amounts which do not identify or allow identification
+2 of numbers of subscribers or revenues attributable to individual CMRS providers;
+3 (14) To ensure that all carriers have an equal opportunity to participate in the wireless
+4 E911 system;
+5 (15) To ensure that wireless E911 systems are compatible with wireline E911 systems;
+6 (16) To determine the appropriate method for disbursing funds to PSAP's based on
+7 wireless workload under KRS 65.7631(5)(b);
+8 (17) To develop standards and protocols for the improvement and increased efficiency
+9 of 911 services in Kentucky;
+10 (18) To provide direct grants or state matches for federal, state, or private grants for the
+11 establishment or improvement of the 911 emergency telecommunications system in
+12 the Commonwealth;[ and]
+13 (19) To develop and implement standards for advancements and new technology in the
+14 operation of emergency telecommunications in the state, including the development
+15 and implementation of next generation 911 service; and
+16 (20) To administer and oversee the School Mapping Data Program established in
+17 Section 1 of this Act.
+18 Section 3. KRS 158.442 is amended to read as follows:
+19 (1) The General Assembly hereby authorizes the establishment of the Center for School
+20 Safety. The center's mission shall be to serve as the central point for data analysis;
+21 research; dissemination of information about successful school safety and school
+22 security programs, best practices, training standards, research results, and new
+23 programs; and, in collaboration with the Department of Education and others, to
+24 provide technical assistance for safe schools.
+25 (2) To fulfill its mission, the Center for School Safety shall:
+26 (a) Establish a clearinghouse for information and materials concerning school
+27 violence prevention;
+Page 7 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 (b) Provide program development and implementation expertise and technical
+2 support to schools, law enforcement agencies, and communities, which may
+3 include coordinating training for administrators, teachers, students, parents,
+4 and other community representatives;
+5 (c) Analyze the data collected in compliance with KRS 158.444;
+6 (d) Research and evaluate school safety programs so schools and communities are
+7 better able to address their specific needs;
+8 (e) Administer a school safety grant program for local districts as directed by the
+9 General Assembly;
+10 (f) Promote the formation of interagency efforts to address discipline and safety
+11 issues within communities throughout the state in collaboration with other
+12 postsecondary education institutions and with local juvenile delinquency
+13 prevention councils;
+14 (g) Prepare and disseminate information regarding best practices in creating safe
+15 and effective schools;
+16 (h) Advise the Kentucky Board of Education on administrative policies and
+17 administrative regulations relating to school safety and security;
+18 (i) By July 1 of each year, provide an annual report to the Governor, the
+19 Kentucky Board of Education, and the Interim Joint Committee on Education
+20 regarding the status of school safety in Kentucky, including the number and
+21 placement of school resource officers working in school districts in Kentucky
+22 and the source of funding and method of employment for each position in
+23 accordance with KRS 158.4414;
+24 (j) Develop and implement a school safety coordinator training program based on
+25 national and state best practices in collaboration with the Kentucky
+26 Department of Education for school safety coordinators appointed pursuant to
+27 KRS 158.4412. The training shall be approved by the board of directors of the
+Page 8 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 Center for School Safety and include instruction on at least the following:
+2 1. Policies and procedures for conducting emergency response drills using
+3 an all-hazards approach including hostage and active shooter situations;
+4 2. Identification and response to threats to school safety and security; and
+5 3. Preparing for, conducting, and reviewing school security risk
+6 assessments in accordance with KRS 158.4410;
+7 (k) Develop and implement a system to provide certification to school districts
+8 that the center has verified that:
+9 1. A potential Kentucky guardian, as defined in KRS 158.4431, has met all
+10 of the requirements of KRS 158.4431(3); and
+11 2. Individuals employed as guardians meet the requirements of KRS
+12 158.4431(4) and (5), as necessary;
+13 (l) If funds are available, employ an individual whose job responsibilities include
+14 oversight of the guardian program, including but not limited to:
+15 1. The requirements of paragraph (k) of this subsection; and
+16 2. The creation of model policy to be used by local boards of education
+17 when adopting the policies in KRS 158.4431(8); and
+18 (m) [Administer and oversee the School Mapping Data Program established
+19 pursuant to KRS 158.4433; and
+20 (n) ]Award a school safety coordinator certificate of completion to a school safety
+21 coordinator upon satisfactory completion of the training program.
+22 (3) The Center for School Safety shall be governed by a board of directors consisting of
+23 fifteen (15) members. Members shall consist of:
+24 (a) The commissioner or a designee of the Department of Education;
+25 (b) The secretary or a designee of the Cabinet for Health and Family Services;
+26 (c) The commissioner or a designee of the Department for Behavioral Health,
+27 Developmental and Intellectual Disabilities;
+Page 9 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 (d) The commissioner or a designee of the Department of Kentucky State Police;
+2 (e) The commissioner or a designee of the Department of Criminal Justice
+3 Training;
+4 (f) The executive director or a designee of the Kentucky Office of Homeland
+5 Security;
+6 (g) A representative which shall be appointed by the Governor from one (1) list
+7 of three (3) names submitted by the Kentucky League of Cities;
+8 (h) A representative which shall be appointed by the Governor from one (1) list
+9 of three (3) names submitted by the Kentucky School Boards Association;
+10 (i) A representative which shall be appointed by the Governor from one (1) list
+11 of three (3) names submitted by the Kentucky Association of School
+12 Superintendents;
+13 (j) A representative which shall be appointed by the Governor from one (1) list
+14 of three (3) names submitted by the Kentucky Association of School Resource
+15 Officers;
+16 (k) A representative which shall be appointed by the Governor from one (1) list
+17 of three (3) names submitted by the Kentucky Education Association;
+18 (l) A representative which shall be appointed by the Governor from one (1) list
+19 of three (3) names submitted by the Kentucky School Nurses Association;
+20 (m) A representative which shall be appointed by the Governor from one (1) list
+21 of three (3) names submitted by the Kentucky Association for Psychology in
+22 the Schools;
+23 (n) A representative which shall be appointed by the Governor from one (1) list
+24 of three (3) names submitted by the Kentucky School Counselor Association;
+25 and
+26 (o) A representative which shall be appointed by the Governor from one (1) list
+27 of three (3) names submitted by the Kentucky Parent Teacher Association.
+Page 10 of 11
+XXXX 2/17/2026 3:27 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 2214
+1 (4) Notwithstanding KRS 12.028, the Center for School Safety and its board of
+2 directors shall not be subject to reorganization by the Governor.
+3 Section 4. There is hereby appropriated General Fund moneys in the amount of
+4 $5,000,000 in each fiscal year of the 2026-2028 fiscal biennium to the Homeland
+5 Security budget unit to be distributed to the Kentucky 911 Services Board to support the
+6 school mapping data program as provided in Section 1 of this Act.
+7 Section 5. Whereas accurate school mapping data is a critical tool for first
+8 responders in protecting the safety of students in our public schools during an emergency
+9 response, an emergency is declared to exist, and this Act takes effect upon its passage and
+10 approval by the Governor or upon its otherwise becoming a law.
+Page 11 of 11
+XXXX 2/17/2026 3:27 PM Jacketed

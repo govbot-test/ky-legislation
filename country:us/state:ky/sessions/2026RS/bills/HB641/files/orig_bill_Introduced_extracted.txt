@@ -1,0 +1,286 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 AN ACT relating to mental health chatbots.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 6 of this Act:
+6 (1) "Artificial intelligence" has the same meaning as in KRS 42.722;
+7 (2) "Artificial intelligence system" has the same meaning as in KRS 42.722;
+8 (3) "Confidential communications" means information obtained by an individual
+9 licensed under an applicable state licensing statute, including information
+10 obtained by the individual's examination of the client or patient, which is:
+11 (a) Transmitted;
+12 1. Between the client or patient and an individual licensed under an
+13 applicable state licensing statute in the course of that relationship; or
+14 2. Among the client or patient, an individual licensed under an
+15 applicable state licensing statute, and individuals who are
+16 participating in the diagnosis or treatment under the direction of an
+17 individual licensed under an applicable state licensing statute,
+18 including members of the client's or patient's family; and
+19 (b) Made in confidence, for the diagnosis or treatment of the client or patient
+20 by the individual licensed under an applicable state licensing statute, and by
+21 a means not intended to be disclosed to third persons other than those
+22 individuals:
+23 1. Present to further the interest of the client or patient in the
+24 consultation, examination, or review;
+25 2. Reasonably necessary for the transmission of the communications; or
+26 3. Participating in the diagnosis and treatment of the client or patient
+27 under the direction of the mental health therapist;
+Page 1 of 9
+XXXX 2/12/2026 4:03 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 (4) "Covered entity" has the same meaning as established in 45 C.F.R. sec. 160.103
+2 pursuant to HIPAA;
+3 (5) "Generative artificial intelligence" means an artificial intelligence system that
+4 can generate derived synthetic content, including text, images, video, and audio,
+5 that emulates the structure and characteristics of the system's training data;
+6 (6) "Health care provider" has the same meaning as established in 45 C.F.R. sec.
+7 160.103;
+8 (7) "Health plan" has the same meaning as established in 45 C.F.R. sec. 160.103;
+9 (8) "Individually identifiable health information" means any information, whether
+10 oral or recorded in any form or medium, that relates to the physical or mental
+11 health or condition of an individual;
+12 (9) "Licensed mental health therapist" means an individual who holds a valid
+13 license or certificate issued by any agency of this Commonwealth to provide
+14 therapy or psychotherapy services, including:
+15 (a) A physician and surgeon, or osteopathic physician engaged in the practice
+16 of mental health therapy;
+17 (b) A licensed psychologist licensed under KRS Chapter 319;
+18 (c) A licensed clinical social worker licensed under KRS 335.100;
+19 (d) A certified social worker licensed under KRS 335.080;
+20 (e) A professional counselor credentialed under KRS 335.500 to 335.599;
+21 (f) A marriage and family therapist licensed under KRS 335.300 to 335.399;
+22 (g) A licensed alcohol and drug counselor licensed under KRS 309.080 to
+23 309.089 authorized to provide therapy or psychotherapy services;
+24 (h) An art therapist licensed under KRS 309.133;
+25 (i) An advanced practice registered nurse licensed under KRS Chapter 314
+26 engaged in providing mental health services; and
+27 (j) Any other professional authorized by this Commonwealth through a license
+Page 2 of 9
+XXXX 2/12/2026 4:03 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 or certificate to provide therapy or psychotherapy services;
+2 (10) "Mental health chatbot":
+3 (a) Means an artificial intelligence system that:
+4 1. Uses generative artificial intelligence to engage in interactive
+5 conversations with a user of the mental health chatbot similar to the
+6 confidential communications that an individual would have with a
+7 licensed mental health therapist; and
+8 2. A supplier represents, or a reasonable person would believe, can or
+9 will provide mental health therapy or help a user manage or treat
+10 mental health conditions; and
+11 (b) Does not include an artificial intelligence system that only:
+12 1. Provides scripted output, such as guided meditations or mindfulness
+13 exercises; or
+14 2. Analyzes an individual's input for the purpose of connecting the
+15 individual with a licensed mental health therapist;
+16 (11) "Personal data" has the same meaning as in KRS 367.3611;
+17 (12) "Scientific research development" means research:
+18 (a) Conducted by a researcher affiliated with:
+19 1. An institution of higher education;
+20 2. A research organization; or
+21 3. A healthcare facility; and
+22 (b) That is:
+23 1. Approved by an institutional review board; and
+24 2. Conducted in accordance with applicable ethics requirements for
+25 human subject research;
+26 (13) "Supplier" means a seller, lessor, assignor, offeror, broker, or other person who
+27 regularly solicits, engages in, or enforces consumer transactions, whether or not
+Page 3 of 9
+XXXX 2/12/2026 4:03 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 the person deals directly with the consumer;
+2 (14) "User" means an individual located in Kentucky at the time the individual
+3 accesses or uses a mental health chatbot; and
+4 (15) "User input" means content provided to a mental health chatbot by a user.
+5 SECTION 2. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+6 READ AS FOLLOWS:
+7 (1) A supplier of a mental health chatbot shall not sell to or share with any third
+8 party any:
+9 (a) Individually identifiable health information of a user; or
+10 (b) User input.
+11 (2) Subsection (1) of this section shall not apply to individually identifiable health
+12 information:
+13 (a) Requested by a health care provider with the consent of the user;
+14 (b) Provided to a user's health plan upon request of the user; or
+15 (c) Shared in compliance with subsection (3) of this section.
+16 (3) (a) A supplier may share individually identifiable health information necessary
+17 to ensure the effective functionality of the mental health chatbot with
+18 another party with which the supplier has a contract related to such
+19 functionality.
+20 (b) When sharing information under subsection (3)(a) of this section, the
+21 supplier and the other party shall comply with all applicable privacy and
+22 security provisions of 45 C.F.R. pt. 160 and 45 C.F.R. pt. 164, Subparts A
+23 and E, as if the supplier were a covered entity and the other party were a
+24 business associate, as those terms are defined in 45 C.F.R. sec. 160.103.
+25 SECTION 3. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) A supplier shall not use a mental health chatbot to advertise a specific product or
+Page 4 of 9
+XXXX 2/12/2026 4:03 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 service to a user in a conversation between the user and the mental health
+2 chatbot unless the mental health chatbot clearly and conspicuously:
+3 (a) Identifies the advertisement as an advertisement; and
+4 (b) Discloses to the user any:
+5 1. Sponsorship;
+6 2. Business affiliation; or
+7 3. Agreement that the supplier has with a third party to promote,
+8 advertise, or recommend the product or service.
+9 (2) A supplier of a mental health chatbot shall not use a user's input to:
+10 (a) Determine whether to display an advertisement for a product or service to
+11 the user, unless the advertisement is for the mental health chatbot itself;
+12 (b) Determine a product, service, or category of product or service, to advertise
+13 to the user; or
+14 (c) Customize how an advertisement is presented to the user.
+15 (3) This section shall not prohibit a mental health chatbot from recommending that a
+16 user seek counseling, therapy, or other assistance from a licensed mental health
+17 therapist, including a specific licensed mental health therapist.
+18 SECTION 4. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+19 READ AS FOLLOWS:
+20 (1) A supplier of a mental health chatbot shall cause the mental health chatbot to
+21 clearly and conspicuously disclose to a user that the mental health chatbot is an
+22 artificial intelligence system and not a human.
+23 (2) The disclosure described in subsection (1) of this section shall be made:
+24 (a) Before the user may access the features of the mental health chatbot;
+25 (b) Before any interaction with the user if the user has not accessed the mental
+26 health chatbot within the previous seven (7) days;
+27 (c) Every thirty (30) minutes after beginning the interaction with the user; and
+Page 5 of 9
+XXXX 2/12/2026 4:03 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 (d) Any time a user asks or otherwise prompts the mental health chatbot about
+2 whether artificial intelligence is being used.
+3 SECTION 5. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) It is an affirmative defense to liability in an action brought under an applicable
+6 state licensing statute if the supplier demonstrates that the supplier:
+7 (a) Created, maintained, and implemented a policy that meets the requirements
+8 of subsection (2) of this section;
+9 (b) Maintains documentation regarding the development and implementation
+10 of the mental health chatbot that describes:
+11 1. Foundation models used in development;
+12 2. Training data used;
+13 3. Compliance with federal health privacy regulations;
+14 4. User data collection and sharing practices;
+15 5. User data retention practices consistent with Kentucky law; and
+16 6. Ongoing efforts to ensure accuracy, reliability, fairness, and safety;
+17 and
+18 (c) Filed the policy with the Attorney General as described in subsection (4) of
+19 this section, and complied with all requirements of the filed policy at the
+20 time of the alleged violation.
+21 (2) A policy described in subsection (1)(a) of this section shall:
+22 (a) Be in writing;
+23 (b) State the intended purposes of the mental health chatbot and the abilities
+24 and limitations of the mental health chatbot; and
+25 (c) Describe the procedures by which the supplier:
+26 1. Ensures that licensed mental health therapists are involved in the
+27 development and review process;
+Page 6 of 9
+XXXX 2/12/2026 4:03 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 2. Ensures the mental health chatbot is developed and monitored in a
+2 manner consistent with clinical best practices;
+3 3. Conducts testing, prior to making the mental health chatbot publicly
+4 available and regularly thereafter, to ensure that the output of the
+5 mental health chatbot poses no greater risk to a user than that posed
+6 to an individual in therapy with a licensed mental health therapist;
+7 4. Identifies reasonably foreseeable adverse outcomes to, and potentially
+8 harmful interactions with, users that could result from using the
+9 mental health chatbot;
+10 5. Provides a mechanism for a user to report any potentially harmful
+11 interactions from use of the mental health chatbot;
+12 6. Implements protocols to assess and respond to risk of harm to users or
+13 other individuals;
+14 7. Details actions taken to prevent or mitigate any such adverse outcomes
+15 or potentially harmful interactions;
+16 8. Implements protocols to respond in real time to acute risk of physical
+17 harm;
+18 9. Reasonably ensures regular, objective reviews of safety, accuracy, and
+19 efficacy, which may include internal or external audits;
+20 10. Provides users any necessary information on the safe use of the
+21 mental health chatbot;
+22 11. Ensures users understand they are interacting with artificial
+23 intelligence;
+24 12. Ensures users understand the intended purpose, capabilities, and
+25 limitations of the mental health chatbot;
+26 13. Prioritizes user mental health and safety over engagement metrics or
+27 profit;
+Page 7 of 9
+XXXX 2/12/2026 4:03 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 14. Implements measures to prevent discriminatory treatment of users;
+2 and
+3 15. Ensures compliance with the security and privacy provisions of 45
+4 C.F.R. pt. 160, 45 C.F.R. pt. 164, Subparts A, C, and E, as if the
+5 supplier were a covered entity, and applicable consumer protection
+6 requirements.
+7 (3) (a) A supplier of a mental health chatbot shall provide to the Attorney General
+8 in a manner established by the Attorney General in subsection (4) of this
+9 section:
+10 1. The name and address of the supplier;
+11 2. The name of the mental health chatbot supplied by the supplier;
+12 3. The written policy described in subsection (2) of this section; and
+13 4. Any annual filing fee set by the Attorney General;
+14 (b) A supplier of a mental health chatbot may provide to the Attorney General:
+15 1. Any revisions to a policy filed under this section; or
+16 2. Any other documentation the supplier elects to provide.
+17 (4) The Attorney General shall provide a physical or electronic means for a supplier
+18 of a mental health chatbot to file a policy as provided for under subsection (2) of
+19 this section. An annual filing fee may be imposed by the Attorney General.
+20 (5) The affirmative defense described in subsection (1) of this section applies only in
+21 an administrative or civil action alleging a violation of an applicable state
+22 licensing statute.
+23 (6) Nothing in this section shall be construed to:
+24 (a) Bar the Attorney General from bringing an action under an applicable state
+25 licensing statute against the supplier of a mental health chatbot; or
+26 (b) Recognize a mental health chatbot as a licensed mental health therapist.
+27 SECTION 6. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+Page 8 of 9
+XXXX 2/12/2026 4:03 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1037
+1 READ AS FOLLOWS:
+2 (1) The Attorney General shall administer and enforce Sections 1 to 6 of this Act in
+3 accordance with the Kentucky Consumer Protection Act, KRS 367.110 to
+4 367.300.
+5 (2) In addition to the Attorney General's enforcement powers under subsection (1) of
+6 this section:
+7 (a) The Attorney General may impose an administrative fine of up to two
+8 thousand five hundred dollars ($2,500) for each violation of Sections 1 to 6
+9 of this Act; and
+10 (b) The Attorney General may bring an action in a court of competent
+11 jurisdiction to enforce any provision of Sections 1 to 6 of this Act.
+12 (3) The Attorney General may recover reasonable expenses incurred in investigating
+13 and preparing the case, court costs, attorney's fees, and any other relief ordered
+14 by the court of any action initiated under Sections 1 to 6 of this Act.
+15 (4) A court may impose a civil penalty of no more than five thousand dollars ($5,000)
+16 for each violation of an administrative or court order issued for a violation of
+17 Sections 1 to 6 of this Act. The Attorney General may bring a civil action on
+18 behalf of the Commonwealth to collect a civil penalty imposed under this
+19 subsection.
+20 (5) The Attorney General shall deposit all fines and civil penalties collected under the
+21 section into the consumer privacy fund established in KRS 367.3629.
+22 Section 7. If any provision of this Act or its application thereof to any person or
+23 circumstance is held invalid, the invalidity shall not affect other provisions or
+24 applications of the Act that can be given effect without the invalid provision or
+25 application, and to this end the provisions of this Act are severable.
+26 Section 8. This Act may be cited as the Artificial Intelligence in Mental Health
+27 Act.
+Page 9 of 9
+XXXX 2/12/2026 4:03 PM Jacketed

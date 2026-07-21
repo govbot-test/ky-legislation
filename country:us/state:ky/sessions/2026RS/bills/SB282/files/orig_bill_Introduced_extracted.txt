@@ -1,0 +1,1069 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 AN ACT relating to guardianship proceedings.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 387.500 is amended to read as follows:
+4 (1) It is the intent and purpose of the General Assembly to recognize that disabled
+5 persons have varying degrees of disability.
+6 (2) Persons who are only partially disabled must be legally protected without a
+7 determination of total incompetency and without the attendant deprivation of civil
+8 and legal rights that such a determination requires.
+9 (3) To this end, guardianship and conservatorship for disabled persons shall be utilized
+10 only as is necessary to promote their well-being, including protection from neglect,
+11 exploitation, and abuse; shall be designed to encourage the development of
+12 maximum self-reliance and independence in each person; and shall be ordered only
+13 to the extent necessitated by each person's actual mental and adaptive limitations.
+14 (4) If the court determines that some form of guardianship or conservatorship is
+15 necessary, partial guardianship or partial conservatorship shall be the preferred
+16 form of protection and assistance for a disabled person.
+17 (5) District Courts of the Commonwealth shall preserve the due process rights of all
+18 persons alleged to be incapacitated by conducting all disability proceedings in
+19 conformity with statutory procedures.
+20 Section 2. KRS 387.510 is amended to read as follows:
+21 As used in KRS 387.500 to 387.770 and 387.990:
+22 (1) "Conservator" means an individual, agency, or corporation appointed by the court
+23 to manage the financial resources of a disabled person;
+24 (2) "Limited conservator" means an individual, agency, or corporation appointed by the
+25 court to assist in managing the financial resources of a partially disabled person and
+26 whose powers and duties have been specifically enumerated by court order;
+27 (3) "Guardian" means any individual, agency, or corporation appointed by the court to
+Page 1 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 manage the personal affairs of a disabled person;
+2 (4) "Limited guardian" means an individual, agency, or corporation appointed by the
+3 court to assist in managing the personal affairs of a partially disabled person and
+4 whose powers and duties have been specifically enumerated by court order;
+5 (5) "Standby" guardian or conservator means a person or entity designated by the court
+6 to assume the powers and duties assigned to a limited guardian, guardian, limited
+7 conservator, or conservator upon his or her death, resignation, removal, or
+8 incapacity;
+9 (6) "Testamentary" guardian or conservator means an individual, agency, or
+10 corporation nominated in the will of a limited guardian, guardian, limited
+11 conservator, or conservator to succeed the testator in that capacity upon his or her
+12 death;
+13 (7) "Developmental disability" means a severe, chronic disability of a person which:
+14 (a) Is attributable to a mental or physical impairment or combination of mental
+15 and physical impairments, including pervasive developmental disorder;
+16 (b) Is manifested before the person attains age twenty-two (22);
+17 (c) Is likely to continue indefinitely;
+18 (d) Results in substantial functional limitations in three (3) or more of the
+19 following areas of major life activity:
+20 1. Self-care;
+21 2. Receptive and expressive language;
+22 3. Learning;
+23 4. Mobility;
+24 5. Self-direction;
+25 6. Capacity for independent living; and
+26 7. Economic self-sufficiency; and
+27 (e) Reflects the person's need for a combination and sequence of special
+Page 2 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 interdisciplinary or generic care, treatment, or other services which are of
+2 lifelong or extended duration and are individually planned and coordinated;
+3 (8) "Disabled" means a legal disability, not a medical disability, and is measured by
+4 functional inabilities. It refers to any person seventeen (17) years of age or older
+5 who is:
+6 (a) Unable to make informed decisions with respect to his or her personal affairs
+7 to such an extent that he or she lacks the capacity to provide for his or her
+8 physical health and safety, including but not limited to health care, food,
+9 shelter, clothing, or personal hygiene; or
+10 (b) Unable to make informed decisions with respect to his or her financial
+11 resources to such an extent that he or she lacks the capacity to manage his or
+12 her property effectively by those actions necessary to obtain, administer, and
+13 dispose of both real and personal property.
+14 Such inability shall be evidenced by acts or occurrences within six (6) months prior
+15 to the filing of the petition for guardianship or conservatorship and shall not be
+16 evidenced solely by isolated instances of negligence, improvidence, or other
+17 behavior;
+18 (9) "Partially disabled" refers to an individual who lacks the capacity to manage some
+19 of his or her personal affairs [and/]or financial resources as provided in subsection
+20 (8) of this section, but who cannot be found to be fully disabled as provided therein;
+21 (10) "Mentally ill person" means a person with substantially impaired capacity to use
+22 self-control, judgment, or discretion in the conduct of his or her affairs and social
+23 relations, associated with maladaptive behavior or recognized emotional symptoms
+24 where impaired capacity, maladaptive behavior, or emotional symptoms can be
+25 related to physiological, psychological, or social factors;
+26 (11) "Interdisciplinary evaluation report" means a report of an evaluation of a respondent
+27 performed pursuant to the provisions of KRS 387.540 to determine whether he or
+Page 3 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 she is partially disabled or disabled as defined in this section[herein];
+2 (12) "Interested person or entity" means an adult relative or friend of the respondent or
+3 protected person[ward], an official or representative of a public or private agency,
+4 corporation, or association concerned with that person's welfare, or any other
+5 person found suitable by the court;
+6 (13) "Petitioner" means a person who institutes a proceeding under KRS 387.530;
+7 (14) "Respondent" means an individual alleged to be a partially disabled or disabled
+8 person;
+9 (15) "Protected person"["Ward"] means a person for whom a limited guardian,
+10 guardian, limited conservator, or conservator has been appointed;
+11 (16) "Committee" means a person appointed by the court prior to July 1, 1982, to have
+12 full care, custody, and control of a disabled person and his or her estate; [and]
+13 (17) "Personal affairs" means decisions regarding the person of an adult, including but
+14 not limited to health care, food, shelter, clothing, or personal hygiene;
+15 (18) "Respondent's attorney" means either private or appointed counsel representing
+16 the respondent, who is:
+17 (a) Not a guardian ad litem; and
+18 (b) Bound by the ethical requirements of all attorneys in Kentucky, including
+19 the duties of loyalty and competent, zealous representation; and
+20 (19) "Guardian ad litem" means an attorney appointed to represent the needs and
+21 best interests of the respondent.
+22 Section 3. KRS 387.520 is amended to read as follows:
+23 (1) The District Courts shall have exclusive jurisdiction over all proceedings involving
+24 a determination of partial disability or disability, the modification of orders, the
+25 appointment and removal of guardians and conservators, and the management and
+26 settlement of their accounts.
+27 (2) If the respondent or protected person[ward] is a resident of this state, the venue for
+Page 4 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 all proceedings under KRS 387.500 to 387.770 shall be:
+2 (a) In the county where the respondent or protected person[ward] resides;
+3 (b) In the county of domicile of the respondent or protected person;[ward; or]
+4 (c) In the county where the parent of the respondent or protected person[ward] is
+5 domiciled if the respondent or protected person[ward] is a minor; or
+6 (d) In the county where a curatorship has been established for the respondent
+7 or protected person.
+8 Nothing in this section shall preclude transfer of venue for good cause shown.
+9 (3) If no local conservator has been appointed and no petition in a disability proceeding
+10 is pending in this state, a domiciliary foreign conservator may file with a court in
+11 this state in a county in which property belonging to the disabled person is located,
+12 authenticated copies of his or her appointment and of any official bond he or she
+13 has given. Thereafter, he or she may exercise as to assets in this state all powers of
+14 a local conservator and may maintain actions and proceedings in this state subject
+15 to any conditions imposed upon nonresident parties generally.
+16 (4) This section shall be subordinate to KRS 387.810 to 387.854 to the extent that those
+17 sections govern jurisdiction between Kentucky and other states.
+18 Section 4. KRS 387.530 is amended to read as follows:
+19 (1) A petition for a determination of partial disability or disability and the appointment
+20 of a limited guardian, guardian, limited conservator, or conservator may be filed by
+21 any interested person or by an individual needing guardianship or conservatorship.
+22 The petition shall set forth the following:
+23 (a) The name and address of the respondent;
+24 (b) The date of birth of the respondent, if known;
+25 (c) The nature and degree of the alleged disability of the respondent;
+26 (d) The facts and reasons supporting the need for guardianship or
+27 conservatorship;
+Page 5 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (e) A description and approximation of the value of the respondent's financial
+2 resources, including government benefits, insurance entitlements, and
+3 anticipated yearly income, if known;
+4 (f) The names and addresses of the respondent's next of kin, including but not
+5 limited to the respondent's spouse, children, grandchildren, or parents, if
+6 known;
+7 (g) The name and address of the individual or facility, if any, having custody of
+8 the respondent;
+9 (h) The name, address, and interest of the petitioner;
+10 (i) The name and address of the petitioner's attorney, if any;[ and]
+11 (j) The name and address of any person or entity appointed by the respondent as
+12 respondent's agent[attorney in fact] under a durable power of attorney or as
+13 respondent's surrogate to make health care decisions under an advance
+14 directive; and
+15 (k) The name and address of any person or entity appointed curator of the
+16 respondent under KRS 387.320.
+17 (2) The petition shall be accompanied by a verified application of the person or entity
+18 desiring appointment as limited guardian, guardian, limited conservator, or
+19 conservator. The application shall state the name, address, and qualifications of the
+20 applicant and his or her relationship to the respondent. If it is proposed that a
+21 standby limited guardian, guardian, limited conservator, or conservator be
+22 designated, the petition shall also be accompanied by the application of the person
+23 or entity desiring to be so designated. Additional petitions may be filed prior to the
+24 date of the hearing by other persons desiring appointment.
+25 Section 5. KRS 387.540 is amended to read as follows:
+26 (1) (a) Prior to a hearing on a petition for a determination of partial disability or
+27 disability and the appointment of a limited guardian, guardian, limited
+Page 6 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 conservator, or conservator, an interdisciplinary evaluation report shall be
+2 filed with the court. The report may be filed as a single and joint report of the
+3 interdisciplinary evaluation team, or it may otherwise be constituted by the
+4 separate reports filed by each individual of the team.
+5 (b) If the court and all parties to the proceeding and their attorneys agree to the
+6 admissibility of the report or reports, the report or reports shall be admitted
+7 into evidence and shall be considered by the court or the jury if one is
+8 impaneled.
+9 (c) The report shall be compiled by at least three (3) individuals, chosen and
+10 appointed by the court, including:
+11 1. A physician, an advanced practice registered nurse, or a physician
+12 assistant;
+13 2. A psychologist licensed or certified under the provisions of KRS
+14 Chapter 319; and
+15 3. A person licensed or certified as a social worker or an employee of the
+16 Cabinet for Health and Family Services who has at least one (1) year of
+17 investigative experience and has completed training in conducting
+18 decisional capacity assessments. The social worker shall, when possible,
+19 be chosen from among employees of the Cabinet for Health and Family
+20 Services residing or working in the area, and there shall be no additional
+21 compensation for their service on the interdisciplinary evaluation team.
+22 (2) At least one (1) person participating in the compilation of the report shall have
+23 knowledge of the particular disability which the respondent is alleged to have or
+24 knowledge of the skills required of the respondent to care for himself or herself and
+25 his or her estate.
+26 (3) If the respondent is alleged to be partially disabled or disabled due to mental illness,
+27 at least one (1) person participating in the compilation of the interdisciplinary
+Page 7 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 evaluation report shall be a qualified mental health professional as defined in KRS
+2 202A.011(13). If the respondent is alleged to be partially disabled or disabled due
+3 to an intellectual disability, at least one (1) person participating in the compilation
+4 of the evaluation report shall be a qualified professional in the area of intellectual
+5 disabilities as defined in KRS 202B.010(12).
+6 (4) The interdisciplinary evaluation report shall contain:
+7 (a) A description of the nature and extent of the respondent's disabilities, if any;
+8 (b) Current evaluations of the respondent's social, intellectual, physical, and
+9 educational condition, adaptive behavior, and social skills. Such evaluations
+10 may be based on prior evaluations not more than three (3) months old, except
+11 that evaluations of the respondent's intellectual condition may be based on
+12 individual intelligence test scores not more than one (1) year old;
+13 (c) An opinion as to whether guardianship or conservatorship is needed, the type
+14 of guardianship or conservatorship needed, if any, and the reasons therefor;
+15 (d) An opinion as to the length of time guardianship or conservatorship will be
+16 needed by the respondent, if at all, and the reasons therefor;
+17 (e) If limited guardianship or conservatorship is recommended, a further
+18 recommendation as to the scope of the guardianship or conservatorship,
+19 specifying particularly the rights to be limited and the corresponding powers
+20 and duties of the limited guardian or limited conservator;
+21 (f) A description of the social, educational, medical, and rehabilitative services
+22 currently being utilized by the respondent, if any;
+23 (g) A determination as to whether alternatives to guardianship or conservatorship
+24 are available;
+25 (h) A recommendation as to the most appropriate treatment or rehabilitation plan
+26 and living arrangement for the respondent and the reasons therefor;
+27 (i) A listing of all medications the respondent is receiving, the dosage, and a
+Page 8 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 description of the impact of the medication upon the respondent's mental and
+2 physical condition and behavior;
+3 (j) An opinion as to whether attending a hearing on a petition filed under KRS
+4 387.530 would subject the respondent to serious risk of harm;
+5 (k) The names and addresses of all individuals who examined or interviewed the
+6 respondent or otherwise participated in the evaluation; and
+7 (l) Any dissenting opinions or other comments by the evaluators.
+8 (5) The evaluation report may be compiled by a community center for mental health or
+9 individuals with an intellectual disability, a licensed facility for mentally ill or
+10 developmentally disabled persons, if the respondent is a resident of such facility, or
+11 a similar agency.
+12 (6) In all cases where the respondent is a resident of a licensed facility for mentally ill
+13 or developmentally disabled persons and the petition is filed by an employee of that
+14 facility, the petition shall be accompanied by an interdisciplinary evaluation report
+15 prepared by the facility.
+16 (7) Except as provided in subsection (6) of this section, the court shall order
+17 appropriate evaluations to be performed by qualified persons or a qualified agency.
+18 The report shall be prepared and filed with the court and copies mailed to the
+19 attorneys for both parties at least ten (10) days prior to the hearing. All items
+20 specified in subsection (4) of this section shall be included in the report.
+21 (8) If the person evaluated is a poor person as defined in KRS 453.190, the examiners
+22 shall be paid by the county in which the petition is filed upon an order of allowance
+23 entered by the court. Payment shall be in an amount which is reasonable as
+24 determined by the court, except no payment shall be required of the county for an
+25 evaluation performed by a salaried employee of a state agency for an evaluation
+26 performed within the course of his or her employment. Additionally, no payment
+27 shall be required of the county for an evaluation performed by a salaried employee
+Page 9 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 of a community center for mental health or individuals with an intellectual
+2 disability or private facility or agency where the costs incurred by the center,
+3 facility, or agency are reimbursable through third-party payors. Affidavits or other
+4 competent evidence shall be admissible to prove the services rendered but not to
+5 prove their value.
+6 (9) The respondent may file a response to the evaluation report no later than five (5)
+7 days prior to the hearing.
+8 (10) The respondent may secure an independent evaluation. If the respondent is unable
+9 to pay for the evaluation, compensation for the independent evaluation may be paid
+10 by the county in an amount which is reasonable as determined by the court.
+11 Section 6. KRS 387.550 is amended to read as follows:
+12 (1) [If the petition is accompanied by an interdisciplinary evaluation report when filed,
+13 the court shall fix a date and a place for a hearing to be held within thirty (30) days
+14 after the filing of the petition. If no interdisciplinary evaluation report accompanies
+15 the petition when filed, ]The court shall endeavor to hear the petition expediently,
+16 but in all cases shall fix a date and a place for a hearing to be held within sixty (60)
+17 days after the filing of the petition. The time for a hearing may be extended by the
+18 court, on motion of either party, for cause.
+19 (2) Notice of the time and place of the hearing shall be given by the clerk of the court
+20 not less than fourteen (14) days prior to the hearing to the attorneys for both parties,
+21 all persons named in the petition, and the person proposed for appointment as
+22 limited guardian, guardian, limited conservator, or conservator.
+23 Section 7. KRS 387.560 is amended to read as follows:
+24 (1) The respondent shall be represented by counsel. If private counsel has not
+25 entered an appearance on behalf of the respondent within ten (10) days[Unless an
+26 appearance has been entered on behalf of the respondent, the court shall appoint
+27 counsel for the respondent within one (1) week] of the filing of a petition for
+Page 10 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 determination of disability under KRS 387.500 to 387.770, the court shall appoint
+2 an attorney to represent the respondent, who shall serve as the attorney for the
+3 respondent and not as a guardian ad litem.
+4 (2) Appointed counsel shall be entitled to compensation for services. If counsel is
+5 appointed for a poor person as defined in KRS 453.190, the court shall prescribe
+6 reasonable compensation to be paid by the county in which the proceeding is held
+7 in accordance with the complexity of the issues, the time involved, and other
+8 relevant considerations, except that appointed counsel shall not be compensated at a
+9 rate higher than one hundred fifty dollars ($150)[sixty dollars ($60)] an hour for
+10 time spent in court and no higher than one hundred dollars ($100)[forty dollars
+11 ($40)] an hour for time spent out of court. If the petition is found to be frivolous or
+12 not brought in good faith, counsel fees shall be charged to the petitioner.
+13 (3) Appointed counsel's representation shall terminate upon:
+14 (a) The retention of private counsel;
+15 (b) Appointment of a guardian, conservator, limited guardian, or limited
+16 conservator; or
+17 (c) Dismissal of the petition.
+18 (4) (a)[(3)] In all proceedings under KRS 387.500 to 387.770, it shall be the duty of
+19 the county attorney to assist the petitioner, to represent the interest of the
+20 Commonwealth, and to assist the court in its inquiry by the presentation of
+21 evidence.
+22 (b) The Commonwealth shall present an opening statement, call witnesses, and
+23 make a closing argument to the court, and these duties are not affected by
+24 the presence of private counsel in the proceeding, either representing the
+25 respondent or the petitioner.
+26 Section 8. KRS 387.570 is amended to read as follows:
+27 (1) At a hearing convened pursuant to KRS 387.500 to 387.770 for the purpose of
+Page 11 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 determining the disability of a respondent, the respondent shall have the right to
+2 present evidence and to confront and cross-examine all witnesses.
+3 (2) The hearing may be closed to the public on request of the respondent or his or her
+4 counsel.
+5 (3) The respondent shall have the right to be present at the hearing, and his or her
+6 presence may be waived only by his or her failure to appear at the hearing or upon
+7 a determination of the court that his or her attendance would subject him or her to
+8 serious risk of harm. Such determination shall be evidence only of the respondent's
+9 inability to attend the hearing and shall not be considered in determining the need
+10 for guardianship or conservatorship.
+11 (4) The court may remove itself to the place of residence of the respondent to conduct
+12 the hearing in the presence of the respondent.
+13 (5) The burden of proof and burden of presentation of evidence:
+14 (a) Shall be on the Commonwealth to prove the disability or partial disability of
+15 the respondent by clear and convincing evidence; and
+16 (b) Are not affected in any way if the respondent is represented by private
+17 counsel or if private counsel has entered an appearance representing the
+18 petitioner in the proceeding.
+19 (6) The respondent will not be determined partially disabled or disabled unless at least
+20 one (1) of the persons who participated in the interdisciplinary evaluation required
+21 by KRS 387.540 testifies in person at the hearing. This section shall not be
+22 interpreted to preclude the respondent from requiring the testimony of more than
+23 one (1) person participating in the preparation of the evaluation report.
+24 (7) The hearing shall be a jury trial, unless:
+25 (a) The respondent if present, counsel for the respondent, and the attorney for the
+26 Commonwealth agree to a bench trial;
+27 (b) No objection to a bench trial is made by an interested person or entity; and
+Page 12 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (c) The interdisciplinary evaluation report prepared for the proceeding reflects a
+2 unanimous consensus of the persons preparing it that the respondent is
+3 disabled or partially disabled, the court has reviewed the report, and the court
+4 finds no cause to require a jury trial.
+5 Section 9. KRS 387.580 is amended to read as follows:
+6 (1) At a hearing convened under KRS 387.500 to 387.770 for a determination of partial
+7 disability or disability, the court, or the jury if one is impaneled, shall:
+8 (a) Inquire into the nature and extent of the general intellectual functioning of the
+9 respondent;
+10 (b) Inquire into the respondent's capacity to make informed decisions concerning
+11 his or her personal affairs and financial resources;
+12 (c) Determine whether the respondent is disabled, partially disabled, or has no
+13 disability in relation to the management of his or her financial resources;[
+14 and]
+15 (d) Determine whether the respondent is disabled, partially disabled, or has no
+16 disability in relation to the management of his or her personal affairs; and
+17 (e) Determine whether any less restrictive alternatives such as an existing
+18 power of attorney or court-appointed curator are sufficient to protect the
+19 respondent.
+20 (2) If the respondent is found not to be disabled or partially disabled, the petition shall
+21 be dismissed.
+22 (3) If the respondent is found to be disabled or partially disabled, the court shall, at the
+23 same hearing, without a jury, determine:
+24 (a) The type of guardian, conservator, or guardian and conservator to be
+25 appointed;
+26 (b) The specific legal disabilities to which the respondent is subject, if the
+27 respondent has been determined to be partially disabled;
+Page 13 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (c) Whether the respondent retains the right to vote;
+2 (d) If the respondent has been determined to be partially disabled, the court
+3 shall detail in the orders of appointment the specific[The] corresponding
+4 powers and duties of the limited guardian, under Sections 16 and 17 of this
+5 Act, or limited conservator, under Sections 20 and 21 of this Act[if the
+6 respondent has been determined to be partially disabled];
+7 (e) If the respondent has been determined to be partially disabled, the court
+8 shall determine whether or not the respondent shall retain the right to
+9 operate a motor vehicle;
+10 (f)[(e)] The individual or entity to be appointed by the court as limited guardian,
+11 guardian, limited conservator, or conservator;
+12 (g)[(f)] The individual or entity, if any, to be appointed as standby guardian or
+13 conservator; and
+14 (h)[(g)] The duration of the term of guardianship or conservatorship.
+15 Section 10. KRS 387.590 is amended to read as follows:
+16 (1) (a) If the respondent is found partially disabled in managing his or her personal
+17 affairs, but not partially disabled or disabled in managing his or her financial
+18 resources, a limited guardian shall be appointed.
+19 (b) If the respondent is found partially disabled in managing his or her financial
+20 resources, but not partially disabled or disabled in managing his or her
+21 personal affairs, a limited conservator shall be appointed.
+22 (c) If the respondent is found partially disabled in managing both his or her
+23 personal affairs and financial resources, a limited guardian and a limited
+24 conservator shall be appointed. The limited guardian and the limited
+25 conservator may be the same individual, agency, or corporation.
+26 (2) (a) If the respondent is found disabled in managing his or her personal affairs,
+27 but not partially disabled or disabled in managing his or her financial
+Page 14 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 resources, a guardian shall be appointed.
+2 (b) If the respondent is found disabled in managing his or her financial resources,
+3 but not partially disabled or disabled in managing his or her personal affairs, a
+4 conservator shall be appointed.
+5 (c) If the respondent is found disabled in managing both his or her personal
+6 affairs and his or her financial resources, a guardian and a conservator shall
+7 be appointed. The guardian and the conservator may be the same individual,
+8 agency, or corporation.
+9 (3) The order of appointment of a limited guardian, guardian, limited conservator, or
+10 conservator shall specify:
+11 (a) The type of guardianship, conservatorship, or guardianship and
+12 conservatorship to which the protected person[ward] is subject;
+13 (b) The name and address of the limited guardian, guardian, limited conservator,
+14 or conservator;
+15 (c) The name and address of the standby guardian or conservator, if a standby
+16 guardian or conservator is designated;
+17 (d) The specific legal disabilities to which the respondent is subject, if the
+18 respondent has been determined to be partially disabled;
+19 (e) The corresponding powers and duties of the limited guardian or limited
+20 conservator, if the respondent has been determined to be partially disabled;
+21 and
+22 (f) The duration of the term of guardianship or conservatorship.
+23 (4) A limited guardian or limited conservator shall not be appointed for a term greater
+24 than five (5) years and may be appointed for a lesser period. A guardian or
+25 conservator may be appointed for a period of unlimited duration.
+26 (5) The judgment of partial disability or disability and the order of appointment shall be
+27 filed in the District Court. The judgment shall be indexed by the county clerk in the
+Page 15 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 book in which notices of actions and encumbrances are indexed. Unless such
+2 judgment is filed and indexed, it shall not constitute notice to any subsequent bona
+3 fide purchaser for value, mortgagee, or encumbrancer.
+4 (6) If the respondent is determined to be disabled or partially disabled but no limited
+5 guardian, guardian, limited conservator, or conservator is appointed at the hearing,
+6 the determination shall have no legal effect.
+7 (7) The rights of which a protected person[ward] is legally deprived upon a
+8 determination of disability in managing his or her personal affairs and financial
+9 resources include but are not limited to the right to:
+10 (a) [The right to ]Dispose of property;[,]
+11 (b) Execute instruments;[,]
+12 (c) Enter into contractual relationships;[,]
+13 (d) Determine his or her living arrangements;[,]
+14 (e) Consent to medical procedures;[, and]
+15 (f) Obtain a motor vehicle operator's license; and
+16 (g) Engage private counsel.
+17 (8) A protected person[ward] shall only be deprived of the right to vote if the court
+18 separately and specifically makes a finding on the record as established in KRS
+19 387.580(3)(c).
+20 (9)[(8)] A partially disabled or disabled person for whom a limited guardian, limited
+21 conservator, or conservator has been appointed retains all legal and civil rights
+22 except those which have by court order been designated as legal disabilities or
+23 which have been specifically granted to the limited guardian, limited conservator,
+24 or conservator. A person who is partially disabled may be subject to some but not
+25 all of the disabilities specified in subsection (7) of this section.
+26 Section 11. KRS 387.600 is amended to read as follows:
+27 (1) The court may appoint as limited guardian, guardian, limited conservator, or
+Page 16 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 conservator any suitable person or any entity, public or private, capable of
+2 conducting an active guardianship or conservatorship program. The court shall not
+3 ordinarily or customarily appoint the Cabinet for Health and Family Services or any
+4 other person or entity, public or private, that is directly providing services to the
+5 respondent unless no other suitable person or entity is available and willing to be
+6 appointed. Appointment of the Cabinet for Health and Family Services shall be
+7 consistent with the provisions of KRS 210.290.
+8 (2) Prior to the appointment, the court shall make a reasonable effort to question the
+9 respondent concerning his or her preference regarding the person or entity to be
+10 appointed limited guardian, guardian, limited conservator, or conservator, and any
+11 preference indicated shall be given due consideration. If the respondent has
+12 designated another as his or her[ attorney in fact or] agent by executing a power of
+13 attorney in writing, or has an existing curator, that designation shall be treated as
+14 an indication of the respondent's preference as to the person or entity to be
+15 appointed as his or her limited guardian, guardian, limited conservator, or
+16 conservator, and that preference shall be given due consideration. The court shall
+17 appoint the person or entity best qualified and willing to serve.
+18 Section 12. KRS 387.620 is amended to read as follows:
+19 (1) A partially disabled or disabled person, his or her limited guardian, guardian,
+20 limited conservator, or conservator, or any other interested person may petition the
+21 court for:
+22 (a) Termination or modification of an order of partial disability or disability;
+23 (b) Removal [and/]or replacement of a limited guardian, guardian, limited
+24 conservator, or conservator; or
+25 (c) Renewal of the appointment of a limited guardian, guardian, limited
+26 conservator, or conservator.
+27 (2) Petitions pursuant to this section shall set forth:
+Page 17 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (a) The name and address of the protected person[ward];
+2 (b) The name and address of the limited guardian, guardian, limited conservator,
+3 or conservator;
+4 (c) The name, address, and interest of the petitioner;
+5 (d) The names and addresses of the protected person's[ward's] next of kin, if
+6 known;
+7 (e) The name and address of the individual or facility, if any, having custody of
+8 the protected person[ward];
+9 (f) The relief requested; and
+10 (g) The facts and reasons supporting the request.
+11 (3) A request under subsection (1) of this section, if made by the protected
+12 person[ward], may be communicated to the court by any means, including[,] but
+13 not limited to[,] oral communication or informal letter. If such a request is
+14 communicated by means other than a petition, the court shall appoint a suitable
+15 person who may, but need not be, an employee of the state, county, or court to
+16 prepare a written petition to be filed with the court within seven (7) days following
+17 the appointment. A protected person may retain private counsel to assist in the
+18 filing of a petition or request under this section. Alternately, upon request to the
+19 court, the protected person is entitled to counsel appointed on his or her behalf to
+20 assist in the filing of the petition and to represent the protected person at
+21 subsequent hearings.
+22 (4) Within thirty (30) days after the filing of a petition, the court shall conduct a
+23 hearing at which the protected person[ward] shall be entitled to counsel. The time
+24 for a hearing may be extended by the court, on motion of either party, for cause.
+25 Notice of the time and place of the hearing shall be given by the clerk of the court
+26 not less than fourteen (14) days prior to the hearing to both parties and all persons
+27 named in the petition. The petitioner shall, upon his or her motion, be entitled to
+Page 18 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 have the motion for termination or modification determined by a jury.
+2 (5) At the request of any party or on its own initiative, the court may order an
+3 interdisciplinary evaluation of the protected person[ward]. The time period in
+4 which the court must review a petition may be extended for an appropriate period of
+5 time if an evaluation is ordered by the court. The interdisciplinary evaluation report
+6 may be filed as a single or joint report of the interdisciplinary evaluation team, or it
+7 may otherwise be constituted by the separate reports filed by each individual of the
+8 team. If the court and all parties to the proceeding and their attorneys agree to the
+9 admissibility of the report or reports, the report or reports shall be admitted into
+10 evidence and shall be considered by the court.
+11 (6) Upon conclusion of a modification hearing without a jury, the court shall enter a
+12 written order setting forth the factual basis for its finding and may do any of the
+13 following:
+14 (a) Dismiss the petition;
+15 (b) Remove the guardian or conservator and dissolve the guardianship or
+16 conservatorship order;
+17 (c) Remove the limited guardian, guardian, limited conservator, or conservator
+18 and appoint a successor;
+19 (d) Modify the original guardianship or conservatorship order; or
+20 (e) Make any other order which the court deems appropriate and in the best
+21 interest of the protected person[ward].
+22 (7) If the original order is dissolved and no further order is issued, the protected
+23 person[ward] shall be relieved of all legal disabilities. The court shall enter an order
+24 and judgment restoring to the person all of the rights and privileges of a citizen. The
+25 clerk shall note the judgment or modification in the book in which notices of
+26 actions and encumbrances are indexed.
+27 (8) The clerk of the court shall transmit a certified copy of the restoration judgment or
+Page 19 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 modification to the originating court, if the judgment or modification is ordered by
+2 a court other than the court in which the original judgment was entered.
+3 Section 13. KRS 387.740 is amended to read as follows:
+4 (1) The court may exercise the powers of a limited guardian or limited conservator or
+5 may appoint an individual or agency to exercise such powers before or during the
+6 pendency of a proceeding for a determination of partial disability or disability or an
+7 appeal therefrom, if it appears that there is danger of serious impairment to the
+8 health or safety of the respondent or damage or dissipation to his or her property if
+9 immediate action is not taken.
+10 (2) Prior to a hearing on the need for an emergency appointment of a limited guardian
+11 or limited conservator, a petition shall be filed by any person or entity which sets
+12 forth the following:
+13 (a) The name, age, and address of the respondent;
+14 (b) The danger alleged to be imminent;
+15 (c) The type of appointment and the protection and assistance requested;
+16 (d) The facts and reasons supporting the request;
+17 (e) The name, address, and qualifications of the proposed limited guardian or
+18 limited conservator, if any;
+19 (f) The name, address, and interest of the petitioner;
+20 (g) The names and addresses of the respondent's next of kin, including but not
+21 limited to spouse, children, grandchildren, or parents, if known;
+22 (h) The name and address of the individual or facility, if any, having custody of
+23 the respondent;[ and]
+24 (i) The name and address of the petitioner's attorney, if any;
+25 (j) The name and address of any person or entity appointed by the respondent
+26 as respondent's agent under a durable power of attorney or as respondent's
+27 health care surrogate under an advanced directive;
+Page 20 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (k) The name and address of any person or entity appointed curator of the
+2 respondent under KRS 387.320, if known; and
+3 (l)[(i)] The date of filing of the petition for determination of disability or partial
+4 disability.
+5 (3) (a) The court shall review any and all petitions for an emergency appointment of
+6 a limited guardian or limited conservator without delay and not more than one
+7 (1) week after the petition is filed. The circuit clerk in the county in which the
+8 petition is filed shall accept all petitions and the Commonwealth shall not
+9 exclude any petition filed under this section from presentation to the court.
+10 Within one (1) week of the filing of a petition pursuant to this section, the
+11 court shall conduct a hearing at which the respondent shall be entitled to
+12 counsel. Court-appointed counsel shall be withdrawn immediately if the
+13 respondent hires private counsel who enters an appearance on his or her
+14 behalf.
+15 (b) Notice of the time and place of the hearing shall be given not less than forty-
+16 eight (48) hours prior to the hearing to all persons named in the petition, the
+17 attorney for the respondent, the petitioner, and the Commonwealth unless
+18 waived in writing or on the record.
+19 (4) The Commonwealth shall present evidence at the hearing. The petitioner shall have
+20 the right to present evidence in support of the petition at the hearing in addition to
+21 any evidence presented by the Commonwealth, and shall have the right to cross-
+22 examine witnesses.
+23 (5) The burden shall be on the Commonwealth and the petitioner to prove by clear and
+24 convincing evidence the need for the emergency appointment of a limited guardian
+25 or conservator. The retention of private counsel by the petitioner or the
+26 respondent does not change the burden of the Commonwealth.
+27 (6) If the court exercises the powers of a limited guardian or limited conservator or
+Page 21 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 appoints another to do so in an emergency situation as set forth in subsection (1) of
+2 this section, the court shall state on the record findings of fact as to the danger
+3 determined to be imminent, the sources relied on in arriving at such determination,
+4 the type of assistance to be provided, and the powers and duties of the emergency
+5 guardian or conservator. The authority of the guardian or conservator shall expire
+6 upon resolution of the appeal or action.
+7 (7) The appointment of an emergency guardian or conservator does not prohibit the
+8 respondent from retaining counsel to represent him or her in the disability trial.
+9 (8) The authority of the emergency guardian or conservator:
+10 (a) Shall expire upon resolution of the disability proceeding or after sixty (60)
+11 days, whichever occurs sooner unless the court grants an extension;
+12 (b) May extend for one (1) additional sixty (60) day term upon request of the
+13 emergency guardian or conservator, provided the court determines the
+14 emergency situation has not yet been resolved or is likely to continue until
+15 the hearing for determination of the respondent's disability; and
+16 (c) Shall expire no later than one hundred twenty (120) days after appointment.
+17 (9) The emergency guardian or conservator shall file a report within fourteen (14)
+18 days of appointment describing what actions he or she has taken to resolve the
+19 emergency situation.
+20 SECTION 14. A NEW SECTION OF KRS 387.500 TO 387.770 IS CREATED
+21 TO READ AS FOLLOWS:
+22 (1) After the appointment of a guardian, conservator, limited conservator, or limited
+23 guardian, the court may, upon request of the protected person's spouse or other
+24 interested party, address the needs of the marital parties, including but not limited
+25 to:
+26 (a) Division of tangible personal property;
+27 (b) Division of bank accounts, investment assets, and other financial holdings;
+Page 22 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 and
+2 (c) A spousal allowance to provide for the support of either the protected
+3 person or his or her spouse.
+4 (2) In making a determination under this section, the court shall consider:
+5 (a) The respective care needs of the parties;
+6 (b) The care available to each of the parties, including means-tested benefits;
+7 (c) The incomes of the parties;
+8 (d) The length of the marriage; and
+9 (e) Support for any minor or disabled children.
+10 (3) If a protected person or his or her spouse is applying for means-tested benefits,
+11 including Medicaid for long-term care, the court may review and approve any
+12 plan for the preservation of assets, including but not limited to:
+13 (a) Funding trusts for the protected person or his or her spouse or disabled
+14 child;
+15 (b) Gifting;
+16 (c) Purchase of assets;
+17 (d) Purchase of a Medicaid-compliant annuity;
+18 (e) Structure of a Medicaid-compliant promissory note; or
+19 (f) Other appropriate planning mechanisms.
+20 SECTION 15. A NEW SECTION OF KRS 387.500 TO 387.770 IS CREATED
+21 TO READ AS FOLLOWS:
+22 (1) The court may at any time appoint a guardian ad litem for the respondent if the
+23 court determines that his or her interests would not otherwise be adequately
+24 represented.
+25 (2) The guardian ad litem shall not be the same individual as the attorney
+26 representing the respondent.
+27 (3) The court shall state the reasons for the appointment.
+Page 23 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (4) Any attorney serving as a guardian ad litem shall be entitled to compensation in
+2 the same manner in which an attorney for the respondent is compensated under
+3 subsection (2) of Section 7 of this Act.
+4 Section 16. KRS 387.640 is amended to read as follows:
+5 It shall be the general duty of the limited guardian or guardian to carry out diligently and
+6 in good faith the specific duties and powers assigned by the court and to:
+7 (1) Ensure[Assure] that the personal, civil, and human rights of the protected
+8 person[ward] are protected; and
+9 (2) Encourage the protected person[ward] to:
+10 (a) Participate to the maximum extent of his or her abilities in all decisions which
+11 affect him or her;
+12 (b) Act in his or her own behalf on all matters in which he or she is able to do so;
+13 and
+14 (c) Develop or regain, to the maximum extent possible, his or her capacity to
+15 meet the essential requirements for his or her physical health or safety, and, if
+16 impaired, his or her capacity to manage his or her financial resources.
+17 Section 17. KRS 387.650 is amended to read as follows:
+18 The court may assign to a limited guardian any portion of the powers and duties specified
+19 in KRS 387.660. The court may assign other duties as are necessary to enhance the
+20 protected person's[ward's] safety and well being. A limited guardian shall comply with
+21 the reporting requirements specified by KRS 387.670 which pertain to his or her powers
+22 and duties as specified by the court, provided that all reports submitted shall include the
+23 information required by paragraphs (d) and (f) of KRS 387.670(1).
+24 Section 18. KRS 387.660 is amended to read as follows:
+25 A guardian of a disabled person shall have the following powers and duties, except as
+26 modified by order of the court:
+27 (1) To establish the protected person's[ward's] place of abode within the state, except
+Page 24 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 that, if at any time a guardian places a protected person[ward] in a licensed
+2 residential facility for developmentally disabled persons, the guardian shall, within
+3 thirty (30) days of such placement, file with the court notice of the placement,
+4 stating with specificity the reasons for such placement, and an interdisciplinary
+5 evaluation report detailing the social, psychological, medical or other
+6 considerations on which such placement is predicated, a description of the treatment
+7 or habilitation programs which will benefit the protected person[ward] as a result of
+8 such placement, and a determination that such placement will provide appropriate
+9 treatment in the least restrictive available treatment and residential program. For
+10 purposes of this subsection, the interdisciplinary evaluation report may be one
+11 performed within two (2) months prior to the placement for purposes of
+12 determining whether such placement is necessary and appropriate, or may be an
+13 evaluation and assessment provided by the residential facility immediately after
+14 placement. Notice to the court shall not be required where the protected
+15 person[ward] is transferred from one licensed residential facility to another;
+16 (2) To make provision for the protected person's[ward's] care, comfort, and
+17 maintenance and arrange for such educational, social, vocational, and rehabilitation
+18 services as are appropriate and as will assist the protected person[ward] in the
+19 development of maximum self-reliance and independence;
+20 (3) To give any necessary consent or approval to enable the protected person[ward] to
+21 receive medical or other professional care, counsel, treatment or service, except that
+22 a guardian may not consent on behalf of a protected person[ward] to an abortion,
+23 sterilization, psychosurgery, removal of a bodily organ, or amputation of a limb
+24 unless the procedure is first approved by order of the court or is necessary, in an
+25 emergency situation, to preserve the life or prevent serious impairment of the
+26 physical health of the protected person[ward];
+27 (4) To act with respect to the protected person[ward] in a manner which limits the
+Page 25 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 deprivation of civil rights and restricts his or her personal freedom only to the
+2 extent necessary to provide needed care and services to him or her; and
+3 (5) To expend sums from the financial resources of the protected person[ward]
+4 reasonable and necessary to carry out the powers and duties assigned to him or her
+5 by the court.
+6 If a separate limited conservator or conservator has been appointed for the protected
+7 person[ward], the expenditure of funds by the limited guardian shall be consistent with
+8 the duties assigned to and procedures and policies established by such limited conservator
+9 or conservator. Conflicts arising between a limited guardian and a limited conservator or
+10 conservator regarding the expenditure of funds which are unable to be otherwise resolved
+11 shall be submitted to the court for resolution.
+12 Section 19. KRS 387.670 is amended to read as follows:
+13 (1) A guardian shall file with the court at least annually a verified report stating:
+14 (a) The protected person's[ward's] current mental, physical, and social condition;
+15 (b) The address of every residence of the protected person[ward] during the
+16 reporting period and length of stay at each residence;
+17 (c) A summary of the medical, social, educational, vocational, and other
+18 professional services received by the protected person[ward] during the
+19 reporting period;
+20 (d) An outline of the guardian's visits with and activities on behalf of the
+21 protected person[ward];
+22 (e) A recommendation as to the need for continued guardianship;
+23 (f) A statement signed by the standby guardian, if one has been appointed, that
+24 the standby guardian continues to be willing to serve in the event of the death,
+25 resignation, removal, or incapacity of the guardian; and
+26 (g) Other information requested by the court or useful in the opinion of the
+27 guardian.
+Page 26 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (2) For the purpose of filing the report required by subsection (1) of this section, the
+2 guardian shall be given access to records pertaining to the protected person[ward]
+3 held by public or private agencies which contain information necessary for the
+4 guardian to perform his or her duties.
+5 (3) The court shall review the report required in subsection (1) of this section and take
+6 whatever action it considers necessary to enhance the well-being of the protected
+7 person[ward].
+8 Section 20. KRS 387.680 is amended to read as follows:
+9 It shall be the general duty of the limited conservator or conservator to carry out,
+10 diligently and in good faith, the specific duties and powers assigned by the court and to:
+11 (1) Manage or assist in managing those financial resources placed under his or her
+12 supervision [and/]or control as would a prudent person managing his or her own
+13 resources, including establishing or placing resources in a trust, and, if a
+14 conservator has special skills or is named conservator on the basis of
+15 representations of special skills or expertise, he or she shall use those skills; and
+16 (2) Encourage the protected person[ward] to:
+17 (a) Participate, to the maximum extent of his or her abilities, in all decisions
+18 which affect him or her;
+19 (b) Act on his or her own behalf on all matters in which he or she is able to do
+20 so; and
+21 (c) Develop or regain, to the maximum extent possible, his or her capacity to
+22 manage his or her financial resources and, if impaired, his or her capacity to
+23 meet the essential requirements for his or her physical health or safety.
+24 Section 21. KRS 387.690 is amended to read as follows:
+25 (1) A limited conservator or conservator shall expend or distribute, or authorize the
+26 expenditure or distribution of, or assist in the expenditure or distribution of, the
+27 principal or income from the financial resources placed under his or her supervision
+Page 27 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 and control to ensure[assure] that:
+2 (a) The essential requirements for the physical health or safety of the protected
+3 person[ward] are met;
+4 (b) The rights of the protected person[ward] are protected;
+5 (c) The financial resources of the protected person[ward] which are subject to the
+6 conservatorship are prudently managed;
+7 (d) The protected person[ward] has the opportunity to develop or regain the
+8 capacity to perform the functions listed in paragraphs (a), (b), and (c) of
+9 subsection (2) of KRS 387.680; and
+10 (e) The limited guardian or guardian for the protected person[ward], if any, is
+11 able to carry out the duties and powers assigned to him or her by the court.
+12 (2) In performing his or her duties, the limited conservator or conservator shall
+13 consider:
+14 (a) The size of the financial resources under the limited conservator's or
+15 conservator's supervision or control;
+16 (b) The probable duration of the conservatorship;
+17 (c) The likelihood that the protected person[ward] may be able to manage his or
+18 her financial resources in the future;
+19 (d) The accustomed standard of living of the protected person[ward];
+20 (e) Other funds or resources used for the support of the protected person[ward]
+21 which have not been placed under the control or supervision of the limited
+22 conservator or conservator; and
+23 (f) The requests of the protected person[ward] and the protected
+24 person's[ward's] limited guardian or guardian, if any.
+25 (3) In addition to the duties and powers listed in subsection (1) of this section, the court
+26 may assign to a limited conservator any of the duties and powers listed in KRS
+27 387.700 which the partially disabled person lacks the ability to perform.
+Page 28 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 Section 22. KRS 387.700 is amended to read as follows:
+2 (1) A conservator has all of the powers conferred herein and any additional powers
+3 conferred by law on trustees in this state. The conservator may take possession of
+4 the protected person's[ward's] real and personal property, and of all rents, incomes,
+5 and benefits therefrom, whether accruing before or after his or her appointment,
+6 and of the proceeds arising from the sale, mortgage, lease or exchange thereof.
+7 Subject to such possession the title of all such estate and to the increment and
+8 proceeds thereof shall be to the protected person[ward] and not to the conservator.
+9 It is the duty of the conservator to protect and preserve the estate, to retain, sell and
+10 invest it as hereinafter provided, prosecute or defend actions, claims or proceedings
+11 in any jurisdiction for the protection of the estate's assets, to account for it
+12 faithfully, to perform all other duties required of him or her by law, and, at the
+13 termination of the conservatorship, to deliver the assets of the protected
+14 person[ward] to the persons lawfully entitled thereto.
+15 (2) The conservator shall apply the money and property for the payments of debts,
+16 taxes, claims, charges and expenses of the conservatorship and for the support, care,
+17 maintenance and education of the protected person[ward] or his or her dependents.
+18 (3) Any sale of realty of a protected person[ward] shall be as provided in KRS Chapter
+19 389A.
+20 (4) Any lease of mineral rights, oil and gas rights, or sale of timber owned by a
+21 protected person[ward], or consolidation agreement, as defined by KRS 353.220, to
+22 be made on behalf of a protected person[ward] by a conservator shall require the
+23 authorization and order of the District Court of the county where the conservator
+24 has qualified. Such order may be given only pursuant to written motion which
+25 contains the grounds for the motion and a description of the lease or agreement
+26 involved.
+27 Section 23. KRS 387.710 is amended to read as follows:
+Page 29 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (1) Within sixty (60) days of appointment, the limited conservator or conservator shall
+2 file with the court a verified inventory of all the property of the protected person
+3 [ward] which has come to his or her possession or knowledge, including a
+4 statement of all encumbrances, liens, and other secured claims on any item, any
+5 claims against the estate of the protected person[ward], and any cause of action
+6 accruing to the protected person[ward]. The limited conservator or conservator
+7 shall provide a copy thereof to the protected person[ward] if he or she has
+8 sufficient mental capacity to understand it.
+9 (2) (a) A limited conservator or conservator shall file with the court a verified report
+10 and financial account biennially within one hundred twenty (120) days after
+11 the anniversary date of his or her appointment. The report shall contain:
+12 1. The present personal status of the protected person[ward] whose estate
+13 is managed by the conservator;
+14 2. The conservator's plan for preserving and maintaining the estate of
+15 which he or she has control or supervision;
+16 3. The need for continuation or cessation of the conservatorship; and
+17 4. The need for any alteration in the powers of the conservatorship.
+18 (b) The biennial report shall specify the amount and type of real and personal
+19 property received by the conservator and remaining in his or her control or
+20 invested by him or her, the nature of such investment, and expenditures made
+21 during the preceding year. Upon request of the court, the conservator shall
+22 produce for examination any information or documentation which the court
+23 may consider relevant to the accounting of the financial and property
+24 transactions of the estate.
+25 (c) If the protected person[ward] has no real property and possesses personal
+26 property of two thousand five hundred dollars ($2,500) or less for any year
+27 during the biennial report, the conservator or limited conservator may file an
+Page 30 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 informal biennial financial report attesting to the identity of the protected
+2 person's[ward's] financial account and its current balance. If the balance does
+3 not exceed two thousand five hundred dollars ($2,500) for any year of the
+4 biennial report, the conservator or limited conservator shall not be required to
+5 render to the court a detailed accounting of the expenditures from the fund,
+6 unless the court, on its own motion or that of any interested party or
+7 individual, deems it necessary to order the conservator or limited conservator
+8 to provide a detailed biennial accounting, including the listing of all
+9 expenditures for that reporting period.
+10 (3) Upon the resignation, removal, or death of a limited conservator or conservator, or
+11 on the termination of the conservatorship, the limited conservator or conservator, or
+12 his or her personal representative, shall [forthwith ]submit a final report and
+13 account to the court and to the former protected person[ward] and to the successor
+14 limited conservator or conservator, or, if the protected person[ward] is deceased, to
+15 his or her personal representative, and shall pay over the trust estate to the person
+16 entitled thereto. Upon approval of the report and account, the limited conservator or
+17 conservator shall be discharged and his or her surety, if any, released.
+18 Section 24. KRS 387.750 is amended to read as follows:
+19 (1) On appointment of a limited guardian, guardian, limited conservator, or
+20 conservator, or at any time thereafter, the court may designate another suitable
+21 person or entity to assume the powers and duties assigned to the limited guardian,
+22 guardian, limited conservator, or conservator upon his or her death, resignation,
+23 removal, or incapacity. Prior to such designation, the individual or entity to be
+24 designated shall file with the court a written application stating the name, address,
+25 and qualifications of the applicant and his or her relationship, if any, to the
+26 respondent.
+27 (2) The individual so designated shall file an acceptance with the court within ten (10)
+Page 31 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 days of the death, resignation, or incapacity of his or her predecessor. Notice shall
+2 also be given to the protected person[ward] and his or her nearest adult relative.
+3 An individual serving on a standby basis may exercise all the powers and duties
+4 assigned to his or her predecessor upon filing of his or her acceptance unless
+5 otherwise ordered by the court.
+6 (3) In an emergency situation and in the absence and unavailability of the initially
+7 appointed guardian or conservator, the standby guardian or conservator may
+8 temporarily assume the powers and duties of the initially appointed guardian or
+9 conservator.
+10 Section 25. KRS 387.760 is amended to read as follows:
+11 (1) No court costs shall be charged to a respondent or protected person[ward] in any
+12 proceeding under KRS 387.500 to 387.770, if the respondent or protected
+13 person[ward] is a poor person as defined in KRS 453.190.
+14 (2) Limited guardians, guardians, limited conservators, and conservators are entitled to
+15 reasonable compensation for services rendered and to reimbursement for reasonable
+16 and necessary expenses incurred in the exercise of their assigned guardianship or
+17 conservatorship duties and powers. Such compensation and reimbursement shall be
+18 paid from the financial resources of the protected person[ward] and shall not
+19 exceed:
+20 (a) A commission of not more than six percent (6%) of the income collected by
+21 the fiduciary, payable at the time the income is collected; and
+22 (b) Either, but not both, of the following, as elected by the fiduciary:
+23 1. An annual commission of three-tenths of one percent (0.3%) of the fair
+24 market value of the real and personal property in the care of the
+25 fiduciary; or
+26 2. An annual commission of not more than six percent (6%) of the fair
+27 market value of the principal distributed by the fiduciary, payable at the
+Page 32 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 time the principal is distributed.
+2 In the absence of an agreement to the contrary, a commission on income shall be
+3 paid out of the income of the estate and a commission on principal shall be paid out
+4 of the principal of the estate.
+5 (3) Upon submitted proof showing that in the handling of the estate the fiduciary has
+6 performed additional and necessary services which have been unusual or
+7 extraordinary and not normally incident to the care and management of a similar
+8 estate, the court may allow the fiduciary additional compensation as is fair and
+9 reasonable for the additional services rendered.
+10 Section 26. KRS 216B.303 is amended to read as follows:
+11 Every resident in a boarding home, as defined in KRS 216B.300, shall have at least the
+12 following rights:
+13 (1) Before entering a boarding home, the resident or the resident's guardian, if any,
+14 shall be fully informed in writing, as evidenced by the resident's written
+15 acknowledgment or that of the resident's guardian, of all services provided by the
+16 boarding home and all applicable charges.
+17 (2) Before entering a boarding home, the resident or the resident's guardian shall be
+18 fully informed in writing, as evidenced by the resident's written acknowledgment or
+19 that of the resident's guardian, of all the resident's rights as defined in this section,
+20 and a list of any rules established by the boarding home.
+21 (3) All residents shall be allowed to exercise their rights as a resident and a citizen, and
+22 may voice grievances and recommend changes in policies and services to the
+23 boarding home operator and to outside representatives of their choice, free from
+24 restraint, interference, coercion, discrimination, or reprisal.
+25 (4) All residents shall be free from mental and physical abuse.
+26 (5) Each resident may manage the use of his or her personal funds. The boarding home
+27 operator shall not require a resident to designate the operator as payee for any
+Page 33 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 benefits received by the resident. However, if the operator accepts the responsibility
+2 for managing the resident's personal funds as evidenced by the operator's written
+3 acknowledgment, proper accounting and monitoring of such funds shall be made.
+4 This shall include the operator giving quarterly itemized statements to the resident
+5 or the resident's guardian which detail the status of the resident's personal funds and
+6 any transactions in which such funds have been received or disbursed. The operator
+7 shall return to the resident his or her valuables, personal possessions, and any
+8 unused balance of moneys from his or her account at the time the resident leaves
+9 the boarding home.
+10 (6) Residents shall not be required to perform services for the boarding home.
+11 (7) Residents may associate and communicate privately with persons of their choice,
+12 within reasonable hours established by the boarding home, and send and receive
+13 personal mail unopened.
+14 (8) No resident shall be detained against the resident's will. Residents shall be
+15 permitted and encouraged to go outdoors and leave the premises as they wish.
+16 (9) Residents shall be permitted to participate in activities of social, religious, and
+17 community groups at their discretion.
+18 (10) Residents shall be assured of at least visual privacy in multibed rooms and in
+19 bathrooms.
+20 (11) If the resident has been adjudicated wholly mentally disabled in both financial and
+21 personal affairs in accordance with KRS 387.590, the resident's guardian shall not
+22 place the protected person[ward] in a boarding home.
+23 (12) Each resident shall be treated with consideration, respect, and full recognition of his
+24 or her dignity and individuality.
+25 (13) Residents shall have access to a telephone at a convenient location within the
+26 boarding home for making and receiving telephone calls subject to reasonable rules
+27 established by the boarding home.
+Page 34 of 35
+XXXX 11/25/2025 9:53 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1242
+1 (14) Residents have the right to have private meetings with inspectors representing the
+2 Cabinet for Health and Family Services.
+3 (15) Each resident and his or her guardian has the right to have access to all inspection
+4 reports on the boarding home.
+Page 35 of 35
+XXXX 11/25/2025 9:53 AM Jacketed

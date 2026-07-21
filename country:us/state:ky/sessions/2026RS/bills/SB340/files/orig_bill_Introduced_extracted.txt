@@ -1,0 +1,773 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 AN ACT relating to the Kentucky all-payer claims database.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) The Kentucky all-payer claims database is established in Sections 1 to 6 of this
+6 Act to effectuate the following purposes:
+7 (a) Allow for targeted population health initiatives;
+8 (b) Determine state health status needs;
+9 (c) Inform state health care planning;
+10 (d) Support research in the areas of health care cost, quality, and accessibility;
+11 (e) Improve the accessibility, adequacy, and affordability of health care and
+12 health care coverage through the review and dissemination of data;
+13 (f) Review health care costs among various treatment settings, providers, and
+14 modalities;
+15 (g) Evaluate the effectiveness of health care programs and services to improve
+16 patient outcomes; and
+17 (h) Support the development of quality improvement initiatives.
+18 (2) Sections 1 to 6 of this Act shall not be construed to supersede, supplement, or
+19 limit the provisions of KRS Chapter 216B relating to certificates of need.
+20 SECTION 2. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+21 READ AS FOLLOWS:
+22 As used in Sections 1 to 6 of this Act:
+23 (1) "Executive director" means the executive director of the Office of Data Analytics
+24 created in Section 8 of this Act;
+25 (2) "Health care claims":
+26 (a) Means claims made for the payment or reimbursement of the following
+27 types of health care services:
+Page 1 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 1. Medical and hospital, which includes without limitation surgical,
+2 mental health, substance use disorder, nursing, rehabilitative and
+3 habilitative services, and laboratory services;
+4 2. Dental;
+5 3. Pharmacy; and
+6 4. Any other health care service designated by the executive director in
+7 an administrative regulation promulgated in accordance with KRS
+8 Chapter 13A; and
+9 (b) Does not include claims made to a primary care provider for the provision
+10 of primary care services under a direct primary care membership agreement
+11 established under KRS 311.6201, 311.6202, 314.198, or 314.199;
+12 (3) (a) "Health payer" means any person that pays, or administers the payment of,
+13 health care claims.
+14 (b) As used in paragraph (a) of this subsection, "person" includes but is not
+15 limited to:
+16 1. Medicare;
+17 2. Medicaid;
+18 3. The Kentucky Children's Health Insurance Program;
+19 4. Workers' compensation insurers, including governmental and
+20 nongovernmental workers' compensation self-insurers and self-
+21 insured groups;
+22 5. Insurers, self-insurers, and self-insured groups, including
+23 governmental and nongovernmental self-insured employers, self-
+24 insured health plans, and self-insured employer-organized
+25 associations, that provide:
+26 a. Coverage for health care services;
+27 b. Health care benefits; or
+Page 2 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 c. Any kind of insurance regulated under KRS Chapter 304;
+2 6. Health maintenance organizations;
+3 7. Limited health service organizations;
+4 8. Provider-sponsored integrated health delivery networks;
+5 9. Nonprofit hospital, medical-surgical, dental, and health service
+6 corporations;
+7 10. Administrators, as defined in KRS 304.9-051;
+8 11. Pharmacy benefit managers;
+9 12. Any third-party payor that is not exempt by federal law from
+10 regulation under the insurance laws of this state;
+11 13. Any person that contracts with a state or federal agency to provide
+12 coverage for health care services; and
+13 14. Any vendor or contractor of a person listed in this paragraph; and
+14 (4) "Kentucky all-payer claims database" means the all-payer claims database
+15 established in Sections 1 to 6 of this Act.
+16 SECTION 3. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+17 READ AS FOLLOWS:
+18 (1) The Kentucky all-payer claims database fund is hereby established as a restricted
+19 fund in the State Treasury.
+20 (2) The following shall be deposited into the fund:
+21 (a) All grants and funds received or raised under Section 4 of this Act;
+22 (b) Any fees collected under Section 6 of this Act;
+23 (c) Any penalties collected under Section 10 of this Act; and
+24 (d) Any appropriations made to the fund by the General Assembly.
+25 (3) Notwithstanding KRS 45.229, moneys in the fund not expended at the close of a
+26 fiscal year shall not lapse but shall be carried forward to the next fiscal year.
+27 (4) Moneys in the fund shall be available to the executive director to develop,
+Page 3 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 implement, operate, and maintain the Kentucky all-payer claims database.
+2 SECTION 4. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+3 READ AS FOLLOWS:
+4 (1) The executive director shall develop, implement, operate, and maintain the
+5 Kentucky all-payer claims database in accordance with Sections 1 to 6 of this Act.
+6 (2) In carrying out the duties under subsection (1) of this section, the executive
+7 director:
+8 (a) Shall make good-faith efforts to:
+9 1. Seek and accept grants, or raise funds, from any available source,
+10 public or private, to support the development, implementation,
+11 operation, and maintenance of the database; and
+12 2. Establish agreements:
+13 a. For voluntary reporting of health care claims data from health
+14 payers that are not subject to mandatory reporting requirements.
+15 If feasible, the executive director shall implement the reporting
+16 format for self-insured group health plans described in 29 U.S.C.
+17 sec. 1191d, as amended;
+18 b. With the federal Centers for Medicare and Medicaid Services to
+19 obtain Medicare health care claims data; and
+20 c. With all-payer claims databases in other states to establish a
+21 single application for access to data by authorized users across
+22 multiple states, if the executive director determines that the
+23 agreements are feasible and beneficial for the operation of the
+24 Kentucky all-payer claims database;
+25 (b) Shall:
+26 1. Determine the measures necessary to implement reporting
+27 requirements in a manner that:
+Page 4 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 a. Is cost effective and reasonable for data sources;
+2 b. Is timely, relevant, and reliable for data users;
+3 c. Eliminates, or reduces to the greatest extent practicable, the
+4 submission of duplicate or redundant health care claims data;
+5 and
+6 d. Does not violate any applicable laws;
+7 2. Establish policies and procedures necessary for the administration
+8 and oversight of the database, including all necessary communication,
+9 coordination, and data sharing with the commissioner of insurance
+10 for enforcement under Section 10 of this Act;
+11 3. Ensure the integrity, privacy, and security of personal health
+12 information and other proprietary information related to the collection
+13 and release of data;
+14 4. Ensure that the database is operated in compliance with all state and
+15 federal law, including but not limited to:
+16 a. The federal Health Insurance Portability and Accountability Act
+17 of 1996, Pub. L. No. 104-191, as amended, and any related
+18 federal regulations, as amended;
+19 b. 42 U.S.C. sec. 290dd-2, as amended, and any related federal
+20 regulations, as amended, including but not limited to 42 C.F.R.
+21 pt. 2; and
+22 c. All other applicable state and federal data privacy and security
+23 laws relating to the collection, storage, and release of data,
+24 except that the provisions of this section and Section 6 of this Act
+25 shall control over any conflicting state laws; and
+26 5. Promulgate any administrative regulations in accordance with KRS
+27 Chapter 13A that are necessary to carry out Sections 1 to 6 of this Act;
+Page 5 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 and
+2 (c) May:
+3 1. a. Audit any data required to be submitted under Section 6 of this
+4 Act as needed to corroborate the accuracy of submitted data.
+5 b. Any audit conducted under this subparagraph shall, to the extent
+6 practicable, be coordinated with other audits or examinations
+7 performed by state or federal agencies;
+8 2. a. Contract with one (1) or more qualified third parties:
+9 i. To collect or process health care claims data; or
+10 ii. For any other expertise, service, or function necessary to
+11 carry out the provisions of Sections 1 to 6 of this Act.
+12 b. The authority granted under this subparagraph shall include
+13 without limitation designating a qualified third party to
+14 implement, operate, and maintain the Kentucky all-payer claims
+15 database; and
+16 3. Share and receive data or other information, including confidential
+17 and proprietary data or information, with and from state agencies,
+18 federal agencies, and all-payer claims databases in other states if:
+19 a. The recipient agrees in a written or electronic record to maintain
+20 any confidential or proprietary status afforded to the data or
+21 information; and
+22 b. The data or information is shared or received in a manner that
+23 does not violate any applicable laws.
+24 (3) If the executive director contracts with a third-party under subsection (2)(c)2. of
+25 this section, the executive director shall monitor and supervise the third party to
+26 ensure that the third party complies with Sections 1 to 6 of this Act.
+27 (4) A third party that contracts with the executive director under subsection (2)(c)2.
+Page 6 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 of this section shall not release, publish, or otherwise use any information to
+2 which the third party has access under the contract without express permission in
+3 a written or electronic record from the executive director.
+4 (5) A waiver of any applicable privilege or claim of confidentiality in data or
+5 information shall not occur as a result of a disclosure made under this section.
+6 (6) (a) With regard to the Kentucky all-payer claims database, the executive
+7 director shall, by September 1 of each year, file a written report with the
+8 Governor and the Legislative Research Commission, for referral to the
+9 appropriate interim joint committees or other appropriate committees, that
+10 details the following:
+11 1. The status of any development efforts, including efforts to obtain
+12 funding for the database;
+13 2. A detailed summary of database operations for the previous year;
+14 3. The financial stability of the database;
+15 4. An assessment of:
+16 a. The cost, performance, and effectiveness of the database;
+17 b. The performance of any third parties designated by the executive
+18 director under subsection (2)(c)2. of this section; and
+19 c. Whether the database has advanced the purposes set forth in
+20 Section 1 of this Act; and
+21 5. Any recommendations for database changes or improvements,
+22 including statutory changes.
+23 (b) In completing the determination required under paragraph (a)4.c. of this
+24 subsection, the executive director shall, to the extent it is available, utilize
+25 economic expertise.
+26 SECTION 5. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+27 READ AS FOLLOWS:
+Page 7 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 (1) There is hereby established the Kentucky All-Payer Claims Database Advisory
+2 Council, whose duties shall be to make recommendations to the executive director
+3 as to the development, implementation, operation, and maintenance of the
+4 database.
+5 (2) (a) The council shall consist of the following individual members:
+6 1. A member of academia with experience in health care data research;
+7 2. A representative from the Kentucky Hospital Association;
+8 3. A representative from the Kentucky Medical Association;
+9 4. A representative from the Kentucky Pharmacists Association;
+10 5. A representative from the Kentucky Dental Association;
+11 6. A representative from the Kentucky Primary Care Association;
+12 7. A representative from a Medicaid managed care organization or an
+13 organization that represents Medicaid managed care organizations;
+14 8. A representative from a health insurer that offers health insurance
+15 coverage in the private market or an organization that represents such
+16 health insurers;
+17 9. A representative from an employer that provides self-insured group
+18 health insurance coverage to its employees;
+19 10. A representative from a property and casualty insurer or an
+20 organization that represents property and casualty insurers;
+21 11. A representative from a workers' compensation insurer, self-insurer,
+22 or self-insured group;
+23 12. A person that advocates on behalf of, or promotes the interests of,
+24 health care consumers; and
+25 13. A person with expertise or experience in health care data collection or
+26 storage.
+27 (b) In addition to the members listed in paragraph (a) of this subsection, the
+Page 8 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 following persons, or their designees, shall serve as ex officio members of
+2 the council:
+3 1. The commissioner of the Department of Insurance;
+4 2. The executive director of the Commonwealth Office of Technology;
+5 3. The commissioner of the Department of Employee Insurance;
+6 4. The commissioner of the Department for Medicaid Services;
+7 5. The commissioner of the Department for Public Health; and
+8 6. The commissioner of the Department for Behavioral Health,
+9 Developmental and Intellectual Disabilities.
+10 (c) The council shall include the following nonvoting ex officio members:
+11 1. The executive director, who shall serve as chair of the council; and
+12 2. A representative of the Office of Application Technology Services.
+13 (d) The members listed in paragraph (a) of this subsection shall:
+14 1. Be appointed by the Governor; and
+15 2. Serve a term of three (3) years.
+16 (e) 1. The Governor shall fill all vacancies under paragraph (a) of this
+17 subsection within sixty (60) days of the vacancy.
+18 2. In the event a representative or person referenced in paragraph (a) of
+19 this subsection is not available or willing to serve, the Governor shall
+20 appoint a person with expertise or experience in the applicable
+21 referenced industry or subject matter.
+22 (3) The council's recommendations shall include but not be limited to
+23 recommendations that:
+24 (a) Provide specific strategies for measuring and collecting data related to
+25 health care safety, quality, utilization, health outcomes, and cost;
+26 (b) Focus on data elements that foster quality improvement and peer group
+27 comparisons;
+Page 9 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 (c) Facilitate value-based, cost-effective purchasing of health care services by
+2 public and private purchasers and consumers;
+3 (d) Result in usable and comparable information that allows public and private
+4 health care purchasers, consumers, and data analysts to identify and
+5 compare health plans, health payers, health care facilities, and health care
+6 providers regarding the provision of safe, cost-effective, and high-quality
+7 health care services;
+8 (e) Use and build upon existing data collection standards and methods that
+9 establish and maintain the database in a cost-effective and efficient manner,
+10 which includes incorporating and utilizing uniform data collection that
+11 aligns, where possible, with national or federal uniform all-payer claims
+12 database standards;
+13 (f) Incorporate and utilize claims, eligibility, and other publicly available data
+14 to the extent it is the most cost-effective method of collecting data to
+15 minimize the cost and administrative burden on data sources;
+16 (g) Address whether publicly available data, in addition to the data submitted by
+17 health payers, should be included to measure or analyze health care quality,
+18 safety, or cost issues, including data on the uninsured;
+19 (h) Address the use of a master person identification process to enable
+20 matching members across health plans;
+21 (i) Ensure the integrity, privacy, and security of personal health information
+22 and other proprietary information related to the collection and release of
+23 data, including compliance with all state and federal laws as required under
+24 subsection (2)(b) of Section 4 of this Act;
+25 (j) Address ongoing oversight of database operations; and
+26 (k) Address the feasibility and advisability of working with all-payer claims
+27 databases in other states to establish a single application for access to data
+Page 10 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 by authorized users across multiple states.
+2 (4) The first meeting of the council shall take place within thirty (30) days of
+3 appointment of all the members listed in subsection (2)(a) of this section.
+4 (5) (a) The council shall meet upon the call of the executive director, but not less
+5 than quarterly for the first two (2) years after the date of the first council
+6 meeting. Thereafter, the council shall meet not less than semiannually.
+7 (b) A majority of the voting members shall constitute a quorum to do business.
+8 (c) Recommendations of the council shall require a:
+9 1. Quorum; and
+10 2. Majority of the voting members present.
+11 (d) A member shall be permitted to participate and vote in council business
+12 through distance communication technology.
+13 (6) The council shall be a budgetary unit of the cabinet, which shall:
+14 (a) Pay the council's necessary operating expenses; and
+15 (b) Furnish all office space, personnel, equipment, supplies, and technical or
+16 administrative services required by the council in the performance of the
+17 functions established in this section.
+18 (7) Members of the council listed in subsection (2)(a) of this section shall receive no
+19 compensation for services, but shall receive actual and necessary travel expenses
+20 associated with attending meetings in accordance with state administrative
+21 regulations relating to travel reimbursement.
+22 SECTION 6. A NEW SECTION OF KRS CHAPTER 194A IS CREATED TO
+23 READ AS FOLLOWS:
+24 (1) To the extent permitted under federal law, health payers shall submit data
+25 relating to health care claims to the executive director, or a third party designated
+26 by the executive director, beginning not later than the last of the following to
+27 occur:
+Page 11 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 (a) Three (3) months after the Kentucky all-payer claims database becomes
+2 fully operational; or
+3 (b) The date the person begins to do business, operate, or otherwise engage in
+4 activity in Kentucky.
+5 (2) (a) The executive director shall establish the following by administrative
+6 regulation:
+7 1. The data elements to be collected, the reporting format, and the
+8 frequency of submissions under subsection (1) of this section;
+9 2. The data available to data users under subsection (5) of this section,
+10 including:
+11 a. The manner in which the data will be made available; and
+12 b. The process for accessing, requesting, and making the data
+13 available; and
+14 3. Data access fees, which shall be deposited into the fund established in
+15 Section 3 of this Act.
+16 (b) In carrying out the requirements of this subsection, the executive director
+17 may require data users to enter into data service agreements or memoranda
+18 of understanding.
+19 (3) To the extent permitted under federal law, any health payer not required to
+20 comply with this section under state or federal law may opt to submit data under
+21 this section.
+22 (4) All state and local government health plans or programs regulated, created, or
+23 authorized under Kentucky law, including any insurers or administrators
+24 offering or administering those plans or programs, shall comply with the data
+25 submission requirements of this section, including without limitation:
+26 (a) Any plan or program offered or administered under KRS Chapter 205; and
+27 (b) Any governmental plan, as defined in 29 U.S.C. sec. 1002, including any
+Page 12 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 plan offered to the Public Employee Health Insurance Program for public
+2 employees under KRS 18A.225 or 18A.2254.
+3 (5) Except as otherwise provided in this section, the Kentucky all-payer claims
+4 database shall:
+5 (a) Be available to provide data to:
+6 1. Health payers, consumers, employers, health care facilities, health
+7 care providers, purchasers of health care, and state agencies, in a
+8 form and manner that ensures the privacy and security of personal
+9 health information as required by state and federal law, for the
+10 purpose of allowing continuous review of health care utilization,
+11 expenditures, quality, and safety; and
+12 2. A state agency or other public or private entity for the purpose of
+13 supporting the agency's or entity's demonstrated efforts to improve or
+14 benefit the health care system through research and analysis, subject
+15 to administrative regulations promulgated by the executive director;
+16 and
+17 (b) Present data in a manner that:
+18 1. Allows for comparisons of:
+19 a. Geographic, demographic, and economic factors; and
+20 b. Institutional size; and
+21 2. Is consumer-friendly.
+22 (6) (a) To the extent permitted under federal law, a health payer shall not be
+23 required to obtain any individual's consent or permission in order to submit
+24 the individual's data in accordance with this section.
+25 (b) Compliance with the requirements of this section shall not be deemed a
+26 violation of data or consumer privacy laws or any other laws.
+27 (7) Except as provided in Section 4 of this Act and subsection (8) of this section, the
+Page 13 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 Kentucky all-payer claims database shall not disclose any data that:
+2 (a) Could be used to identify an individual;
+3 (b) Is determined by the executive director to be incomplete, preliminary,
+4 substantially in error, or not representative; or
+5 (c) Could, due to small sample size or other factors, reveal the identity of an
+6 individual or produce misleading information.
+7 (8) (a) The executive director may require health payers to submit or use direct
+8 identifying information about individuals for the purpose of assigning a
+9 unique patient identifier.
+10 (b) Upon the assignment of a unique patient identifier, all direct identifying
+11 information about the individual shall be stripped from any data collected,
+12 and not be retained, by the executive director or any third party designated
+13 by the executive director.
+14 (9) (a) A person shall not access, request, receive, or use any data or information
+15 disclosed under subsection (5) of this section:
+16 1. To obtain or disclose trade secrets;
+17 2. To reidentify or attempt to reidentify an individual's data or
+18 information;
+19 3. To sell the data or information;
+20 4. To distribute the data or information for commercial purposes;
+21 5. To take any action in violation of any applicable data privacy or
+22 security laws; or
+23 6. For any purpose not identified in subsection (5) of this section.
+24 (b) A person shall not access or receive data from the Kentucky all-payer
+25 claims database unless the person agrees in a written or electronic record to
+26 comply with this subsection.
+27 (10) All information and data acquired by the executive director or a third party
+Page 14 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 designated by the executive director under this section shall:
+2 (a) Be disclosed only to the extent provided in Section 4 of this Act and this
+3 section; and
+4 (b) Not be subject to disclosure under KRS 61.870 to 61.884.
+5 Section 7. KRS 194A.030 is amended to read as follows:
+6 The cabinet consists of the following major organizational units, which are hereby
+7 created:
+8 (1) Office of the Secretary. Within the Office of the Secretary, there shall be an Office
+9 of Legal Services, an Office of Inspector General, an Office of Public Affairs, an
+10 Office of Human Resource Management, an Office of Finance and Budget, an
+11 Office of Legislative and Regulatory Affairs, an Office of Administrative Services,
+12 an Office of Application Technology Services, an Office of Data Analytics, and an
+13 Office of Medical Cannabis as follows:
+14 (a) The Office of Legal Services shall provide legal advice and assistance to all
+15 units of the cabinet in any legal action in which it may be involved. The
+16 Office of Legal Services shall employ all attorneys of the cabinet who serve
+17 the cabinet in the capacity of attorney, giving legal advice and opinions
+18 concerning the operation of all programs in the cabinet. The Office of Legal
+19 Services shall be headed by a general counsel who shall be appointed by the
+20 secretary with the approval of the Governor under KRS 12.050 and 12.210.
+21 The general counsel shall be the chief legal advisor to the secretary and shall
+22 be directly responsible to the secretary. The Attorney General, on the request
+23 of the secretary, may designate the general counsel as an assistant attorney
+24 general under the provisions of KRS 15.105;
+25 (b) The Office of Inspector General shall be headed by an inspector general who
+26 shall be appointed by the secretary with the approval of the Governor. The
+27 inspector general shall be directly responsible to the secretary. The Office of
+Page 15 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 Inspector General shall be responsible for:
+2 1. The conduct of audits and investigations for detecting the perpetration of
+3 fraud or abuse of any program by any client, or by any vendor of
+4 services with whom the cabinet has contracted; and the conduct of
+5 special investigations requested by the secretary, commissioners, or
+6 office heads of the cabinet into matters related to the cabinet or its
+7 programs;
+8 2. Licensing and regulatory functions as the secretary may delegate;
+9 3. Review of health facilities participating in transplant programs, as
+10 determined by the secretary, for the purpose of determining any
+11 violations of KRS 311.1911 to 311.1959, 311.1961, and 311.1963;
+12 4. The duties, responsibilities, and authority pertaining to the certificate of
+13 need functions and the licensure appeals functions, pursuant to KRS
+14 Chapter 216B;
+15 5. The notification and forwarding of any information relevant to possible
+16 criminal violations to the appropriate prosecuting authority;
+17 6. The oversight of the operations of the Kentucky Health Information
+18 Exchange; and
+19 7. The support and guidance to health care providers related to telehealth
+20 services, including the development of policy, standards, resources, and
+21 education to expand telehealth services across the Commonwealth;
+22 (c) The Office of Public Affairs shall be headed by an executive director
+23 appointed by the secretary with the approval of the Governor in accordance
+24 with KRS 12.050. The office shall provide information to the public and news
+25 media about the programs, services, and initiatives of the cabinet;
+26 (d) The Office of Human Resource Management shall be headed by an executive
+27 director appointed by the secretary with the approval of the Governor in
+Page 16 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 accordance with KRS 12.050. The office shall coordinate, oversee, and
+2 execute all personnel, training, and management functions of the cabinet. The
+3 office shall focus on the oversight, development, and implementation of
+4 quality improvement services; curriculum development and delivery of
+5 instruction to staff; the administration, management, and oversight of training
+6 operations; health, safety, and compliance training; and equal employment
+7 opportunity compliance functions;
+8 (e) The Office of Finance and Budget shall be headed by an executive director
+9 appointed by the secretary with the approval of the Governor in accordance
+10 with KRS 12.050. The office shall provide central review and oversight of
+11 budget, contract, and cabinet finances. The office shall provide coordination,
+12 assistance, and support to program departments and independent review and
+13 analysis on behalf of the secretary;
+14 (f) The Office of Legislative and Regulatory Affairs shall be headed by an
+15 executive director appointed by the secretary with the approval of the
+16 Governor in accordance with KRS 12.050. The office shall provide central
+17 review and oversight of legislation, policy, and administrative regulations.
+18 The office shall provide coordination, assistance, and support to program
+19 departments and independent review and analysis on behalf of the secretary;
+20 (g) The Office of Administrative Services shall be headed by an executive
+21 director appointed by the secretary with the approval of the Governor in
+22 accordance with KRS 12.050. The office shall provide central review and
+23 oversight of procurement, general accounting including grant monitoring, and
+24 facility management. The office shall provide coordination, assistance, and
+25 support to program departments and independent review and analysis on
+26 behalf of the secretary;
+27 (h) The Office of Application Technology Services shall be headed by an
+Page 17 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 executive director appointed by the secretary with the approval of the
+2 Governor in accordance with KRS 12.050. The office shall provide
+3 application technology services including central review and oversight. The
+4 office shall provide coordination, assistance, and support to program
+5 departments and independent review and analysis on behalf of the secretary;
+6 (i) The Office of Data Analytics shall be headed by an executive director who
+7 shall be appointed by the secretary with the approval of the Governor under
+8 KRS 12.050, and shall:
+9 1. Identify and innovate strategic initiatives to inform public policy
+10 initiatives and provide opportunities for improved health outcomes for
+11 all Kentuckians though data analytics;[. The office shall]
+12 2. Provide leadership in the redesign of the health care delivery system
+13 using electronic information technology to improve patient care and
+14 reduce medical errors and duplicative services; and
+15 3. Develop, implement, operate, and maintain the Kentucky all-payer
+16 claims database in accordance with Sections 1 to 6 of this Act; and
+17 (j) The Office of Medical Cannabis shall be headed by an executive director
+18 appointed by the Governor in accordance with KRS 12.040 and shall
+19 implement, operate, oversee, and regulate the medicinal cannabis program.
+20 The office shall be composed of the Division of Enforcement and Compliance
+21 and the Division of Licensure and Access. Each division in the office shall be
+22 headed by a director appointed by the secretary with the approval of the
+23 Governor in accordance with KRS 12.050.
+24 (2) Department for Medicaid Services. The Department for Medicaid Services shall
+25 serve as the single state agency in the Commonwealth to administer Title XIX of
+26 the Federal Social Security Act. The Department for Medicaid Services shall be
+27 headed by a commissioner for Medicaid services, who shall be appointed by the
+Page 18 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 secretary with the approval of the Governor under KRS 12.050. The commissioner
+2 for Medicaid services shall be a person who by experience and training in
+3 administration and management is qualified to perform the duties of this office. The
+4 commissioner for Medicaid services shall exercise authority over the Department
+5 for Medicaid Services under the direction of the secretary and shall only fulfill
+6 those responsibilities as delegated by the secretary;
+7 (3) Department for Public Health. The Department for Public Health shall develop and
+8 operate all programs of the cabinet that provide health services and all programs for
+9 assessing the health status of the population for the promotion of health and the
+10 prevention of disease, injury, disability, and premature death. This shall include but
+11 not be limited to oversight of the Division of Women's Health and the Office for
+12 Children with Special Health Care Needs. The duties, responsibilities, and authority
+13 set out in KRS 200.460 to 200.490 shall be performed by the Department for Public
+14 Health. The Department for Public Health shall advocate for the rights of children
+15 with disabilities and, to the extent that funds are available, shall ensure the
+16 administration of services for children with disabilities as are deemed appropriate
+17 by this office pursuant to Title V of the Social Security Act. The Department for
+18 Public Health may promulgate administrative regulations under KRS Chapter 13A
+19 as may be necessary to implement and administer its responsibilities. The Office for
+20 Children with Special Health Care Needs may be headed by an executive director
+21 appointed by the secretary with the approval of the Governor in accordance with
+22 KRS 12.050. The Department for Public Health shall be headed by a commissioner
+23 for public health who shall be appointed by the secretary with the approval of the
+24 Governor under KRS 12.050. The commissioner for public health shall be a duly
+25 licensed physician who by experience and training in administration and
+26 management is qualified to perform the duties of this office. The commissioner
+27 shall advise the head of each major organizational unit enumerated in this section
+Page 19 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 on policies, plans, and programs relating to all matters of public health, including
+2 any actions necessary to safeguard the health of the citizens of the Commonwealth.
+3 The commissioner shall serve as chief medical officer of the Commonwealth. The
+4 commissioner for public health shall exercise authority over the Department for
+5 Public Health under the direction of the secretary and shall only fulfill those
+6 responsibilities as delegated by the secretary;
+7 (4) Department for Behavioral Health, Developmental and Intellectual Disabilities. The
+8 Department for Behavioral Health, Developmental and Intellectual Disabilities shall
+9 develop and administer programs for the prevention of mental illness, intellectual
+10 disabilities, brain injury, developmental disabilities, and substance use disorders
+11 and shall develop and administer an array of services and support for the treatment,
+12 habilitation, and rehabilitation of persons who have a mental illness or emotional
+13 disability, or who have an intellectual disability, brain injury, developmental
+14 disability, or a substance use disorder. The Department for Behavioral Health,
+15 Developmental and Intellectual Disabilities shall be headed by a commissioner for
+16 behavioral health, developmental and intellectual disabilities who shall be
+17 appointed by the secretary with the approval of the Governor under KRS 12.050.
+18 The commissioner for behavioral health, developmental and intellectual disabilities
+19 shall be by training and experience in administration and management qualified to
+20 perform the duties of the office. The commissioner for behavioral health,
+21 developmental and intellectual disabilities shall exercise authority over the
+22 department under the direction of the secretary, and shall only fulfill those
+23 responsibilities as delegated by the secretary;
+24 (5) Department for Family Resource Centers and Volunteer Services. The Department
+25 for Family Resource Centers and Volunteer Services shall streamline the various
+26 responsibilities associated with the human services programs for which the cabinet
+27 is responsible. This shall include, but not be limited to, oversight of the Division of
+Page 20 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 Family Resource and Youth Services Centers and Serve Kentucky. The Department
+2 for Family Resource Centers and Volunteer Services shall be headed by a
+3 commissioner who shall be appointed by the secretary with the approval of the
+4 Governor under KRS 12.050. The commissioner for family resource centers and
+5 volunteer services shall be by training and experience in administration and
+6 management qualified to perform the duties of the office, shall exercise authority
+7 over the department under the direction of the secretary, and shall only fulfill those
+8 responsibilities as delegated by the secretary;
+9 (6) Department for Community Based Services. The Department for Community Based
+10 Services shall administer and be responsible for child and adult protection,
+11 guardianship services, violence prevention resources, foster care and adoption,
+12 permanency, and services to enhance family self-sufficiency, including child care,
+13 social services, public assistance, and family support. The department shall be
+14 headed by a commissioner appointed by the secretary with the approval of the
+15 Governor in accordance with KRS 12.050; and
+16 (7) Department for Aging and Independent Living. The Department for Aging and
+17 Independent Living shall serve as the state unit as designated by the Administration
+18 on Aging Services under the Older Americans Act and shall have responsibility for
+19 administration of the federal community support services, in-home services, meals,
+20 family and caregiver support services, elder rights and legal assistance, senior
+21 community services employment program, the state health insurance assistance
+22 program, state home and community based services including home care,
+23 Alzheimer's respite services and the personal care attendant program, certifications
+24 of assisted living facilities, and the state Council on Alzheimer's Disease and other
+25 related disorders. The department shall also administer the Long-Term Care
+26 Ombudsman Program and the Medicaid Home and Community Based Waivers
+27 Participant Directed Services Option (PDS) Program. The department shall serve as
+Page 21 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 the information and assistance center for aging and disability services and
+2 administer multiple federal grants and other state initiatives. The department shall
+3 be headed by a commissioner appointed by the secretary with the approval of the
+4 Governor in accordance with KRS 12.050.
+5 Section 8. KRS 194A.101 is amended to read as follows:
+6 (1) The Office of Data Analytics is hereby created in the Office of the Secretary. The
+7 office shall:
+8 (a) Provide oversight and strategic direction for, and be responsible for the
+9 coordinating of, the data analysis initiatives of[for] the various departments
+10 that regulate health care and social services to ensure that policy is consistent
+11 with the long-term goals across the Commonwealth; and
+12 (b) Develop, implement, operate, and maintain the Kentucky all-payer claims
+13 database in accordance with Sections 1 to 6 of this Act.
+14 (2) The office shall have the authority to review all data requests received by the
+15 cabinet from the public, review the requests for content to determine the cabinet's
+16 response, and approve the release of the requested information. The office shall
+17 review data analyses conducted by the departments within the cabinet to ensure the
+18 consistency, quality, and validity of the analysis prior to its use in operational and
+19 policy decisions. The office shall facilitate the process of data integration by
+20 initiating and maintaining data-sharing agreements in order to improve inter-agency
+21 and cross-cabinet collaboration.
+22 (3) The Office of Data Analytics shall promulgate administrative regulations in
+23 accordance with KRS Chapter 13A to implement this section.
+24 Section 9. KRS 304.2-100 is amended to read as follows:
+25 (1) The commissioner shall personally supervise the operations of the department.
+26 (2) The commissioner shall examine and inquire into violations of this code, shall
+27 enforce the provisions of this code with impartiality and shall execute the duties
+Page 22 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 imposed upon him or her by this code.
+2 (3) The commissioner shall have the powers and authority expressly conferred upon
+3 him or her by or reasonably implied from the provisions of this code.
+4 (4) The commissioner may conduct such examinations and investigations of insurance
+5 matters, in addition to examinations and investigations expressly authorized, as the
+6 commissioner may deem proper upon reasonable and probable cause to determine
+7 whether any person has violated any provisions of this code or to secure
+8 information useful in the lawful administration of any such provision. The cost of
+9 such additional examinations and investigations shall be borne by the state.
+10 (5) The commissioner may establish and maintain such branch offices in this state as
+11 may be reasonably required for the efficient administration of this code.
+12 (6) The commissioner shall have such additional powers and duties as may be provided
+13 by other laws of this state.
+14 (7) The commissioner shall assist the Office of[ Health] Data[ and] Analytics in
+15 carrying out Subtitle 17B of this chapter,[ and] KRS 194A.099, and Sections 1 to 6
+16 of this Act.
+17 SECTION 10. A NEW SECTION OF SUBTITLE 99 OF KRS CHAPTER 304
+18 IS CREATED TO READ AS FOLLOWS:
+19 (1) (a) The commissioner shall enforce the reporting requirements for health
+20 payers under Section 6 of this Act.
+21 (b) In carrying out the duties under paragraph (a) of this subsection, the
+22 commissioner:
+23 1. May assess a civil penalty in accordance with this section; and
+24 2. Shall have the authority, powers, and duties set forth in Subtitle 2 of
+25 this chapter for violations of this code, including the requirements for
+26 orders, notices, and hearings.
+27 (2) (a) Subject to paragraphs (b), (c), (d), and (e) of this subsection, the
+Page 23 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 commissioner shall promulgate an administrative regulation designating a
+2 schedule of penalties, not to exceed one thousand dollars ($1,000) per day,
+3 for any health payer that fails to comply with the reporting requirements for
+4 that person under Section 6 of this Act.
+5 (b) Local government, state, and federal agencies shall not be assessed or
+6 subject to a penalty under this subsection.
+7 (c) The commissioner may, by administrative regulation, adjust the maximum
+8 penalty established under paragraph (a) of this subsection every two (2)
+9 years based on the percent change in the nonseasonally adjusted annual
+10 average Consumer Price Index for All Urban Consumers (CPI-U), U.S. City
+11 Average, Medical Care, between the two (2) most recent calendar years
+12 available, as published by the United States Bureau of Labor Statistics.
+13 (d) The commissioner shall promulgate an administrative regulation in
+14 accordance with KRS Chapter 13A designating the process for notice,
+15 hearing, and collection of any penalty assessed under paragraph (a) of this
+16 subsection.
+17 (e) The commissioner may, upon such terms and conditions that are
+18 determined by the commissioner to be in the public interest, remit or
+19 mitigate any penalty assessed under paragraph (a) of this subsection.
+20 (3) Any penalties collected by the department under this section shall be deposited
+21 into the Kentucky all-payer claims database fund established in Section 3 of this
+22 Act.
+23 (4) The commissioner may promulgate any additional administrative regulations in
+24 accordance with KRS Chapter 13A necessary to implement or aid in the
+25 effectuation of this section.
+26 Section 11. (1) The Governor shall make all initial appointments under
+27 subsection (2)(a) of Section 5 of this Act within 90 days of the effective date of this Act.
+Page 24 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1392
+1 (2) Notwithstanding subsection (2)(d)2. of Section 5 of this Act, initial
+2 appointments under subsection (2)(a) of Section 5 of this Act shall be staggered so that,
+3 of the initial 13 appointments:
+4 (a) Five of the appointments expire four years after the initial appointment;
+5 (b) Four of the appointments expire three years after the initial appointment; and
+6 (c) Four of the appointments expire two years after the initial appointment.
+7 Section 12. If the Cabinet for Health and Family Services or the Department for
+8 Medicaid Services determines that a state plan amendment, waiver, or any other form of
+9 authorization or approval from any federal agency to implement Section 6 of this Act is
+10 necessary to prevent the loss of federal funds or to comply with federal law, the cabinet
+11 or department:
+12 (1) Shall, within 90 days after the effective date of this section, request the
+13 necessary federal authorization or approval to implement Section 6 of this Act; and
+14 (2) May only delay implementation of the provisions of Section 6 of this Act for
+15 which federal authorization or approval was deemed necessary until the federal
+16 authorization or approval is granted.
+17 Section 13. Sections 6 and 12 of this Act constitute the specific authorization
+18 required under KRS 205.5372(1).
+Page 25 of 25
+XXXX 1/12/2026 8:04 AM Jacketed
