@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - Acts Chapter 42
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER 42 1
+CHAPTER 42
+( HB 448 )
+AN ACT relating to background checks.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+SECTION 1. A NEW SECTION OF KRS CHAPTER 17 IS CREATED TO READ AS FOLLOWS:
+(1) As used in this section:
+(a) "Criminal history records information":
+1. Means information collected by criminal justice agencies on individuals consisting of
+identifiable descriptions and notations of arrests, indictments, information, or other formal
+criminal charges, and any disposition arising therefrom, including sentencing, correction
+supervision, and release;
+2. Includes information that is sealed pursuant to court order or other law if the records are
+accessible by criminal justice agencies for the purpose of conducting background checks; and
+3. Does not include identification information such as fingerprint records to the extent that the
+information does not indicate involvement of the individual in the criminal justice system;
+(b) "Criminal justice agency" means:
+1. The Kentucky Court of Justice;
+2. The Department of Kentucky State Police;
+3. Sheriffs;
+4. State and local correctional facilities;
+5. City, county, urban-county government, charter county government, consolidated local
+government, and unified local government police departments;
+6. School resource officer departments;
+7. Airport safety and security departments;
+8. Any agency or department that employs a state officer, listed in KRS 15.420(2)(a)2.; and
+9. Any other state or local agency in the Commonwealth of Kentucky that performs the
+administration of criminal justice pursuant to a statute, executive order, or other law, and
+which allocates a majority of its annual budget to the administration of criminal justice; and
+(c) "Requesting agency" means:
+1. The United States Department of Defense;
+2. The United States Department of State;
+3. The United States Department of Transportation;
+4. The United States Office of Personnel Management;
+5. The Central Intelligence Agency;
+6. The Federal Bureau of Investigation;
+7. The United States Department of Homeland Security;
+8. The Office of the Director of National Intelligence;
+9. An executive agency of the United States that is:
+a. Authorized to conduct background investigations under a federal statute; or
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+b. Delegated authority to conduct background investigations in accordance with
+procedures established by a security executive agent or a suitability executive agent
+under subsection (b) or (c)(iv) of Section 2.3 of Executive Order 13467, 73 Fed. Reg.
+38103, or any successor thereto; or
+10. A contractor that conducts a background investigation on behalf of an entity listed in
+subparagraphs 1. to 9. in this paragraph.
+(2) A criminal justice agency shall provide criminal history records information to a requesting agency when
+that requesting agency is conducting a basic suitability or fitness assessment for federal or contractor
+employees under 5 U.S.C. sec. 9101 and requests that information from the criminal justice agency.
+(3) A criminal justice agency may request a fee of twenty-five dollars ($25) to be paid by the requesting agency
+for reimbursement of expenses related to providing criminal history records information. Under no
+circumstances shall an agency of the Commonwealth of Kentucky be responsible for paying this fee.
+Section 2. KRS 610.340 is amended to read as follows:
+(1) (a) Unless a specific provision of KRS Chapters 600 to 645 specifies otherwise, all juvenile court records
+of any nature generated pursuant to KRS Chapters 600 to 645 by any agency or instrumentality, public
+or private, shall be deemed to be confidential and shall not be disclosed except to the child, parent,
+victims, or other persons authorized to attend a juvenile court hearing pursuant to KRS 610.070 unless
+ordered by the court for good cause.
+(b) Juvenile court records which contain information pertaining to arrests, petitions, adjudications, and
+dispositions of a child may be disclosed to victims or other persons authorized to attend a juvenile court
+hearing pursuant to KRS 610.070.
+(c) Release of the child's treatment, medical, mental, or psychological records is prohibited unless
+presented as evidence in Circuit Court. Any records resulting from the child's prior abuse and neglect
+under Title IV-E or Title IV-B of the Federal Social Security Act shall not be disclosed to victims or
+other persons authorized to attend a juvenile court hearing pursuant to KRS 610.070.
+(d) Victim access under this subsection to juvenile court records shall include access to records of
+adjudications that occurred prior to July 15, 1998.
+(2) The provisions of this section shall not apply to public officers or employees engaged in the investigation of
+and in the prosecution of cases under KRS Chapters 600 to 645 or other portions of the Kentucky Revised
+Statutes. Any record obtained pursuant to this subsection shall be used for official use only, shall not be
+disclosed publicly, and shall be exempt from disclosure under the Open Records Act, KRS 61.870 to 61.884.
+(3) The provisions of this section shall not apply to any peace officer, as defined in KRS 446.010, who is engaged
+in the investigation or prosecution of cases under KRS Chapters 600 to 645 or other portions of the Kentucky
+Revised Statutes. Any record obtained pursuant to this subsection shall be used for official use only, shall not
+be disclosed publicly, and shall be exempt from disclosure under the Open Records Act, KRS 61.870 to
+61.884.
+(4) The provisions of this section shall not apply to employees of the Department of Juvenile Justice or cabinet or
+its designees responsible for any services under KRS Chapters 600 to 645 or to attorneys for parties involved
+in actions relating to KRS Chapters 600 to 645 or other prosecutions authorized by the Kentucky Revised
+Statutes.
+(5) The provisions of this section shall not apply to records disclosed pursuant to KRS 610.320 or to public or
+private elementary and secondary school administrative, transportation, and counseling personnel, to any
+teacher or school employee with whom the student may come in contact, or to persons entitled to have juvenile
+records under KRS 610.345, if the possession and use of the records is in compliance with the provisions of
+KRS 610.345 and this section.
+(6) The provisions of this section shall not apply to employees of local law enforcement agencies, the Department
+of Kentucky State Police, or the Federal Bureau of Investigation engaged in conducting background checks for
+the sole purpose of identifying and providing potentially disqualifying juvenile public offense records to the
+National Instant Criminal Background Check System pursuant to Div. A, Title II, Sec. 12001(a) of the
+Bipartisan Safer Communities Act, Pub. L. No. 117-159. Notwithstanding KRS 635.040, an adjudication for a
+public offense is a conviction of a crime for purposes of 18 U.S.C. sec. 922(d)(1), (3), or (9). Any public
+
+CHAPTER 42 3
+offense record obtained pursuant to this subsection shall be used for official use only, not be disclosed
+publicly, and be exempt from disclosure under the Open Records Act, KRS 61.870 to 61.884.
+(7) The provisions of this section shall not apply to criminal justice agencies conducting a basic suitability or
+fitness assessment for federal or contractor employees under 5 U.S.C. sec. 9101 in accordance with Section
+1 of this Act.
+(8) (a) The provisions of this section shall not apply to records or proceedings in any case in which a child has
+made an admission to or been adjudicated for a violent felony offense as defined in KRS 532.200 until
+the expiration of a three (3) year period from the date of admission or adjudication.
+(b) If the child has not received any additional public offense convictions during the three (3) year period
+from the date of admission or adjudication, all records in the case shall be automatically sealed and
+shall not be disclosed consistent with the provisions of this section.
+(c) As used in this subsection, "admission" means a formal admission in a case, on the record, upon the
+waiving of an adjudication hearing.
+(9)[(8)] A[No] person, including school personnel, shall not disclose any confidential record or any information
+contained therein except as permitted by this section or other specific section of KRS Chapters 600 to 645, or
+except as permitted by specific order of the court.
+(10)[(9)] A[No] person, including school personnel, authorized to obtain records pursuant to KRS Chapters 600
+to 645 shall not obtain or attempt to obtain confidential records to which he or she is not entitled or for
+purposes for which he or she is not permitted to obtain them pursuant to KRS Chapters 600 to 645.
+(11)[(10)] A[No] person, including school personnel, not authorized to obtain records pursuant to KRS Chapters
+600 to 645 shall not obtain or attempt to obtain records which are made confidential pursuant to KRS Chapters
+600 to 645 except upon proper motion to a court of competent jurisdiction.
+(12)[(11)] A[No] person shall not destroy or attempt to destroy any record required to be kept pursuant to KRS
+Chapters 600 to 645 unless the destruction is permitted pursuant to KRS Chapters 600 to 645 and is authorized
+by the court upon proper motion and good cause for the destruction being shown.
+(13)[(12)] As used in this section the term "KRS Chapters 600 to 645" includes any administrative regulations
+which are lawfully promulgated pursuant to KRS Chapters 600 to 645.
+(14)[(13)] Nothing in this section shall be construed to prohibit a crime victim from speaking publicly after the
+adjudication about his or her case on matters within his or her knowledge or on matters disclosed to the victim
+during any aspect of a juvenile court proceeding.
+Signed by Governor April 7, 2026.
+Legislative Research Commission PDF Version

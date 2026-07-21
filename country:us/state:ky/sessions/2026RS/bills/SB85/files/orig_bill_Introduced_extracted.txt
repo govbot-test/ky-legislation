@@ -1,0 +1,2070 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 AN ACT relating to designating a special needs trust to receive state-administered
+2 retirement benefits.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 Section 1. KRS 16.505 is amended to read as follows:
+5 As used in KRS 16.505 to 16.652, unless the context otherwise requires:
+6 (1) "System" means the State Police Retirement System created by KRS 16.505 to
+7 16.652;
+8 (2) "Board" means the board of trustees of the Kentucky Retirement Systems;
+9 (3) "Employer" or "State Police" means the Department of Kentucky State Police, or its
+10 successor;
+11 (4) "Current service" means the number of years and completed months of employment
+12 as an employee subsequent to July 1, 1958, for which creditable compensation was
+13 paid by the employer and employee contributions deducted except as otherwise
+14 provided;
+15 (5) "Prior service" means the number of years and completed months of employment as
+16 an employee prior to July 1, 1958, for which creditable compensation was paid to
+17 the employee by the Commonwealth. Twelve (12) months of current service in the
+18 system are required to validate prior service;
+19 (6) "Service" means the total of current service and prior service;
+20 (7) "Accumulated contributions" at any time means the sum of all amounts deducted
+21 from the compensation of a member and credited to his or her individual account in
+22 the member's account, including employee contributions picked up after August 1,
+23 1982, pursuant to KRS 16.545(4), together with interest credited on such amounts
+24 as provided in KRS 16.505 to 16.652, and any other amounts the member shall
+25 have contributed, including interest credited. For members who begin participating
+26 on or after September 1, 2008, "accumulated contributions" shall not include
+27 employee contributions that are deposited into accounts established pursuant to 26
+Page 1 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 U.S.C. sec. 401(h) within the funds established in KRS 16.510 and 61.515, as
+2 prescribed by KRS 61.702(3)(b);
+3 (8) "Creditable compensation":
+4 (a) Except as provided by paragraph (b) or (c) of this subsection, means all salary
+5 and wages, including payments for compensatory time, paid to the employee
+6 as a result of services performed for the employer or for time during which the
+7 member is on paid leave, which are includable on the member's federal form
+8 W-2 wage and tax statement under the heading "wages, tips, other
+9 compensation," including employee contributions picked up after August 1,
+10 1982, pursuant to KRS 16.545(4);
+11 (b) Includes:
+12 1. Lump-sum bonuses, severance pay, or employer-provided payments for
+13 purchase of service credit, which shall be averaged over the employee's
+14 total service with the system in which it is recorded if it is equal to or
+15 greater than one thousand dollars ($1,000);
+16 2. Lump-sum payments for creditable compensation paid as a result of an
+17 order of a court of competent jurisdiction, the Personnel Board, or the
+18 Kentucky Commission on Human Rights, or for any creditable
+19 compensation paid in anticipation of settlement of an action before a
+20 court of competent jurisdiction, the Personnel Board, or the Kentucky
+21 Commission on Human Rights, including notices of violations of state
+22 or federal wage and hour statutes or violations of state or federal
+23 discrimination statutes, which shall be credited to the fiscal year during
+24 which the wages were earned or should have been paid by the employer.
+25 This subparagraph shall also include lump-sum payments for reinstated
+26 wages pursuant to KRS 61.569, which shall be credited to the period
+27 during which the wages were earned or should have been paid by the
+Page 2 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 employer;
+2 3. Amounts which are not includable in the member's gross income by
+3 virtue of the member having taken a voluntary salary reduction provided
+4 for under applicable provisions of the Internal Revenue Code; and
+5 4. Elective amounts for qualified transportation fringes paid or made
+6 available on or after January 1, 2001, for calendar years on or after
+7 January 1, 2001, that are not includable in the gross income of the
+8 employee by reason of 26 U.S.C. sec. 132(f)(4); and
+9 (c) Excludes:
+10 1. Living allowances, expense reimbursements, lump-sum payments for
+11 accrued vacation leave, and other items determined by the board;
+12 2. For employees who begin participating on or after September 1, 2008,
+13 lump-sum payments for compensatory time; and
+14 3. Any salary or wages paid to an employee for services as a Kentucky
+15 State Police school resource officer as defined by KRS 158.441;
+16 (9) "Final compensation" means:
+17 (a) For a member who begins participating before September 1, 2008, the
+18 creditable compensation of a member during the three (3) fiscal years he or
+19 she was paid at the highest average monthly rate divided by the number of
+20 months of service credit during the three (3) year period, multiplied by twelve
+21 (12); the three (3) years may be fractional and need not be consecutive. If the
+22 number of months of service credit during the three (3) year period is less than
+23 twenty-four (24), one (1) or more additional fiscal years shall be used; or
+24 (b) For a member who begins participating on or after September 1, 2008, but
+25 prior to January 1, 2014, the creditable compensation of the member during
+26 the three (3) complete fiscal years he or she was paid at the highest average
+27 monthly rate divided by three (3). Each fiscal year used to determine final
+Page 3 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 compensation must contain twelve (12) months of service credit. If the
+2 member does not have three (3) complete fiscal years that each contain twelve
+3 (12) months of service credit, then one (1) or more additional fiscal years,
+4 which may contain less than twelve (12) months of service credit, shall be
+5 added until the number of months in the final compensation calculation is at
+6 least thirty-six (36) months;
+7 (10) "Final rate of pay" means the actual rate upon which earnings of a member were
+8 calculated during the twelve (12) month period immediately preceding the
+9 member's effective retirement date, including employee contributions picked up
+10 after August 1, 1982, pursuant to KRS 16.545(4). The rate shall be certified to the
+11 system by the employer and the following equivalents shall be used to convert the
+12 rate to an annual rate: two thousand eighty (2,080) hours for eight (8) hour
+13 workdays, one thousand nine hundred fifty (1,950) hours for seven and one-half (7-
+14 1/2) hour workdays, two hundred sixty (260) days, fifty-two (52) weeks, twelve
+15 (12) months, or one (1) year;
+16 (11) "Retired member" means any former member receiving a retirement allowance or
+17 any former member who has filed the necessary documents for retirement benefits
+18 and is no longer contributing to the retirement system;
+19 (12) "Retirement allowance" means the retirement payments to which a retired member
+20 is entitled;
+21 (13) "Actuarial equivalent" means a benefit of equal value when computed upon the
+22 basis of actuarial tables adopted by the board. In cases of disability retirement, the
+23 options authorized by KRS 61.635 shall be computed by adding ten (10) years to
+24 the age of the member, unless the member has chosen the Social Security
+25 adjustment option as provided for in KRS 61.635(8), in which case the member's
+26 actual age shall be used. For members who began participating in the system prior
+27 to January 1, 2014, no disability retirement option shall be less than the same option
+Page 4 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 computed under early retirement;
+2 (14) "Authorized leave of absence" means any time during which a person is absent
+3 from employment but retained in the status of an employee in accordance with the
+4 personnel policy of the Department of Kentucky State Police;
+5 (15) "Normal retirement date" means:
+6 (a) For a member who begins participating before September 1, 2008, the first
+7 day of the month following a member's fifty-fifth birthday, except that for
+8 members over age fifty-five (55) on July 1, 1958, it shall mean January 1,
+9 1959; or
+10 (b) For a member who begins participating on or after September 1, 2008, the
+11 first day of the month following a member's sixtieth birthday;
+12 (16) "Disability retirement date" means the first day of the month following the last day
+13 of paid employment;
+14 (17) "Dependent child" means a child in the womb and a natural or legally adopted child
+15 of the member who has neither attained age eighteen (18) nor married or who is an
+16 unmarried full-time student who has not attained age twenty-two (22). Solely in the
+17 cases where a member dies as a direct result of an act in line of duty as defined in
+18 this section, dies as a result of a duty-related injury as defined in KRS 61.621,
+19 becomes totally and permanently disabled as a direct result of an act in line of duty
+20 as defined in this section, or becomes disabled as a result of a duty-related injury as
+21 defined in KRS 61.621 and is eligible for the benefits provided by KRS
+22 61.621(5)(a), "dependent child" also means a naturally or legally adopted disabled
+23 child of the member, regardless of the child's age, if the child has been determined
+24 to be eligible for federal Social Security disability benefits or is being claimed as a
+25 qualifying child for tax purposes due to the child's total and permanent disability;
+26 (18) "Optional allowance" means an actuarially equivalent benefit elected by the
+27 member in lieu of all other benefits provided by KRS 16.505 to 16.652;
+Page 5 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (19) "Act in line of duty" means:
+2 (a) A single act occurring or a single thing done, which, as determined by the
+3 board, was required in the performance of the duties specified in KRS 16.060;
+4 (b) For employees in hazardous positions under KRS 61.592, a single act
+5 occurring which was required in the performance of the principal duties of the
+6 position as defined by the job description; or
+7 (c) For employees participating in the State Police Retirement System and for
+8 employees who are in hazardous positions under KRS 61.592, a single act of
+9 violence committed against the employee that is found to be related to his or
+10 her job duties, whether or not it occurs at his or her job site;
+11 (20) "Early retirement date" means:
+12 (a) For a member who begins participating before September 1, 2008, the
+13 retirement date declared by a member who is not less than fifty (50) years of
+14 age and has fifteen (15) years of service; or
+15 (b) For a member who begins participating on or after September 1, 2008, but
+16 prior to January 1, 2014, the retirement date declared by a member who is not
+17 less than fifty (50) years of age and has fifteen (15) years of service credited
+18 under KRS 16.543(1) or 61.543(1) or another state-administered retirement
+19 system;
+20 (21) "Member" means any officer included in the membership of the system as provided
+21 under KRS 16.520 whose membership has not been terminated under KRS 61.535;
+22 (22) "Regular full-time officers" means the occupants of positions as set forth in KRS
+23 16.010;
+24 (23) "Hazardous disability" as used in KRS 16.505 to 16.652 means a disability which
+25 results in an employee's total incapacity to continue as an employee in a hazardous
+26 position, but the employee is not necessarily deemed to be totally and permanently
+27 disabled to engage in other occupations for remuneration or profit;
+Page 6 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (24) "Current rate of pay" means the member's actual hourly, daily, weekly, biweekly,
+2 monthly, or yearly rate of pay converted to an annual rate as defined in final rate of
+3 pay. The rate shall be certified by the employer;
+4 (25) "Beneficiary" means the person, persons, estate, trust, special needs trust, or trustee
+5 designated by the member in accordance with KRS 61.542 or 61.705 to receive any
+6 available benefits in the event of the member's death. As used in KRS 61.702,
+7 "beneficiary" does not mean an estate, trust, or trustee;
+8 (26) "Recipient" means the retired member, the person or persons designated as
+9 beneficiary by the member and drawing a retirement allowance as a result of the
+10 member's death, or a dependent child drawing a retirement allowance. An alternate
+11 payee of a qualified domestic relations order shall not be considered a recipient,
+12 except for purposes of KRS 61.623;
+13 (27) "Person" means a natural person;
+14 (28) "Retirement office" means the Kentucky Public Pensions Authority office building
+15 in Frankfort, unless otherwise designated by the Kentucky Public Pensions
+16 Authority;
+17 (29) "Vested" for purposes of determining eligibility for purchasing service credit under
+18 KRS 61.552 means the employee has at least forty-eight (48) months of service if
+19 age sixty-five (65) or older or at least sixty (60) months of service if under the age
+20 of sixty-five (65). For purposes of this subsection, "service" means service in the
+21 systems administered by the Kentucky Retirement Systems and County Employees
+22 Retirement Systems;
+23 (30) "Last day of paid employment" means the last date employer and employee
+24 contributions are required to be reported in accordance with KRS 16.543 or 61.543
+25 to the retirement office in order for the employee to receive current service credit
+26 for the month. Last day of paid employment does not mean a date the employee
+27 receives payment for accrued leave, whether by lump sum or otherwise, if that date
+Page 7 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 occurs twenty-four (24) or more months after previous contributions;
+2 (31) "Objective medical evidence" means reports of examinations or treatments; medical
+3 signs which are anatomical, physiological, or psychological abnormalities that can
+4 be observed; psychiatric signs which are medically demonstrable phenomena
+5 indicating specific abnormalities of behavior, affect, thought, memory, orientation,
+6 or contact with reality; or laboratory findings which are anatomical, physiological,
+7 or psychological phenomena that can be shown by medically acceptable laboratory
+8 diagnostic techniques, including but not limited to chemical tests,
+9 electrocardiograms, electroencephalograms, X-rays, and psychological tests;
+10 (32) "Fiscal year" of the system means the twelve (12) months from July 1 through the
+11 following June 30, which shall also be the plan year. The "fiscal year" shall be the
+12 limitation year used to determine contribution and benefit limits established by 26
+13 U.S.C. sec. 415;
+14 (33) "Participating" means an employee is currently earning service credit in the system
+15 as provided in KRS 16.543;
+16 (34) "Month" means a calendar month;
+17 (35) "Membership date" means the date upon which the member began participating in
+18 the system as provided by KRS 16.543;
+19 (36) "Participant" means a member, as defined by subsection (21) of this section, or a
+20 retired member, as defined by subsection (11) of this section;
+21 (37) "Qualified domestic relations order" means any judgment, decree, or order,
+22 including approval of a property settlement agreement, that:
+23 (a) Is issued by a court or administrative agency; and
+24 (b) Relates to the provision of child support, alimony payments, or marital
+25 property rights to an alternate payee;
+26 (38) "Alternate payee" means a spouse, former spouse, child, or other dependent of a
+27 participant, who is designated to be paid retirement benefits in a qualified domestic
+Page 8 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 relations order;
+2 (39) "Accumulated employer credit" means the employer pay credit deposited to the
+3 member's account and interest credited on such amounts as provided by KRS
+4 16.583;
+5 (40) "Accumulated account balance" means:
+6 (a) For members who began participating in the system prior to January 1, 2014,
+7 the member's accumulated contributions; or
+8 (b) For members who began participating in the system on or after January 1,
+9 2014, in the hybrid cash balance plan as provided by KRS 16.583, the
+10 combined sum of the member's accumulated contributions and the member's
+11 accumulated employer pay credit;[ and]
+12 (41) "Monthly average pay" means:
+13 (a) In the case of a member who dies as a direct result of an act in line of duty as
+14 defined in this section or who dies as a result of a duty-related injury as
+15 defined in KRS 61.621, the higher of the member's monthly final rate of pay
+16 or the average monthly creditable compensation earned by the deceased
+17 member during his or her last twelve (12) months of employment; or
+18 (b) In the case where a member becomes totally and permanently disabled as a
+19 direct result of an act in line of duty as defined in this section or becomes
+20 disabled as a result of a duty-related injury as defined in KRS 61.621 and is
+21 eligible for the benefits provided by KRS 61.621(5)(a), the higher of the
+22 member's monthly final rate of pay or the average monthly creditable
+23 compensation earned by the disabled member during his or her last twelve
+24 (12) months of employment prior to the date the act in line of duty or duty-
+25 related injury occurred; and
+26 (42) "Special needs trust" means a trust described in 42 U.S.C. sec 1396p(d)(4)(A) or
+27 (C) for the benefit of one (1) person. Any reference to a trust includes a special
+Page 9 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 needs trust, unless the context otherwise requires.
+2 Section 2. KRS 16.578 is amended to read as follows:
+3 (1) If a member dies prior to the first day of the month in which the member would
+4 have received his or her first retirement allowance, the member's beneficiary shall
+5 be eligible for the benefits provided by this section if the member had on file a
+6 written designation of a beneficiary with the retirement office as provided by KRS
+7 61.542 and the member met the following conditions at the date of his or her death:
+8 (a) The member was eligible to retire under KRS 16.576, 16.577, or 16.583(6);
+9 (b) The member was in active employment or on authorized leave of absence
+10 with five (5) or more years of service credit and died prior to his or her normal
+11 retirement date; or
+12 (c) The member was not in active employment or on authorized leave of absence
+13 with twelve (12) or more years of service credit and died prior to his or her
+14 normal retirement date.
+15 (2) If the beneficiary eligible for benefits as provided in subsection (1) of this section is
+16 a single person or a special needs trust, then the beneficiary may elect to receive:
+17 (a) A monthly benefit payable for the life of the beneficiary or the life of the
+18 beneficiary of a special needs trust that is equal to the benefit that would
+19 have been paid had the member retired immediately prior to his or her date of
+20 death and elected to receive benefits payable under the survivorship one
+21 hundred percent (100%) option as provided in KRS 61.635(2);
+22 (b) A monthly benefit payable for the life of the beneficiary or the life of the
+23 beneficiary of a special needs trust under the beneficiary Social Security
+24 adjustment option as provided in KRS 61.635(9) that is the actuarial
+25 equivalent to the amount computed under paragraph (a) of this subsection;
+26 (c) A monthly benefit payable for a period of sixty (60) months that is the
+27 actuarial equivalent to the amount computed under paragraph (a) of this
+Page 10 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 subsection;
+2 (d) A monthly benefit payable for a period of one hundred twenty (120) months
+3 that is the actuarial equivalent to the amount computed under paragraph (a) of
+4 this subsection;
+5 (e) If the member began participating in the system prior to January 1, 2014, a
+6 monthly benefit payable for:
+7 1. Sixty (60) months certain;
+8 2. One hundred twenty (120) months certain;
+9 3. The actuarial equivalent refund; or
+10 4. The Social Security adjustment option;
+11 that is equivalent to the benefit the member would have been entitled to
+12 receive based on his or her years of service and final compensation at the date
+13 of his or her death reduced by the survivorship fifty percent (50%) factor as
+14 provided for in KRS 61.635(4), then reduced by fifty percent (50%), and that
+15 is the actuarial equivalent to the amount computed under paragraph (a) of this
+16 subsection; or
+17 (f) The higher of a refund of the member's accumulated account balance and
+18 interest as described in KRS 61.625(1) or a one (1) time lump-sum payment
+19 which shall be the actuarial equivalent of the amount payable under paragraph
+20 (a) of this subsection for a period of sixty (60) months.
+21 (3) If the beneficiary eligible for benefits as provided in subsection (1) of this section
+22 are multiple beneficiaries or a trust, other than a special needs trust, then the
+23 multiple beneficiaries by consensus or the trustee may elect to receive the actuarial
+24 equivalent amounts payable under subsection (2)(c), (d), (e), or (f) of this section
+25 using the assumption that the beneficiary's age is the same as the member's age.
+26 (4) If the beneficiary eligible for benefits as provided in subsection (1) of this section is
+27 the member's estate, then the beneficiary shall receive the higher of a refund of the
+Page 11 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 member's accumulated account balance and interest as described in KRS 61.625(1)
+2 or the one (1) time lump-sum payment payable under subsection (2)(f) of this
+3 section, using the assumption that the beneficiary's age is the same as the member's
+4 age.
+5 (5) Payments of taxable distributions made pursuant to this section shall be subject to
+6 state and federal tax as appropriate.
+7 Section 3. KRS 61.510 is amended to read as follows:
+8 As used in KRS 61.510 to 61.705, unless the context otherwise requires:
+9 (1) "System" means the Kentucky Employees Retirement System created by KRS
+10 61.510 to 61.705;
+11 (2) "Board" means the board of trustees of the system as provided in KRS 61.645;
+12 (3) "Department" means any state department or board or agency participating in the
+13 system in accordance with appropriate executive order, as provided in KRS 61.520.
+14 For purposes of KRS 61.510 to 61.705, the members, officers, and employees of the
+15 General Assembly and any other body, entity, or instrumentality designated by
+16 executive order by the Governor, shall be deemed to be a department,
+17 notwithstanding whether said body, entity, or instrumentality is an integral part of
+18 state government;
+19 (4) "Examiner" means the medical examiners as provided in KRS 61.665;
+20 (5) "Employee" means the members, officers, and employees of the General Assembly
+21 and every regular full-time, appointed or elective officer or employee of a
+22 participating department, including the Department of Military Affairs. The term
+23 does not include persons engaged as independent contractors, seasonal, emergency,
+24 temporary, interim, and part-time workers. In case of any doubt, the board shall
+25 determine if a person is an employee within the meaning of KRS 61.510 to 61.705;
+26 (6) "Employer" means a department or any authority of a department having the power
+27 to appoint or select an employee in the department, including the Senate and the
+Page 12 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 House of Representatives, or any other entity, the employees of which are eligible
+2 for membership in the system pursuant to KRS 61.525;
+3 (7) "State" means the Commonwealth of Kentucky;
+4 (8) "Member" means any employee who is included in the membership of the system
+5 or any former employee whose membership has not been terminated under KRS
+6 61.535;
+7 (9) "Service" means the total of current service and prior service as defined in this
+8 section;
+9 (10) "Current service" means the number of years and months of employment as an
+10 employee, on and after July 1, 1956, except that for members, officers, and
+11 employees of the General Assembly this date shall be January 1, 1960, for which
+12 creditable compensation is paid and employee contributions deducted, except as
+13 otherwise provided, and each member, officer, and employee of the General
+14 Assembly shall be credited with a month of current service for each month he or
+15 she serves in the position;
+16 (11) "Prior service" means the number of years and completed months, expressed as a
+17 fraction of a year, of employment as an employee, prior to July 1, 1956, for which
+18 creditable compensation was paid; except that for members, officers, and
+19 employees of the General Assembly, this date shall be January 1, 1960. An
+20 employee shall be credited with one (1) month of prior service only in those months
+21 he or she received compensation for at least one hundred (100) hours of work;
+22 provided, however, that each member, officer, and employee of the General
+23 Assembly shall be credited with a month of prior service for each month he or she
+24 served in the position prior to January 1, 1960. Twelve (12) months of current
+25 service in the system are required to validate prior service;
+26 (12) "Accumulated contributions" at any time means the sum of all amounts deducted
+27 from the compensation of a member and credited to his or her individual account in
+Page 13 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 the members' account, including employee contributions picked up after August 1,
+2 1982, pursuant to KRS 61.560(4), together with interest credited, on such amounts
+3 and any other amounts the member shall have contributed thereto, including interest
+4 credited thereon. For members who begin participating on or after September 1,
+5 2008, "accumulated contributions" shall not include employee contributions that are
+6 deposited into accounts established pursuant to 26 U.S.C. sec. 401(h) within the
+7 funds established in KRS 16.510 and 61.515, as prescribed by KRS 61.702(3)(b);
+8 (13) "Creditable compensation":
+9 (a) Means all salary, wages, tips to the extent the tips are reported for income tax
+10 purposes, and fees, including payments for compensatory time, paid to the
+11 employee as a result of services performed for the employer or for time during
+12 which the member is on paid leave, which are includable on the member's
+13 federal form W-2 wage and tax statement under the heading "wages, tips,
+14 other compensation," including employee contributions picked up after
+15 August 1, 1982, pursuant to KRS 61.560(4). For members of the General
+16 Assembly, it shall mean all amounts which are includable on the member's
+17 federal form W-2 wage and tax statement under the heading "wages, tips,
+18 other compensation," including employee contributions picked up after
+19 August 1, 1982, pursuant to KRS 6.505(4) or 61.560(4);
+20 (b) Includes:
+21 1. Lump-sum bonuses, severance pay, or employer-provided payments for
+22 purchase of service credit, which shall be averaged over the employee's
+23 total service with the system in which it is recorded if it is equal to or
+24 greater than one thousand dollars ($1,000);
+25 2. Cases where compensation includes maintenance and other perquisites,
+26 but the board shall fix the value of that part of the compensation not paid
+27 in money;
+Page 14 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 3. Lump-sum payments for creditable compensation paid as a result of an
+2 order of a court of competent jurisdiction, the Personnel Board, or the
+3 Kentucky Commission on Human Rights, or for any creditable
+4 compensation paid in anticipation of settlement of an action before a
+5 court of competent jurisdiction, the Personnel Board, or the Kentucky
+6 Commission on Human Rights, including notices of violations of state
+7 or federal wage and hour statutes or violations of state or federal
+8 discrimination statutes, which shall be credited to the fiscal year during
+9 which the wages were earned or should have been paid by the employer.
+10 This subparagraph shall also include lump-sum payments for reinstated
+11 wages pursuant to KRS 61.569, which shall be credited to the period
+12 during which the wages were earned or should have been paid by the
+13 employer;
+14 4. Amounts which are not includable in the member's gross income by
+15 virtue of the member having taken a voluntary salary reduction provided
+16 for under applicable provisions of the Internal Revenue Code; and
+17 5. Elective amounts for qualified transportation fringes paid or made
+18 available on or after January 1, 2001, for calendar years on or after
+19 January 1, 2001, that are not includable in the gross income of the
+20 employee by reason of 26 U.S.C. sec. 132(f)(4); and
+21 (c) Excludes:
+22 1. Living allowances, expense reimbursements, lump-sum payments for
+23 accrued vacation leave, and other items determined by the board;
+24 2. For employees who begin participating on or after September 1, 2008,
+25 lump-sum payments for compensatory time;
+26 3. For employees who begin participating on or after August 1, 2016,
+27 nominal fees paid for services as a volunteer; and
+Page 15 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 4. Any salary or wages paid to an employee for services as a Kentucky
+2 State Police school resource officer as defined by KRS 158.441;
+3 (14) "Final compensation" of a member means:
+4 (a) For a member who begins participating before September 1, 2008, who is
+5 employed in a nonhazardous position, the creditable compensation of the
+6 member during the five (5) fiscal years he or she was paid at the highest
+7 average monthly rate divided by the number of months of service credit
+8 during that five (5) year period multiplied by twelve (12). The five (5) years
+9 may be fractional and need not be consecutive. If the number of months of
+10 service credit during the five (5) year period is less than forty-eight (48), one
+11 (1) or more additional fiscal years shall be used;
+12 (b) For a member who is employed in a nonhazardous position, whose effective
+13 retirement date is between August 1, 2001, and January 1, 2009, and whose
+14 total service credit is at least twenty-seven (27) years and whose age and years
+15 of service total at least seventy-five (75), final compensation means the
+16 creditable compensation of the member during the three (3) fiscal years the
+17 member was paid at the highest average monthly rate divided by the number
+18 of months of service credit during that three (3) years period multiplied by
+19 twelve (12). The three (3) years may be fractional and need not be
+20 consecutive. If the number of months of service credit during the three (3)
+21 year period is less than twenty-four (24), one (1) or more additional fiscal
+22 years shall be used. Notwithstanding the provision of KRS 61.565, the
+23 funding for this paragraph shall be provided from existing funds of the
+24 retirement allowance;
+25 (c) For a member who begins participating before September 1, 2008, who is
+26 employed in a hazardous position, as provided in KRS 61.592, the creditable
+27 compensation of the member during the three (3) fiscal years he or she was
+Page 16 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 paid at the highest average monthly rate divided by the number of months of
+2 service credit during that three (3) year period multiplied by twelve (12). The
+3 three (3) years may be fractional and need not be consecutive. If the number
+4 of months of service credit during the three (3) year period is less than twenty-
+5 four (24), one (1) or more additional fiscal years shall be used;
+6 (d) For a member who begins participating on or after September 1, 2008, but
+7 prior to January 1, 2014, who is employed in a nonhazardous position, the
+8 creditable compensation of the member during the five (5) complete fiscal
+9 years immediately preceding retirement divided by five (5). Each fiscal year
+10 used to determine final compensation must contain twelve (12) months of
+11 service credit. If the member does not have five (5) complete fiscal years that
+12 each contain twelve (12) months of service credit, then one (1) or more
+13 additional fiscal years, which may contain less than twelve (12) months of
+14 service credit, shall be added until the number of months in the final
+15 compensation calculation is at least sixty (60) months; or
+16 (e) For a member who begins participating on or after September 1, 2008, but
+17 prior to January 1, 2014, who is employed in a hazardous position as provided
+18 in KRS 61.592, the creditable compensation of the member during the three
+19 (3) complete fiscal years he or she was paid at the highest average monthly
+20 rate divided by three (3). Each fiscal year used to determine final
+21 compensation must contain twelve (12) months of service credit. If the
+22 member does not have three (3) complete fiscal years that each contain twelve
+23 (12) months of service credit, then one (1) or more additional fiscal years,
+24 which may contain less than twelve (12) months of service credit, shall be
+25 added until the number of months in the final compensation calculation is at
+26 least thirty-six (36) months;
+27 (15) "Final rate of pay" means the actual rate upon which earnings of an employee were
+Page 17 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 calculated during the twelve (12) month period immediately preceding the
+2 member's effective retirement date, including employee contributions picked up
+3 after August 1, 1982, pursuant to KRS 61.560(4). The rate shall be certified to the
+4 system by the employer and the following equivalents shall be used to convert the
+5 rate to an annual rate: two thousand eighty (2,080) hours for eight (8) hour
+6 workdays, nineteen hundred fifty (1,950) hours for seven and one-half (7-1/2) hour
+7 workdays, two hundred sixty (260) days, fifty-two (52) weeks, twelve (12) months,
+8 one (1) year;
+9 (16) "Retirement allowance" means the retirement payments to which a member is
+10 entitled;
+11 (17) "Actuarial equivalent" means a benefit of equal value when computed upon the
+12 basis of the actuarial tables that are adopted by the board. In cases of disability
+13 retirement, the options authorized by KRS 61.635 shall be computed by adding ten
+14 (10) years to the age of the member, unless the member has chosen the Social
+15 Security adjustment option as provided for in KRS 61.635(8), in which case the
+16 member's actual age shall be used. For members who began participating in the
+17 system prior to January 1, 2014, no disability retirement option shall be less than
+18 the same option computed under early retirement;
+19 (18) "Normal retirement date" means the sixty-fifth birthday of a member, unless
+20 otherwise provided in KRS 61.510 to 61.705;
+21 (19) "Fiscal year" of the system means the twelve (12) months from July 1 through the
+22 following June 30, which shall also be the plan year. The "fiscal year" shall be the
+23 limitation year used to determine contribution and benefit limits as established by
+24 26 U.S.C. sec. 415;
+25 (20) "Officers and employees of the General Assembly" means the occupants of those
+26 positions enumerated in KRS 6.150. The term shall also apply to assistants who
+27 were employed by the General Assembly for at least one (1) regular legislative
+Page 18 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 session prior to July 13, 2004, who elect to participate in the retirement system, and
+2 who serve for at least six (6) regular legislative sessions. Assistants hired after July
+3 13, 2004, shall be designated as interim employees;
+4 (21) "Regular full-time positions," as used in subsection (5) of this section, shall mean
+5 all positions that average one hundred (100) or more hours per month determined
+6 by using the number of months actually worked within a calendar or fiscal year,
+7 including all positions except:
+8 (a) Seasonal positions, which although temporary in duration, are positions which
+9 coincide in duration with a particular season or seasons of the year and which
+10 may recur regularly from year to year, the period of time shall not exceed nine
+11 (9) months;
+12 (b) Emergency positions which are positions utilized by the employer during:
+13 1. An emergency as determined by the employer for a period not
+14 exceeding thirty (30) working days and are nonrenewable; or
+15 2. A state of emergency declared by the President of the United States or
+16 the Governor of the Commonwealth of Kentucky that are created or
+17 filled specifically for addressing the employer's needs during and as a
+18 result of the declared emergency;
+19 (c) Temporary positions which are positions of employment with a participating
+20 department for a period of time not to exceed nine (9) months and are
+21 nonrenewable;
+22 (d) Part-time positions which are positions which may be permanent in duration,
+23 but which require less than a calendar or fiscal year average of one hundred
+24 (100) hours of work per month, determined by using the number of months
+25 actually worked within a calendar or fiscal year, in the performance of duty;
+26 and
+27 (e) Interim positions which are positions established for a one-time or recurring
+Page 19 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 need not to exceed nine (9) months;
+2 (22) "Vested" for purposes of determining eligibility for purchasing service credit under
+3 KRS 61.552 means the employee has at least forty-eight (48) months of service if
+4 age sixty-five (65) or older or at least sixty (60) months of service if under the age
+5 of sixty-five (65). For purposes of this subsection, "service" means service in the
+6 systems administered by the Kentucky Retirement Systems and County Employees
+7 Retirement System;
+8 (23) "Parted employer" means a department, portion of a department, board, or agency,
+9 such as Outwood Hospital and School, which previously participated in the system,
+10 but due to lease or other contractual arrangement is now operated by a publicly held
+11 corporation or other similar organization, and therefore is no longer participating in
+12 the system. The term "parted employer" shall not include a department, board, or
+13 agency that ceased participation in the system pursuant to KRS 61.522;
+14 (24) "Retired member" means any former member receiving a retirement allowance or
+15 any former member who has filed the necessary documents for retirement benefits
+16 and is no longer contributing to the retirement system;
+17 (25) "Current rate of pay" means the member's actual hourly, daily, weekly, biweekly,
+18 monthly, or yearly rate of pay converted to an annual rate as defined in final rate of
+19 pay. The rate shall be certified by the employer;
+20 (26) "Beneficiary" means the person or persons,[ or] estate,[ or] trust, special needs
+21 trust, or trustee designated by the member in accordance with KRS 61.542 or
+22 61.705 to receive any available benefits in the event of the member's death. As used
+23 in KRS 61.702, "beneficiary" does not mean an estate, trust, or trustee;
+24 (27) "Recipient" means the retired member or the person or persons designated as
+25 beneficiary by the member and drawing a retirement allowance as a result of the
+26 member's death or a dependent child drawing a retirement allowance. An alternate
+27 payee of a qualified domestic relations order shall not be considered a recipient,
+Page 20 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 except for purposes of KRS 61.623;
+2 (28) "Level percentage of payroll amortization method" means a method of determining
+3 the annual amortization payment on the unfunded actuarial accrued liability as
+4 expressed as a percentage of payroll over a set period of years but that may be
+5 converted to a dollar value for purposes of KRS 61.565(1)(d). Under this method,
+6 the percentage of payroll shall be projected to remain constant for all years
+7 remaining in the set period of time and the unfunded actuarially accrued liability
+8 shall be projected to be fully amortized at the conclusion of the set period of years;
+9 (29) "Increment" means twelve (12) months of service credit which are purchased. The
+10 twelve (12) months need not be consecutive. The final increment may be less than
+11 twelve (12) months;
+12 (30) "Person" means a natural person;
+13 (31) "Retirement office" means the Kentucky Public Pensions Authority's office
+14 building in Frankfort, unless otherwise designated by the Kentucky Public Pensions
+15 Authority;
+16 (32) "Last day of paid employment" means the last date employer and employee
+17 contributions are required to be reported in accordance with KRS 16.543, 61.543, or
+18 78.615 to the retirement office in order for the employee to receive current service
+19 credit for the month. Last day of paid employment does not mean a date the
+20 employee receives payment for accrued leave, whether by lump sum or otherwise,
+21 if that date occurs twenty-four (24) or more months after previous contributions;
+22 (33) "Objective medical evidence" means reports of examinations or treatments; medical
+23 signs which are anatomical, physiological, or psychological abnormalities that can
+24 be observed; psychiatric signs which are medically demonstrable phenomena
+25 indicating specific abnormalities of behavior, affect, thought, memory, orientation,
+26 or contact with reality; or laboratory findings which are anatomical, physiological,
+27 or psychological phenomena that can be shown by medically acceptable laboratory
+Page 21 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 diagnostic techniques, including but not limited to chemical tests,
+2 electrocardiograms, electroencephalograms, X-rays, and psychological tests;
+3 (34) "Participating" means an employee is currently earning service credit in the system
+4 as provided in KRS 61.543;
+5 (35) "Month" means a calendar month;
+6 (36) "Membership date" means:
+7 (a) The date upon which the member began participating in the system as
+8 provided in KRS 61.543;
+9 (b) For a member electing to participate in the system pursuant to KRS
+10 196.167(4) or 311A.022(2) who has not previously participated in the system
+11 or the Kentucky Teachers' Retirement System, the date the member began
+12 participating in a defined contribution plan that meets the requirements of 26
+13 U.S.C. sec. 403(b);
+14 (c) For members bound by an educational contract as a conditional employee to
+15 the state of Kentucky prior to December 31, 2003, the date on which the
+16 educational contract became effective; or
+17 (d) For a member participating in the system pursuant to KRS 31.045, the earlier
+18 of the date upon which the member began participating in the system under
+19 paragraph (a) of this subsection or the date the member began employment
+20 with the Louisville and Jefferson County Public Defender Corporation;
+21 (37) "Participant" means a member, as defined by subsection (8) of this section, or a
+22 retired member, as defined by subsection (24) of this section;
+23 (38) "Qualified domestic relations order" means any judgment, decree, or order,
+24 including approval of a property settlement agreement, that:
+25 (a) Is issued by a court or administrative agency; and
+26 (b) Relates to the provision of child support, alimony payments, or marital
+27 property rights to an alternate payee;
+Page 22 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (39) "Alternate payee" means a spouse, former spouse, child, or other dependent of a
+2 participant, who is designated to be paid retirement benefits in a qualified domestic
+3 relations order;
+4 (40) "Accumulated employer credit" mean the employer pay credit deposited to the
+5 member's account and interest credited on such amounts as provided by KRS
+6 16.583 and 61.597;
+7 (41) "Accumulated account balance" means:
+8 (a) For members who began participating in the system prior to January 1, 2014,
+9 the member's accumulated contributions; or
+10 (b) For members who began participating in the system on or after January 1,
+11 2014, in the hybrid cash balance plan as provided by KRS 16.583 and 61.597,
+12 the combined sum of the member's accumulated contributions and the
+13 member's accumulated employer credit;
+14 (42) "Volunteer" means an individual who:
+15 (a) Freely and without pressure or coercion performs hours of service for an
+16 employer participating in one (1) of the systems administered by Kentucky
+17 Retirement Systems without receipt of compensation for services rendered,
+18 except for reimbursement of actual expenses, payment of a nominal fee to
+19 offset the costs of performing the voluntary services, or both; and
+20 (b) If a retired member, does not become an employee, leased employee, or
+21 independent contractor of the employer for which he or she is performing
+22 volunteer services for a period of at least twelve (12) months following the
+23 retired member's most recent retirement date;
+24 (43) "Nominal fee" means compensation earned for services as a volunteer that does not
+25 exceed five hundred dollars ($500) per month with each participating employer.
+26 Compensation earned for services as a volunteer from more than one (1)
+27 participating employer during a month shall not be aggregated to determine whether
+Page 23 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 the compensation exceeds the five hundred dollars ($500) per month maximum
+2 provided by this subsection;
+3 (44) "Nonhazardous position" means a position that does not meet the requirements of
+4 KRS 61.592 or has not been approved by the board as a hazardous position;
+5 (45) "Monthly average pay" means:
+6 (a) In the case of a member who dies as a direct result of an act in line of duty as
+7 defined in KRS 16.505 or who dies as a result of a duty-related injury as
+8 defined in KRS 61.621, the higher of the member's monthly final rate of pay
+9 or the average monthly creditable compensation earned by the deceased
+10 member during his or her last twelve (12) months of employment; or
+11 (b) In the case where a member becomes totally and permanently disabled as a
+12 direct result of an act in line of duty as defined in KRS 16.505 or becomes
+13 disabled as a result of a duty-related injury as defined in KRS 61.621 and is
+14 eligible for the benefits provided by KRS 61.621(5)(a), the higher of the
+15 member's monthly final rate of pay or the average monthly creditable
+16 compensation earned by the disabled member during his or her last twelve
+17 (12) months of employment prior to the date the act in line of duty or duty-
+18 related injury occurred;
+19 (46) "Authority" means the Kentucky Public Pensions Authority as provided by KRS
+20 61.505;
+21 (47) "Executive director" means the executive director of the Kentucky Public Pensions
+22 Authority;
+23 (48) "Instructional staff" means the employees of a state college or university
+24 participating under KRS 61.520 who are:
+25 (a) Faculty;
+26 (b) Staff responsible for teaching; or
+27 (c) Other individuals employed in an administrative position that is eligible for
+Page 24 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 participation in the Teachers' Insurance and Annuity Association (TIAA) of
+2 the Teachers' Retirement System;
+3 (49) "Agency reporting official" means the person designated by the participating
+4 employer who shall be responsible for forwarding all employer and employee
+5 contributions and a record of the contributions to the System and for performing
+6 other administrative duties pursuant to KRS 61.510 to 61.705;[ and]
+7 (50) "Gainful employment" means work in any capacity that is or may be performed
+8 with regularity and is or may be usually done for pay, whether pay is received or
+9 not received, including seasonal, volunteer, part-time, and on-call work; and
+10 (51) "Special needs trust" means a trust described in 42 U.S.C. sec. 1396p(d)(4)(A) or
+11 (C) for the benefit of one (1) person. Any reference to a trust includes a special
+12 needs trust, unless the context otherwise requires.
+13 Section 4. KRS 61.635 is amended to read as follows:
+14 (1) Each member shall have the right to elect to have his or her retirement allowance
+15 payable under any one (1) of the options set forth in this section in lieu of the
+16 retirement allowance otherwise payable to the member upon retirement under any
+17 of the provisions of KRS 16.505 to 16.652, 61.510 to 61.705, and 78.510 to 78.852.
+18 The amount of any optional retirement allowance shall be actuarially equivalent to
+19 the amount of retirement allowance otherwise payable to the member.
+20 (2) Survivorship one hundred percent (100%). The member may elect to receive a
+21 decreased retirement allowance during his or her lifetime and have the retirement
+22 allowance continued after the member's death to his or her beneficiary during the
+23 lifetime of the person.
+24 (3) Survivorship sixty-six and two-thirds percent (66-2/3%). The member may elect to
+25 receive a decreased retirement allowance during his or her lifetime and have two-
+26 thirds (2/3) of the retirement allowance continue after the member's death to his or
+27 her beneficiary during the lifetime of the person.
+Page 25 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (4) Survivorship fifty percent (50%). The member may elect to receive a decreased
+2 retirement allowance during his or her lifetime and have one-half (1/2) of the
+3 retirement allowance continued after the member's death to his or her beneficiary
+4 during the lifetime of the person.
+5 (5) Life with ten (10) years certain. The member less than age seventy-six (76) may
+6 elect to receive a monthly retirement allowance during his or her lifetime which
+7 shall guarantee payments for one hundred twenty (120) months. If the member dies
+8 before receiving payments for one hundred twenty (120) months, the member's
+9 beneficiary shall receive the remaining payments monthly, for the duration of the
+10 one hundred twenty (120) months' period. However, if the trust is designated as
+11 beneficiary, the trustee of the trust may elect to receive a lump-sum payment which
+12 shall be the actuarial equivalent to the remaining payments, or the trustee may elect
+13 to continue the remaining monthly payments to the trust of the member. If the estate
+14 is designated as beneficiary, the estate shall receive a lump-sum payment which
+15 shall be the actuarial equivalent to the remaining payments.
+16 (6) Life with fifteen (15) years certain. The member less than age sixty-eight (68) may
+17 elect to receive a monthly retirement allowance during his or her lifetime which
+18 shall guarantee payments for one hundred eighty (180) months. If the member dies
+19 before receiving payments for one hundred eighty (180) months, the member's
+20 beneficiary shall receive the remaining payments monthly for the duration of the
+21 one hundred eighty (180) months' period. However, if the trust is designated as
+22 beneficiary, the trustee of the trust may elect to receive a lump-sum payment which
+23 shall be the actuarial equivalent to the remaining payments, or the trustee may elect
+24 to continue the remaining payments to the trust of the member. If the estate is
+25 designated as beneficiary, the estate shall receive a lump-sum payment which shall
+26 be the actuarial equivalent to the remaining payments.
+27 (7) Life with twenty (20) years certain. The member less than age sixty-two (62) may
+Page 26 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 elect to receive a monthly retirement allowance during his or her lifetime which
+2 shall guarantee payments for two hundred forty (240) months. If the member dies
+3 before receiving payments for two hundred forty (240) months, the member's
+4 beneficiary shall receive the remaining payments for the duration of the two
+5 hundred forty (240) months period. However, if the trust is beneficiary, the trustee
+6 of the trust may elect to receive a lump-sum payment which shall be the actuarial
+7 equivalent to the remaining payments, or the trustee may elect to continue the
+8 remaining payments to the trust of the member. If the estate is designated as
+9 beneficiary, the estate shall receive a lump-sum payment which shall be the
+10 actuarial equivalent to the remaining payments.
+11 (8) Social Security adjustment options. These options shall be available to any member
+12 who has not attained age sixty-two (62) as follows:
+13 (a) No survivor rights. The member may elect to receive an increased retirement
+14 allowance from his or her effective retirement date through the month he or
+15 she attains age sixty-two (62) at which time his or her retirement allowance
+16 shall be decreased for the remainder of his or her lifetime;
+17 (b) Survivor rights. The member may elect to receive an increased retirement
+18 allowance from his or her effective retirement date through the month he or
+19 she attains age sixty-two (62) based on the option payable under subsection
+20 (2) of this section, if the retirement allowance shall be decreased in the month
+21 following the month he or she attains age sixty-two (62), or the month
+22 following the month he or she would have attained age sixty-two (62), in
+23 event of the member's death, and have the retirement allowance continue after
+24 the member's death to his or her beneficiary during the lifetime of the person.
+25 (9) Beneficiary Social Security adjustment option. This option is available to the
+26 beneficiary of a deceased member if the beneficiary, who is a person, has not
+27 attained age sixty (60), and is eligible to receive Social Security payments at age
+Page 27 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 sixty (60). The beneficiary may elect to receive during his or her lifetime an
+2 increased retirement allowance based on his or her annual benefit payable for life.
+3 The payment shall begin on his or her effective retirement date and continue
+4 through the month he or she attains age sixty (60) at which time his or her
+5 retirement allowance shall be decreased for the remainder of his or her lifetime.
+6 (10) Pop-up option. The member may elect to receive a decreased retirement allowance
+7 during his or her lifetime and have the retirement allowance continued after the
+8 member's death to his or her beneficiary during the lifetime of the person. If the
+9 beneficiary dies prior to the member, or if the beneficiary is the member's spouse
+10 and they divorce, the member's retirement allowance shall increase to the amount
+11 that would have been payable as a single life annuity.
+12 (11) Actuarial equivalent refund. A member who began participating in the system prior
+13 to January 1, 2014, may elect to receive a one (1) time lump-sum payment which
+14 shall be the actuarial equivalent of the amount payable for a period of sixty (60)
+15 months under KRS 61.595[ ](1).
+16 (12) Partial lump-sum option.
+17 (a) No survivor rights. A member may elect to receive a one-time lump-sum
+18 payment equal to twelve (12), twenty-four (24), thirty-six (36), forty-eight
+19 (48), or sixty (60) monthly retirement allowances payable under the
+20 applicable retirement formula for the system and receive a reduced monthly
+21 retirement allowance payable for his or her lifetime. The lump-sum payment
+22 shall be paid in the month the first monthly retirement allowance is payable.
+23 (b) Survivor rights. A member may elect to receive a one-time lump-sum
+24 payment equal to twelve (12), twenty-four (24), thirty-six (36), forty-eight
+25 (48), or sixty (60) monthly retirement allowances payable under subsection
+26 (2) of this section and receive a reduced monthly retirement allowance
+27 payable for his or her lifetime. The lump-sum payment shall be paid in the
+Page 28 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 month the first monthly retirement allowance is payable. The reduced
+2 retirement allowance shall be continued after the member's death to his or her
+3 beneficiary during the lifetime of the person.
+4 (c) In order to explain the partial lump-sum option to members, the Authority
+5 shall:
+6 1. Provide, for all retirement estimates that include the partial lump-sum
+7 option, including estimates calculated by a member using an automatic
+8 estimator available on the Authority's website, the additional months of
+9 service a member would have to be employed in order to recoup the
+10 actuarial reduction in his or her monthly retirement allowance from
+11 selecting a partial lump-sum option at each payment level; and
+12 2. Prepare and make available to all members and participating employers
+13 in the form of a paper or electronic pamphlet or booklet a summary of
+14 the partial lump-sum option, written in a manner that can be understood
+15 by the average member and sufficiently accurate and comprehensive to
+16 reasonably apprise them of the benefits and potential consequences,
+17 including federal tax consequences, of taking a partial lump-sum option.
+18 (13) The other provisions of this section notwithstanding, the beneficiary of a retired
+19 member of the General Assembly shall, after the member's death, receive sixty-six
+20 and two-thirds percent (66-2/3%) of the member's retirement allowance during his
+21 or her lifetime if the member of the General Assembly began participating in the
+22 system prior to January 1, 2014, and has elected this option and has made
+23 contributions in accordance with subsection (14) of this section and of KRS 61.560.
+24 The retirement allowance of the retired member of the General Assembly shall not
+25 be actuarially reduced to provide for this survivor benefit.
+26 (14) A member of the General Assembly who began participating in the system prior to
+27 January 1, 2014, who wishes to obtain the survivorship option specified in
+Page 29 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 subsection (13) of this section shall so notify the Kentucky Public Pensions
+2 Authority:
+3 (a) Within thirty (30) days after first becoming a member of the General
+4 Assembly if he or she is not a member of the General Assembly on July 15,
+5 1980; or
+6 (b) Within thirty (30) days after July 15, 1980, if he or she is a member of the
+7 General Assembly on July 15, 1980.
+8 (15) The system shall forward to members of the General Assembly a form on which a
+9 member who began participating in the system prior to January 1, 2014, may elect
+10 the option provided for in subsections (13) and (14) of this section.
+11 (16) (a) The options described in subsections (2), (3), (4), (8)(b), (10), (12)(b), and
+12 (13) of this section shall be extended to the member only if the designated
+13 beneficiary is a person or a special needs trust.
+14 (b) If the beneficiary is a special needs trust, the following shall apply:
+15 1. The age of the beneficiary of the special needs trust shall be used to
+16 determine the relevant actuarial factors;
+17 2. Upon the death of the retired member or beneficiary, the trustee of
+18 that trust shall notify the authority of the death of the retired member
+19 or beneficiary;
+20 3. Any retirement allowance payments made to a special needs trust that
+21 are not properly payable to the special needs trust shall be returned to
+22 the authority and shall not be subject to claims for reimbursement
+23 from any state for Medicaid benefits paid on behalf of the beneficiary
+24 of the special needs trust under any Medicaid payback provision; and
+25 4. The authority may promulgate administrative regulations in
+26 accordance with KRS Chapter 13A to administer this subsection.
+27 Section 5. KRS 61.640 is amended to read as follows:
+Page 30 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (1) If a member dies prior to the first day of the month in which the member would
+2 have received his or her first retirement allowance, the member's beneficiary shall
+3 be eligible for the benefits provided by this section if the member had on file a
+4 written designation of a beneficiary with the retirement office as provided by KRS
+5 61.542 and the member met the following conditions at the date of his or her death:
+6 (a) The member was eligible to retire under KRS 61.559(2) or (3), 61.5956(5)(a)
+7 or (b), or 61.597(6)(a) or (b);
+8 (b) The member was in active employment or on authorized leave of absence
+9 with five (5) or more years of service credit and died prior to his or her normal
+10 retirement date or was normal retirement age or older and had at least four (4)
+11 years of service credit; or
+12 (c) The member was not in active employment or on authorized leave of absence
+13 with twelve (12) or more years of service credit and died prior to his or her
+14 normal retirement date.
+15 (2) If the beneficiary eligible for benefits as provided in subsection (1) of this section is
+16 a single person or is a special needs trust, then the beneficiary may elect to receive:
+17 (a) A monthly benefit payable for the life of the beneficiary or the life of the
+18 beneficiary of the special needs trust that is equal to the benefit that would
+19 have been paid had the member retired immediately prior to his or her date of
+20 death and elected to receive benefits payable under the survivorship one
+21 hundred percent (100%) option as provided in KRS 61.635(2);
+22 (b) A monthly benefit payable for the life of the beneficiary or the life of the
+23 beneficiary of the special needs trust under the beneficiary Social Security
+24 adjustment option as provided in KRS 61.635(9) that is the actuarial
+25 equivalent to the amount computed under paragraph (a) of this subsection;
+26 (c) A monthly benefit payable for a period of sixty (60) months that is the
+27 actuarial equivalent to the amount computed under paragraph (a) of this
+Page 31 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 subsection;
+2 (d) A monthly benefit payable for a period of one hundred twenty (120) months
+3 that is the actuarial equivalent to the amount computed under paragraph (a) of
+4 this subsection;
+5 (e) If the member began participating in the system prior to January 1, 2014, a
+6 monthly benefit payable for:
+7 1. Sixty (60) months certain;
+8 2. One hundred twenty (120) months certain;
+9 3. The actuarial equivalent refund; or
+10 4. The Social Security adjustment option;
+11 that is equivalent to the benefit the member would have been entitled to
+12 receive based on his or her years of service and final compensation at the date
+13 of his or her death reduced by the survivorship fifty percent (50%) factor as
+14 provided for in KRS 61.635(4), then reduced by fifty percent (50%), and that
+15 is the actuarial equivalent to the amount computed under paragraph (a) of this
+16 subsection; or
+17 (f) The higher of a refund of the member's accumulated account balance as
+18 described in KRS 61.625(1) or one (1) time lump-sum payment which shall
+19 be the actuarial equivalent of the amount payable under paragraph (a) of this
+20 subsection for a period of sixty (60) months.
+21 (3) If the beneficiary eligible for benefits as provided by subsection (1) of this section
+22 are multiple beneficiaries or a trust, other than a special needs trust, then the
+23 multiple beneficiaries by consensus or the trustee may elect to receive the actuarial
+24 equivalent amounts payable under subsection (2)(c), (d), (e), or (f) of this section
+25 using the assumption that the beneficiary's age is the same as the member's age.
+26 (4) If the beneficiary eligible for benefits as provided in subsection (1) of this section is
+27 the member's estate, then the beneficiary shall receive the higher of a refund of the
+Page 32 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 member's accumulated account balance as described in KRS 61.625(1) or the one
+2 (1) time lump-sum payment payable under subsection (2)(f) of this section, using
+3 the assumption that the beneficiary's age is the same as the member's age.
+4 (5) Payments of taxable distributions made pursuant to this section shall be subject to
+5 state and federal income tax as appropriate.
+6 Section 6. KRS 61.690 is amended to read as follows:
+7 (1) (a) Except as otherwise provided by this section and KRS 61.705(4), all
+8 retirement allowances and other benefits accrued or accruing to any person
+9 under the provisions of KRS 61.510 to 61.705, 16.505 to 16.652, and 78.510
+10 to 78.852, and the accumulated account balance and cash securities in the
+11 funds created under KRS 61.510 to 61.705, 16.505 to 16.652, and 78.510 to
+12 78.852, are hereby exempt from any state, county, or municipal tax, and shall
+13 not be subject to execution, attachment, garnishment, or any other process,
+14 and shall not be assigned.
+15 (b) A recipient or their legal representative may direct that the recipient's
+16 retirement benefits be paid to a trust that permits the recipient unrestricted
+17 access to the amounts held in the trust or if the trust is for the sole benefit of
+18 the recipient. The recipient's direction is not an assignment or transfer of
+19 benefits.
+20 (2) Notwithstanding the provisions of subsection (1) of this section, retirement benefits
+21 accrued or accruing to any person under the provisions of KRS 61.510 to 61.705,
+22 16.505 to 16.652, and 78.510 to 78.852 on or after January 1, 1998, shall be subject
+23 to the tax imposed by KRS 141.020, to the extent provided in KRS 141.010 and
+24 141.0215.
+25 (3) Qualified domestic relations orders issued by a court or administrative agency shall
+26 be honored by the retirement system if:
+27 (a) The benefits payable pursuant to the order meet the requirements of a
+Page 33 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 qualified domestic relations order as provided by 26 U.S.C. sec. 414(p). The
+2 retirement system shall follow applicable provisions of 26 U.S.C. sec. 414(p)
+3 in administering qualified domestic relations orders;
+4 (b) The order meets the requirements established by the retirement system and by
+5 subsections (3) to (11) of this section. The board of trustees of the retirement
+6 system shall establish the requirements, procedures, and forms necessary for
+7 the administration of qualified domestic relations orders by promulgation of
+8 administrative regulations in accordance with KRS Chapter 13A; and
+9 (c) The order is on the form established by the retirement system pursuant to the
+10 retirement system's authority provided under paragraph (3)(b) of this
+11 subsection.
+12 (4) A qualified domestic relations order shall not:
+13 (a) Require the retirement system to take any action not authorized under state or
+14 federal law;
+15 (b) Require the retirement system to provide any benefit, allowance, or other
+16 payment not authorized under state or federal law;
+17 (c) Grant or be construed to grant the alternate payee any separate right, title, or
+18 interest in or to any retirement benefit other than to receive payments from the
+19 participant's account in accordance with the administrative regulations
+20 promulgated by the retirement system and as provided by subsections (3) to
+21 (11) of this section; or
+22 (d) Grant any separate interest to any person other than the participant.
+23 (5) Any qualified domestic relations order submitted to the retirement system shall
+24 specify the dollar amount or percentage amount of the participant's benefit to be
+25 paid to the alternate payee. In calculating the amount to be paid to the alternate
+26 payee, the court or administrative agency that is responsible for issuing the order
+27 shall follow the requirements set forth in the administrative regulations promulgated
+Page 34 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 by the board of trustees. Notwithstanding any other statute to the contrary, the
+2 board shall not be required to honor a qualified domestic relations order that does
+3 not follow the requirements set forth in the administrative regulations promulgated
+4 by the board of trustees.
+5 (6) If the qualified domestic relations order meets the requirements established by the
+6 system and by subsections (3) to (11) of this section, payments to the alternate
+7 payee shall begin under the following conditions:
+8 (a) If the participant is retired and is receiving a monthly retirement allowance,
+9 the month following the date the retirement system receives a qualified
+10 domestic relations order that complies with the administrative regulations
+11 promulgated by the retirement system and subsections (3) to (11) of this
+12 section; or
+13 (b) If the participant is not retired, the month of the participant's effective
+14 retirement date in which the first retirement allowance is payable to the
+15 participant or the month in which the participant receives a refund of his or
+16 her accumulated account balance as provided by KRS 61.625.
+17 (7) An alternate payee's benefits and rights under a qualified domestic relations order
+18 shall terminate upon the earlier of:
+19 (a) The death of the participant;
+20 (b) The death of the alternate payee; or
+21 (c) The termination of the participant's benefits under any of the provisions of
+22 KRS 16.505 to 16.652, 61.510 to 61.705, and 78.510 to 78.852.
+23 (8) An alternate payee shall not receive a monthly payment under a qualified domestic
+24 relations order if the participant is not receiving a monthly retirement allowance.
+25 (9) The cost of living adjustment provided to the participant pursuant to KRS 61.691 or
+26 78.5518 shall be divided between the participant and alternate payee in a qualified
+27 domestic relations order as follows:
+Page 35 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (a) If the order specifies the alternate payee is to receive a percentage of the
+2 participant's benefit, then the cost of living adjustment shall be divided
+3 between the participant and the alternate payee based upon the percentage of
+4 the total benefit each is receiving upon the participant's retirement or upon the
+5 date the order is approved by the retirement system, whichever is later; or
+6 (b) If the order specifies that the alternate payee is to receive a set dollar amount
+7 of the participant's benefit, then the order shall specify that:
+8 1. The cost of living adjustment shall be divided between the participant
+9 and the alternate payee based upon the percentage of the total benefit
+10 each is receiving upon the participant's retirement or upon the date the
+11 order is approved by the retirement system, whichever is later; or
+12 2. The alternate payee shall receive no cost of living adjustment.
+13 If the order does not specify the division of the cost of living adjustment as
+14 required by this paragraph, then no cost of living adjustment shall be payable
+15 to the alternate payee. If no cost of living adjustment is provided to the
+16 alternate payee, then the participant shall receive the full cost of living
+17 adjustment he or she would have received if the order had not been applied to
+18 the participant's account.
+19 (10) Except in cases involving child support payments, the retirement system may
+20 charge reasonable and necessary fees and expenses to the recipient and the alternate
+21 payee of a qualified domestic relations order for the administration of the qualified
+22 domestic relations order by the retirement system. All fees and expenses shall be
+23 established by administrative regulations promulgated by the board of trustees of
+24 the retirement system. The qualified domestic relations order shall specify whether
+25 the fees and expenses provided by this subsection shall be paid:
+26 (a) Solely by the participant;
+27 (b) Solely by the alternate payee; or
+Page 36 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (c) Equally shared by the participant and alternate payee.
+2 (11) The retirement system shall honor a qualified domestic relations order issued prior
+3 to July 15, 2010, if:
+4 (a) The order was on file and approved by the retirement system prior to July 15,
+5 2010. All benefits, including cost of living adjustments payable to the
+6 alternate payee, for orders that meet the requirements of this paragraph shall
+7 not be eliminated or reduced as a result of the provisions of subsections (3) to
+8 (10) of this section and KRS 61.510(27) and 78.510(26); or
+9 (b) The order or an amended version of the order meets the requirements
+10 established by this section and the administrative regulations promulgated by
+11 the retirement system. The order shall not apply to benefit payments issued by
+12 the retirement system prior to the date the order was approved by the
+13 retirement system.
+14 Section 7. KRS 78.510 is amended to read as follows:
+15 As used in KRS 78.510 to 78.852, unless the context otherwise requires:
+16 (1) "System" means the County Employees Retirement System created by KRS 78.510
+17 to 78.852;
+18 (2) "Board" means the board of trustees of the system as provided in KRS 78.782;
+19 (3) "County" means any county, or nonprofit organization created and governed by a
+20 county, counties, or elected county officers, sheriff and his or her employees,
+21 county clerk and his or her employees, circuit clerk and his or her deputies, former
+22 circuit clerks or former circuit clerk deputies, or political subdivision or
+23 instrumentality, including school boards, cities, charter county governments, urban-
+24 county governments, consolidated local governments, or unified local governments
+25 participating in the system by order appropriate to its governmental structure, as
+26 provided in KRS 78.530, and if the board is willing to accept the agency,
+27 organization, or corporation, the board being hereby granted the authority to
+Page 37 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 determine the eligibility of the agency to participate;
+2 (4) "School board" means:
+3 (a) Any board of education participating in the system by order appropriate to its
+4 governmental structure, as provided in KRS 78.530, and if the board is willing
+5 to accept the agency or corporation, the board being hereby granted the
+6 authority to determine the eligibility of the agency to participate; or
+7 (b) A public charter school as defined in KRS 160.1590 if the public charter
+8 school satisfies the criteria set by the Internal Revenue Service to participate
+9 in a governmental retirement plan;
+10 (5) "Examiner" means the medical examiners as provided in KRS 61.665;
+11 (6) "Employee" means every regular full-time appointed or elective officer or
+12 employee of a participating county and the coroner of a participating county,
+13 whether or not he or she qualifies as a regular full-time officer. The term shall not
+14 include persons engaged as independent contractors, seasonal, emergency,
+15 temporary, and part-time workers. In case of any doubt, the board shall determine if
+16 a person is an employee within the meaning of KRS 78.510 to 78.852;
+17 (7) "Employer" means a county, as defined in subsection (3) of this section, the elected
+18 officials of a county, or any authority of the county having the power to appoint or
+19 elect an employee to office or employment in the county;
+20 (8) "Member" means any employee who is included in the membership of the system
+21 or any former employee whose membership has not ceased under KRS 78.535;
+22 (9) "Service" means the total of current service and prior service as defined in this
+23 section;
+24 (10) "Current service" means the number of years and months of employment as an
+25 employee, on and after July 1, 1958, for which creditable compensation is paid and
+26 employee contributions deducted, except as otherwise provided;
+27 (11) "Prior service" means the number of years and completed months, expressed as a
+Page 38 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 fraction of a year, of employment as an employee, prior to July 1, 1958, for which
+2 creditable compensation was paid. An employee shall be credited with one (1)
+3 month of prior service only in those months he or she received compensation for at
+4 least one hundred (100) hours of work. Twelve (12) months of current service in the
+5 system shall be required to validate prior service;
+6 (12) "Accumulated contributions" means the sum of all amounts deducted from the
+7 compensation of a member and credited to his or her individual account in the
+8 members' account, including employee contributions picked up after August 1,
+9 1982, pursuant to KRS 78.610(4), together with interest credited, on the amounts,
+10 and any other amounts the member shall have contributed thereto, including interest
+11 credited thereon. "Accumulated contributions" shall not include employee
+12 contributions that are deposited into accounts established pursuant to 26 U.S.C. sec.
+13 401(h) within the fund established in KRS 78.520, as prescribed by KRS
+14 78.5536(3)(b);
+15 (13) "Creditable compensation":
+16 (a) Except as limited by paragraph (c) of this subsection, means all salary, wages,
+17 and fees, including payments for compensatory time, paid to the employee as
+18 a result of services performed for the employer or for time during which the
+19 member is on paid leave, which are includable on the member's federal form
+20 W-2 wage and tax statement under the heading "wages, tips, other
+21 compensation", including employee contributions picked up after August 1,
+22 1982, pursuant to KRS 78.610(4). The creditable compensation of fee officers
+23 who receive salary, fees, maintenance, or other perquisites as a result of their
+24 official duties is the gross amount received decreased by the cost of salary
+25 paid deputies and clerks and the cost of office supplies and other official
+26 expenses;
+27 (b) Includes:
+Page 39 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 1. Lump-sum bonuses, severance pay, or employer-provided payments for
+2 purchase of service credit, which shall be averaged over the employee's
+3 service with the system in which it is recorded if it is equal to or greater
+4 than one thousand dollars ($1,000);
+5 2. Cases where compensation includes maintenance and other perquisites,
+6 but the board shall fix the value of that part of the compensation not paid
+7 in money;
+8 3. Lump-sum payments for creditable compensation paid as a result of an
+9 order of a court of competent jurisdiction, the Personnel Board, or the
+10 Kentucky Commission on Human Rights, or for any creditable
+11 compensation paid in anticipation of settlement of an action before a
+12 court of competent jurisdiction, the Personnel Board, or the Kentucky
+13 Commission on Human Rights, including notices of violations of state
+14 or federal wage and hour statutes or violations of state or federal
+15 discrimination statutes, which shall be credited to the fiscal year during
+16 which the wages were earned or should have been paid by the employer.
+17 This subparagraph shall also include lump-sum payments for reinstated
+18 wages pursuant to KRS 61.569, which shall be credited to the period
+19 during which the wages were earned or should have been paid by the
+20 employer;
+21 4. Amounts which are not includable in the member's gross income by
+22 virtue of the member having taken a voluntary salary reduction provided
+23 for under applicable provisions of the Internal Revenue Code; and
+24 5. Elective amounts for qualified transportation fringes paid or made
+25 available on or after January 1, 2001, for calendar years on or after
+26 January 1, 2001, that are not includable in the gross income of the
+27 employee by reason of 26 U.S.C. sec. 132(f)(4); and
+Page 40 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (c) Excludes:
+2 1. Living allowances, expense reimbursements, lump-sum payments for
+3 accrued vacation leave, sick leave except as provided in KRS 78.616(5),
+4 and other items determined by the board;
+5 2. For employees who begin participating on or after September 1, 2008,
+6 lump-sum payments for compensatory time;
+7 3. Training incentive payments for city officers paid as set out in KRS
+8 64.5277 to 64.5279;
+9 4. For employees who begin participating on or after August 1, 2016,
+10 nominal fees paid for services as a volunteer; and
+11 5. Any salary or wages paid to an employee for services as a Kentucky
+12 State Police school resource officer as defined by KRS 158.441;
+13 (14) "Final compensation" means:
+14 (a) For a member who begins participating before September 1, 2008, who is
+15 employed in a nonhazardous position, the creditable compensation of the
+16 member during the five (5) fiscal years he or she was paid at the highest
+17 average monthly rate divided by the number of months of service credit
+18 during that five (5) year period multiplied by twelve (12). The five (5) years
+19 may be fractional and need not be consecutive. If the number of months of
+20 service credit during the five (5) year period is less than forty-eight (48), one
+21 (1) or more additional fiscal years shall be used;
+22 (b) For a member who is employed in a nonhazardous position, whose effective
+23 retirement date is between August 1, 2001, and January 1, 2009, and whose
+24 total service credit is at least twenty-seven (27) years and whose age and years
+25 of service total at least seventy-five (75), final compensation means the
+26 creditable compensation of the member during the three (3) fiscal years the
+27 member was paid at the highest average monthly rate divided by the number
+Page 41 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 of months of service credit during that three (3) year period multiplied by
+2 twelve (12). The three (3) years may be fractional and need not be
+3 consecutive. If the number of months of service credit during the three (3)
+4 year period is less than twenty-four (24), one (1) or more additional fiscal
+5 years shall be used;
+6 (c) For a member who begins participating before September 1, 2008, who is
+7 employed in a hazardous position, as provided in KRS 78.5520, the creditable
+8 compensation of the member during the three (3) fiscal years he or she was
+9 paid at the highest average monthly rate divided by the number of months of
+10 service credit during that three (3) year period multiplied by twelve (12). The
+11 three (3) years may be fractional and need not be consecutive. If the number
+12 of months of service credit during the three (3) year period is less than twenty-
+13 four (24), one (1) or more additional fiscal years, which may contain less than
+14 twelve (12) months of service credit, shall be used;
+15 (d) For a member who begins participating on or after September 1, 2008, but
+16 prior to January 1, 2014, who is employed in a nonhazardous position, the
+17 creditable compensation of the member during the five (5) complete fiscal
+18 years immediately preceding retirement divided by five (5). Each fiscal year
+19 used to determine final compensation must contain twelve (12) months of
+20 service credit. If the member does not have five (5) complete fiscal years that
+21 each contain twelve (12) months of service credit, then one (1) or more
+22 additional fiscal years, which may contain less than twelve (12) months of
+23 service credit, shall be added until the number of months in the final
+24 compensation calculation is at least sixty (60) months; or
+25 (e) For a member who begins participating on or after September 1, 2008, but
+26 prior to January 1, 2014, who is employed in a hazardous position as provided
+27 in KRS 78.5520, the creditable compensation of the member during the three
+Page 42 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (3) complete fiscal years he or she was paid at the highest average monthly
+2 rate divided by three (3). Each fiscal year used to determine final
+3 compensation must contain twelve (12) months of service credit. If the
+4 member does not have three (3) complete fiscal years that each contain twelve
+5 (12) months of service credit, then one (1) or more additional fiscal years,
+6 which may contain less than twelve (12) months of service credit, shall be
+7 added until the number of months in the final compensation calculation is at
+8 least thirty-six (36) months;
+9 (15) "Final rate of pay" means the actual rate upon which earnings of an employee were
+10 calculated during the twelve (12) month period immediately preceding the
+11 member's effective retirement date, and shall include employee contributions
+12 picked up after August 1, 1982, pursuant to KRS 78.610(4). The rate shall be
+13 certified to the system by the employer and the following equivalents shall be used
+14 to convert the rate to an annual rate: two thousand eighty (2,080) hours for eight (8)
+15 hour workdays, one thousand nine hundred fifty (1,950) hours for seven and one-
+16 half (7.5) hour workdays, two hundred sixty (260) days, fifty-two (52) weeks,
+17 twelve (12) months, one (1) year;
+18 (16) "Retirement allowance" means the retirement payments to which a member is
+19 entitled;
+20 (17) "Actuarial equivalent" means a benefit of equal value when computed upon the
+21 basis of the actuarial tables adopted by the board. In cases of disability retirement,
+22 the options authorized by KRS 61.635 shall be computed by adding ten (10) years
+23 to the age of the member, unless the member has chosen the Social Security
+24 adjustment option as provided for in KRS 61.635(8), in which case the member's
+25 actual age shall be used. For members who begin participating in the system prior
+26 to January 1, 2014, no disability retirement option shall be less than the same option
+27 computed under early retirement;
+Page 43 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (18) "Normal retirement date", unless otherwise provided in KRS 78.510 to 78.852,
+2 means:
+3 (a) For a member with service in a nonhazardous position, the sixty-fifth birthday
+4 of a member;
+5 (b) For a member with service in a hazardous position who begins participating
+6 before September 1, 2008, the first day of the month following a member's
+7 fifty-fifth birthday; or
+8 (c) For a member with service in a hazardous position who begins participating
+9 on or after September 1, 2008, the first day of the month following a
+10 member's sixtieth birthday;
+11 (19) "Fiscal year" of the system means the twelve (12) months from July 1 through the
+12 following June 30, which shall also be the plan year. The "fiscal year" shall be the
+13 limitation year used to determine contribution and benefits limits as set out in 26
+14 U.S.C. sec. 415;
+15 (20) "Agency reporting official" means the person designated by the participating
+16 employer who shall be responsible for forwarding all employer and employee
+17 contributions and a record of the contributions to the system and for performing
+18 other administrative duties pursuant to KRS 78.510 to 78.852;
+19 (21) "Regular full-time positions," as used in subsection (6) of this section, shall mean
+20 all positions that average one hundred (100) or more hours per month, determined
+21 by using the number of hours actually worked in a calendar or fiscal year, or eighty
+22 (80) or more hours per month in the case of noncertified employees of school
+23 boards, determined by using the number of hours actually worked in a calendar or
+24 school year, unless otherwise specified, except:
+25 (a) Seasonal positions, which although temporary in duration, are positions which
+26 coincide in duration with a particular season or seasons of the year and that
+27 may recur regularly from year to year, in which case the period of time shall
+Page 44 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 not exceed nine (9) months, except for employees of school boards, in which
+2 case the period of time shall not exceed six (6) months;
+3 (b) Emergency positions which are positions utilized by the employer during:
+4 1. An emergency as determined by the employer for a period not
+5 exceeding thirty (30) working days and are nonrenewable; or
+6 2. A state of emergency declared by the President of the United States or
+7 the Governor of the Commonwealth of Kentucky that are created or
+8 filled specifically for addressing the employer's needs during and as a
+9 result of the declared emergency;
+10 (c) Temporary positions that are positions of employment with a participating
+11 agency for a period of time not to exceed twelve (12) months and not
+12 renewable;
+13 (d) Probationary positions which are positions of employment with a participating
+14 employer that do not exceed twelve (12) months and that are used uniformly
+15 by the participating agency on new employees who would otherwise be
+16 eligible for participation in the system. Probationary positions shall not be
+17 renewable by the participating employer for the same employee, unless the
+18 employee has not been employed with the participating employer for a period
+19 of at least twelve (12) months; or
+20 (e) Part-time positions that are positions that may be permanent in duration, but
+21 that require less than a calendar or fiscal year average of one hundred (100)
+22 hours of work per month, determined by using the number of months actually
+23 worked within a calendar or fiscal year, in the performance of duty, except in
+24 case of noncertified employees of school boards, the school term average shall
+25 be eighty (80) hours of work per month, determined by using the number of
+26 months actually worked in a calendar or school year, in the performance of
+27 duty;
+Page 45 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (22) "Alternate participation plan" means a method of participation in the system as
+2 provided for by KRS 78.530(3);
+3 (23) "Retired member" means any former member receiving a retirement allowance or
+4 any former member who has on file at the retirement office the necessary
+5 documents for retirement benefits and is no longer contributing to the system;
+6 (24) "Current rate of pay" means the member's actual hourly, daily, weekly, biweekly,
+7 monthly, or yearly rate of pay converted to an annual rate as defined in final rate of
+8 pay. The rate shall be certified by the employer;
+9 (25) "Beneficiary" means the person, persons, estate, trust, special needs trust, or trustee
+10 designated by the member in accordance with KRS 61.542 or 61.705 to receive any
+11 available benefits in the event of the member's death. As used in KRS 78.5536,
+12 beneficiary shall not mean an estate, trust, or trustee;
+13 (26) "Recipient" means the retired member, the person or persons designated as
+14 beneficiary by the member and drawing a retirement allowance as a result of the
+15 member's death, or a dependent child drawing a retirement allowance. An alternate
+16 payee of a qualified domestic relations order shall not be considered a recipient,
+17 except for purposes of KRS 61.623;
+18 (27) "Person" means a natural person;
+19 (28) "School term or year" means the twelve (12) months from July 1 through the
+20 following June 30;
+21 (29) "Retirement office" means the Kentucky Public Pensions Authority office building
+22 in Frankfort, unless otherwise designated by the Kentucky Public Pensions
+23 Authority;
+24 (30) "Vested" for purposes of determining eligibility for purchasing service credit under
+25 KRS 61.552 means the employee has at least forty-eight (48) months of service if
+26 age sixty-five (65) or older or at least sixty (60) months of service if under the age
+27 of sixty-five (65). For purposes of this subsection, "service" means service in the
+Page 46 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 systems administered by the Kentucky Retirement Systems and County Employees
+2 Retirement System;
+3 (31) "Participating" means an employee is currently earning service credit in the system
+4 as provided in KRS 78.615;
+5 (32) "Month" means a calendar month;
+6 (33) "Membership date" means the date upon which the member began participating in
+7 the system as provided in KRS 78.615;
+8 (34) "Participant" means a member, as defined by subsection (8) of this section, or a
+9 retired member, as defined by subsection (23) of this section;
+10 (35) "Qualified domestic relations order" means any judgment, decree, or order,
+11 including approval of a property settlement agreement, that:
+12 (a) Is issued by a court or administrative agency; and
+13 (b) Relates to the provision of child support, alimony payments, or marital
+14 property rights to an alternate payee;
+15 (36) "Alternate payee" means a spouse, former spouse, child, or other dependent of a
+16 participant, who is designated to be paid retirement benefits in a qualified domestic
+17 relations order;
+18 (37) "Accumulated employer credit" means the employer pay credit deposited to the
+19 member's account and interest credited on such amounts as provided by KRS
+20 78.5512 and 78.5516;
+21 (38) "Accumulated account balance" means:
+22 (a) For members who began participating in the system prior to January 1, 2014,
+23 the member's accumulated contributions; or
+24 (b) For members who began participating in the system on or after January 1,
+25 2014, in the hybrid cash balance plan as provided by KRS 78.5512 and
+26 78.5516, the combined sum of the member's accumulated contributions and
+27 the member's accumulated employer credit;
+Page 47 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (39) "Volunteer" means an individual who:
+2 (a) Freely and without pressure or coercion performs hours of service for an
+3 employer participating in one (1) of the systems administered by Kentucky
+4 Retirement Systems or the County Employees Retirement System without
+5 receipt of compensation for services rendered, except for reimbursement of
+6 actual expenses, payment of a nominal fee to offset the costs of performing
+7 the voluntary services, or both; and
+8 (b) If a retired member, does not become an employee, leased employee, or
+9 independent contractor of the employer for which he or she is performing
+10 volunteer services for a period of at least twelve (12) months following the
+11 retired member's most recent retirement date;
+12 (40) "Nominal fee" means compensation earned for services as a volunteer that does not
+13 exceed five hundred dollars ($500) per month with each participating employer.
+14 Compensation earned for services as a volunteer from more than one (1)
+15 participating employer during a month shall not be aggregated to determine whether
+16 the compensation exceeds the five hundred dollars ($500) per month maximum
+17 provided by this subsection;
+18 (41) "Nonhazardous position" means a position that does not meet the requirements of
+19 KRS 78.5520 or has not been approved by the board as a hazardous position;
+20 (42) "Hazardous position" means a position that meets the requirements of KRS 78.5520
+21 and has been approved by the board as hazardous;
+22 (43) "Level-percentage-of-payroll amortization method" means a method of determining
+23 the annual amortization payment on the unfunded actuarial accrued liability as
+24 expressed as a percentage of payroll over a set period of years. Under this method,
+25 the percentage of payroll shall be projected to remain constant for all years
+26 remaining in the set period and the unfunded actuarially accrued liability shall be
+27 projected to be fully amortized at the conclusion of the set period;
+Page 48 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (44) "Increment" means twelve (12) months of service credit which are purchased. The
+2 twelve (12) months need not be consecutive. The final increment may be less than
+3 twelve (12) months;
+4 (45) "Last day of paid employment" means the last date employer and employee
+5 contributions are required to be reported in accordance with KRS 16.543, 61.543, or
+6 78.615 to the retirement office in order for the employee to receive current service
+7 credit for the month. Last day of paid employment does not mean a date the
+8 employee receives payment for accrued leave, whether by lump sum or otherwise,
+9 if that date occurs twenty-four (24) or more months after previous contributions;
+10 (46) "Objective medical evidence" means reports of examinations or treatments; medical
+11 signs which are anatomical, physiological, or psychological abnormalities that can
+12 be observed; psychiatric signs which are medically demonstrable phenomena
+13 indicating specific abnormalities of behavior, affect, thought, memory, orientation,
+14 or contact with reality; or laboratory findings which are anatomical, physiological,
+15 or psychological phenomena that can be shown by medically acceptable laboratory
+16 diagnostic techniques, including but not limited to chemical tests,
+17 electrocardiograms, electroencephalograms, X-rays, and psychological tests;
+18 (47) "Hazardous disability" as used in KRS 78.510 to 78.852 means a disability which
+19 results in an employee's total incapacity to continue as an employee in a hazardous
+20 position, but the employee is not necessarily deemed to be totally and permanently
+21 disabled to engage in other occupations for remuneration or profit;
+22 (48) "Act in line of duty" means, for employees in hazardous positions under KRS
+23 78.5520:
+24 (a) A single act occurring which was required in the performance of the principal
+25 duties of the hazardous position as defined by the job description; or
+26 (b) A single act of violence committed against the employee that is found to be
+27 related to his or her job duties, whether or not it occurs at his or her job site;
+Page 49 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (49) "Dependent child" means a child in the womb and a natural or legally adopted child
+2 of the member who has neither attained age eighteen (18) nor married or who is an
+3 unmarried full-time student who has not attained age twenty-two (22). Solely in the
+4 case of a member who dies as a direct result of an act in line of duty as defined in
+5 this section, dies as a result of a duty-related injury as defined in KRS 61.621,
+6 becomes totally and permanently disabled as a direct result of an act in the line of
+7 duty as defined in this section, or becomes disabled as a result of a duty-related
+8 injury as defined in KRS 61.621 and is eligible for the benefits provided by KRS
+9 61.621(5)(a), "dependent child" also means a naturally or legally adopted disabled
+10 child of the member, regardless of the child's age, if the child has been determined
+11 to be eligible for federal Social Security disability benefits or is being claimed as a
+12 qualifying child for tax purposes due to the child's total and permanent disability;
+13 (50) "Normal retirement age" means the age at which the member meets the
+14 requirements for his or her normal retirement date as provided by subsection (18) of
+15 this section;
+16 (51) "Disability retirement date" means the first day of the month following the last day
+17 of paid employment;
+18 (52) "Monthly average pay" means:
+19 (a) In the case of a member who dies as a direct result of an act in line of duty as
+20 defined in KRS 16.505 or who dies as a result of a duty-related injury as
+21 defined in KRS 61.621, the higher of the member's monthly final rate of pay
+22 or the average monthly creditable compensation earned by the deceased
+23 member during his or her last twelve (12) months of employment; or
+24 (b) In the case where a member becomes totally and permanently disabled as a
+25 direct result of an act in line of duty as defined in KRS 16.505 or becomes
+26 disabled as a result of a duty-related injury as defined in KRS 61.621 and is
+27 eligible for the benefits provided by KRS 61.621(5)(a), the higher of the
+Page 50 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 member's monthly final rate of pay or the average monthly creditable
+2 compensation earned by the disabled member during his or her last twelve
+3 (12) months of employment prior to the date the act in line of duty or duty-
+4 related injury occurred;
+5 (53) "Authority" means the Kentucky Public Pensions Authority as provided by KRS
+6 61.505;
+7 (54) "Executive director" means the executive director of the Kentucky Public Pensions
+8 Authority;[ and]
+9 (55) "Gainful employment" means work in any capacity that is or may be performed
+10 with regularity and is or may be usually done for pay, whether pay is received or
+11 not received, including seasonal, volunteer, part-time, and on-call work; and
+12 (56) "Special needs trust" means a trust described in 42 U.S.C. sec. 1396p(d)(4)(A) or
+13 (C) for the benefit of one (1) person. Any reference to a trust includes a special
+14 needs trust, unless the context otherwise requires.
+15 Section 8. KRS 78.5532 is amended to read as follows:
+16 (1) If a member dies prior to the first day of the month in which the member would
+17 have received his or her first retirement allowance, the member's beneficiary shall
+18 be eligible for the benefits provided by this section if the member had on file a
+19 written designation of a beneficiary with the retirement office as provided by KRS
+20 61.542 and the member met the following conditions at the date of his or her death:
+21 (a) 1. The member had service in a nonhazardous position and was eligible to
+22 retire under KRS 78.5510(2) or (3) or 78.5512(6); or
+23 2. The member had service in a hazardous position and was eligible to
+24 retire under KRS 78.5514(2) or (3) or 78.5516(6);
+25 (b) The member was in active employment or on authorized leave of absence
+26 with five (5) or more years of service credit and died prior to his or her normal
+27 retirement date or in the case of a nonhazardous member, was normal
+Page 51 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 retirement age or older and had at least four (4) years of service credit; or
+2 (c) The member was not in active employment or on authorized leave of absence
+3 with twelve (12) or more years of service credit and died prior to his or her
+4 normal retirement date.
+5 (2) If the beneficiary eligible for benefits as provided in subsection (1) of this section is
+6 a single person or a special needs trust, then the beneficiary may elect to receive:
+7 (a) A monthly benefit payable for the life of the beneficiary or the life of the
+8 beneficiary of the special needs trust that is equal to the benefit that would
+9 have been paid had the member retired immediately prior to his or her date of
+10 death and elected to receive benefits payable under the survivorship one
+11 hundred percent (100%) option as provided in KRS 61.635(2);
+12 (b) A monthly benefit payable for the life of the beneficiary or the life of the
+13 beneficiary of the special needs trust under the beneficiary Social Security
+14 adjustment option as provided in KRS 61.635(9) that is the actuarial
+15 equivalent to the amount computed under paragraph (a) of this subsection;
+16 (c) A monthly benefit payable for a period of sixty (60) months that is the
+17 actuarial equivalent to the amount computed under paragraph (a) of this
+18 subsection;
+19 (d) A monthly benefit payable for a period of one hundred twenty (120) months
+20 that is the actuarial equivalent to the amount computed under paragraph (a) of
+21 this subsection;
+22 (e) If the member began participating prior to January 1, 2014, a monthly benefit
+23 payable for a period of one hundred twenty (120) months that is equivalent to
+24 the benefit the member would have been entitled to receive based on his or
+25 her years of service and final compensation at the date of his or her death
+26 reduced by the survivorship fifty percent (50%) factor as provided for in KRS
+27 61.635(4), then reduced by fifty percent (50%), and that is the actuarial
+Page 52 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 equivalent to the amount computed under paragraph (a) of this subsection; or
+2 (f) The higher of a refund of the member's accumulated account balance as
+3 described in KRS 61.625(1) or one (1) time lump-sum payment which shall
+4 be the actuarial equivalent of the amount payable under paragraph (a) of this
+5 subsection for a period of sixty (60) months.
+6 (3) If the beneficiary eligible for benefits as provided by subsection (1) of this section
+7 is multiple beneficiaries or a trust, other than a special needs trust, then the
+8 multiple beneficiaries by consensus or the trustee may elect to receive the actuarial
+9 equivalent amounts payable under subsection (2)(c), (d), (e), or (f) of this section
+10 using the assumption that the beneficiary's age is the same as the member's age.
+11 (4) If the beneficiary eligible for benefits as provided in subsection (1) of this section is
+12 the member's estate, then the beneficiary shall receive the higher of a refund of the
+13 member's accumulated account balance as described in KRS 61.625(1) or the one
+14 (1) time lump-sum payment payable under subsection (2)(f) of this section, using
+15 the assumption that the beneficiary's age is the same as the member's age.
+16 (5) Payments of taxable distributions made pursuant to this section shall be subject to
+17 state and federal income tax as appropriate.
+18 (6) (a) The beneficiary of a member with service in a nonhazardous position who
+19 dies as a result of a duty-related injury may be eligible for benefits based upon
+20 the definitions, criteria, and benefits specified by KRS 61.621.
+21 (b) The beneficiary of a member with service in a hazardous position who dies as
+22 a direct result of an act in line of duty may be eligible for benefits from the
+23 system based upon the definitions, criteria, and benefits specified by KRS
+24 78.5534.
+25 Section 9. KRS 161.525 is amended to read as follows:
+26 (1) Upon death of a member in active contributing status at the time of death, who was
+27 eligible to retire by reason of service, the spouse, if named as the primary
+Page 53 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 beneficiary of the member's retirement account, or in the absence of an eligible
+2 spouse a legal dependent of the member, if named as the primary beneficiary, shall
+3 be entitled to elect, in lieu of a refund of the member's accumulated account balance
+4 or benefits provided in KRS 161.520, an annuity actuarially equivalent at the
+5 attained age of the beneficiary to the annuity that would have been paid to the
+6 deceased member had retirement been effective on the day immediately preceding
+7 the member's death. Under the provisions of KRS 61.680, benefits shall be
+8 processed as if the member retired for service. In exercising this right the spouse or
+9 legal dependent shall be limited to selecting an option providing either a straight
+10 life annuity with refundable balance or a term certain option. A spouse may receive
+11 the annuity provided by this section at the same time as children are qualifying for
+12 survivors' benefits under the provisions of KRS 161.520; however, a legal
+13 dependent, other than a spouse, may not receive these payments if children have
+14 qualified for benefits under that section.
+15 (2) A spouse qualifying for an annuity under subsection (1) of this section may defer
+16 the payments in order to reduce the actuarial discounts to be applied due to age.
+17 (3) Upon death of a member in active contributing status at the time of his or her death,
+18 who had a minimum of twenty-seven (27) years of service, the spouse, if named as
+19 the primary beneficiary of the member's account shall be entitled to a monthly
+20 minimum allowance of three hundred dollars ($300) as the basic straight life
+21 annuity. This provision applies to surviving spouses of members who were
+22 receiving benefit payments under KRS 161.520 as of June 30, 1986, and to
+23 surviving spouses of members who die on or after July 1, 1986.
+24 (4) If the surviving spouse or legal dependent eligible for a benefit under subsection
+25 (1) of this section is the sole beneficiary of a special needs trust, the annuity
+26 payments made under subsection (1) of this section shall be made payable to the
+27 special needs trust.
+Page 54 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 Section 10. KRS 161.640 is amended to read as follows:
+2 (1) Retirement annuities shall be payable monthly. The first payment to an annuitant
+3 shall be made at the payment date at the end of one (1) full payment period after his
+4 retirement and shall consist of one (1) regular monthly payment. Retirement for a
+5 member receiving one (1) full year of service credit during a fiscal year shall be no
+6 earlier than July 1 next following the end of such fiscal year. Notwithstanding any
+7 other statutory provisions to the contrary, members filling positions that
+8 customarily require twelve (12) months of service during a fiscal year cannot retire
+9 prior to July 1 without a corresponding pro rata reduction in salary and service
+10 credit. The board of trustees may determine which positions customarily require
+11 twelve (12) months of service during a fiscal year.
+12 (2) The board of trustees may enter into agreements with retired members for payroll
+13 deductions when it is deemed in the best interest of the retired members and the
+14 retirement system.
+15 (3) (a) All new retirees, on or after July 1, 1998, shall receive their monthly annuity
+16 checks by electronic fund transfer. All retiree, beneficiary, and survivor
+17 monthly allowance payments, except as otherwise provided in paragraph (b)
+18 or (c) of this subsection, shall be made by electronic fund transfer. Except as
+19 provided in paragraph (b) or (c) of this subsection, all monthly payments shall
+20 be made payable only to an account solely in the name of the retiree,
+21 beneficiary, or survivor as an individual and natural person, or to a joint
+22 account in the name of the retiree, beneficiary, or survivor as an individual
+23 and natural person and another individual and natural person.
+24 (b) If the retiree, beneficiary, or survivor is a resident of a nursing or assisted-care
+25 home, monthly payments may be made to the order of the nursing or assisted-
+26 care home for the benefit of the retiree, beneficiary, or survivor by including
+27 the retiree's, beneficiary's, or survivor's name. Monthly annuity checks so paid
+Page 55 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 to a nursing or assisted-care home may be sent by mail rather than electronic
+2 fund transfer.
+3 (c) If the retiree, beneficiary, or survivor is the sole beneficiary of a special
+4 needs trust:
+5 1. Monthly payments shall be made to the order of the special needs
+6 trust, and checks may be sent by mail to the special needs trust for the
+7 benefit of the retiree, beneficiary, or survivor;
+8 2. Upon the death of the retiree, beneficiary, or survivor of a special
+9 needs trust, the trustee of that trust shall notify the Teachers'
+10 Retirement System;
+11 3. Any payments made to a special needs trust that are not properly
+12 payable to the special needs trust shall be returned to the Teachers'
+13 Retirement System and shall not be subject to claims for
+14 reimbursement from any state for Medicaid benefits paid on behalf of
+15 the beneficiary under any Medicaid payback provision, and any
+16 overpayments of retirement allowance received by the special needs
+17 trust shall be repaid to the Teachers' Retirement System; and
+18 4. The Teachers' Retirement System may promulgate administrative
+19 regulations in accordance with KRS Chapter 13A to administer this
+20 paragraph.
+21 Section 11. KRS 161.700 is amended to read as follows:
+22 (1) Except as otherwise provided by this section and KRS 161.655(5), the right of a
+23 member to a retirement allowance and to the return of contributions, any benefit or
+24 right accrued or accruing to any person under KRS 161.220 to 161.716, and the
+25 money in the various funds established pursuant to KRS 161.220 to 161.716 are
+26 hereby exempt from any state or municipal tax, and shall not be subject to
+27 execution, garnishment, attachment, or other process, and shall not be assigned.
+Page 56 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (2) Notwithstanding the provisions of subsection (1) of this section, retirement
+2 allowances and other benefits accrued or accruing under KRS 161.220 to 161.716
+3 to a person who is the beneficiary of a special needs trust may be assigned to the
+4 trustee of that special needs trust. Any retirement allowances or other benefits
+5 assigned to a special needs trust under this subsection, or accrued or accruing
+6 under KRS 161.220 to 161.716 to a person who is the beneficiary of a special
+7 needs trust, shall cease upon the death of the beneficiary of the special needs
+8 trust and shall not be subject to state reimbursement for Medicaid benefits paid
+9 on behalf of the beneficiary under a Medicaid payback provision.
+10 (3)[(2)] Notwithstanding subsection (1) of this section, retirement benefits accrued or
+11 accruing to any person under this retirement system on or after January 1, 1998,
+12 shall be subject to the tax imposed by KRS 141.020, to the extent provided in KRS
+13 141.010 and 141.0215.
+14 (4)[(3)] Retirement allowance, disability allowance, accumulated account balance, or
+15 any other benefit under the retirement system shall not be classified as marital
+16 property pursuant to KRS 403.190(1), except to the extent permitted under KRS
+17 403.190(4). Retirement allowance, disability allowance, accumulated contributions,
+18 or any other benefit under the retirement system shall not be considered as an
+19 economic circumstance during the division of marital property in an action for
+20 dissolution of marriage pursuant to KRS 403.190(1)(d), except to the extent
+21 permitted under KRS 403.190(4).
+22 (5)[(4)] Qualified domestic relations orders issued by a court or administrative agency
+23 shall be honored by the retirement system if:
+24 (a) The benefits payable pursuant to the order meet the requirements of a
+25 qualified domestic relations order as provided by 26 U.S.C. sec. 414(p). The
+26 retirement system shall follow applicable provisions of 26 U.S.C. sec. 414(p)
+27 in administering qualified domestic relations orders;
+Page 57 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 (b) The order meets the requirements established by the retirement system and by
+2 subsections (5)[(4)] to (13)[(12)] of this section. The board of trustees of the
+3 retirement system shall establish the requirements, procedures, and forms
+4 necessary for the administration of qualified domestic relations order by
+5 promulgation of administrative regulations in accordance with KRS Chapter
+6 13A; and
+7 (c) The order is on the form established by the retirement system pursuant to the
+8 retirement system's authority provided under paragraph (b) of this subsection.
+9 (6)[(5)] A qualified domestic relations order shall not:
+10 (a) Require the retirement system to take any action not authorized under state or
+11 federal law;
+12 (b) Require the retirement system to provide any benefit, allowance, or other
+13 payment not authorized under state or federal law;
+14 (c) Grant or be construed to grant the alternate payee any separate right, title, or
+15 interest in or to any retirement benefit other than to receive payments from the
+16 participant's account in accordance with the administrative regulations
+17 promulgated by the system and as provided by subsections (5)[(4)] to
+18 (13)[(12)] of this section; or
+19 (d) Grant any separate interest to any person other than the participant.
+20 (7)[(6)] Any qualified domestic relations order submitted to the retirement system
+21 shall specify the dollar amount or percentage amount of the participant's benefit to
+22 be paid to the alternate payee. In calculating the amount to be paid to the alternate
+23 payee, the court or administrative agency that is responsible for issuing the order
+24 shall follow the requirements set forth in the administrative regulations promulgated
+25 by the board of trustees. Notwithstanding any other statute to the contrary, the
+26 board shall not be required to honor a qualified domestic relations order that does
+27 not follow the requirements set forth in the administrative regulations promulgated
+Page 58 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 by the board of trustees.
+2 (8)[(7)] If the qualified domestic relations order meets the requirements established by
+3 the system and by subsections (5)[(4)] to (13)[(12)] of this section, payments to the
+4 alternate payee shall be distributed under the following conditions:
+5 (a) If the participant is retired and is receiving a monthly retirement allowance,
+6 the month following the date the retirement system receives a qualified
+7 domestic relations order that complies with the administrative regulations
+8 promulgated by the retirement system and subsections (5)[(4)] to (13)[(12)] of
+9 this section; or
+10 (b) If the participant is not retired, the month of the participant's effective
+11 retirement date in which the first retirement allowance is payable to the
+12 participant or the month in which the participant receives a refund of his or
+13 her accumulated account balance as provided by KRS 161.470(6).
+14 (9)[(8)] An alternate payee's benefits and rights under a qualified domestic relations
+15 order shall terminate upon the earlier of:
+16 (a) The death of the participant;
+17 (b) The death of the alternate payee; or
+18 (c) The termination of benefits to the participant under any provision of KRS
+19 161.220 to 161.716.
+20 (10)[(9)] An alternate payee shall not receive a monthly payment under a qualified
+21 domestic relations order if the participant is not receiving a monthly retirement
+22 allowance.
+23 (11)[(10)] The cost of living adjustment provided to the participant pursuant to KRS
+24 161.620 shall be divided between the participant and alternate payee in a qualified
+25 domestic relations order as follows:
+26 (a) If the order specifies the alternate payee is to receive a percentage of the
+27 participant's benefit, then the cost of living adjustment shall be divided
+Page 59 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 between the participant and the alternate payee based upon the percentage of
+2 the total benefit each is receiving upon the participant's retirement or upon the
+3 date the order is approved by the retirement system, whichever is later; or
+4 (b) If the order specifies that the alternate payee is to receive a set dollar amount
+5 of the participant's benefit, then the order shall specify that:
+6 1. The cost of living adjustment shall be divided between the participant
+7 and the alternate payee based upon the percentage of the total benefit
+8 each is receiving upon the participant's retirement or upon the date the
+9 order is approved by the retirement system, whichever is later; or
+10 2. The alternate payee shall receive no cost of living adjustment.
+11 If the order does not specify the division of the cost of living adjustment as
+12 required by this paragraph, then no cost of living adjustment shall be payable
+13 to the alternate payee. If no cost of living adjustment is provided to the
+14 alternate payee, then the participant shall receive the full cost of living
+15 adjustment he or she would have received if the order had not been applied to
+16 the participant's account.
+17 (12)[(11)] Except in cases involving child support payments, the retirement system may
+18 charge reasonable and necessary fees and expenses to the recipient and the alternate
+19 payee of a qualified domestic relations order for the administration of the qualified
+20 domestic relations order by retirement system. All fees and expenses shall be
+21 established by the administrative regulations promulgated by the board of trustees
+22 of the retirement system. The qualified domestic relations order shall specify
+23 whether the fees and expenses provided by this subsection shall be paid:
+24 (a) Solely by the participant;
+25 (b) Solely by the alternate payee; or
+26 (c) Equally shared by the participant and alternate payee.
+27 (13)[(12)] The retirement system shall honor a qualified domestic relations order issued
+Page 60 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 prior to July 15, 2010, for prospective benefit payments if the order or an amended
+2 version of the order meets the requirements established by this section and the
+3 administrative regulations promulgated by the retirement system. The order shall
+4 not apply to benefit payments issued by the retirement system prior to the date the
+5 order was approved by the retirement system.
+6 Section 12. KRS 21.420 is amended to read as follows:
+7 (1) After the death of a member who began participating in the Judicial Retirement
+8 Plan prior to January 1, 2014, who at the time of his or her death was receiving a
+9 service retirement allowance (other than an actuarially reduced allowance under
+10 subsection (3) of KRS 21.400), or was receiving a disability retirement allowance,
+11 his or her surviving spouse is entitled to receive during his or her lifetime a
+12 monthly allowance equal to one-half (1/2) of that he or she was receiving.
+13 (2) (a) If a member who began participating in the Judicial Retirement Plan prior to
+14 January 1, 2014, dies before retirement and before reaching normal retirement
+15 age, without regard to length of service, his or her surviving spouse is entitled
+16 to receive during his or her lifetime a monthly allowance equal to one-half
+17 (1/2) of the monthly allowance the member would have received commencing
+18 at his or her normal retirement date if he or she had continued in service until
+19 that date and had then retired, computed however on the basis of his or her
+20 final compensation at time of death.
+21 (b) If a member who began participating in the Judicial Retirement Plan prior to
+22 January 1, 2014, dies before retirement and after reaching normal retirement
+23 age, his or her surviving spouse is entitled to receive during his or her
+24 lifetime a monthly allowance equal to one-half (1/2) of the monthly allowance
+25 the member would have been entitled to, on the basis of his or her years of
+26 service, had he or she retired on the date of his death.
+27 (3) If a member who began participating in the Judicial Retirement Plan prior to
+Page 61 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 January 1, 2014, dies after retirement and was at the time of his or her death
+2 receiving an actuarially reduced allowance under subsection (3) of KRS 21.400, or
+3 was not at the time of his or her death receiving a retirement allowance but had
+4 acquired the vested right under subsection (2) of KRS 21.400 to have received an
+5 allowance upon reaching normal retirement age, his or her surviving spouse is
+6 entitled to receive during his or her lifetime a monthly allowance equal to one-half
+7 (1/2) of the monthly allowance the member would have received when he or she
+8 reached normal retirement age.
+9 (4) A member, or a retiree who began participating in the plan prior to January 1, 2014,
+10 who has not commenced drawing retirement benefits pursuant to KRS 21.400, and
+11 who dies without a spouse or eligible children entitled to survivor's benefits, may
+12 designate a beneficiary who shall receive the accumulated contributions of the
+13 member. A member, or a retiree who began participating in the plan on or after
+14 January 1, 2014, who has not commenced drawing retirement benefits pursuant to
+15 KRS 21.402, who dies without a spouse or eligible children entitled to survivor's
+16 benefits, may designate a beneficiary who shall receive the accumulated account
+17 balance of the member. A trust, including a special needs trust, may be designated
+18 as a beneficiary. Absent a designation by the member or retiree, the accumulated
+19 contributions or accumulated account balance, as applicable based upon the
+20 member's participation date, shall be paid to the member's estate.
+21 (5) A member who began participating in the plan prior to January 1, 2014, who
+22 commences drawing retirement benefits pursuant to KRS 21.400 or 21.410, and
+23 who dies without a spouse or eligible children entitled to survivor's benefits and
+24 before the benefits received by the member equal the accumulated contributions of
+25 the member, may designate a beneficiary who shall receive the balance of the
+26 accumulated contributions of the member. A member who began participating in
+27 the plan on or after January 1, 2014, who commences drawing retirement benefits
+Page 62 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 pursuant to KRS 21.402 or 21.410, and who dies without a spouse or eligible
+2 children entitled to survivor's benefits and before the benefits received by the
+3 member equal the accumulated account balance of the member, may designate a
+4 beneficiary who shall receive the balance of the accumulated account balance of the
+5 member. A trust, including a special needs trust, may be designated as a
+6 beneficiary. Any benefits received shall be deducted from the accumulated
+7 contributions or accumulated account balance. Absent a designation by the member,
+8 the balance of the accumulated contributions or accumulated account balance, as
+9 applicable based upon the member's participation date, shall be paid to the
+10 member's estate.
+11 (6) A member who begins participating in the Judicial Retirement Plan prior to January
+12 1, 2014, may designate a beneficiary who shall receive the balance of the
+13 accumulated contributions of the member, in the event survivor's benefits are being
+14 paid pursuant to subsection (1), (2), or (3) of this section, and the survivor dies prior
+15 to receiving benefits equal to the member's contributions. In this event, the
+16 provisions of subsection (5) of this section shall apply as to offset and payment.
+17 (7) A member who begins participating in the Judicial Retirement Plan prior to January
+18 1, 2014, may, prior to the drawing of benefits, elect in writing to the executive
+19 secretary of the Judicial Form Retirement System, to take an optional retirement
+20 allowance which shall be actuarially equivalent to the amount of retirement
+21 allowance otherwise payable to the member and the member's spouse. If the
+22 member dies after retirement, the option chosen shall prevail over the provisions of
+23 subsections (1) and (3) of this section. If the member dies prior to retirement, the
+24 option chosen shall prevail over the provisions of subsection (2) of this section. The
+25 options shall include:
+26 (a) Survivorship one hundred percent (100%). The member may elect to receive a
+27 decreased retirement allowance during the member's lifetime and have the
+Page 63 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 retirement allowance continued after death to the spouse during the lifetime of
+2 the spouse.
+3 (b) Survivorship sixty-six and two-thirds percent (66 2/3%). The member may
+4 elect to receive a decreased retirement allowance during the member's lifetime
+5 and have two-thirds (2/3) of the retirement allowance continue after death to
+6 the spouse during the lifetime of the spouse.
+7 If a retiree, living or deceased, chose either of the optional retirement benefit
+8 allowances specified in paragraphs (a) or (b) of this subsection from July 15, 1994,
+9 to July 15, 1998, the optional allowance shall be adjusted accordingly, and the new
+10 benefit shall commence August 1, 1998. Each recipient of benefits from the plan,
+11 who retired from July 15, 1994, to July 15, 1998, shall have a one-time opportunity
+12 to select an optional retirement allowance. The election by the recipient shall be
+13 prior to August 1, 1998, at which time the new benefit shall commence. The option
+14 chosen shall prevail, subsections (1), (2), and (3) of this section notwithstanding.
+15 (8) For a member who begins participating in the Judicial Retirement Plan on or after
+16 January 1, 2014:
+17 (a) If the member dies prior to drawing a retirement allowance, then the surviving
+18 spouse may elect to:
+19 1. Take a refund of the member's accumulated account balance or
+20 accumulated contributions as provided by KRS 21.402; or
+21 2. If the member had at least five (5) years of service in the plan at the time
+22 of his or her death, have the member's accumulated account balance
+23 annuitized into a monthly benefit payable for life that is equal to the
+24 benefit that would have been paid had the member retired immediately
+25 prior to his or her date of death and elected to receive benefits payable
+26 under the survivorship one hundred percent (100%) option as provided
+27 by paragraph (b)1. of this subsection.
+Page 64 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 In lieu of the benefits provided by this paragraph to the surviving spouse, the
+2 member may elect to have the benefits payable under this paragraph paid to
+3 an individual dependent child by completing the forms provided prescribed by
+4 the Judicial Form Retirement System. If no surviving spouse or dependent
+5 children are eligible to receive benefits, then the provisions of subsection (4)
+6 of this section shall apply to the member.
+7 (b) If a member dies on or after the date the member begins drawing a retirement
+8 allowance, the benefits payable to the surviving spouse shall be based upon
+9 whether or not the member elects prior to retirement to receive an optional
+10 retirement allowance. The election shall be in writing on the forms prescribed
+11 by the Judicial Form Retirement System and shall be actuarially equivalent to
+12 the amount of retirement allowance otherwise payable to the member. The
+13 optional retirement allowances shall include:
+14 1. Survivorship one hundred percent (100%). The member may elect to
+15 receive a decreased retirement allowance during the member's lifetime
+16 and have the retirement allowance continued after death to the spouse
+17 during the lifetime of the spouse;
+18 2. Survivorship sixty-six and two-thirds percent (66-2/3%). The member
+19 may elect to receive a decreased retirement allowance during the
+20 member's lifetime and have two-thirds (2/3) of the retirement allowance
+21 continue after death to the spouse during the lifetime of the spouse; or
+22 3. Survivorship fifty percent (50%). The member may elect to receive a
+23 decreased retirement allowance during the member's lifetime and have
+24 one-half (1/2) of the retirement allowance continue after death to the
+25 spouse during the lifetime of the spouse.
+26 In lieu of the benefits provided by this paragraph to the surviving spouse, the
+27 member may elect prior to retirement to have the benefits payable under this
+Page 65 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 paragraph paid to an individual dependent child or to a special needs trust by
+2 completing the forms provided by the Judicial Form Retirement System. If no
+3 surviving spouse or dependent children are eligible to receive benefits, then
+4 the provisions of subsection (5) of this section shall apply to the member.
+5 (c) For purposes of this section a "dependent child" shall mean a child who is less
+6 than twenty-one (21) years of age or a disabled child who is eligible for Social
+7 Security disability benefits.
+8 (9) (a) As used in this section, "special needs trust" means a trust described in 42
+9 U.S.C. sec. 1396p(d)(4)(A) or (C).
+10 (b) In any circumstances in which a surviving spouse would be entitled to any
+11 allowance under this section, the monthly allowance that the surviving
+12 spouse was receiving or is entitled to receive may be paid to a special needs
+13 trust for the benefit of the surviving spouse.
+14 Section 13. KRS 21.425 is amended to read as follows:
+15 (1) In any circumstances in which a surviving spouse would be entitled to any
+16 allowance under KRS 21.420, but there is no surviving spouse or the surviving
+17 spouse subsequently dies, and there is a surviving child or children of the member
+18 under the age of twenty-one (21), or there is a disabled child or children, the
+19 monthly allowance that the surviving spouse would have received or was receiving
+20 shall be continued, as follows:
+21 (a) If the member does not have a disabled child or children, the benefit shall
+22 continue until there are no children remaining under the age of twenty-one
+23 (21); or
+24 (b) If the member has a disabled child or children, the benefit shall continue until
+25 the death of the last remaining disabled child.
+26 (2) A member may designate his or her child or children under the age of twenty-one
+27 (21), or his or her disabled child or children, or a special needs trust as defined by
+Page 66 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1087
+1 subsection (9) of Section 12 of this Act for the benefit of the disabled child, to
+2 receive the death benefit payable under KRS 21.420 instead of his or her spouse, or
+3 he or she may designate that his or her spouse shall receive a percentage of the
+4 death benefit, and his or her child or children under the age of twenty-one (21), or
+5 his or her disabled child or children, or a special needs trust as defined by
+6 subsection (9) of Section 12 of this Act for the benefit of a disabled child, shall
+7 receive the remainder. The member making such a choice shall designate his or her
+8 beneficiary or beneficiaries in writing to the manager of the Judicial Form
+9 Retirement System on a form provided by the manager.
+10 (3) For purposes of this section, "disabled" means an individual determined by the
+11 Social Security Administration to be entitled to total disability benefits.
+12 (4) Subsections (1) to (3) of this section shall not apply to a member who begins
+13 participating in the Judicial Retirement Plan on or after January 1, 2014.
+Page 67 of 67
+BR108700.100 - 1087 - XXXX 2/18/2026 2:36 PM Jacketed
