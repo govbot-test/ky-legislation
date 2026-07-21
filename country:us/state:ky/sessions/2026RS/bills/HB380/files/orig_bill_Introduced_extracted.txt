@@ -1,0 +1,1396 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 AN ACT relating to the regulation of virtual currency kiosk business.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 286.11-001 is amended to read as follows:
+4 This subtitle may be cited as the Kentucky Money Transmitters and Virtual Currency
+5 Kiosk Operators Act[ of 2006].
+6 Section 2. KRS 286.11-003 is amended to read as follows:
+7 As used in this subtitle, unless the context requires otherwise:
+8 (1) "Affiliate" means any person who directly or indirectly through one (1) or more
+9 intermediaries controls, is controlled by, or is under common control with, another
+10 person;
+11 (2) "Agent" means a person authorized by written agreement and designated by the
+12 licensee to act on behalf of a licensee under the provisions of this subtitle;
+13 (3) "Applicant" means a person filing an application or renewal application for a
+14 license under this subtitle;
+15 (4) "Control" means:
+16 (a) Ownership of, or the power to vote, directly or indirectly, twenty-five percent
+17 (25%) or more of a class of voting securities or voting interests of a licensee
+18 or applicant, or person in control of a licensee or applicant;
+19 (b) The power to elect a majority of executive officers, managers, directors,
+20 trustees, or other persons exercising managerial authority of a licensee or
+21 applicant, or person in control of a licensee or applicant; or
+22 (c) The power to exercise, directly or indirectly, a controlling influence over the
+23 management or policies of a licensee or applicant, or person in control of a
+24 licensee or applicant;
+25 (5) "Controlling person" means any person in control of a licensee;
+26 (6) "Director" means a member of a licensee's or applicant's board of directors if the
+27 applicant or licensee is a corporation, or manager if the applicant or licensee is a
+Page 1 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 limited liability company, or a partner if the applicant or licensee is a partnership;
+2 (7) "Electronic instrument" means a card or other tangible object for the transmission
+3 or payment of money, including a stored value card or device, which contains a
+4 microprocessor chip, magnetic stripe, or other means for storage of information,
+5 that is prefunded and for which the value is decremented upon each use, but does
+6 not include a card or other tangible object that is redeemable by the issuer in the
+7 issuer's goods and services;
+8 (8) ["Commissioner" means the commissioner of the Department of Financial
+9 Institutions;
+10 (9) ]"Executive officer" means the president, chairperson of the executive committee,
+11 responsible individual, chief financial officer, and any other person who performs
+12 similar functions;
+13 (9)[(10)] "Financial institution" means any person doing business under the laws of any
+14 state or commonwealth or the United States relating to banks, bank holding
+15 companies, savings banks, savings and loan associations, trust companies, or credit
+16 unions;
+17 (10)[(11)] "Insolvent" means that appearing upon examination of any licensee or its
+18 agent that its liabilities exceeds its assets or it cannot meet its obligations in the
+19 usual and ordinary course of business for any reason;
+20 (11)[(12)] "Key shareholder" means any person, or group of persons acting in concert,
+21 who is the owner of twenty percent (20%) or more of any voting class of an
+22 applicant's or licensee's stock;
+23 (12)[(13)] "Licensee" means a person licensed under this subtitle;
+24 (13)[(14)] "Material litigation" means litigation that according to generally accepted
+25 accounting principles is significant to an applicant's or a licensee's financial health,
+26 and would be required to be disclosed in the applicant's or licensee's annual audited
+27 financial statements, report to shareholders, or similar records, including any
+Page 2 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 adjudication against an applicant or licensee by a federal or state administrative or
+2 regulatory agency relating to a violation of the Bank Secrecy Act, 31 U.S.C. secs.
+3 5311-5332 and 31 C.F.R. pt. 103, regardless of whether the applicant or licensee
+4 has admitted liability or fault;
+5 (14)[(15)] "Monetary value" means a medium of exchange whether or not redeemable in
+6 money;
+7 (15)[(16)] "Money" means a medium of exchange that is authorized or adopted by the
+8 United States or a foreign government or other recognized medium of exchange,
+9 including a monetary unit of account established by an intergovernmental
+10 organization or by agreement between two (2) governments;
+11 (16)[(17)] "Money transmission" means engaging in the business of receiving money or
+12 monetary value to transmit, deliver, or instruct to be transmitted or delivered,
+13 money or monetary value to another location inside or outside the United States by
+14 any and all means, including but not limited to wire, facsimile, electronic transfer,
+15 or issuing stored value;
+16 (17)[(18)] "Money transmitter" means a person that is engaged in money transmission;
+17 (18)[(19)] "Net worth" means the excess of assets over liabilities as determined by
+18 generally accepted accounting principles;[
+19 (20) "Department" means the Kentucky Department of Financial Institutions;]
+20 (19)[(21)] "Outstanding payment instrument" means any payment instrument issued by
+21 the licensee which has been sold or issued in the United States directly by the
+22 licensee or any payment instrument issued by the licensee which has been sold by
+23 an agent of the licensee in the United States, which has been reported to the licensee
+24 as having been sold, and which has not yet been paid by or for the issuer;
+25 (20)[(22)] (a) "Payment instrument" means:
+26 1. A check, draft, money order, traveler's check, or other written or
+27 electronic instrument or order for the transmission or payment of
+Page 3 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 money, sold or issued to one (1) or more persons, whether or not such
+2 instrument is negotiable; or
+3 2. The purchase or the deposit of funds for the purchase of a check, draft,
+4 money order, traveler's check, or other written or electronic instrument;
+5 (b) "Payment instrument" does not include any credit card voucher, letter of
+6 credit, or instrument that is redeemable by the issuer in goods or services;
+7 (21)[(23)] "Person" means any individual, corporation, business trust, estate, trust,
+8 partnership, limited liability company, association, organization, joint venture,
+9 government and any subdivision, agency or instrumentality thereof, or any other
+10 legal or commercial entity;
+11 (22)[(24)] "Record" means information that is inscribed on a tangible medium, or that is
+12 stored in an electronic or other medium, and is retrievable in perceivable form;
+13 (23)[(25)] "Remit" means either to make direct payment of the funds to the licensee or
+14 its representatives authorized to receive those funds, or to deposit the funds in a
+15 bank, credit union, or savings and loan association, or other similar financial
+16 institution in an account specified by the licensee;
+17 (24)[(26)] "Responsible individual" means an individual who is employed by a licensee
+18 and has principal managerial authority over[ the provision of] money transmission
+19 or virtual currency kiosk business by the licensee in this state;
+20 (25)[(27)] "State" means a state or commonwealth of the United States, the District of
+21 Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular
+22 possession that is subject to the jurisdiction of the United States;
+23 (26)[(28)] "Stored value" means monetary value that is evidenced by an electronic
+24 record;[ and]
+25 (27)[(29)] "Unsafe or unsound practice" means a practice or conduct by a
+26 licensee[person licensed to provide money transmission], or an agent of such a
+27 person, which creates the likelihood of material loss, insolvency, or dissipation of
+Page 4 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 the licensee's assets, or otherwise materially prejudices the financial condition of
+2 the licensee or the interests of its customers;
+3 (28) "Virtual currency" means a natively electronic asset that:
+4 (a) Confers economic, proprietary, or access rights or powers; and
+5 (b) Is recorded using cryptographically secured distributed ledger technology or
+6 any similar analogue;
+7 (29) "Virtual currency address" means an alphanumeric identifier associated with a
+8 virtual currency wallet that identifies the location to which a virtual currency
+9 transaction can be sent;
+10 (30) (a) "Virtual currency kiosk" means a physical electronic terminal acting as a
+11 mechanical agent of a virtual currency kiosk operator to enable the
+12 operator to facilitate the exchange of one (1) or more of the following:
+13 1. Money or bank credit for virtual currency;
+14 2. Virtual currency for money or bank credit; and
+15 3. Virtual currency for other virtual currency.
+16 (b) As used in this subsection, "facilitate" includes:
+17 1. Connecting directly to a separate virtual currency exchanger that
+18 performs the exchange; and
+19 2. Drawing upon the virtual currency, money, or bank credit in the
+20 possession or control of the virtual currency kiosk operator to perform
+21 the exchange;
+22 (31) "Virtual currency kiosk charges" means:
+23 (a) Fees or expenses charged to a virtual currency kiosk user; and
+24 (b) The difference between the market price of virtual currency and the price of
+25 the virtual currency charged to a virtual currency kiosk user;
+26 (32) "Virtual currency kiosk operator" or "operator" means a person, including a
+27 licensee, that engages in virtual currency kiosk business in this state;
+Page 5 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 (33) "Virtual currency kiosk transaction" means any transaction:
+2 (a) Conducted or performed, in whole or in part, by electronic means via a
+3 virtual currency kiosk located in this state; or
+4 (b) Made at a virtual currency kiosk located in this state to purchase, sell,
+5 transfer, or otherwise exchange virtual currency;
+6 (34) "Virtual currency kiosk user" or "user" means a person, other than a virtual
+7 currency kiosk operator, that initiates, authorizes, completes, or engages in a
+8 virtual currency kiosk transaction; and
+9 (35) "Virtual currency wallet" means a software application or other mechanism
+10 providing a means to hold the keys necessary to access and transfer virtual
+11 currency.
+12 Section 3. KRS 286.11-005 is amended to read as follows:
+13 (1) A[On or after October 1, 2006, no] person shall not engage in[ the business of]
+14 money transmission or virtual currency kiosk business in this state without a
+15 license, or without being an agent of a licensee, as provided in this subtitle.
+16 (2) A person is deemed to be engaged in:[ the business of]
+17 (a) Money transmission in this state[under this subtitle] if the person advertises
+18 those services, provides those services with or without compensation, solicits
+19 to provide those services, or holds itself out as providing those services to or
+20 from this state, even if the person has no physical presence in this state; and
+21 (b) Virtual currency kiosk business in this state if the person:
+22 1. Engages in, or holds out as being able to engage in, a virtual currency
+23 kiosk transaction with or on behalf of any virtual currency kiosk user;
+24 2. Provides custodial or non-custodial services for any virtual currency
+25 kiosk transaction; or
+26 3. Owns, operates, or manages a virtual currency kiosk located in this
+27 state.
+Page 6 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 (3) A licensee may conduct its business in this state at one (1) or more locations,
+2 directly or indirectly owned, or through one (1) or more agents, or both, pursuant to
+3 the single license issued to the licensee, except a licensee shall not engage in
+4 virtual currency kiosk business at any location in this state without first
+5 obtaining:
+6 (a) Any license, permit, registration, or other authorization required for the
+7 licensee or location under any applicable local ordinance, resolution, or
+8 regulation; and
+9 (b) The written approval of the commissioner to do business at the location, as
+10 provided in Section 8 of this Act.
+11 (4) A license issued under this subtitle shall not be transferred or assigned.
+12 Section 4. KRS 286.11-007 is amended to read as follows:
+13 This subtitle does not apply to the following persons, unless the person engages in
+14 virtual currency kiosk business in this state:
+15 (1) The United States or any department, agency, or instrumentality thereof;
+16 (2) The United States Post Office or a contractor acting on behalf of the United States
+17 Post Office;
+18 (3) A state or any agency, department, or political subdivision of a state;
+19 (4) A financial institution or its subsidiaries, affiliates, and service corporations, or any
+20 office of an international banking corporation, branch of a foreign bank, or
+21 corporation organized pursuant to the Bank Service Corporation Act, 12 U.S.C.
+22 secs. 181 to 1867, or a corporation organized under the Edge Act, 12 U.S.C. secs.
+23 611 to 633;
+24 (5) A service provider that:
+25 (a) Pursuant to a written agreement, acts on behalf of an entity exempt from
+26 licensure as set forth in subsection (4) of this section; and
+27 (b) Allows the state or federal regulators with regulatory jurisdiction over the
+Page 7 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 exempt entity to examine and inspect the service provider's applicable
+2 records, books, and transactions;
+3 (6) A service provider that receives money or monetary value on behalf of an entity
+4 selling goods or services other than money transmission services if:
+5 (a) The entity, upon receipt of funds by the service provider, immediately either:
+6 1. Provides the purchased goods or services to the purchaser; or
+7 2. Credits the purchaser for the full amount of money or monetary value
+8 received by the service provider, which credit is not revocable by the
+9 entity, and evidences this credit in writing; and
+10 (b) The entity is obligated to provide the purchased goods or services to the
+11 purchaser regardless of whether or not the service provider transmits the
+12 money or monetary value to the entity;
+13 (7) The provision of electronic transfer of government benefits for any federal, state, or
+14 county governmental agency as defined in Federal Reserve Board Regulation E, by
+15 a contractor for and on behalf of the United States or any department, agency, or
+16 instrumentality thereof, or any state or any political subdivisions thereof; or
+17 (8) (a) Any individual or business that:
+18 1. Develops or deploys software on a blockchain protocol, even if the
+19 software effectuates the exchange of one digital asset for another digital
+20 asset;
+21 2. Exchanges digital assets for other digital assets; or
+22 3. Operates a node or series of nodes on a blockchain protocol.
+23 (b) As used in this subsection, "blockchain protocol," "digital asset," and "node"
+24 have the same meaning as in KRS 369.130.
+25 Section 5. KRS 286.11-009 is amended to read as follows:
+26 (1) Each application for a license under this subtitle shall be made in writing and in a
+27 form and medium prescribed by administrative regulation by the commissioner.
+Page 8 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 The application shall state or contain the following:
+2 (a) The legal name of the applicant, business addresses, and residential addresses,
+3 if applicable, of the applicant, and any fictitious or trade name used by the
+4 applicant in conducting its business;
+5 (b) The legal name, residential and business addresses, date of birth, Social
+6 Security number, and employment history for the five (5) year period
+7 preceding the filing of the application, of the applicant's proposed responsible
+8 individual;
+9 (c) A list and description of any criminal conviction, other than a traffic violation,
+10 of the applicant and proposed responsible individual, for the ten (10) year
+11 period preceding the filing of the application. The commissioner may request
+12 a copy of any criminal conviction from the applicant, which shall be promptly
+13 provided by the applicant to the commissioner within ten (10) working days
+14 of the request;
+15 (d) A list and description of any material litigation of the applicant and proposed
+16 responsible individual, for the ten (10) year period preceding the filing of the
+17 application. The commissioner may request a copy of any material litigation
+18 from the applicant, which shall be promptly provided by the applicant to the
+19 commissioner within ten (10) working days of the request;
+20 (e) A description of the activities conducted by the applicant and a history of
+21 operations, including, if applicable, a description of any money transmission
+22 or virtual currency kiosk business that has been previously provided by the
+23 applicant in this state;
+24 (f) A list of other states or countries in which the applicant is licensed to engage
+25 in money transmission, virtual currency kiosk business, or other similar
+26 money services, and any license revocations, suspensions, restrictions, or
+27 other disciplinary action taken against the applicant in another state or
+Page 9 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 country;
+2 (g) A list of any license revocations, suspensions, restrictions, or other
+3 disciplinary action taken against any money transmission or virtual currency
+4 kiosk business involving the proposed responsible individual;
+5 (h) A description of the source of money, virtual currency, and credit to be used
+6 by the applicant to provide money transmissions or engage in virtual
+7 currency kiosk business;
+8 (i) A sample form of contract for an agent;
+9 (j) A sample form of payment instrument;
+10 (k) Information concerning any bankruptcy, reorganization, or receivership
+11 proceedings involving or affecting the applicant or the proposed responsible
+12 individual;
+13 (l) A list identifying the name, physical location or locations, and telephone
+14 number at which the applicant and its proposed agents intend to conduct
+15 money transmission or virtual currency kiosk business in the state at the time
+16 of the filing of the license application;
+17 (m) The name, address, and telephone number of the clearing bank or banks on
+18 which the applicant's payment instruments will be drawn or through which
+19 such payment instruments will be payable;
+20 (n) A copy of the written procedures that will be provided by the applicant or
+21 licensee to its agent or agents;
+22 (o) That neither the applicant, nor any executive officer, nor person who exercises
+23 control over the applicant, nor key shareholder, nor any proposed agent, nor
+24 the proposed responsible individual, is listed on the specially designated
+25 nationals and blocked persons list prepared by the United States Department
+26 of the Treasury or the United States Department of State under Presidential
+27 Executive Order No. 13224 as a potential threat to commit terrorist acts and to
+Page 10 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 finance terrorist acts; and
+2 (p) Any other information regarding the background, experience, character,
+3 financial responsibility, or general fitness of the applicant, the applicant's
+4 responsible individual, or agent that the commissioner may require by
+5 administrative regulation[rule] or order.
+6 (2) If the applicant is a corporation, limited liability company, partnership, or other
+7 entity, then the applicant shall also provide:
+8 (a) A copy of the applicant's filed articles of incorporation;
+9 (b) The name, address, and telephone number of the registered process agent of
+10 the applicant in this state;
+11 (c) If applicable, [then ]a certificate of good standing from the state or country in
+12 which the applicant was incorporated or formed;
+13 (d) A description of the corporate structure of the applicant, including the identity
+14 of any parent or subsidiary of the applicant, and the disclosure of whether any
+15 parent or subsidiary is publicly traded on any stock exchange;
+16 (e) The legal name, any fictitious or trade name, all business and residence
+17 addresses, date of birth, Social Security number, and employment history for
+18 the ten (10) year period preceding the filing of the application for each
+19 executive officer, board director, key shareholder, or person that has control
+20 of the applicant;
+21 (f) Copies and description of material litigation for the ten (10) year period prior
+22 to the filing date of the application of every executive officer or key
+23 shareholder of the applicant;
+24 (g) Copies and descriptions of criminal convictions, other than traffic violations,
+25 for the ten (10) year period prior to the filing date of the application of every
+26 executive officer or key shareholder of the applicant;
+27 (h) A copy of the applicant's audited financial statements for the most recent
+Page 11 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 fiscal year or, if the applicant is a wholly owned subsidiary of another
+2 corporation, the most recent audited consolidated annual financial statement
+3 of the parent corporation or the applicant's most recent audited consolidated
+4 annual financial statements and, in each case, if available, for the two (2) year
+5 period preceding the filing of the application;
+6 (i) A copy of the applicant's unconsolidated financial statements for the current
+7 fiscal year, whether audited or not, and, if available, for the two (2) year
+8 period preceding the filing of the application;
+9 (j) If the applicant is publicly traded, [then ]a copy of the most recent report filed
+10 with the United States Securities and Exchange Commission pursuant to 15
+11 U.S.C. sec. 78m; and
+12 (k) If the applicant is a wholly owned subsidiary of:
+13 1. A corporation publicly traded in the United States, [then ]a copy of
+14 audited financial statements for the parent corporation for the most
+15 recent fiscal year or a copy of the parent corporation's most recent report
+16 filed with the United States Securities and Exchange Commission
+17 pursuant to 15 U.S.C. sec. 78m; or
+18 2. A corporation publicly traded outside of the United States, a copy of
+19 similar documentation for the most recent fiscal year filed with the
+20 regulator of the parent corporation's domicile outside the United States.
+21 (3) Every corporate applicant, at the time of filing of an application for a license under
+22 this subtitle and at all times after a license is issued, shall be in good standing in the
+23 state of its incorporation.
+24 (4) Every applicant shall, at the time of the filing of an application for a license under
+25 this subtitle and at all times after a license is issued, be registered or qualified to do
+26 business in this state.
+27 (5) The commissioner is authorized, for good cause, to waive any requirement of this
+Page 12 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 section with respect to any license application or to permit a license applicant to
+2 submit substituted information in its license application in lieu of the information
+3 required by this section.
+4 Section 6. KRS 286.11-013 is amended to read as follows:
+5 (1) Each application for a license shall be accompanied by a surety bond or other
+6 similar security acceptable to the commissioner, in the amount of at least five
+7 hundred thousand dollars ($500,000). The commissioner may increase the amount
+8 of the surety bond, or other similar security, to a maximum of five million dollars
+9 ($5,000,000), upon the basis of the financial condition of an applicant, as evidenced
+10 by net worth, transaction volume, or other relevant criteria that the commissioner
+11 may establish by order or administrative regulation[rule].
+12 (2) The surety bond, or other similar security acceptable to the commissioner, shall be
+13 in a form satisfactory to the commissioner and shall hold and bind the principal and
+14 surety to the Commonwealth of Kentucky for the benefit of any claimants against
+15 the licensee or its agents to secure the licensee's and its agents' faithful
+16 performance of their[the] obligations in accordance with the requirements of this
+17 subtitle[of the licensee with respect to the receipt, handling, transmission, and
+18 payment of money in connection with the sale and issuance of payment instruments
+19 or money transmissions by the licensee and its agent]. The aggregate liability of the
+20 surety bond or other similar security accepted shall not exceed the principal sum of
+21 the bond.
+22 (3) A claimant may maintain a civil action on the surety bond, or other similar security
+23 acceptable to the commissioner, against a licensee, or the commissioner may
+24 maintain an action on behalf of the claimant, in the Franklin Circuit Court, or in any
+25 other court of competent jurisdiction, either in one (1) action or in successive
+26 actions.
+27 (4) A licensee shall at all times maintain a surety bond, or other similar security
+Page 13 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 acceptable to the commissioner, in the amount and type required under subsections
+2 (1) and (2) of this section. The commissioner may, at any time, accept a substitute
+3 or replacement surety bond, or other acceptable similar security, from the licensee,
+4 provided that the requirements of subsections (1) and (2) are met.
+5 (5) The surety bond, or other similar security acceptable to the commissioner, shall be
+6 continuous and remain in effect until canceled. The licensee shall provide the
+7 commissioner with at least a thirty (30) day written notice of the intent to cancel the
+8 surety bond or other similar security accepted by the commissioner. The
+9 cancellation of the surety bond or other acceptable security shall not affect any
+10 liability incurred or accrued during the thirty (30) day notice of cancellation period.
+11 (6) A surety bond, or other security acceptable to the commissioner, shall remain in
+12 place and cover claims for at least five (5) years after the date of any violation of
+13 this subtitle by the licensee or its agent, or the date the licensee ceases providing
+14 money transmission services or virtual currency kiosk business in this state,
+15 whichever date occurs last. The commissioner may permit the licensee to reduce or
+16 eliminate the surety bond, or other similar security approved by the commissioner,
+17 prior to the expiration of the five (5) years, to the extent that the amount of the
+18 licensee's payment instruments or other obligations outstanding in this state are
+19 reduced.
+20 Section 7. KRS 286.11-019 is amended to read as follows:
+21 (1) (a) Upon the filing of a complete application for a license, the commissioner
+22 shall investigate the competence, experience, character, financial condition,
+23 and responsibility of the applicant.
+24 (b) The commissioner may conduct an on-site investigation of the applicant, the
+25 reasonable cost of which shall be paid by the applicant.
+26 (c) The commissioner shall review each application on a case-by-case basis.
+27 (d) If the commissioner finds that the applicant has the competence, experience,
+Page 14 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 character, financial condition, and responsibility to satisfy, and has fulfilled,
+2 the requirements of this subtitle, including, if applicable, the requirements of
+3 Section 8 of this Act for at least one (1) location in this state, then the
+4 commissioner shall issue a license to the applicant authorizing the applicant to
+5 engage in one (1) or more of the following:
+6 1. Money transmission in this state; or
+7 2. Virtual currency kiosk business[the licensed activities] in this state at
+8 one (1) or more locations, as approved by the commissioner under
+9 Section 8 of this Act.
+10 (e) If any of these requirements has not been met, then the commissioner shall
+11 deny the application, in writing setting out the reason for the denial.
+12 (2) The commissioner shall approve, or deny in writing, every completed application
+13 for a license within one hundred twenty (120) days from the date a complete
+14 application is submitted, which period may be extended for good cause by the
+15 commissioner.
+16 (3) The commissioner may deny a license application:
+17 (a) If[where] the applicant does not meet the requirements of this subtitle,
+18 including, if applicable, the requirements of Section 8 of this Act for at least
+19 one (1) location; or
+20 (b) For any of the grounds under KRS 286.11-039.
+21 (4) The commissioner may probate, place conditions upon, or refuse to issue or renew:
+22 (a) Any license issued under this subtitle; or
+23 (b) An approval to engage in virtual currency kiosk business at one (1) or more
+24 locations.
+25 (5) The commissioner may in writing deny or refuse to renew the designation of an
+26 agent by a licensee for any of the grounds found in KRS 286.11-041.
+27 (6) A person is deemed to have received a copy of a written denial or other adverse
+Page 15 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 action issued by the commissioner under[in] this section or Section 8 of this Act
+2 within three (3) days of its mailing.
+3 (7) Any applicant or licensee[person] who is aggrieved[has had his or her license
+4 application or designation as an agent denied] by an adverse action taken by the
+5 commissioner under this section or Section 8 of this Act may file a written
+6 application for an administrative hearing in accordance with KRS Chapter 13B. The
+7 written application shall be filed with the commissioner within twenty (20) days of
+8 the date of the adverse action[denial].
+9 (8) A written application for an appeal shall be made in good faith and shall briefly
+10 state the reason or reasons the person is aggrieved, together with the grounds to be
+11 relied upon as a basis for the relief to be sought at the hearing.
+12 (9) Any person who has had his or her license application,[ or] designation as an agent,
+13 or application for approval to engage in virtual currency kiosk business at one (1)
+14 or more locations denied by the commissioner may not file another application for
+15 a license, [or ]designation as an agent, or approval to engage in virtual currency
+16 kiosk business at the location or locations, under this subtitle for one (1) year after
+17 the date of the denial.
+18 SECTION 8. A NEW SECTION OF SUBTITLE 11 OF KRS CHAPTER 286
+19 IS CREATED TO READ AS FOLLOWS:
+20 (1) An applicant or a licensee seeking to engage in virtual currency kiosk business at
+21 one (1) or more locations in this state shall file a complete application for
+22 approval of the location or locations with the commissioner.
+23 (2) (a) Subject to paragraph (b) of this subsection, an application for approval to
+24 engage in virtual currency kiosk business at one (1) or more locations in
+25 this state shall not be complete unless it:
+26 1. Is made in writing;
+27 2. Is in a format required by the commissioner;
+Page 16 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 3. Contains and is accompanied by any information, documentation, and
+2 evidence the commissioner determines is necessary and appropriate
+3 for the purpose of making the determination under subsection (3) of
+4 this section; and
+5 4. Is accompanied by a nonrefundable fee of one hundred dollars ($100),
+6 except the commissioner may waive the nonrefundable fee if the
+7 application is made at the same time as a license application under
+8 Section 5 of this Act.
+9 (b) When an application is made under this section at the same time as a
+10 license application under Section 5 of this Act, the commissioner may:
+11 1. Accept the license application as the complete application required
+12 under this section; or
+13 2. Require the applicant to submit additional information to the
+14 commissioner as part of the license application for each location at
+15 which the applicant seeks to engage in virtual currency kiosk business.
+16 (3) Upon receipt of a complete application in accordance with subsection (2) of this
+17 section and subject to Section 7 of this Act, the commissioner may issue a written
+18 approval to the applicant or licensee to engage in virtual currency kiosk business
+19 at one (1) or more locations in this state if, after investigation, the commissioner
+20 determines that:
+21 (a) The applicant or licensee will conduct business at the proposed location or
+22 locations in a lawful and proper manner; and
+23 (b) The interest of the public will not be jeopardized by the applicant or licensee
+24 conducting business at the proposed location or locations.
+25 SECTION 9. A NEW SECTION OF SUBTITLE 11 OF KRS CHAPTER 286
+26 IS CREATED TO READ AS FOLLOWS:
+27 (1) Within forty-five (45) days after the end of each calendar quarter, each virtual
+Page 17 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 currency kiosk operator shall file a written report with the commissioner on a
+2 form, and containing the information, prescribed by the commissioner in an
+3 administrative regulation promulgated in accordance with KRS Chapter 13A.
+4 (2) The quarterly report required under subsection (1) of this section shall include
+5 the following for each virtual currency kiosk location at which the virtual
+6 currency kiosk operator or an agent of the operator engages in virtual currency
+7 kiosk business in this state:
+8 (a) Legal name of the location;
+9 (b) Any fictitious or trade name of the location;
+10 (c) Physical address of the location;
+11 (d) Start date of virtual currency kiosk operation at the location;
+12 (e) If applicable, the end date of virtual currency kiosk operation at the
+13 location;
+14 (f) The virtual currency addresses used by the operator or an agent of the
+15 operator to service virtual currency kiosk users at each location;
+16 (g) The number of virtual currency kiosk transactions declined at the location
+17 due to a suspicion of illicit activity; and
+18 (h) Any other information required by the commissioner.
+19 (3) (a) The commissioner may, by order, require additional special reports from
+20 virtual currency kiosk operators as the commissioner deems necessary for
+21 the proper supervision of virtual currency kiosk business in this state.
+22 (b) The special reports required under paragraph (a) of this subsection may
+23 require virtual currency kiosk operators to report any information relating
+24 to the operator's virtual currency kiosk business, including information
+25 relating to the operator's:
+26 1. Virtual currency kiosk transactions, including transactions that were
+27 attempted but denied; and
+Page 18 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 2. Virtual currency kiosk users.
+2 (4) The commissioner shall prepare and make available to the public an annual
+3 report that details and summarizes, in composite form, the data received under
+4 this section and Section 10 of this Act relating to virtual currency kiosk business
+5 in this state.
+6 Section 10. KRS 286.11-021 is amended to read as follows:
+7 (1) A licensee under this subtitle shall pay an annual renewal fee of five hundred
+8 dollars ($500) no later than September 20 of each year.
+9 (2) The renewal fee shall be accompanied by a written renewal report, in a form
+10 prescribed by the commissioner, which shall include:
+11 (a) A copy of the licensee's most recent audited annual financial statement, or if
+12 the licensee is a wholly owned subsidiary of another corporation, the most
+13 recent audited consolidated annual financial statement of the parent
+14 corporation, or the licensee's most recent audited financial statement;
+15 (b) For the most recent quarter for which data is available prior to the date of the
+16 filing of the renewal application, but in no event more than one hundred
+17 twenty (120) days prior to the renewal date, a list of the number of payment
+18 instruments sold by the licensee in the state, the dollar amount of those
+19 instruments, and the dollar amount of those instruments currently outstanding;
+20 (c) Any material changes to any of the information submitted by the licensee on
+21 its original application which have not previously been reported to the
+22 commissioner on any other report required to be filed under this subtitle;
+23 (d) A list of the licensee's permissible investments under this subtitle and a
+24 certification that the licensee continues to maintain permissible investments
+25 according to the requirements set forth in KRS 286.11-015;[ and]
+26 (e) A list of the locations, including names, physical addresses, and telephone
+27 numbers, in this state where the licensee or agent of the licensee engages in
+Page 19 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 money transmission or virtual currency kiosk business, including the
+2 physical address of each virtual currency kiosk; and
+3 (f) A report on the licensee's virtual currency kiosk business, which shall
+4 include, at a minimum:
+5 1. The gross revenue attributable to virtual currency kiosk transactions;
+6 2. Copies of each complaint filed by a virtual currency kiosk user against
+7 the licensee with the Better Business Bureau or a state or federal
+8 agency other than the department;
+9 3. A description of the resolution, if any, of each complaint reported
+10 under subparagraph 2. of this paragraph;
+11 4. The total number and dollar amount of virtual currency kiosk
+12 transactions;
+13 5. The total number of refunds requested by virtual currency kiosk users;
+14 6. The total number of refunds requested by virtual currency kiosk users
+15 that were:
+16 a. Granted by the licensee; and
+17 b. Denied by the licensee;
+18 7. The total dollar amount of refunds provided by the licensee to virtual
+19 currency kiosk users;
+20 8. The contact information of the licensee's compliance officer; and
+21 9. The total number and dollar amount of suspicious activity reports filed
+22 pursuant to the Bank Secrecy Act, 31 U.S.C. 5311 sec. et seq., as
+23 amended.
+24 (3) (a) The failure of a licensee to pay the annual renewal fee or file the written
+25 renewal report, by the renewal date of September 20, shall result in the
+26 expiration of the licensee's license by operation of law by September 30 of the
+27 same year.
+Page 20 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 (b) The commissioner may reinstate an expired[the] license if the licensee
+2 becomes compliant with this subtitle and pays a civil penalty equal to the
+3 amount of the annual renewal fee, as specified in this section, within thirty
+4 (30) days of the expiration of the license.
+5 Section 11. KRS 286.11-023 is amended to read as follows:
+6 A licensee shall file a written report with the commissioner within fifteen (15) business
+7 days of its knowledge of the occurrence of any one (1) of the events listed below. In the
+8 written report, the licensee shall describe the event and its expected impact on the
+9 licensee's activities in the state:
+10 (1) Any material change in information provided in a licensee's application, quarterly
+11 report, or renewal report;
+12 (2) The cancellation or other impairment of the licensee's bond or other similar security
+13 accepted by the commissioner;
+14 (3) Insolvency or the filing for bankruptcy or reorganization under the United States
+15 Bankruptcy Code, 11 U.S.C. secs. 101 to 110, by the licensee, responsible
+16 individual, any agent, or any key officers or directors;
+17 (4) The filing of a petition by or against the licensee, or any agent of the licensee, for
+18 receivership, the commencement of any other judicial or administrative proceeding
+19 for its dissolution or reorganization, or the making of a general assignment for the
+20 benefit of its creditors;
+21 (5) The filing of any material litigation against the licensee by any state or federal
+22 governmental authority, or by any country in which the licensee:
+23 (a) Engages in[ the business of] money transmission;
+24 (b) Engages in virtual currency kiosk business; or
+25 (c) Is licensed;
+26 (6) Any felony indictment of the licensee, responsible individual, agent, or any of its
+27 key officers or directors;
+Page 21 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 (7) Any felony conviction of the licensee, responsible individual, agent, or any of its
+2 key officers or directors;
+3 (8) Any misdemeanor conviction of the licensee, responsible individual, agent, or any
+4 of its key officers or directors of any misdemeanor involving[ the business of]
+5 money transmission or virtual currency kiosk business; and
+6 (9) Any misdemeanor conviction of the licensee, responsible individual, agent, or any
+7 of its key officers or directors of any misdemeanor involving fraud, theft, or breach
+8 of trust.
+9 Section 12. KRS 286.11-027 is amended to read as follows:
+10 (1) The commissioner may conduct an examination or investigation of a licensee or any
+11 of its agents, as it relates to[ the business of] money transmission or virtual
+12 currency kiosk business.
+13 (2) The commissioner may conduct an examination or investigation in conjunction with
+14 representatives of other agencies of this state or agencies of another state or of the
+15 federal government. Instead of an examination, the commissioner may accept the
+16 examination report of an agency of this state or of another state or of the federal
+17 government or a report prepared by an independent licensed or certified public
+18 accountant. The reasonable expenses incurred by the department, other Kentucky
+19 agencies, agencies of another state, agencies of the federal government, or an
+20 independent licensed or certified accountant in making such examination,
+21 investigation, or report shall be borne by the licensee.
+22 (3) A joint examination or an acceptance of an examination report does not preclude
+23 the commissioner from conducting an examination as provided by law. A joint
+24 report or a report accepted under this subsection is an official report of the
+25 commissioner for all purposes.
+26 (4) A licensee or agent is deemed to consent to the commissioner's examination or
+27 investigation, whether or not prior notice is given to the licensee or agent, of the
+Page 22 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 books, records, and business operations of the licensee or agent of the licensee.
+2 (5) A report of examination of a licensee under this section shall be considered
+3 confidential and privileged and not subject to disclosure under the Kentucky Open
+4 Records Act, KRS 61.870 to 61.884. However, a licensee may disclose a Kentucky
+5 report of examination to a financial institution upon written request from the
+6 financial institution for the purpose of assisting the financial institution in its
+7 compliance with the Bank Secrecy Act, 31 U.S.C. secs. 5311 to 5332 and 31 C.F.R.
+8 pt. 103. The licensee shall provide written notice to the commissioner of the
+9 disclosure of the Kentucky report of examination at the same time that disclosure is
+10 made to the financial institution.
+11 Section 13. KRS 286.11-029 is amended to read as follows:
+12 (1) Each licensee shall make, keep, and preserve the following books, accounts, and
+13 other records for a period of five (5) years, and these records shall be open to
+14 inspection by the commissioner:
+15 (a) A record or records of each:
+16 1. Payment instrument sold; and
+17 2. Virtual currency kiosk transaction;
+18 (b) A general ledger containing all assets, liability, capital, income, and expense
+19 accounts, which general ledger shall be posted at least monthly;
+20 (c) Bank statements and bank reconciliation records;
+21 (d) Records of outstanding payment instruments;
+22 (e) Records of each payment instrument paid within the five (5) year period;
+23 (f) A list of the names, addresses, and telephone numbers of all of the licensee's
+24 agents;
+25 (g) Copies of all currency transaction reports and suspicious activity reports filed
+26 in compliance with KRS 286.11-031; and
+27 (h) Any other record the commissioner may reasonably require by order or
+Page 23 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 administrative regulation.
+2 (2) Records required to be maintained under [in] this subtitle may be kept in an
+3 electronic retrievable format or other similar form of medium.
+4 (3) Records may be maintained by a licensee or agent at a location other than within
+5 this state so long as they are made accessible to the commissioner upon seven (7)
+6 business days' written notice.
+7 Section 14. KRS 286.11-035 is amended to read as follows:
+8 Licensees desiring to conduct licensed activities through agents shall authorize each
+9 agent to operate pursuant to an express written contract, which shall include the following
+10 provisions:
+11 (1) That the licensee designates the person as its agent with authority to engage in
+12 money transmission or virtual currency kiosk business on behalf of the licensee as
+13 authorized under this subtitle;
+14 (2) That the agent shall operate in full compliance with this subtitle,[ and]
+15 administrative regulations[rules] promulgated under this subtitle, and any order
+16 issued by the commissioner pursuant to this subtitle;
+17 (3) That neither a licensee nor an agent of the licensee may authorize subagents;
+18 (4) That the agent shall timely remit all money and virtual currency legally due to the
+19 licensee in accordance with the terms of the written contract between the licensee
+20 and the agent;
+21 (5) That the licensee and agent are subject to regulation by the commissioner; and
+22 (6) That the licensee and agent shall comply with applicable federal and state law.
+23 Section 15. KRS 286.11-037 is amended to read as follows:
+24 (1) An agent shall not make any fraudulent statements or misrepresentations to a
+25 licensee or to the commissioner.
+26 (2) All money transmissions,[ or sale, or issuance of] payment instrument activities,
+27 and virtual currency kiosk business conducted by agents shall be strictly in
+Page 24 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 accordance with the licensee's written procedures provided to the agent.
+2 (3) An agent shall timely remit all money and virtual currency legally due to the
+3 licensee in accordance with the terms of the contract between the licensee and the
+4 agent. The commissioner shall have the discretion to set, by administrative
+5 regulation or order, the maximum remittance time.
+6 (4) An agent shall act only as authorized under the contract with the licensee.
+7 (5) All funds, including virtual currency, less fees, received by an agent of a licensee[
+8 from the sale or delivery of a payment instrument issued by a licensee or received
+9 by an agent for transmission] shall, from the time the funds are received by the
+10 agent until such time when the funds or an equivalent amount are remitted by the
+11 agent to the licensee, constitute trust funds owned by and belonging to the licensee.
+12 If an agent commingles any of these funds with any other funds or property owned
+13 or controlled by the agent, then all commingled proceeds and other property shall
+14 be impressed with a trust in favor of the licensee in an amount equal to the amount
+15 of the proceeds due the licensee.
+16 (6) An agent shall report to the licensee the theft, forgery, or loss of payment
+17 instruments, funds, or other property within twenty-four (24) hours from the time it
+18 knew of the theft, forgery, or loss.
+19 SECTION 16. A NEW SECTION OF SUBTITLE 11 OF KRS CHAPTER 286
+20 IS CREATED TO READ AS FOLLOWS:
+21 (1) (a) A virtual currency kiosk operator shall have a virtual currency kiosk
+22 transaction limit of:
+23 1. Five hundred dollars ($500), or the equivalent in virtual currency, per
+24 day for each virtual currency kiosk user; and
+25 2. Ten thousand dollars ($10,000), or the equivalent in virtual currency,
+26 in any thirty (30) day period for each virtual currency kiosk user.
+27 (b) The requirements of this subsection shall apply to all products offered by a
+Page 25 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 virtual currency kiosk operator.
+2 (c) A virtual currency kiosk operator shall not employ or use online purchasing
+3 or over-the-counter platforms or other alternative products to circumvent or
+4 exceed the limits set forth in this subsection.
+5 (2) A virtual currency kiosk operator shall not collect, directly or indirectly, virtual
+6 currency kiosk charges for any single virtual currency kiosk transaction from a
+7 virtual currency kiosk user that exceeds three percent (3%) of the value, in United
+8 States dollars, of the transaction.
+9 (3) A virtual currency kiosk operator shall:
+10 (a) Provide live customer service via a toll-free telephone number during
+11 operating hours, which shall not be less than the hours between 8:00 a.m.
+12 and 10:00 p.m. local time; and
+13 (b) Adhere to all industry standards and practices that:
+14 1. Exceed the requirements of this subtitle; or
+15 2. Provide greater protections to virtual currency kiosk users than the
+16 protections provided in this subtitle.
+17 SECTION 17. A NEW SECTION OF SUBTITLE 11 OF KRS CHAPTER 286
+18 IS CREATED TO READ AS FOLLOWS:
+19 (1) (a) Each virtual currency kiosk operator shall provide the following notices at
+20 each virtual currency kiosk:
+21 1. The following warning, stating in substantially similar form:
+22 "WARNING: This technology can be used to defraud you.
+23 If someone asked you to deposit money in this machine and/or is on
+24 the phone with you and claims to be a:
+25 - Friend or family member;
+26 - Government agent;
+27 - Computer software representative;
+Page 26 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 - Bill collector;
+2 - Law enforcement officer; or
+3 - Anyone you do not know personally;
+4 STOP THIS TRANSACTION IMMEDIATELY and contact your local
+5 law enforcement and the virtual currency kiosk operator. This may be
+6 a scam. NEVER SEND MONEY to someone you don't know.";
+7 2. The contact information for the following to report fraud:
+8 a. Any relevant state and local law enforcement;
+9 b. The department; and
+10 c. The Attorney General;
+11 3. The name, address, and toll-free customer service telephone number
+12 of the virtual currency kiosk operator;
+13 4. The days, time, and means by which a virtual currency kiosk user can
+14 contact the virtual currency kiosk operator for assistance; and
+15 5. The dedicated United States telephone number or email address for
+16 law enforcement, the department, and the Attorney General, as
+17 required under subsection (8) of Section 18 of this Act.
+18 (b) The notices required under paragraph (a) of this subsection shall be:
+19 1. a. On the virtual currency kiosk;
+20 b. Near, and within readable sight of, the virtual currency kiosk; or
+21 c. On the first screen of the virtual currency kiosk, which shall be
+22 viewable by any person without requiring the person to input
+23 money, data, or information; and
+24 2. Displayed prominently and in bold type.
+25 (2) Prior to each virtual currency kiosk transaction with a virtual currency kiosk
+26 user in this state, a virtual currency kiosk operator shall:
+27 (a) Provide, in a clear, conspicuous, and easily readable manner in the chosen
+Page 27 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 language of the user, all relevant terms, conditions, and other disclosures
+2 generally associated with the:
+3 1. Products, services, and activities of the operator; and
+4 2. Virtual currency; and
+5 (b) Obtain an acknowledgement, via confirmation of consent at the virtual
+6 currency kiosk, from the user that the user received all disclosures required
+7 under this section.
+8 (3) The disclosures required under subsection (2) of this section shall include but not
+9 be limited to:
+10 (a) The material risks associated with virtual currency and virtual currency
+11 kiosk transactions, including but not limited to:
+12 1. Virtual currency is not backed by the United States government, is not
+13 legal tender in the United States, and accounts and value balances are
+14 not subject to the Federal Deposit Insurance Corporation, National
+15 Credit Union Administration, or Securities Investor Protection
+16 Corporation protections; and
+17 2. Virtual currency value relative to the United States dollar may
+18 fluctuate significantly;
+19 (b) A description of all virtual currency kiosk charges;
+20 (c) The exchange rate of the virtual currency to the United States dollar; and
+21 (d) Any other terms, conditions, or other disclosures required by the
+22 commissioner in an administrative regulation promulgated in accordance
+23 with KRS Chapter 13A.
+24 (4) Upon completion of a virtual currency kiosk transaction in this state, a virtual
+25 currency kiosk operator shall provide both a paper and electronic receipt in
+26 retainable form to the virtual currency kiosk user that contains the following
+27 information:
+Page 28 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 (a) The name and toll-free customer service phone number of the virtual
+2 currency kiosk operator;
+3 (b) The contact information required under subsection (1)(a)2. of this section to
+4 report fraud;
+5 (c) The type, value, date, and precise time of the transaction;
+6 (d) Each applicable virtual currency address and transaction hash, where
+7 available;
+8 (e) A description of all virtual currency kiosk charges;
+9 (f) The exchange rate of the virtual currency to the United States dollar;
+10 (g) The virtual currency kiosk operator's refund policy; and
+11 (h) Any additional information required by the commissioner in an
+12 administrative regulation promulgated in accordance with KRS Chapter
+13 13A.
+14 (5) A virtual currency kiosk operator may provide additional notices or disclosures,
+15 or information on a receipt provided, to a virtual currency kiosk user.
+16 (6) A fraud victim's eligibility for a refund shall not be waived, affected, or prevented
+17 by, or due to, a disclosure made in accordance with this section.
+18 SECTION 18. A NEW SECTION OF SUBTITLE 11 OF KRS CHAPTER 286
+19 IS CREATED TO READ AS FOLLOWS:
+20 (1) As used in this section:
+21 (a) "Blockchain analytics" means the analysis of data from blockchains or
+22 publicly distributed ledgers, including associated transaction information;
+23 and
+24 (b) "Blockchain analytics and tracing software" means a software service that
+25 uses blockchain analytics data to provide:
+26 1. Risk-specific information;
+27 2. Tracing of virtual currency wallet addresses; and
+Page 29 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 3. Other information and services.
+2 (2) Each virtual currency kiosk operator shall take reasonable steps to detect and
+3 prevent fraud and money laundering associated with its virtual currency kiosk
+4 business in this state.
+5 (3) The reasonable steps required under subsection (2) of this section shall include:
+6 (a) Establishing and maintaining a written anti-fraud and anti-money
+7 laundering policy that includes, at a minimum:
+8 1. Identification and assessment of fraud-related and money laundering-
+9 related risk areas;
+10 2. Procedures and controls to protect against identified risks;
+11 3. Allocation of responsibility for monitoring risks; and
+12 4. Procedures for the periodic evaluation and revision of the policy's
+13 procedures, controls, and monitoring mechanisms; and
+14 (b) Complying with the federal Bank Secrecy Act, codified at 31 U.S.C. sec.
+15 5311 et seq.
+16 (4) (a) Each virtual currency kiosk operator shall use blockchain analytics and
+17 tracing software to:
+18 1. Assist in the prevention of sending virtual currency to a virtual
+19 currency wallet known, or likely, to be affiliated with fraudulent
+20 activity at the time of a virtual currency kiosk transaction; and
+21 2. Detect virtual currency kiosk transaction patterns that are indicative
+22 of fraud or other illicit activities.
+23 (b) A virtual currency kiosk operator shall block a virtual currency kiosk
+24 transaction to a virtual currency wallet that is associated with overseas
+25 exchanges that are not accessible for virtual currency kiosk users in the
+26 United States.
+27 (c) The department may request evidence from any virtual currency kiosk
+Page 30 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 operator of current use of blockchain analytics.
+2 (5) (a) Prior to accepting payment from any virtual currency kiosk user, a virtual
+3 currency kiosk operator shall verify the identity of the user.
+4 (b) To comply with paragraph (a) of this subsection, the virtual currency kiosk
+5 operator, or the operator's agent or other authorized delegate, shall:
+6 1. Obtain a copy of a government-issued identification card that
+7 identifies the virtual currency kiosk user; and
+8 2. Collect additional information about the virtual currency kiosk user,
+9 including the user's:
+10 a. Name;
+11 b. Date of birth;
+12 c. Telephone number;
+13 d. Physical address; and
+14 e. Email address.
+15 (c) A virtual currency kiosk operator shall not allow a virtual currency kiosk
+16 user to engage in a virtual currency kiosk transaction under or using any
+17 name, account, or identity that is not the user's own true name, account, or
+18 identity.
+19 (d) A virtual currency kiosk operator shall be strictly liable for any violation of
+20 this subsection.
+21 (6) (a) On an annual basis, a virtual currency kiosk operator shall provide the
+22 store or locale where each virtual currency kiosk is located with staff
+23 training materials that are approved by the department.
+24 (b) The staff training materials referenced in paragraph (a) of this subsection
+25 shall:
+26 1. Outline how criminals may exploit virtual currency kiosks in illicit
+27 activity; and
+Page 31 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 2. Include:
+2 a. Red flag indicators that a virtual currency kiosk user may be the
+3 victim of fraud or scams; and
+4 b. Signs of financial abuse and exploitation.
+5 (c) A virtual currency kiosk operator shall not prohibit or prevent staff at the
+6 store or locale where a virtual currency kiosk is located from warning
+7 virtual currency kiosk users about fraud and scams.
+8 (7) (a) A virtual currency kiosk operator shall issue a refund to a virtual currency
+9 kiosk user for each virtual currency kiosk transaction in which the user is a
+10 victim of fraud, regardless of any acknowledgements the user may have
+11 made prior to finalizing any virtual currency kiosk transaction, if the
+12 requirements of paragraph (b) of this subsection are satisfied.
+13 (b) To receive a refund under this subsection, a virtual currency kiosk user
+14 shall:
+15 1. Have engaged in one (1) or more virtual currency kiosk transactions
+16 that were affected by fraud, whether authorized or unauthorized;
+17 2. Contact and inform the virtual currency kiosk operator of the
+18 fraudulent nature of the virtual currency kiosk transaction or
+19 transactions at issue within ninety (90) days of the first of the
+20 following to occur:
+21 a. The last transaction at issue; or
+22 b. The user becoming aware of the fraud; and
+23 3. Submit one (1) of the following, which details the fraudulent nature of
+24 the virtual currency kiosk transaction or transactions, to the virtual
+25 currency kiosk operator within one hundred twenty (120) days after
+26 contacting and informing the operator under subparagraph 2. of this
+27 paragraph:
+Page 32 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 a. A police report;
+2 b. A report made to the department or the Attorney General; or
+3 c. A sworn statement.
+4 (c) The refund required under paragraph (b) of this subsection shall be:
+5 1. In the full amount of the virtual currency kiosk transaction or
+6 transactions, including all virtual currency kiosk charges;
+7 2. Paid in the originating currency; and
+8 3. Made to a virtual currency kiosk user by the virtual currency kiosk
+9 operator within seventy-two (72) hours after:
+10 a. Being contacted and informed by the user in accordance with
+11 paragraph (b)2. of this subsection; and
+12 b. Receiving a copy of a report or sworn statement by the user in
+13 accordance with paragraph (b)3. of this subsection.
+14 (d) 1. Any written notices provided to a virtual currency kiosk user by a
+15 virtual currency kiosk operator regarding the issuance or receipt of a
+16 refund shall be provided in both the English and Spanish language.
+17 2. Any oral communications by a virtual currency kiosk operator to a
+18 virtual currency kiosk user regarding the issuance or receipt of a
+19 refund shall be in the user's preferred language through:
+20 a. Staff;
+21 b. Oral interpretation services; or
+22 c. Auxiliary aids and services.
+23 (8) (a) A virtual currency kiosk operator shall provide a dedicated and frequently
+24 monitored communications line for law enforcement, the department, and
+25 the Attorney General, via a United States telephone number or email
+26 address posted in accordance with subsection (1) of Section 17 of this Act,
+27 to be used by the agencies to facilitate communications with the operator in
+Page 33 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 the event of a fraud report from a virtual currency kiosk user.
+2 (b) Upon request from law enforcement, the department, or the Attorney
+3 General, a virtual currency kiosk operator shall:
+4 1. Provide the agency with its trace findings; and
+5 2. Grant the agency assistance with blockchain analytics to assist in any
+6 fraud investigation.
+7 Section 19. KRS 286.11-039 is amended to read as follows:
+8 (1) The commissioner may issue a written order to suspend or revoke a license issued
+9 under this subtitle, or an approval to engage in virtual currency kiosk business at
+10 one (1) or more locations in this state, if the commissioner finds that:
+11 (a) The licensee no longer meets the requirements of:
+12 1. This subtitle to hold a license[ under this subtitle]; or
+13 2. Section 8 of this Act to engage in virtual currency kiosk business at
+14 one (1) or more locations in this state;
+15 (b) Any fact or condition exists that, if it had existed at the time the licensee
+16 applied for its license, or approval to engage in virtual currency kiosk
+17 business at one (1) or more locations in this state, would have been grounds
+18 for denying the application;
+19 (c) The licensee's net worth, as determined in accordance with generally accepted
+20 accounting principles, falls below the required net worth as prescribed in KRS
+21 286.11-011, and the licensee, after ten (10) days written notice from the
+22 commissioner, fails to take such action as the commissioner deems necessary
+23 to remedy such deficiency;
+24 (d) The licensee has violated[violates] any provision of this subtitle, any
+25 administrative regulation promulgated thereunder, or order of the
+26 commissioner issued under authority of this subtitle, or any other state law or
+27 regulation related to[ the business of] money transmission or virtual currency
+Page 34 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 kiosk business;
+2 (e) The licensee is conducting its business in an unsafe or unsound manner;
+3 (f) The licensee has engaged[engages] in an unfair and deceptive act or practice;
+4 (g) The licensee has engaged[engages] in fraud, intentional misrepresentation, or
+5 gross negligence;
+6 (h) The licensee is insolvent;
+7 (i) The licensee has suspended payment of its obligations or has made an
+8 assignment for the benefit of its creditors;
+9 (j) The licensee has applied for an adjudication of bankruptcy, reorganization,
+10 arrangement, or other relief under the United States Bankruptcy Code, 11
+11 U.S.C. secs. 101-110;
+12 (k) The licensee fails to cooperate in an examination, investigation, or subpoena
+13 issued by the commissioner;
+14 (l) The licensee fails to make any report required by this subtitle;
+15 (m) The licensee has been found to have violated any of the recordkeeping and
+16 reporting requirements of the United States government including 31 U.S.C.
+17 secs. 5311 to 5332 and 31 C.F.R. pt. 103;
+18 (n) The competence, experience, character, financial condition, or responsibility
+19 of the licensee indicates that it is not in the public interest to permit the
+20 licensee to continue to provide money transmission or virtual currency kiosk
+21 services;
+22 (o) The licensee has been convicted of a felony;
+23 (p) The licensee has been convicted of a misdemeanor related to[ the business of]
+24 money transmission or virtual currency kiosk business;
+25 (q) The licensee has been convicted of a misdemeanor involving theft, fraud, or
+26 breach of trust;
+27 (r) The licensee has failed to terminate or suspend its agent's authority to act on
+Page 35 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 its behalf when the licensee knew, or has been given reasonable notice that its
+2 agent violated, or is about to violate, a material provision of this subtitle, an
+3 administrative regulation promulgated thereunder, or an order of the
+4 commissioner, or any grounds that are found in KRS 286.11-041; or
+5 (s) The licensee, its responsible individual, or any agent, key shareholder,
+6 executive officer, director, or other person in control of the licensee are listed
+7 or become listed on the specially designated nationals and blocked persons list
+8 prepared by the United States Department of the Treasury or United States
+9 Department of State under Presidential Executive Order No. 13224 as a
+10 potential threat to commit terrorist acts or to finance terrorist acts.
+11 (2) A licensee who has had his or her license, or approval to engage in virtual
+12 currency kiosk business at one (1) or more locations in this state, revoked or
+13 suspended by the commissioner may file a written application for an administrative
+14 hearing in accordance with KRS Chapter 13B.
+15 (3) A person is deemed to have received a copy of the written order of revocation or
+16 suspension with three (3) days of its mailing.
+17 (4) A written application for an appeal shall be made with the commissioner within
+18 twenty (20) days of the date of the order of suspension or revocation and shall be
+19 made in good faith and shall briefly state the reason or reasons the person is
+20 aggrieved, together with the grounds to be relied upon.
+21 (5) (a) The commissioner shall not issue a license, or approval to engage in virtual
+22 currency kiosk business at one (1) or more locations in this state, again
+23 under this subtitle to any person whose license or approval has been revoked
+24 until three (3) years after the date of the revocation, and thereafter, not until
+25 the person again qualifies under the applicable provisions of this subtitle.
+26 (b) A person whose license has been revoked twice shall be deemed permanently
+27 revoked and shall not again be eligible for a license under this subtitle.
+Page 36 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 (6) In determining whether a licensee has engaged, or is engaging, in an unsafe or
+2 unsound practice under subsection (1)(e) of this section, the commissioner may
+3 consider the size and condition of the licensee's business[provision of money
+4 transmissions], the magnitude of the loss, the gravity of the violation of this subtitle,
+5 the administrative regulation adopted, or order issued under this subtitle, any action
+6 taken by another state or federal government against the licensee, or the previous
+7 conduct of the licensee.
+8 Section 20. KRS 286.11-041 is amended to read as follows:
+9 (1) The commissioner may issue a written order suspending or revoking the
+10 designation of an agent if the commissioner finds that:
+11 (a) The agent has violated[violates] this subtitle or an administrative
+12 regulation[a rule] adopted or an order issued under this subtitle;
+13 (b) The agent does not cooperate with an examination, investigation, or subpoena
+14 issued by the commissioner;
+15 (c) The agent has engaged in fraud, intentional misrepresentation, or gross
+16 negligence;
+17 (d) The agent has been convicted of a felony;
+18 (e) The agent has been convicted of a misdemeanor related to[ the business of]
+19 money transmission or virtual currency kiosk business;
+20 (f) The agent has been convicted of a misdemeanor involving theft, fraud, or
+21 breach of trust;
+22 (g) The competence, experience, character, or general fitness of the agent or a
+23 person in control of the agent indicates that it is not in the public interest to
+24 permit the agent to be engaged in[ the business of] money transmission or
+25 virtual currency kiosk business;
+26 (h) The agent has[is] engaged in, or is engaging in, an unsafe or unsound
+27 practice;
+Page 37 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 (i) The agent has[is] engaged in, or is engaging in, an unfair and deceptive act or
+2 practice[ as] that[ act or practice] relates to[ the business of] money
+3 transmission or virtual currency kiosk business;
+4 (j) The agent is insolvent;
+5 (k) The agent has applied for an adjudication of bankruptcy, reorganization,
+6 arrangement, or other relief under the United States Bankruptcy Code, 11
+7 U.S.C. secs. 101 to 110; or
+8 (l) The agent fails to timely remit all money or virtual currency legally due to its
+9 licensee as required by this subtitle; or
+10 (m) The agent, any executive officer, or other person in control of the agent is
+11 listed or become listed on the specially designated nationals and blocked
+12 persons list prepared by the United States Department of the Treasury or
+13 United States Department of State under Presidential Executive Order No.
+14 13224 as a potential threat to commit terrorist acts or to finance terrorist acts.
+15 (2) In determining whether an agent has engaged, or is engaging, in an unsafe or
+16 unsound practice under subsection (1)(h) of this section, the commissioner may
+17 consider the size and condition of the agent's business[provision of money
+18 transmissions], the magnitude of the loss, the gravity of the violation of this subtitle,
+19 the administrative regulation adopted, or order issued under this subtitle, any action
+20 taken by another state or federal government against the agent, or the previous
+21 conduct of the agent.
+22 (3) Any person who has his or her designation as an agent revoked or suspended by the
+23 commissioner may file a written application for an administrative hearing in
+24 accordance with KRS Chapter 13B.
+25 (4) An agent is deemed to have received a copy of the written order of revocation or
+26 suspension within three (3) days of its mailing.
+27 (5) A written application for an appeal shall be made with the commissioner within
+Page 38 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 twenty (20) days of the date of the order of suspension or revocation in good faith
+2 and shall briefly state the reason or reasons the agent is aggrieved, together with the
+3 grounds to be relied upon.
+4 (6) The commissioner shall not designate a person as an agent again under this subtitle
+5 where the designation of an agent has been revoked, until after three (3) years after
+6 the date of revocation, and thereafter, not until the person again qualifies under the
+7 applicable provisions of this subtitle. Any person whose designation as an agent has
+8 been revoked twice by the commissioner shall be deemed permanently revoked and
+9 shall not again be eligible for designation as an agent under this subtitle.
+10 Section 21. KRS 286.11-043 is amended to read as follows:
+11 (1) If the commissioner has reason to believe or determines that a violation of this
+12 subtitle, administrative regulation adopted, or an order issued under this subtitle, by
+13 any person, licensee, or agent has occurred or will occur, then the commissioner
+14 may issue an order to show cause why an order to cease and desist should not be
+15 issued requiring the person, licensee, or agent to cease and desist from the violation.
+16 (2) The commissioner may enter an order to cease and desist if the person, licensee, or
+17 agent fails to show cause for the violation of the subtitle, administrative regulation,
+18 or order within ten (10) days of the date of the receipt of the order of show cause.
+19 (3) The commissioner may petition the Franklin Circuit Court, or any court of
+20 competent jurisdiction, for an issuance of a temporary or permanent injunction, or
+21 any other appropriate judicial order, against any person, licensee, or agent that
+22 violates this subtitle, administrative regulation adopted, or order issued.
+23 (4) An order issued under this section becomes effective when signed by the
+24 commissioner. The order shall be delivered by certified mail to the last known
+25 address of the person, licensee, or agent. The order shall be deemed received by the
+26 person, licensee, or agent within three (3) days of its mailing with the United States
+27 Postal Service.
+Page 39 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 (5) The commissioner may issue an order against a licensee to cease and desist from
+2 conducting money transmission or virtual currency kiosk business[providing
+3 money transmission] through an agent that is subject of a separate order from the
+4 commissioner.
+5 (6) An order to cease and desist remains effective and enforceable pending the
+6 completion of an administrative proceeding.
+7 Section 22. KRS 286.11-045 is amended to read as follows:
+8 (1) If the commissioner has reason to believe or determines that a violation of this
+9 subtitle or of an administrative[a] regulation adopted, or an order issued under this
+10 subtitle, by a licensee or agent will cause immediate or irreparable harm to the
+11 public health, safety, or welfare, then the commissioner may enter an emergency
+12 order suspending, limiting, or restricting the licensee's license or the designation of
+13 an agent, without prior notice or hearing.
+14 (2) One (1) or more of the following circumstances shall be considered grounds for an
+15 emergency order suspending, limiting, or restricting a license or designation of an
+16 agent under this section:
+17 (a) The licensee's or agent's indictment or conviction of a felony for a crime
+18 involving theft, fraud, or breach of trust;
+19 (b) The licensee's or agent's indictment or conviction under the USA PATRIOT
+20 Act of 2001, Pub. L. No. 107-56;
+21 (c) The suspension or revocation of any other money transmitter or virtual
+22 currency kiosk business license or equivalent license held by the licensee, or
+23 designation held by the agent in another state or country;
+24 (d) The licensee, its responsible individual, or any agent, key shareholder,
+25 executive officer, director, or other person in control of the licensee are listed
+26 or become listed on the specially designated nationals and blocked persons list
+27 prepared by the United States Department of the Treasury or United States
+Page 40 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 Department of State under Presidential Executive Order No. 13224 as a
+2 potential threat to commit terrorist acts or to finance terrorist acts; or
+3 (e) Insolvency, or the filing of an application of bankruptcy, reorganization,
+4 arrangement, or other relief under bankruptcy, or an adjudication under the
+5 United States Bankruptcy Code, 11 U.S.C. secs. 101 to 110 by the licensee or
+6 agent.
+7 (3) An emergency order issued under this section becomes effective when signed by
+8 the commissioner. The emergency order shall be delivered by certified mail to the
+9 last known address of the licensee or agent. The order shall be deemed received by
+10 the licensee or agent within three (3) days of its mailing with the United States
+11 Postal Service.
+12 (4) A licensee or agent aggrieved by an emergency order issued by the commissioner
+13 under this section may file with the commissioner a written appeal for an
+14 emergency hearing. The application for a hearing shall be filed with the
+15 commissioner within twenty (20) days of the date of the emergency order.
+16 (5) Upon receipt of a written appeal by any licensee or agent aggrieved by an
+17 emergency order issued under this section, the commissioner shall conduct an
+18 emergency hearing as required under KRS 13B.125, within ten (10) working days
+19 from the date of receipt of the appeal, unless the parties agree otherwise. The
+20 hearing officer shall render a written decision affirming, modifying, or reversing the
+21 emergency order within five (5) working days of the completion of the hearing. The
+22 emergency order shall be affirmed if there is substantial evidence of a violation of
+23 law that constitutes an immediate danger to the public health, safety, or welfare.
+24 Section 23. KRS 286.11-047 is amended to read as follows:
+25 (1) (a) The commissioner may levy a civil penalty against a person that:
+26 1. Violates any provision of or administrative regulation promulgated
+27 under this subtitle; or
+Page 41 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 2. Order issued by the commissioner under this subtitle.
+2 (b) The civil penalty shall be not less than one thousand dollars ($1,000) nor more
+3 than five thousand dollars ($5,000) per day for each day the violation is
+4 outstanding, plus the state's costs and expenses for the examination,
+5 investigation, and prosecution of this matter, including reasonable attorney's
+6 fees and court costs.
+7 (2) In addition to the civil penalty authorized under subsection (1) of this section, the
+8 commissioner may enter an order against any virtual currency kiosk operator
+9 that is subject to a civil penalty under subsection (1) of this section to:
+10 (a) Refund any or all amounts of a virtual currency kiosk transaction,
+11 including any or all virtual currency kiosk charges; and
+12 (b) Direct any peace officer to:
+13 1. Seize or impound a virtual currency kiosk, including any contents
+14 thereof; or
+15 2. Render a virtual currency kiosk inoperable.
+16 Section 24. KRS 286.11-061 is amended to read as follows:
+17 (1) The department shall exercise all administrative functions of the state in relation to
+18 the regulation, supervision, and licensing of money transmitters and virtual
+19 currency kiosk operators.
+20 (2) The commissioner may promulgate, amend, and repeal any administrative
+21 regulations, forms, and orders as are necessary to interpret and enforce the
+22 provisions of this subtitle.
+23 (3) The commissioner may request any additional information as the commissioner
+24 deems necessary to interpret and carry out any of the provisions of this subtitle from
+25 any applicant, licensee, agent, responsible individual, controlling person, executive
+26 officer, or key shareholder.
+27 Section 25. KRS 286.11-067 is amended to read as follows:
+Page 42 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 It is the intent of the General Assembly to establish a state system of licensure and
+2 regulation to ensure the safe and sound operation of money transmission and virtual
+3 currency kiosk business to ensure that these businesses are[this business is] not used for
+4 criminal purposes, to promote confidence in the state's financial system, and to protect
+5 the public interest.
+6 Section 26. KRS 286.2-015 is amended to read as follows:
+7 (1) Except as provided in KRS 41.470 to 41.476 and 41.480, and
+8 subsections[subsection] (3) and (4) of this section, all political subdivisions of the
+9 Commonwealth shall be prohibited from enacting and enforcing ordinances,
+10 resolutions, and regulations pertaining to the financial or lending activities of
+11 persons or entities that:
+12 (a) Are subject to:
+13 1. The jurisdiction of the department; or
+14 2. The provisions of this chapter;
+15 (b) Are subject to the jurisdiction or regulatory supervision of the Board of
+16 Governors of the Federal Reserve System, the Office of the Comptroller of
+17 the Currency, the National Credit Union Administration, the Farm Credit
+18 Administration, the Federal Deposit Insurance Corporation, or the United
+19 States Department of Housing and Urban Development; or
+20 (c) Originate, purchase, sell, assign, securitize, assist, facilitate, or service
+21 property interests or obligations created by financial transactions or loans
+22 made, executed, or originated by persons or entities referred to in paragraph
+23 (a) or (b) of this subsection.
+24 (2) The requirements of this section shall apply to all ordinances, resolutions, or
+25 regulations pertaining to financial or lending activities, including any ordinances,
+26 resolutions, or regulations that:
+27 (a) Limit or disqualify persons or entities from doing business with a political
+Page 43 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 subdivision based upon financial or lending activities; or
+2 (b) Impose additional reporting requirements or other obligations on persons or
+3 entities referred to in subsection (1) of this section seeking to do business with
+4 a political subdivision.
+5 (3) Nothing in this section shall be interpreted as preventing the enforcement of
+6 ordinances, regulations, or resolutions of political subdivisions of the
+7 Commonwealth pertaining to civil rights.
+8 (4) (a) Political subdivisions of this Commonwealth may enact and enforce
+9 ordinances, regulations, and resolutions pertaining to virtual currency
+10 kiosk business that are not in direct conflict with state law.
+11 (b) Ordinances, regulations, and resolutions of political subdivisions of the
+12 Commonwealth that impose greater requirements or restrictions on virtual
+13 currency kiosk business than the requirements or restrictions set forth in
+14 Subtitle 11 of KRS Chapter 286 shall not be considered in direct conflict
+15 with state law.
+16 SECTION 27. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+17 READ AS FOLLOWS:
+18 (1) A violation of any provision of Subtitle 11 of KRS Chapter 286 by a virtual
+19 currency kiosk operator shall be deemed an unfair, false, misleading, or deceptive
+20 act or practice in the conduct of trade or commerce in violation of KRS 367.170.
+21 (2) All of the remedies, powers, and duties provided to the Attorney General or any
+22 other person under KRS 367.110 to 367.300, and the penalties provided in KRS
+23 367.990, pertaining to acts and practices declared unlawful by KRS 367.170, shall
+24 apply with equal force and effect to a violation of any provision of Subtitle 11 of
+25 KRS Chapter 286 by a virtual currency kiosk operator.
+26 (3) (a) The remedies and penalties prescribed in this section shall be cumulative.
+27 (b) Nothing in this section shall be construed to limit or restrict the powers,
+Page 44 of 45
+XXXX 1/14/2026 1:51 PM Jacketed
+
+UNOFFICIAL COPY 26 RS BR 1451
+1 duties, remedies, or penalties available to the Attorney General, the
+2 Commonwealth, or any other person under any other statutory or common
+3 law.
+4 Section 28. The following KRS section is repealed:
+5 286.11-065 Licenses issued under provisions of former KRS Chapter 366 to remain in
+6 force.
+7 Section 29. The commissioner of the Kentucky Department of Financial
+8 Institution shall promulgate, within 30 days after the effective date of this Act,
+9 emergency and ordinary administrative regulations that are necessary to implement
+10 Sections 1 to 26 of this Act.
+11 Section 30. Notwithstanding any provision of this Act to the contrary:
+12 (1) A person shall not be required to obtain a license to engage in virtual currency
+13 kiosk business in this state until the earlier of the following:
+14 (a) January 1, 2027; or
+15 (b) The date the person is provided notice from the commissioner of the
+16 Kentucky Department of Financial Institutions (KDFI) of the commissioner's intent to
+17 deny, or denial of, the person's application for a license to engage in virtual currency
+18 kiosk business in this state; and
+19 (2) A virtual currency kiosk operator shall not be required to use the form
+20 required under Section 9 of this Act until the commissioner of the KDFI prescribes the
+21 form in an administrative regulation promulgated in accordance with KRS Chapter 13A.
+Page 45 of 45
+XXXX 1/14/2026 1:51 PM Jacketed

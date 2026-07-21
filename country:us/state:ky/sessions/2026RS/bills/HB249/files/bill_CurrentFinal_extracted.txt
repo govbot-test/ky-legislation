@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - Current/Final
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS HB 249/GA
+1 AN ACT relating to involuntary commitment.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 202C.010 is amended to read as follows:
+4 As used in this chapter, unless the context otherwise requires:
+5 (1) "Cabinet" means the Kentucky Cabinet for Health and Family Services;
+6 (2) "Commitment hearing" means the hearing under KRS 202C.040 to determine if a
+7 respondent meets the criteria for involuntary commitment under this chapter;
+8 (3) "Danger" means substantial physical harm or threat of substantial physical harm
+9 upon self or others;
+10 (4) "Evidentiary hearing" means the hearing under KRS 202C.030 to determine if the
+11 defendant committed the qualifying offense for which he or she was charged by a
+12 preponderance of the evidence;
+13 (5) "Forensic psychiatric facility" means a mental institution or facility, or part thereof,
+14 designated by the secretary for the purpose and function of providing inpatient
+15 evaluation, care, and treatment for mentally ill persons or individuals with an
+16 intellectual disability who have been charged with or convicted of a felony;
+17 (6) "Hospital" means:
+18 (a) A state mental hospital or institution or other licensed public or private
+19 hospital, institution, health-care facility, or part thereof, approved by the
+20 cabinet[Kentucky Cabinet for Health and Family Services] as equipped to
+21 provide full-time residential care and treatment for mentally ill persons or
+22 individuals with an intellectual disability; or
+23 (b) A hospital, institution, or health-care facility of the government of the United
+24 States equipped to provide residential care and treatment for mentally ill
+25 persons or individuals with an intellectual disability;
+26 (7) "Individual with an intellectual disability" means a person with significantly
+27 subaverage general intellectual functioning existing concurrently with deficits in
+Page 1 of 5
+HB024910.100 - 1047 - XXXX 2/23/2026 4:38 PM GA
+
+UNOFFICIAL COPY 26 RS HB 249/GA
+1 adaptive behavior and manifested during the developmental period;
+2 (8) "Judge" means the judge who found the respondent incompetent to stand trial in the
+3 criminal proceeding from which the petition for involuntary commitment arose;
+4 (9) "Less restrictive alternative mode of treatment" means a treatment given outside of
+5 a forensic psychiatric facility which would provide a respondent with appropriate
+6 treatment or care consistent with accepted professional practice standards and
+7 protect the respondent's safety and the safety of others;
+8 (10) "Mentally ill person" means a person with substantially impaired capacity to use
+9 self-control, judgment, or discretion in the conduct of the person's affairs and social
+10 relations, associated with maladaptive behavior or recognized emotional symptoms
+11 where impaired capacity, maladaptive behavior, or emotional symptoms can be
+12 related to physiological, psychological, or social factors;
+13 (11) "Qualified mental health professional" means:
+14 (a) A physician licensed under the laws of Kentucky to practice medicine or
+15 osteopathy, or a medical officer of the government of the United States while
+16 engaged in the performance of official duties;
+17 (b) A psychiatrist licensed under the laws of Kentucky to practice medicine or
+18 osteopathy, or a medical officer of the government of the United States while
+19 engaged in the practice of official duties, who is certified or eligible to apply
+20 for certification by the American Board of Psychiatry and Neurology, Inc.;
+21 (c) A psychologist with the health service provider designation, a psychological
+22 practitioner, a certified psychologist, or a psychological associate, licensed
+23 under [the provisions of ]KRS Chapter 319;
+24 (d) A licensed registered nurse with:
+25 1. A master's degree in psychiatric nursing from an accredited institution
+26 and two (2) years of clinical experience with mentally ill persons;[,] or
+27 2. [a licensed registered nurse, with ]A bachelor's degree in nursing from
+Page 2 of 5
+HB024910.100 - 1047 - XXXX 2/23/2026 4:38 PM GA
+
+UNOFFICIAL COPY 26 RS HB 249/GA
+1 an accredited institution, who:
+2 a. Is certified as a psychiatric and mental health nurse by the
+3 American Nurses Association;[ and who]
+4 b. Has three (3) years of inpatient or outpatient clinical experience in
+5 psychiatric nursing; and
+6 c. Is currently employed by:
+7 i. A hospital or forensic psychiatric facility licensed by the
+8 Commonwealth;[ or]
+9 ii. A psychiatric unit of a general hospital;[ or]
+10 iii. A private agency or company engaged in the provision of
+11 mental health services; or
+12 iv. A regional community program for mental health and
+13 individuals with an intellectual disability;
+14 (e) A licensed clinical social worker licensed under [the provisions of ]KRS
+15 335.100, or a certified social worker licensed under [the provisions of ]KRS
+16 335.080 with three (3) years of inpatient or outpatient clinical experience in
+17 psychiatric social work and currently employed by a hospital or forensic
+18 psychiatric facility licensed by the Commonwealth or a psychiatric unit of a
+19 general hospital or a private agency or company engaged in the provision of
+20 mental health services or a regional community program for mental health and
+21 individuals with an intellectual disability;
+22 (f) A marriage and family therapist licensed under [the provisions of ]KRS
+23 335.300 to 335.399 with three (3) years of inpatient or outpatient clinical
+24 experience in psychiatric mental health practice and currently employed by a
+25 hospital or forensic facility licensed by the Commonwealth, a psychiatric unit
+26 of a general hospital, a private agency or company engaged in providing
+27 mental health services, or a regional community program for mental health
+Page 3 of 5
+HB024910.100 - 1047 - XXXX 2/23/2026 4:38 PM GA
+
+UNOFFICIAL COPY 26 RS HB 249/GA
+1 and individuals with an intellectual disability;
+2 (g) A professional counselor credentialed under [the provisions of ]KRS Chapter
+3 335.500 to 335.599 with three (3) years of inpatient or outpatient clinical
+4 experience in psychiatric mental health practice and currently employed by a
+5 hospital or forensic facility licensed by the Commonwealth, a psychiatric unit
+6 of a general hospital, a private agency or company engaged in providing
+7 mental health services, or a regional community program for mental health
+8 and individuals with an intellectual disability; or
+9 (h) A physician assistant licensed under KRS 311.840 to 311.862, who meets one
+10 (1) of the following requirements:
+11 1. Provides documentation that he or she has completed a psychiatric
+12 residency program for physician assistants;
+13 2. Has completed at least one thousand (1,000) hours of clinical experience
+14 under a supervising physician, as defined by KRS 311.840, who is a
+15 psychiatrist and is certified or eligible for certification by the American
+16 Board of Psychiatry and Neurology, Inc.;
+17 3. Holds a master's degree from a physician assistant program accredited
+18 by the Accreditation Review Commission on Education for the
+19 Physician Assistant or its predecessor or successor agencies, is
+20 practicing under a supervising physician as defined by KRS 311.840,
+21 and:
+22 a. Has two (2) years of clinical experience in the assessment,
+23 evaluation, and treatment of mental disorders; or
+24 b. Has been employed by a hospital or forensic psychiatric facility
+25 licensed by the Commonwealth or a psychiatric unit of a general
+26 hospital or a private agency or company engaged in the provision
+27 of mental health services or a regional community program for
+Page 4 of 5
+HB024910.100 - 1047 - XXXX 2/23/2026 4:38 PM GA
+
+UNOFFICIAL COPY 26 RS HB 249/GA
+1 mental health and individuals with an intellectual disability for at
+2 least two (2) years; or
+3 4. Holds a bachelor's degree, possesses a current physician assistant
+4 certificate issued by the board prior to July 15, 2002, is practicing under
+5 a supervising physician as defined by KRS 311.840, and:
+6 a. Has three (3) years of clinical experience in the assessment,
+7 evaluation, and treatment of mental disorders; or
+8 b. Has been employed by a hospital or forensic psychiatric facility
+9 licensed by the Commonwealth or a psychiatric unit of a general
+10 hospital or a private agency or company engaged in the provision
+11 of mental health services or a regional community program for
+12 mental health and individuals with an intellectual disability for at
+13 least three (3) years;
+14 (12) "Qualifying offense" means a capital offense, a Class A felony, a Class B felony
+15 resulting in death or serious physical injury, or a felony offense under KRS
+16 Chapter 510[violation of KRS 510.040 or 510.070];
+17 (13) "Respondent" means a person who was a criminal defendant found incompetent to
+18 stand trial who is or was the subject of a petition for involuntary commitment filed
+19 under KRS Chapter 504;
+20 (14) "Review hearing" means any hearing conducted to determine if a respondent
+21 continues to meet the criteria for involuntary commitment after the initial order for
+22 involuntary commitment has been issued under this chapter; and
+23 (15) "Secretary" means the secretary of the Cabinet for Health and Family Services.
+Page 5 of 5
+HB024910.100 - 1047 - XXXX 2/23/2026 4:38 PM GA

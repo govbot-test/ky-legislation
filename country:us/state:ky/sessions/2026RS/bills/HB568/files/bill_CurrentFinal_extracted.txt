@@ -1,0 +1,1366 @@
+Title: 
+Official Title: 
+Source: versions - Current/Final
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 AN ACT relating to public protection and declaring an emergency.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 304.9-020 is amended to read as follows:
+4 As used in this subtitle:
+5 (1) "Agent" means a person who sells, solicits, or negotiates insurance or annuity
+6 contracts;
+7 (2) "Appointment" means a notification filed with the insurance department that an
+8 insurer has established an agency relationship with a producer;
+9 (3) "Appointment renewal" means continuation of an insurer's existing appointment
+10 based on payment of the required fee without submission of an appointment form;
+11 (4) "Apprentice adjuster" means an individual who meets the qualification
+12 requirements to hold a license as an independent, staff, or public adjuster, except for
+13 the experience, education, and training requirements;
+14 (5) "Business entity" means a corporation, association, partnership, limited liability
+15 company, limited liability partnership, employer group, professional employer
+16 organization, or other legal entity;
+17 (6) "Catastrophe" means an event that results in a declaration of emergency by the
+18 Governor pursuant to KRS 39A.100 and:
+19 (a) A large number of deaths or injuries;
+20 (b) Extensive damage or destruction of facilities that provide and sustain human
+21 needs;
+22 (c) An overwhelming demand on state and local response resources and
+23 mechanisms;
+24 (d) A severe long-term effect on general economic activity; or
+25 (e) A severe effect on state, local, and private sector capabilities to begin and
+26 sustain response activities;
+27 (7) "Crop insurance" means insurance providing protection against damage to crops
+Page 1 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 from unfavorable weather conditions, fire or lightning, flood, hail, insect
+2 infestation, disease, or other yield-reducing conditions or perils provided by the
+3 private insurance market or that is subsidized by the Federal Crop Insurance
+4 Corporation, including multi-peril crop insurance;
+5 (8) "Home state" means the District of Columbia and any state or territory of the
+6 United States in which a licensee maintains his or her principal place of residence
+7 or principal place of business and is licensed by that state;
+8 (9) "Independent adjuster" means a person who:
+9 (a) Is an independent contractor, an employee of an independent contractor, or for
+10 tax purposes is treated as an independent contractor under Subtitle C of the
+11 Internal Revenue Code, 26 U.S.C. secs. 3101 et seq.;
+12 (b) Is compensated by an insurer or self-insurer; and
+13 (c) Investigates, negotiates, or settles property, casualty, or workers'
+14 compensation claims for insurers or self-insurers;
+15 (10) "Insurance producer":
+16 (a) Means an individual or business entity required to be licensed under the laws
+17 of Kentucky to sell, solicit, or negotiate insurance or annuity contracts; and[.]
+18 (b) ["Insurance producer" ]Includes an agent, managing general agent, surplus
+19 lines broker, reinsurance intermediary broker and manager, rental vehicle
+20 agent and rental vehicle agent managing employee, and consultant;
+21 (11) "Limited line credit insurance" includes credit life, credit disability, credit property,
+22 credit unemployment, involuntary unemployment, mortgage life, mortgage
+23 guaranty, mortgage disability, guaranteed automobile protection insurance, and any
+24 other form of insurance offered in connection with an extension of credit that is
+25 limited to partially or wholly extinguishing that credit obligation that the
+26 commissioner determines should be designated a form of limited line credit
+27 insurance;
+Page 2 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (12) "Limited line credit insurance agent" means an individual or business entity who
+2 sells, solicits, or negotiates one (1) or more forms of limited line credit insurance
+3 coverage to individuals through a master, corporate, group, or individual policy;
+4 (13) "Limited lines insurance" means:
+5 (a) The lines of insurance defined in subsections (7), (11), (22), (27), and (29) of
+6 this section; and
+7 (b) Any other line of insurance that the commissioner identifies in accordance
+8 with KRS 304.9-230(1)(g) or recognizes for the purpose of complying with
+9 KRS 304.9-140(5);
+10 (14) "Negotiate":
+11 (a) Means the act of conferring directly with, or offering advice directly to, a
+12 purchaser or prospective purchaser of a particular contract of insurance
+13 concerning any of the substantive benefits, terms, or conditions of the
+14 contract, provided that the person engaged in that act either sells insurance or
+15 obtains insurance from insurers for purchasers; and[.]
+16 (b) Unless the context requires otherwise,["Negotiate"] does not include
+17 negotiating a claims settlement;
+18 (15) "Pharmacy benefit manager" means an entity that, on behalf of a health benefit
+19 plan, state agency, insurer, managed care organization providing services under
+20 KRS Chapter 205, or other third-party payor:
+21 (a) Contracts directly or indirectly with pharmacies to provide prescription drugs
+22 to individuals;
+23 (b) Administers a prescription drug benefit;
+24 (c) Processes or pays pharmacy claims;
+25 (d) Creates or updates prescription drug formularies;
+26 (e) Makes or assists in making prior authorization determinations on prescription
+27 drugs;
+Page 3 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (f) Administers rebates on prescription drugs; or
+2 (g) Establishes a pharmacy network;
+3 (16) "Portable electronics" means electronic devices that are portable and the accessories
+4 and services related to the use of the device;
+5 (17) [(a) ]"Portable electronics insurance":
+6 (a) Means insurance providing coverage for the repair or replacement of portable
+7 electronics for any one (1) or more of the following:
+8 1. Loss;
+9 2. Theft;
+10 3. Inoperability due to mechanical failure;
+11 4. Malfunction;
+12 5. Damage; or
+13 6. Other similar causes of loss; and[.]
+14 (b) ["Portable electronics insurance" ]Does not include[mean]:
+15 1. A service contract governed by KRS 304.5-070;
+16 2. A policy of insurance covering a seller's or manufacturer's obligations
+17 under a warranty; or
+18 3. A homeowner's, renter's, private passenger automobile, commercial
+19 multi-peril, or similar policy;
+20 (18) "Portable electronics insurance supervising entity" means a business entity that is a
+21 licensed insurer or insurance agent that is appointed by an insurer to supervise the
+22 administration of a portable electronics insurance program;
+23 (19) "Portable electronics retailer" means a licensed business entity that offers and sells
+24 portable electronic devices and offers and disseminates portable electronics
+25 insurance on behalf and under the direction of a portable electronics insurance
+26 supervising entity;
+27 (20) "Public adjuster":
+Page 4 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (a) Means any person who[, for compensation or anything of value]:
+2 1.[(a)] For compensation or reward paid by or on behalf of an insured,
+3 renders advice or assistance to the insured in a first-party claim for
+4 loss or damages under any policy, certificate, or contract of insurance
+5 covering real or personal property[Acts on behalf of an insured or aids
+6 an insured, solely in relation to first-party claims arising under insurance
+7 contracts that insure the real or personal property of the insured, in
+8 negotiating for, or effecting the settlement of, a claim for loss or damage
+9 covered by an insurance contract]; or
+10 2.[(b)] Advertises, solicits business, or holds itself out to the public as an
+11 adjuster described in subparagraph 1. of this paragraph[ for
+12 employment as a public adjuster of insurance claims, solicits business or
+13 represents himself, herself, or itself to the public as a public adjuster of
+14 first-party insurance claims for losses or damages arising out of policies
+15 of insurance that insure real or personal property; or
+16 (c) Directly or indirectly solicits business, investigates or adjusts losses, advises
+17 an insured about first-party claims for losses or damages arising out of
+18 policies of insurance that insure real or personal property for another person,
+19 or engages in the business of adjusting losses or damages covered by an
+20 insurance policy for the insured]; and
+21 (b) Does not include:
+22 1. An attorney licensed to practice law in Kentucky, when acting in his or
+23 her professional capacity as an attorney; or
+24 2. A person employed only for the purpose of obtaining facts
+25 surrounding a loss or furnishing technical assistance to a licensed
+26 public adjuster, including photographers, estimators, private
+27 investigators, engineers, and handwriting experts;
+Page 5 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (21) "Rental vehicle agent" means a business entity with a rental vehicle agent managing
+2 employee that is licensed to sell, solicit, or negotiate insurance offered, sold, or
+3 solicited in connection with, and incidental to, the rental of rental vehicles, whether
+4 at the rental office or by preselection of coverage in master, corporate, or group
+5 agreements that:
+6 (a) Are nontransferable;
+7 (b) Apply only to the rental vehicle that is the subject of the rental agreement; and
+8 (c) Are limited to the following kinds of insurance:
+9 1. Personal accident insurance for renters and other rental vehicle
+10 occupants for accidental death or dismemberment and for medical
+11 expenses resulting from an accident that occurs with the rental vehicle
+12 during the rental period;
+13 2. Liability insurance that provides protection to the renters and other
+14 authorized drivers of a rental vehicle for liability arising from the
+15 operation or use of the rental vehicle during the rental period;
+16 3. Personal effects insurance that provides coverage to renters and other
+17 vehicle occupants for loss of or damage to personal effects in the rental
+18 vehicle during the rental period;
+19 4. Roadside assistance insurance;
+20 5. Emergency sickness protection insurance; or
+21 6. Any other coverage designated by the commissioner;
+22 (22) "Rental vehicle insurance" means insurance underwritten by an insurer authorized
+23 to transact business in Kentucky that is sold in connection with, and incidental to, a
+24 rental vehicle agreement;
+25 (23) "Rental vehicle agent managing employee" means an individual who:
+26 (a) Is a salaried full-time employee of a licensed rental vehicle agent business
+27 entity that holds a license under KRS 304.9-505; and
+Page 6 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (b) Is responsible for the supervision of the other employees engaged in the
+2 placement of insurance;
+3 (24) "Sell" means to exchange a contract of insurance by any means, for money or other
+4 valuable consideration, on behalf of an insurer;
+5 (25) "Solicit" means attempting to sell insurance or asking or urging a person to apply
+6 for a particular kind of insurance from a particular insurer;
+7 (26) "Staff adjuster" means an individual who is an employee of an insurer who
+8 investigates, negotiates, or settles property, casualty, or workers' compensation
+9 claims on behalf of his or her employer;
+10 (27) "Surety" means insurance or bond that covers obligation to pay the debts of, or
+11 answer for the default of another, including faithlessness in a position of public or
+12 private trust. Surety also includes surety insurance as defined in KRS 304.5-060;
+13 (28) "Terminate" means the cancellation of the relationship between an insurance
+14 producer and the insurer or the termination of an insurance producer's authority to
+15 transact insurance;
+16 (29) "Travel insurance" has the same meaning as in KRS 304.52-010;
+17 (30) "Uniform business entity application" means the current version of the uniform
+18 business entity application for resident and nonresident business entities; and
+19 (31) "Uniform individual application" means the current version of the uniform
+20 individual application for resident and nonresident individuals.
+21 Section 2. KRS 304.9-430 is amended to read as follows:
+22 (1) (a) Except as provided in this section and KRS 304.52-060, no person shall in
+23 this state act as or hold himself, herself, or itself out to be an independent,
+24 staff, or public adjuster unless then licensed by the department as an
+25 independent, staff, or public adjuster.
+26 (b) Except as provided in paragraph (c) of this subsection and for a period of
+27 two (2) years beginning on the effective date of this section of this Act:
+Page 7 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 1. An application for a public adjuster license shall not be accepted or
+2 approved by the commissioner; and
+3 2. The department shall not issue public adjuster licenses.
+4 (c) A person who has a temporary or apprentice adjuster license in effect on the
+5 effective date of this section of this Act may apply for and be issued a public
+6 adjuster license in accordance with Section 3 of this Act.
+7 (d) A public adjuster license in effect on the effective date of this section of this
+8 Act:
+9 1. May be renewed by the licensee in accordance with the requirements
+10 of this subtitle; and
+11 2. Shall continue in force until expired, suspended, revoked, or otherwise
+12 terminated.
+13 (2) (a) An individual applying for a resident independent, staff, or public adjuster
+14 license shall make an application to the commissioner on the appropriate
+15 uniform individual application and in a format prescribed by the
+16 commissioner.
+17 (b) An applicant under paragraph (a) of this subsection shall declare under
+18 penalty of suspension, revocation, or refusal of the license that the statements
+19 made in the application are true, correct, and complete to the best of the
+20 individual's knowledge and belief.
+21 (c) [Before approving an application submitted under paragraph (a) of this
+22 subsection, ]The commissioner shall not approve an application submitted
+23 under paragraph (a) of this subsection unless the commissioner finds[find]
+24 that the individual to be licensed:
+25 1. Is at least eighteen (18) years of age;
+26 2. Is eligible to designate Kentucky as the individual's home state;
+27 3. Is trustworthy, reliable, and of good reputation, evidence of which shall
+Page 8 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 be determined through an investigation by the commissioner;
+2 4. Has not committed any act that is a ground for probation, suspension,
+3 revocation, or refusal of a license as set forth in KRS 304.9-440;
+4 5. Has successfully passed the examination for the adjuster license and the
+5 applicable line of authority for which the individual has applied;
+6 6. Has paid the fees established by the commissioner pursuant to KRS
+7 304.4-010; and
+8 7. Is financially responsible to exercise the license.
+9 (3) (a) To demonstrate financial responsibility, a person applying for a public
+10 adjuster license shall obtain a bond or irrevocable letter of credit prior to
+11 issuance of a license and shall maintain the bond or letter of credit for the
+12 duration of the license with the following limits:
+13 1. A surety bond executed and issued by an insurer authorized to issue
+14 surety bonds in Kentucky, which bond shall:
+15 a. Be in the minimum amount of fifty thousand dollars ($50,000);
+16 b. Be in favor of the state of Kentucky;
+17 c. Specifically authorize recovery of any person in Kentucky who
+18 sustained damages as the result of the public adjuster's erroneous
+19 acts, failure to act, conviction of fraud, or conviction for unfair
+20 trade practices in his or her capacity as a public adjuster; and
+21 d. Not be terminated unless written notice is given to the licensee at
+22 least thirty (30) days prior to the termination; or
+23 2. An irrevocable letter of credit issued by a qualified financial institution,
+24 which letter of credit shall:
+25 a. Be in the minimum amount of fifty thousand dollars ($50,000);
+26 b. Be subject to lawful levy of execution on behalf of any person to
+27 whom the public adjuster has been found to be legally liable as the
+Page 9 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 result of erroneous acts, failure to act, conviction of fraud, or
+2 conviction for unfair practices in his or her capacity as a public
+3 adjuster; and
+4 c. Not be terminated unless written notice is given to the licensee at
+5 least thirty (30) days prior to the termination.
+6 (b) The commissioner may ask for evidence of financial responsibility at any time
+7 the commissioner deems relevant.
+8 (c) If the evidence of financial responsibility terminates or becomes impaired, the
+9 public adjuster license shall:
+10 1. Automatically terminate; and
+11 2. Be promptly surrendered to the commissioner without demand.
+12 (4) (a) A business entity applying for a resident independent or public adjuster
+13 license shall make an application to the commissioner on the appropriate
+14 uniform business entity application and in a format prescribed by the
+15 commissioner.
+16 (b) An applicant under paragraph (a) of this subsection shall declare under
+17 penalty of suspension, revocation, or refusal of the license that the statements
+18 made in the application are true, correct, and complete to the best of the
+19 business entity's knowledge and belief.
+20 (c) [Before approving an application submitted under paragraph (a) of this
+21 subsection, ]The commissioner shall not approve an application submitted
+22 under paragraph (a) of this subsection unless the commissioner finds[find]
+23 that the business entity:
+24 1. Is eligible to designate Kentucky as its home state;
+25 2. Has designated a licensed independent or public adjuster responsible for
+26 the business entity's compliance with the insurance laws and
+27 administrative regulations of Kentucky;
+Page 10 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 3. Has not committed an act that is a ground for probation, suspension,
+2 revocation, or refusal of an independent or public adjuster's license as
+3 set forth in KRS 304.9-440; and
+4 4. Has paid the fees established by the commissioner pursuant to KRS
+5 304.4-010.
+6 (5) For applications made under this section, the commissioner may:
+7 (a) Require additional information or submissions from applicants; and
+8 (b) Obtain any documents or information reasonably necessary to verify the
+9 information contained in an application.
+10 (6) [Unless denied licensure pursuant to KRS 304.9-440, ]A person or business entity
+11 who has met the applicable requirements of subsections (2) to (5) of this section
+12 shall be issued an independent, staff, or public adjuster license unless the person or
+13 business entity is denied licensure pursuant to Section 8 of this Act.
+14 (7) An independent or staff adjuster may qualify for a license in one (1) or more of the
+15 following lines of authority:
+16 (a) Property and casualty;
+17 (b) Workers' compensation; or
+18 (c) Crop.
+19 (8) Notwithstanding any other provision of this subtitle, an individual who is employed
+20 by an insurer to investigate suspected fraudulent insurance claims, but who does not
+21 adjust losses or determine claims payments, shall not be required to be licensed as a
+22 staff adjuster.
+23 (9) A public adjuster may qualify for a license in one (1) or more of the following lines
+24 of authority:
+25 (a) Property and casualty; or
+26 (b) Crop.
+27 (10) Notwithstanding any other provision of this subtitle, a license as an independent
+Page 11 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 adjuster shall not be required of the following:
+2 (a) An individual who is sent into Kentucky on behalf of an insurer for the sole
+3 purpose of investigating or making adjustment of a particular loss resulting
+4 from a catastrophe, or for the adjustment of a series of losses resulting from a
+5 catastrophe common to all losses;
+6 (b) An attorney licensed to practice law in Kentucky, when acting in his or her
+7 professional capacity as an attorney;
+8 (c) A person employed solely to obtain facts surrounding a claim or to furnish
+9 technical assistance to a licensed independent adjuster;
+10 (d) An individual who is employed to investigate suspected fraudulent insurance
+11 claims, but who does not adjust losses or determine claims payments;
+12 (e) A person who:
+13 1. Solely performs executive, administrative, managerial, or clerical duties,
+14 or any combination thereof; and
+15 2. Does not investigate, negotiate, or settle claims with policyholders,
+16 claimants, or their legal representatives;
+17 (f) A licensed health care provider or its employee who provides managed care
+18 services if the services do not include the determination of compensability;
+19 (g) A health maintenance organization or any of its employees or an employee of
+20 any organization providing managed care services if the services do not
+21 include the determination of compensability;
+22 (h) A person who settles only reinsurance or subrogation claims;
+23 (i) An officer, director, manager, or employee of an authorized insurer, surplus
+24 lines insurer, or risk retention group, or an attorney-in-fact of a reciprocal
+25 insurer;
+26 (j) A United States manager of the United States branch of an alien insurer;
+27 (k) A person who investigates, negotiates, or settles claims arising under a life,
+Page 12 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 accident and health, or disability insurance policy or annuity contract;
+2 (l) An individual employee, under a self-insured arrangement, who adjusts
+3 claims on behalf of the individual's employer;
+4 (m) A licensed agent, attorney-in-fact of a reciprocal insurer, or managing general
+5 agent of the insurer, to whom claim authority has been granted by an insurer;
+6 or
+7 (n) 1. A person who:
+8 a. Is an employee of a licensed independent adjuster, is an employee
+9 of an affiliate that is a licensed independent adjuster, or is
+10 supervised by a licensed independent adjuster, if there are no more
+11 than twenty-five (25) persons under the supervision of one (1)
+12 licensed individual independent adjuster or licensed agent who is
+13 exempt from licensure pursuant to paragraph (m) of this
+14 subsection;
+15 b. Collects claim information from insureds or claimants;
+16 c. Enters data into an automated claims adjudication system; and
+17 d. Furnishes claim information to insureds or claimants from the
+18 results of the automated claims adjudication system.
+19 2. For purposes of this paragraph, "automated claims adjudication system"
+20 means a preprogrammed computer system designed for the collection,
+21 data entry, calculation, and system-generated final resolution of
+22 consumer electronic products insurance claims that complies with claim
+23 settlement practices pursuant to Subtitle 12 of KRS Chapter 304.
+24 (11)[ Notwithstanding any other provision of this subtitle, a license as a public adjuster
+25 shall not be required of the following:
+26 (a) An attorney licensed to practice law in Kentucky, when acting in his or her
+27 professional capacity as an attorney;
+Page 13 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (b) A person who negotiates or settles claims arising under a life or health insurance
+2 policy or an annuity contract;
+3 (c) A person employed only for the purpose of obtaining facts surrounding a loss or
+4 furnishing technical assistance to a licensed public adjuster, including
+5 photographers, estimators, private investigators, engineers, and handwriting
+6 experts;
+7 (d) A licensed health care provider or its employee who prepares or files a health claim
+8 form on behalf of a patient; or
+9 (e) An employee or agent of an insurer adjusting claims relating to food spoilage with
+10 respect to residential property insurance in which the amount of coverage for the
+11 applicable type of loss is contractually limited to one thousand dollars ($1,000) or
+12 less.
+13 (12)] Notwithstanding any other provision of this subtitle, a license as a staff adjuster
+14 shall not be required of an employee or agent of an insurer adjusting claims relating
+15 to food spoilage with respect to residential property insurance in which the amount
+16 of coverage for the applicable type of loss is contractually limited to one thousand
+17 dollars ($1,000) or less.
+18 (12)[(13)] For purposes of this section, except as otherwise provided in subsection
+19 (14)[(15)] of this section, "home state" means any state or territory of the United
+20 States or the District of Columbia in which an independent, staff, or public adjuster:
+21 (a) Maintains his, her, or its principal place of residence or business; and
+22 (b) Is licensed to act as a resident independent, staff, or public adjuster.
+23 (13)[(14)] Temporary registration for emergency independent or staff adjusters shall be
+24 issued by the commissioner in the event of a catastrophe declared in Kentucky in
+25 the following manner:
+26 (a) An insurer shall notify the commissioner by submitting an application for
+27 temporary emergency registration of each individual not already licensed in
+Page 14 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 the state where the catastrophe has been declared, who will act as an
+2 emergency independent adjuster on behalf of the insurer;
+3 (b) A person who is otherwise qualified to adjust claims, but who is not already
+4 licensed in the state, may act as an emergency independent or staff adjuster
+5 and adjust claims if, within five (5) days of deployment to adjust claims
+6 arising from the catastrophe, the insurer notifies the commissioner by
+7 providing the following information, in a format prescribed by the
+8 commissioner:
+9 1. The name of the individual;
+10 2. The Social Security number of the individual;
+11 3. The name of the insurer that the independent or staff adjuster will
+12 represent;
+13 4. The catastrophe or loss control number;
+14 5. The catastrophe event name and date; and
+15 6. Any other information the commissioner deems necessary; and
+16 (c) An emergency independent or staff adjuster's registration shall remain in force
+17 for a period not to exceed ninety (90) days, unless extended by the
+18 commissioner.
+19 (14)[(15)] (a) As used in this subsection, "home state" has the same meaning as in
+20 subsection (12)[(13)] of this section, except that for purposes of this
+21 subsection the term includes any state or territory of the United States or the
+22 District of Columbia in which an applicant under this subsection is licensed to
+23 act as a resident independent, staff, or public adjuster if the state or territory of
+24 the applicant's principal place of residence does not issue an independent,
+25 staff, or public adjuster license.
+26 (b) [Unless refused licensure in accordance with KRS 304.9-440, ]A nonresident
+27 person shall receive a nonresident independent, staff, or public adjuster
+Page 15 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 license if:
+2 1. The person is currently licensed in good standing as an independent,
+3 staff, or public adjuster in his, her, or its home state;
+4 2. The person has submitted the proper request for licensure and has paid
+5 the fees required by KRS 304.4-010;
+6 3. The person has submitted, in a form or format prescribed by the
+7 commissioner, the uniform individual application;[ and]
+8 4. The person's designated home state issues nonresident independent,
+9 staff, or public adjuster licenses to persons of Kentucky on the same
+10 basis; and
+11 5. The person is not denied licensure pursuant to Section 8 of this Act.
+12 (c) The commissioner may:
+13 1. Verify an applicant's licensing status through any appropriate database,
+14 including the database maintained by the National Association of
+15 Insurance Commissioners, its affiliates, or subsidiaries; or
+16 2. Request certification of an applicant's good standing.
+17 (d) As a condition to the continuation of a nonresident adjuster license, the
+18 licensee shall maintain a resident adjuster license in his, her, or its home state.
+19 (e) A nonresident adjuster license issued under this subsection shall terminate and
+20 be surrendered immediately to the commissioner if the licensee's resident
+21 adjuster license terminates for any reason, unless:
+22 1. The termination is due to the licensee being issued a new resident
+23 independent, staff, or public adjuster license in his, her, or its new home
+24 state; and
+25 2. The new resident state or territory has reciprocity with Kentucky.
+26 Section 3. KRS 304.9-432 is amended to read as follows:
+27 (1) In the event that an applicant for an adjuster's license meets the qualification
+Page 16 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 requirements of KRS 304.9-430 except that he or she has not had experience or
+2 special education or training as to the handling of loss claims under insurance
+3 contracts of sufficient duration and extent to make him or her reasonably confident
+4 to fulfill the responsibilities as an adjuster, he or she shall not be required to take
+5 and successfully complete the prescribed written examination and may be issued a
+6 temporary license as an apprentice adjuster for a period not to exceed twelve (12)
+7 months.
+8 (2) A temporary license as an apprentice adjuster shall be subject to the following
+9 terms and conditions:
+10 (a) An individual holding a temporary license as apprentice adjuster shall have all
+11 of the privileges and obligations of an adjuster licensed under the insurance
+12 code;
+13 (b) An individual holding a temporary license as an apprentice adjuster shall at all
+14 times be a full-time salaried employee of an insurer or an adjuster and subject
+15 to training, direction, and control by a licensed adjuster acting in the same
+16 capacity as that for which the applicant applied;
+17 (c) A temporary license as apprentice adjuster shall be subject to suspension,
+18 revocation, or conditions in accordance with KRS 304.9-440; and
+19 (d) An individual may hold only one (1) temporary license as an apprentice
+20 adjuster.
+21 (3) An individual applying for a resident apprentice adjuster license shall make
+22 application to the commissioner on the appropriate uniform individual application,
+23 in a format prescribed by the commissioner, and declare under penalty of
+24 suspension, revocation, or refusal of the license that the statements made in the
+25 application are true, correct, and complete to the best of the individual's knowledge
+26 and belief. [Before approving the application, ]The commissioner shall not approve
+27 an application for a resident apprentice adjuster license unless the commissioner
+Page 17 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 determines that[determine whether] the applicant:
+2 (a) Is at least eighteen (18) years of age;
+3 (b) Is a resident of Kentucky and has designated Kentucky as his or her home
+4 state;
+5 (c) Has a business or mailing address in the state for acceptance of service of
+6 process;
+7 (d) Has not committed any act that is a ground for probation or suspension,
+8 revocation, or denial of licensure as set forth in KRS 304.9-440;
+9 (e) Is trustworthy, reliable, and of good reputation, evidence of which may be
+10 determined by the commissioner;
+11 (f) Has paid the fees prescribed by administrative regulation promulgated
+12 pursuant to KRS 304.4-010; and
+13 (g) Has provided an attestation from a licensed independent, staff, or public
+14 adjuster with the same line of authority for which the apprentice has applied,
+15 attesting that the apprentice adjuster shall be subject to training, direction, and
+16 control by the licensed adjuster, and further certifying that the licensed
+17 adjuster assumes responsibility for the actions of the apprentice in the
+18 apprentice's capacity as an adjuster.
+19 (4) The apprentice adjuster license shall be subject to the following terms and
+20 conditions:
+21 (a) The apprentice adjuster shall only be authorized to adjust claims in the state
+22 that has issued the apprentice adjuster license;
+23 (b) The apprentice adjuster shall be restricted to participation in the investigation,
+24 settlement, and negotiation of claims subject to the review and final
+25 determination of the claim by the supervising licensed adjuster;
+26 (c) Compensation of an apprentice adjuster shall be on a salaried or hourly basis
+27 only;
+Page 18 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (d) The apprentice adjuster shall not be required to pass the independent or public
+2 adjuster examination, as required by KRS 304.9-430(2), to adjust claims as an
+3 apprentice adjuster. At any time during the apprenticeship, the apprentice
+4 adjuster may choose to take the examination required by KRS 304.9-430(2)
+5 and, if he or she passes the examination, the apprentice adjuster license shall
+6 automatically terminate and an adjuster license shall be issued to that
+7 individual in place thereof; and
+8 (e) The apprentice adjuster license shall be for a time period not to exceed twelve
+9 (12) months and is nonrenewable.
+10 (5) The licensed independent, staff, or public adjuster responsible for the apprentice
+11 adjuster shall only supervise the activities of the apprentice adjuster as set forth in
+12 this subtitle.
+13 (6) Notwithstanding any other provision of this section and for a period of two (2)
+14 years beginning on the effective date of this section of this Act:
+15 (a) An application for a temporary or apprentice adjuster license from a person
+16 that would be supervised by a public adjuster shall not be accepted or
+17 approved by the commissioner; and
+18 (b) The department shall not issue temporary or apprentice adjuster licenses to
+19 a person that would be supervised by a public adjuster.
+20 Section 4. KRS 304.9-433 is amended to read as follows:
+21 (1) (a) Except as provided in paragraph (b) of this subsection, a public adjuster shall
+22 not provide services to an insured until:
+23 1. A written contract with the insured has been executed on a form that has
+24 been prefiled with and approved by the commissioner; and
+25 2. The rescission period required under subsection (8) of this section has
+26 concluded.
+27 (b) Subject to subsection (3) of Section 7 of this Act, the commissioner may
+Page 19 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 approve a form that allows a public adjuster to be compensated for services
+2 provided to an insured prior to the:
+3 1. Execution of the[a] written contract; or
+4 2. Conclusion of the rescission period required under subsection (8) of
+5 this section;
+6 in emergency circumstances.
+7 (c) [A contract between a public adjuster and an insured in violation of paragraph
+8 (a) of this subsection shall not be enforceable in this state.
+9 (d) ]A form prefiled with the commissioner by a public adjuster for approval
+10 under paragraph (a) of this subsection shall be subject to disapproval by the
+11 commissioner at any time if the form is found to:
+12 1. Violate any provision of this chapter;
+13 2. Contain or incorporate by reference any inconsistent, ambiguous, or
+14 misleading clauses; or
+15 3. Contain any title, heading, or other indication of its provisions which is:
+16 a. Misleading; or
+17 b. Printed in a size of typeface or manner of reproduction so as to be
+18 substantially illegible.
+19 (d)[(e)] A contract between a public adjuster and an insured that was executed
+20 on a form that was prefiled with and approved by the commissioner under
+21 paragraph (a) of this subsection prior to a disapproval of the form under
+22 paragraph (c)2. or 3.[(d)] of this subsection shall be enforceable to the extent
+23 allowed by:
+24 1. Ordinary principles of contract; and
+25 2. Any applicable state or federal laws implicated by the contract.
+26 (2) A public adjuster shall ensure that all contracts between the public adjuster and
+27 an[the] insured for services are in writing and contain the following[ terms]:
+Page 20 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (a) The legible full name of the adjuster signing the contract, as specified in the
+2 department's licensing records;
+3 (b) The adjuster's permanent home state business address and phone number;
+4 (c) The license number issued to the adjuster by the department;
+5 (d) A title of "Public Adjuster Contract";
+6 (e) The insured's full name, street address, insurer name, and policy number, if
+7 known or upon notification;
+8 (f) A description of the loss or damage and its location, if applicable;
+9 (g) A description of services to be provided to the insured;
+10 (h) The signatures of the adjuster and the insured;
+11 (i) The date the contract was signed by:
+12 1. The adjuster; and
+13 2. The insured;
+14 (j) Attestation language stating that the adjuster has a letter of credit or a surety
+15 bond as required by KRS 304.9-430(3);
+16 (k) The full salary, fee, commission, compensation, or other consideration the
+17 adjuster is to receive for services, including but not limited to:
+18 1. If the compensation is based on a percentage of the insurance settlement,
+19 the exact percentage, which shall be in accordance with KRS 304.9-
+20 4333;
+21 2. The initial expenses to be reimbursed to the adjuster from the proceeds
+22 of the claim payment, specified by type, with dollar estimates; and
+23 3. Any additional expenses, if first approved by the insured;
+24 (l) A statement that the adjuster shall not:
+25 1. Give legal advice; or
+26 2. Act on behalf of or aid any person in negotiating or settling a claim
+27 relating to bodily injury, death, or noneconomic damages;
+Page 21 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (m) The process for rescinding the contract, including the date by which rescission
+2 of the contract by the adjuster or the insured may occur;[ and]
+3 (n) A statement that:
+4 1. Clearly states in substance[ the following]: "Complaints regarding this
+5 contract or regarding the public adjuster may be filed with the consumer
+6 protection division of the Kentucky Department of Insurance[.]"; and
+7 2. Contains the physical address, email address, and phone number for
+8 the department; and
+9 (o) A statement that clearly states in substance: "Any legal action arising out of
+10 or related to this contract shall be heard only in the courts of, and governed
+11 only by the laws of, the Commonwealth of Kentucky."
+12 (3) (a) Compensation provisions in a contract between a public adjuster and an
+13 insured shall not be redacted in any copy of the contract provided to the
+14 commissioner.
+15 (b) A redaction prohibited under paragraph (a) of this subsection shall constitute
+16 an omission of material fact in violation of KRS 304.9-440 and 304.12-230.
+17 (4) A contract between a public adjuster and an insured shall not contain any contract
+18 term that:
+19 (a) Allows the adjuster's percentage rate[fee] to be collected when money is due
+20 from an insurer, but not paid;
+21 (b) Allows the adjuster to collect the entire fee from the first check issued by an
+22 insurer, rather than as a percentage of each check issued by an insurer;
+23 (c) Requires an insured to authorize an insurer to issue a check only in the name
+24 of the adjuster;
+25 (d) Imposes collection costs or late fees;
+26 (e) Allows the adjuster's rate of compensation to be increased based on the fact
+27 that a claim is litigated; or
+Page 22 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (f) Precludes the adjuster from pursuing civil remedies.
+2 (5) Prior to the signing of a contract with an insured, a public adjuster shall provide the
+3 insured with a separate disclosure document regarding the claim process that states
+4 the following:
+5 "Property insurance policies obligate the insured to present a claim to his or her
+6 insurance company for consideration. Three (3) types of adjusters may be involved
+7 in the claim process as follows:
+8 1. "Staff adjuster" means an insurance adjuster who is an employee of an
+9 insurance company, who represents the interest of the insurance
+10 company, and who is paid by the insurance company. A staff adjuster
+11 shall not charge a fee to the insured;
+12 2. "Independent adjuster" means an insurance adjuster who is hired on a
+13 contract basis by an insurance company to represent the insurance
+14 company's interest in the settlement of the claims and who is paid by the
+15 insurance company. An independent adjuster shall not charge a fee to
+16 the insured; and
+17 3. "Public adjuster" means an insurance adjuster who does not work for
+18 any insurance company. A public adjuster works for the insured to assist
+19 in the preparation, presentation, and settlement of the claim, and the
+20 insured hires a public adjuster by signing a contract agreeing to pay him
+21 or her a fee or commission based on a percentage of the settlement or
+22 another method of payment.
+23 The insured is not required to hire a public adjuster to help the insured meet his or
+24 her obligations under the policy, but has the right to hire a public adjuster. The
+25 insured has the right to initiate direct communications with the insured's attorney,
+26 the insurer, the insurer's adjuster, the insurer's attorney, and any other person
+27 regarding the settlement of the insured's claim. The public adjuster shall not be a
+Page 23 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 representative or employee of the insurer. The salary, fee, commission, or other
+2 consideration paid to the public adjuster is the obligation of the insured, not the
+3 insurer."
+4 (6) (a) A contract between a public adjuster and an insured shall be executed in
+5 duplicate to provide an original physical copy of the contract to:
+6 1. The public adjuster; and
+7 2. The insured.
+8 (b) A public adjuster's original contract shall be available at all times for
+9 inspection by the commissioner without notice.
+10 (7) Within seventy-two (72) hours of entering into a contract with an insured, a public
+11 adjuster shall provide the insurer:
+12 (a) A notification letter that:
+13 1. Has been signed by the insured; and
+14 2. Authorizes the public adjuster to render advice and assistance to the
+15 insured in accordance with this subtitle[represent the insured's
+16 interest]; and
+17 (b) A physical copy of the contract.
+18 (8) (a) The insured shall have the right to rescind a contract with a public adjuster
+19 within:
+20 1. Except as provided in subparagraph 2. of this paragraph, five (5)[three
+21 (3)] business days after the date the physical copy of the contract was
+22 provided to the insured; or[signed]
+23 2. If the contract was entered into based on events that are the subject of
+24 a state of emergency that was declared by the Governor, a local chief
+25 executive officer, or a local government under KRS 39A.100 or
+26 39B.070, as applicable, ten (10) days after the contract is executed.
+27 (b) A rescission of a public adjuster contract shall be:
+Page 24 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 1. In writing;
+2 2. Mailed or delivered to the public adjuster at the address in the contract;
+3 and
+4 3. Postmarked or received within the applicable rescission[three (3)
+5 business day] period.
+6 (9) If an insured exercises the right to rescind a contract under subsection (8) of this
+7 section, anything of value given by the insured under the contract to the public
+8 adjuster shall be returned to the insured within fifteen (15) business days following
+9 receipt by the public adjuster of the rescission notice.
+10 (10) Any requirement to provide a physical copy of a contract under this section shall
+11 not be satisfied by providing an electronic copy of the contract.
+12 (11) A contract between a public adjuster and an insured that is in violation of any
+13 provision of this chapter shall not be enforceable.
+14 Section 5. KRS 304.9-4331 is amended to read as follows:
+15 (1) A public adjuster shall give an insured written notice of the insured's rights under
+16 this section and KRS 304.9-433 and 304.9-4332.
+17 (2) A public adjuster shall ensure that:
+18 (a) Prompt notice of a claim is provided to the insurer;
+19 (b) The property that is subject to a claim is available for inspection of the loss or
+20 damage by the insurer; and
+21 (c) The insurer is given the opportunity to interview the insured directly about the
+22 loss or damage and claim.
+23 (3) A public adjuster shall not restrict or prevent an insurer or its adjuster, or an
+24 attorney, investigator, or other person acting on behalf of the insurer, from:
+25 (a) Having reasonable access, at reasonable times, to:
+26 1. The insured or claimant; or
+27 2. The insured property that is the subject of a claim;
+Page 25 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (b) Obtaining necessary information to investigate and respond to a claim; or
+2 (c) Corresponding directly with the insured regarding the claim, except a public
+3 adjuster shall be copied on any correspondence with the insured relating to the
+4 claim.
+5 (4) (a) A public adjuster shall not act or fail to reasonably act in any manner that
+6 obstructs or prevents the insurer or its adjuster from timely conducting an
+7 inspection of any part of the insured property for which there is a claim for
+8 loss or damage.
+9 (b) Except as provided in paragraph (c) of this subsection, a public adjuster
+10 representing an insured may be present for the insurer's inspection.
+11 (c) If the unavailability of a public adjuster, after a reasonable request by the
+12 insurer, otherwise delays the insurer's timely inspection of the property, the
+13 insured shall allow the insurer to have access to the property without the
+14 participation or presence of the public adjuster in order to facilitate the
+15 insurer's prompt inspection of the loss or damage.
+16 (5) A public adjuster shall provide the insured, the insurer, and the commissioner with
+17 a written disclosure concerning any direct or indirect financial interest that the
+18 adjuster has with any other party who is involved in any aspect of the claim.
+19 (6) A public adjuster shall not:
+20 (a) Participate, directly or indirectly, in the reconstruction, repair, or restoration
+21 of damaged property that is the subject of a claim adjusted by the adjuster;
+22 (b) Engage in any activities that may be reasonably construed as a conflict of
+23 interest, including, directly or indirectly, soliciting or accepting any
+24 remuneration of any kind or nature;
+25 (c) Have a financial interest in, or otherwise be affiliated with, any salvage,
+26 repair, or any other business entity or person that obtains business in
+27 connection with any claim that the public adjuster has a contract to adjust;[ or]
+Page 26 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (d) Utilize a contractor, another form of business, or any other person to solicit
+2 or obtain contract signatures; or
+3 (e) 1. Use claim information obtained in the course of any claim investigation
+4 for commercial purposes.
+5 2. As used in subparagraph 1. of this paragraph, "commercial purposes"
+6 includes marketing or advertising used for the benefit of the public
+7 adjuster.
+8 (7) For a period of two (2) years beginning on the effective date of this section of this
+9 Act, a public adjuster shall not negotiate with an insurer on behalf of an insured
+10 in the adjustment or settlement of a claim.
+11 Section 6. KRS 304.9-4332 is amended to read as follows:
+12 (1) All funds received or held by a public adjuster on behalf of an insured toward the
+13 settlement of a claim shall be:
+14 (a) Handled in a fiduciary capacity; and
+15 (b) Deposited into one (1) or more separate noninterest-bearing fiduciary trust
+16 accounts in a financial institution licensed to do business in this state no later
+17 than the close of the second business day from the receipt of the funds.
+18 (2) The funds referenced in subsection (1) of this section shall:
+19 (a) Be held separately from any personal or nonbusiness funds;
+20 (b) Not be commingled or combined with other funds;
+21 (c) Be reasonably ascertainable from the books of accounts and records of the
+22 public adjuster; and
+23 (d) Be disbursed within thirty (30) calendar days of any invoice received by the
+24 public adjuster upon approval of the insured or the claimant that the work has
+25 been satisfactorily completed.
+26 (3) For[A public adjuster shall maintain an accurate record and itemization of] any
+27 funds deposited into an account under subsection (1) of this section, a public
+Page 27 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 adjuster shall:
+2 (a) Maintain an accurate record and itemization of the funds in accordance
+3 with KRS 304.9-435; and
+4 (b) Provide the insured with a receipt of deposit within three (3) business days
+5 after the date the funds were deposited.
+6 Section 7. KRS 304.9-4333 is amended to read as follows:
+7 (1) [Except as provided in subsection (2) of this section:
+8 (a) ]Any fee charged to an insured by a public adjuster shall[ be]:
+9 (a)[1.] Be based only on the amount of the insurance settlement proceeds
+10 actually received by the insured;[ and]
+11 (b)[2.] Be collected by the public adjuster after the insured has received the
+12 insurance settlement proceeds from the insurer; and
+13 (c) Comply with subsections (2) and (3) of this section.
+14 (2)[(b)] Except as provided in subsection (3) of this section or subsection (1) of
+15 Section 4 of this Act:
+16 (a) A public adjuster may receive a fee[commission] for services provided under
+17 this subtitle consisting of:
+18 1. An hourly rate[fee];
+19 2. A flat rate;
+20 3. A percentage rate[of the total amount paid by the insurer to resolve a
+21 claim]; or
+22 4. Another method of compensation; and
+23 (b)[(c)] A public adjuster:
+24 1. Shall not charge:
+25 a. An unreasonable fee; or
+26 b. A fee based on insurance settlement proceeds received by the
+27 insured prior to:
+Page 28 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 i. The execution of a contract between the insured and public
+2 adjuster; or[and]
+3 ii. The conclusion of the rescission period required under
+4 Section 4 of this Act; and
+5 2. May charge a reasonable fee that does not exceed ten percent (10%)[:
+6 a. For noncatastrophic claims, fifteen percent (15%)] of the[ total]
+7 insurance settlement proceeds upon which a fee may be based under
+8 this section[recovery of the insured; and
+9 b. For catastrophic claims, ten percent (10%) of the total insurance
+10 recovery of the insured].
+11 (3)[(2)] In the event a public adjuster is entitled to compensation in accordance with
+12 subsection (1)(b) of Section 4 of this Act and the[If an] insurer[, not later than
+13 seventy-two (72) hours after the date on which a loss or damage is reported to the
+14 insurer,] either pays or commits in writing to pay the policy limit of the insurance
+15 policy to the insured prior to the execution of, or conclusion of a rescission period
+16 for, a contract between the insured and the public adjuster, the[a] public adjuster
+17 shall:
+18 (a) Not receive a commission consisting of a percentage rate[of the total amount
+19 paid by the insurer to resolve a claim];
+20 (b) Inform the insured that the claim settlement amount may not be increased by
+21 the insurer; and
+22 (c) Be entitled only to reasonable compensation from the insured for services
+23 provided by the adjuster on behalf of the insured, based on the time spent on
+24 the claim and expenses incurred by the adjuster prior to when the claim was
+25 paid or the insured received a written commitment to pay from the insurer.
+26 Section 8. KRS 304.9-440 is amended to read as follows:
+27 (1) The commissioner may place on probation, suspend, or may impose conditions
+Page 29 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 upon the continuance of a license for not more than twenty-four (24) months,
+2 revoke, or refuse to issue or renew any license issued under this subtitle or any
+3 surplus lines broker, life settlement broker, or life settlement provider license, or
+4 may levy a civil penalty in accordance with KRS 304.99-020, or any combination
+5 of actions for any one (1) or more of the following causes:
+6 (a) Providing incorrect, misleading, incomplete, or materially untrue information
+7 in a license application;
+8 (b) Violating any insurance laws, or violating any administrative regulations,
+9 subpoena, or order of the commissioner or of another state's insurance
+10 commissioner;
+11 (c) Obtaining or attempting to obtain a license through misrepresentation or
+12 fraud;
+13 (d) Improperly withholding, misappropriating, or converting any moneys or
+14 properties received in the course of doing insurance or the business of life
+15 settlements;
+16 (e) Intentionally misrepresenting the terms of an actual or proposed insurance
+17 contract, life settlement contract, or application for insurance;
+18 (f) Having been convicted of or having pled guilty or nolo contendere to any
+19 felony;
+20 (g) Having admitted or been found to have committed any unfair insurance trade
+21 practice, insurance fraud, or fraudulent life settlement act;
+22 (h) Using fraudulent, coercive, or dishonest practices; or demonstrating
+23 incompetence, untrustworthiness, or financial irresponsibility; or being a
+24 source of injury or loss to the public in the conduct of business in this state or
+25 elsewhere;
+26 (i) Having an insurance license, life settlement license, or its equivalent, denied,
+27 suspended, or revoked in any other state, province, district, or territory;
+Page 30 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (j) Surrendering or otherwise terminating any license issued by this state or by
+2 any other jurisdiction, under threat of disciplinary action, denial, or refusal of
+3 the issuance of or renewal of any other license issued by this state or by any
+4 other jurisdiction; or revocation or suspension of any other license held by the
+5 licensee issued by this state or by any other jurisdiction;
+6 (k) Forging another's name to an application for insurance, to any other document
+7 related to an insurance transaction, or to any document related to the business
+8 of life settlements;
+9 (l) Cheating, including improperly using notes or any other reference material to
+10 complete an examination for license;
+11 (m) Knowingly accepting insurance or life settlement business from an individual
+12 or business entity who is not licensed, but who is required to be licensed
+13 under this subtitle;
+14 (n) Failing to comply with an administrative or court order imposing a child
+15 support obligation;
+16 (o) Failing to pay state income tax or to comply with any administrative or court
+17 order directing payment of state income tax;
+18 (p) Having been convicted of a misdemeanor for which restitution is ordered in
+19 excess of three hundred dollars ($300), or of any misdemeanor involving
+20 dishonesty, breach of trust, or moral turpitude;
+21 (q) [Failing to ]No longer meeting[meet] the requirements for initial licensure;
+22 (r) If a life settlement provider, demonstrating a pattern of unreasonable
+23 payments to owners or failing to honor contractual obligations set out in a life
+24 settlement contract;
+25 (s) Entering into any life settlement contract or using any form that has not been
+26 approved pursuant to Subtitle 15 of this chapter;
+27 (t) If a licensee, having assigned, transferred, or pledged a policy subject to a life
+Page 31 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 settlement contract to a person other than a life settlement provider licensed in
+2 this state, an accredited investor or qualified institutional buyer as defined,
+3 respectively, in Regulation D, Rule 501 or Rule 144a of the Federal Securities
+4 Act of 1933, as amended, a financing entity, a special purpose entity, or a
+5 related provider trust; or
+6 (u) Any other cause for which issuance of the license could have been refused,
+7 had it then existed and been known to the commissioner.
+8 (2) (a) For any public adjuster or apprentice adjuster supervised by a public adjuster
+9 under KRS 304.9-432, the commissioner shall[may] deny, suspend, or revoke
+10 the adjuster's or apprentice adjuster's license or impose a fine not to exceed
+11 five thousand dollars ($5,000) per act[ against the adjuster], or both, for any of
+12 the following causes:
+13 1. Violating any provision of this chapter;
+14 2. Violating any administrative regulation or order of the commissioner;
+15 3. Receiving payment or anything of value as a result of an unfair or
+16 deceptive practice;
+17 4. Receiving or accepting any fee, kickback, or other thing of value
+18 pursuant to any agreement or understanding, oral or otherwise, from
+19 anyone other than an insured;
+20 5. Entering into a split-fee arrangement with another person who is not a
+21 public adjuster; or
+22 6. Being otherwise paid or accepting payment for public adjuster services
+23 that have not been performed.
+24 (b) The sanctions and penalties under this subsection shall be in addition to any
+25 other remedies, penalties, or sanctions available to the commissioner against a
+26 public adjuster or an apprentice adjuster supervised by a public adjuster under
+27 KRS 304.9-432 under this section or any other law.
+Page 32 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (3) The license of a business entity may be suspended, revoked, or refused for any
+2 cause relating to an individual designated in or registered under the license if the
+3 commissioner finds that:
+4 (a) An individual licensee's violation was known or should have been known by
+5 one (1) or more of the partners, officers, or managers acting on behalf of the
+6 business entity; and
+7 (b) The violation was not reported to the department nor corrective action taken.
+8 (4) (a) The license of a pharmacy benefit manager may, in the discretion of the
+9 commissioner, be suspended, revoked, or refused for any cause enumerated in
+10 subsection (1) of this section, and for violations of KRS 205.647, 304.9-053,
+11 304.9-054, 304.9-055, and 304.17A-162.
+12 (b) The pharmacy benefit manager shall also be subject to the same civil penalties
+13 under KRS 304.99-020 as an insurer.
+14 (5) The applicant or licensee may make written request for a hearing in accordance
+15 with KRS 304.2-310.
+16 (6) The commissioner shall retain the authority to enforce the provisions and penalties
+17 of this chapter against any individual or business entity who is under investigation
+18 for or charged with a violation of this chapter, even if the individual's or business
+19 entity's license has been surrendered or has lapsed by operation of law.
+20 (7) The commissioner may suspend, revoke, or refuse to renew the license of a licensed
+21 insurance agent operating as a life settlement broker, pursuant to KRS 304.15-700,
+22 if the commissioner finds that such insurance agent has violated the provisions of
+23 KRS 304.15-700 to 304.15-725.
+24 (8) If the commissioner denies a license application or suspends, revokes, or refuses to
+25 renew the license of a life settlement provider or life settlement broker, or suspends,
+26 revokes, or refuses to renew the license of a licensed life insurance agent operating
+27 as a life settlement broker pursuant to KRS 304.15-700, the commissioner shall
+Page 33 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 comply with the provisions of this section and KRS Chapter 13B.
+2 (9) The sanctions and penalties applicable to licenses and licensees under subsection
+3 (1) of this section shall also be applicable to registrations and registrants under KRS
+4 304.52-030(3).
+5 SECTION 9. A NEW SECTION OF KRS CHAPTER 367 IS CREATED TO
+6 READ AS FOLLOWS:
+7 (1) (a) A violation of Section 4, 5, 6, or 7 of this Act shall be deemed to be an
+8 unfair, false, misleading, or deceptive act or practice in the conduct of trade
+9 or commerce in violation of KRS 367.170.
+10 (b) All of the remedies, powers, and duties provided to the Attorney General or
+11 any other person under KRS 367.110 to 367.300, and the penalties provided
+12 in KRS 367.990, pertaining to acts and practices declared unlawful by KRS
+13 367.170, shall apply with equal force and effect to a violation of this section.
+14 (2) (a) The remedies and penalties prescribed in this section shall be cumulative.
+15 (b) This section shall not be construed to limit or restrict the powers, duties,
+16 remedies, or penalties available to the Attorney General, the
+17 Commonwealth, or any other person under any other statutory or common
+18 law.
+19 Section 10. KRS 304.9-436 is amended to read as follows:
+20 (1) An authorized insurer shall not do business in Kentucky with an adjuster who is
+21 unlicensed in violation of KRS 304.9-080 and 304.9-430. This section shall not
+22 apply to transactions between an authorized insurer and persons providing adjusting
+23 services pursuant to KRS 304.9-430(10), (11), [(12), ]and (13)[(14)].
+24 (2) An authorized insurer shall not do business in Kentucky with an administrator who
+25 is not licensed in accordance with KRS 304.9-052. This subsection shall not apply
+26 to transactions between an authorized insurer and persons providing administrator
+27 services pursuant to KRS 304.9-051.
+Page 34 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 Section 11. KRS 304.9-295 is amended to read as follows:
+2 (1) This section shall apply to individuals who hold licenses or lines of authority
+3 requiring continuing education each biennium.
+4 (2) The continuing education biennial compliance date for an individual resident
+5 licensee shall be as follows:
+6 (a) A licensee whose birth date is in an even-numbered year shall satisfy
+7 continuing education requirements on or before the last day of the licensee's
+8 birth month in the even-numbered year. A licensee shall show proof of
+9 compliance to the commissioner within sixty (60) days after the continuing
+10 education biennial compliance date. If the licensee has not held the license for
+11 one (1) year, the compliance date is adjusted to the next even-numbered year
+12 and each subsequent even-numbered year thereafter. If the license becomes
+13 inactive and reissued within a twelve (12) month period, the compliance date
+14 shall remain the same;
+15 (b) A licensee whose birth date is in an odd-numbered year shall satisfy
+16 continuing education requirements and show proof of compliance to the
+17 commissioner on or before the last day of the licensee's birth month in the
+18 odd-numbered year. A licensee shall show proof of compliance to the
+19 commissioner within sixty (60) days after the continuing education biennial
+20 compliance date. If the licensee has not held the license for one (1) year, the
+21 compliance date is adjusted to the next odd-numbered year and each
+22 subsequent odd-numbered year thereafter. If the license becomes inactive and
+23 reissued within a twelve (12) month period, the compliance date shall remain
+24 the same.
+25 (3) This section shall not apply to:
+26 (a) Limited lines of authority under agent licenses, as exempted by the
+27 commissioner in accordance with KRS 304.9-230;
+Page 35 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (b) Licensees not licensed for one (1) full year prior to the end of the applicable
+2 continuing education biennium;
+3 (c) Licensees holding nonresident licenses who have met the continuing
+4 education requirements of their home state and whose home state gives credit
+5 to Kentucky resident licensees on the same basis; or
+6 (d) Licensees maintaining their licenses for the sole purpose of receiving
+7 renewals or deferred commissions and providing the department with a
+8 supporting affidavit.
+9 (4) A licensee, who holds an agent license and who is not exempt under subsection (3)
+10 of this section, shall satisfactorily complete a minimum of twenty-four (24) hours of
+11 continuing education courses, of which three (3) hours shall have a course
+12 concentration in ethics, during each continuing education biennium.
+13 (5) Beginning July 31, 2012, an individual who holds an independent or public adjuster
+14 license and who is not exempt under KRS 304.9-430(10)[ or (11)], shall
+15 satisfactorily complete a minimum of twenty-four (24) hours of continuing
+16 education courses, of which three (3) hours shall have a course concentration in
+17 ethics in accordance with subsection (4) of this section. Continuing education hours
+18 shall be reported to the commissioner on a biennial basis in conjunction with the
+19 licensee's renewal in accordance with subsection (10) of this section.
+20 (6) Only continuing education courses approved by the commissioner shall be used to
+21 satisfy the continuing education requirement of subsection (4) of this section and
+22 any other continuing education requirement of this chapter.
+23 (a) The continuing education courses which meet the commissioner's standards
+24 for continuing education requirements are:
+25 1. Any part of the Life Underwriter Training Council life course
+26 curriculum;
+27 2. Any part of the Health Underwriter Training Council health course
+Page 36 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 curriculum;
+2 3. Any part of the American College Chartered Life Underwriter diploma
+3 curriculum;
+4 4. Any part of the American Institute for Property and Liability
+5 Underwriters' chartered property and casualty underwriter profession
+6 designation program;
+7 5. Any part of the Insurance Institute of America's programs;
+8 6. Any part of the certified insurance counselor program;
+9 7. Any insurance related course taught at an accredited college or
+10 university, if the course is approved by the commissioner;
+11 8. Any course of instruction or seminar developed or sponsored by any
+12 authorized insurer, recognized agent association, recognized insurance
+13 trade association, or any independent program of instruction, if
+14 approved by the commissioner;
+15 9. Any correspondence course approved by the commissioner; and
+16 10. Any course in accordance with provisions of reciprocal agreements the
+17 commissioner enters with other states.
+18 (b) The commissioner shall prescribe the number of hours of continuing
+19 education credit for each continuing education course approved in accordance
+20 with this subsection. Continuing education courses submitted in accordance
+21 with a reciprocal agreement shall be approved according to the provisions of
+22 the reciprocal agreement.
+23 (c) If a continuing education course requires successful completion of a written
+24 examination, no continuing education credit shall be given to licensees who
+25 do not successfully complete the written examination.
+26 (d) The fee for filing continuing education courses for approval by the
+27 commissioner shall be as specified in Subtitle 4 of KRS Chapter 304.
+Page 37 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (e) For continuing education courses of reciprocal states, continuing education
+2 providers shall be approved in accordance with the provisions of the
+3 reciprocal agreements.
+4 (7) An individual teaching any approved continuing education course shall qualify for
+5 the same number of hours of continuing education credit as would be granted to a
+6 licensee taking and satisfactorily completing the course.
+7 (8) Excess credit hours accumulated during any continuing education biennium may be
+8 carried forward. The commissioner may, by regulation, limit the number of hours
+9 carried forward.
+10 (9) For good cause shown, the commissioner may grant an extension of time during
+11 which the continuing education requirement of subsection (2) of this section may be
+12 completed, but the extension of time shall not exceed two (2) years. What
+13 constitutes good cause for the extension of time rests within the discretion of the
+14 commissioner.
+15 (10) Every licensee subject to this section shall furnish to the commissioner written
+16 certification as to the continuing education courses satisfactorily completed by the
+17 licensee. The certification shall be signed by or on behalf of the provider sponsoring
+18 the continuing education course. The certification shall be on a form prescribed by
+19 the commissioner.
+20 (11) The provider shall furnish to the commissioner certification as to the continuing
+21 education courses satisfactorily completed by each licensee. The certification shall
+22 be signed or authenticated by or on behalf of the provider sponsoring the continuing
+23 education course. The certification shall be on a form or in a format prescribed by
+24 the commissioner.
+25 (12) The license or line of authority requiring continuing education shall expire if the
+26 individual holding the license or line of authority fails to comply with the
+27 continuing education requirement and has not been granted an extension of time to
+Page 38 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 comply in accordance with subsection (9) of this section. If the license has expired,
+2 the license shall be promptly surrendered to the commissioner without demand. If
+3 the line of authority has terminated but another line of authority not requiring
+4 continuing education is still in effect, the license shall be promptly delivered to the
+5 commissioner for reissuance as to the line of authority still in effect.
+6 (13) The license of any individual subject to the continuing education requirement shall
+7 be suspended or revoked, a civil penalty imposed, or both, in accordance with KRS
+8 304.9-440, if the individual submits to the commissioner a false or fraudulent
+9 certificate of compliance with the continuing education requirement.
+10 (14) (a) The commissioner may withdraw approval of a continuing education
+11 provider, course, or instructor for good and just cause.
+12 (b) In addition to or in lieu of withdrawal of approval, the commissioner may
+13 impose a civil penalty of not more than one thousand dollars ($1,000) per
+14 violation of this chapter by a provider or an instructor.
+15 Section 12. KRS 196.026 is amended to read as follows:
+16 The Department of Corrections shall consist of the following organizational units:
+17 (1) Division of Compliance;
+18 (2) Division of Public Affairs;
+19 (3) Office of Adult Institutions, which shall have the following divisions:
+20 (a) Division of Operations and Program Services;
+21 (b) Division of Medical Services;
+22 (c) Division of Mental Health Services;
+23 (d) Division of Education;
+24 (e) Division of Correctional Industries;
+25 (f) Division of Kentucky State Reformatory;
+26 (g) Division of Luther Luckett Correctional Complex;
+27 (h) Division of Roederer Correctional Complex;
+Page 39 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 (i) Division of Blackburn Correctional Complex;
+2 (j) Division of Kentucky Correctional Institution for Women;
+3 (k) Division of Northpoint Training Center[ Division];
+4 (l) Division of Eastern Kentucky Correctional Complex;
+5 (m) Division of Bell County Forestry Camp;
+6 (n) Division of Kentucky State Penitentiary;
+7 (o) Division of Western Kentucky Correctional Complex;
+8 (p) Division of Green River Correctional Complex;
+9 (q) Division of Little Sandy Correctional Complex;[ and]
+10 (r) Division of Southeast State Correctional Complex; and
+11 (s) Division of Central Kentucky Medical Correctional Complex.
+12 Each division specified in paragraphs (f) to (s)[(r)] of this subsection shall be
+13 headed by a warden pursuant to KRS 196.160;
+14 (4) Office of Community Services and Facilities, which shall have the following
+15 divisions:
+16 (a) Division of Probation and Parole;
+17 (b) Division of Reentry;
+18 (c) Division of Local Facilities; and
+19 (d) Division of Addiction Services; and
+20 (5) Office of Support Services, which shall have the following divisions:
+21 (a) Division of Administrative Services;
+22 (b) Division of Corrections Training;
+23 (c) Division of Population Management;
+24 (d) Division of Offender Information Services; and
+25 (e) Division of Parole Board Support.
+26 Section 13. KRS 342.908 is amended to read as follows:
+27 (1) The commissioner shall notify a guaranty fund if the commissioner has knowledge
+Page 40 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 that any member of the guaranty fund has failed to timely pay workers'
+2 compensation benefits required by this chapter or if a court of competent
+3 jurisdiction has declared the member to be bankrupt or insolvent.
+4 (2) In the event of issuance of a certificate of default, the commissioner shall call all
+5 security and transfer it to the appropriate guaranty fund created pursuant to this
+6 section. The commissioner shall also immediately notify, by certified mail, the
+7 guaranty fund and order the guaranty fund to assume the workers' compensation
+8 obligations of the member required in this chapter. The guaranty fund shall
+9 commence payment of these obligations within fourteen (14) days of receipt of
+10 notification and order of the commissioner. Payment shall be made to claimants
+11 whose entitlement to benefits can be ascertained by the guaranty fund with or
+12 without proceedings before the Department of Workers' Claims or a court of
+13 competent jurisdiction. Upon assumption of the obligations of a member by a
+14 guaranty fund, the guaranty fund shall have the right to immediate possession of
+15 any security, and the custodian, surety, or issuer of any irrevocable letter of credit
+16 shall turn over the security, proceeds of the surety bond, or letter of credit to the
+17 guaranty fund, together with the interest that has accrued since the date of the
+18 member's insolvency. The guaranty fund may administer payment of benefits or it
+19 may retain a third party to do so.
+20 (3) Notwithstanding any other provision of law, any cash, securities, irrevocable letters
+21 of credit, specific excess or aggregate excess insurance proceeds, or any other
+22 security deposited or posted in accordance with this section shall be used first, when
+23 due, to pay workers' compensation claims. After the security has been exhausted,
+24 the payment of workers' compensation claims from member assessments may be
+25 made. Where the guaranty fund member-assessment account is used to pay workers'
+26 compensation claims on an emergency or an interim basis, pending receipt by the
+27 guaranty fund of security which is due but not yet received, the member-assessment
+Page 41 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 account shall be reimbursed for payment from the security when it is received, and
+2 the priorities stated above shall thereafter apply.
+3 (4) (a) To the extent necessary to secure funds for the initial establishment of each
+4 guaranty fund member-assessment account, the board of directors of each
+5 guaranty fund created pursuant to this section shall levy assessments based on
+6 the premium of each individual self-insured employer, as defined and
+7 calculated pursuant to KRS 342.0011(28), for members of the Kentucky
+8 individual self-insurers guaranty fund and for the Kentucky coal employers
+9 self-insurance guaranty fund, and KRS 342.0011(24) for the Kentucky group
+10 self-insurance guaranty fund, but no such assessments shall ever exceed, in
+11 the aggregate, from all members of a single guaranty fund, an amount in
+12 excess of one million dollars ($1,000,000) at any given time.
+13 (b) The assessments shall be made at a maximum annual assessment of:
+14 1. One-half of one percent (0.5%) of the premium for each member of the
+15 Kentucky individual self-insurance guaranty fund as defined and
+16 calculated pursuant to KRS 342.0011(28);
+17 2. Two percent (2%) of the premium for each member of the Kentucky
+18 coal employers guaranty fund as defined and calculated pursuant to KRS
+19 342.0011(28); and
+20 3. Three-fourths of one percent (0.75%) of the premium for each member
+21 of the Kentucky group self-insurance guaranty fund as defined and
+22 calculated pursuant to KRS 342.0011(24).
+23 (5) The initial assessment for each guaranty fund created pursuant to this section shall
+24 be for an amount equal to five hundred thousand dollars ($500,000), to be levied
+25 and collected within a one (1) year period. There shall be no reassessments against
+26 any member unless the current balance of such guaranty fund created pursuant this
+27 section is insufficient after deducting the amount paid for or reserved for
+Page 42 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 outstanding claims and for administrative and other costs in managing the guaranty
+2 fund at which point the board of directors shall raise assessments sufficient to bring
+3 the minimum amount of the guaranty fund to five hundred thousand dollars
+4 ($500,000) or such other amount not to exceed, in any event, one million dollars
+5 ($1,000,000) based upon a maximum annual assessment for each guaranty fund.
+6 (6) A guaranty fund created pursuant to this section shall pay no dividends, rebates,
+7 interest, or otherwise distribute income from the guaranty fund to any of its
+8 members, unless the guaranty fund has the assets prescribed in subsection (5) of this
+9 section and the distributions are approved by the commissioner.
+10 (7) The commissioner shall be provided with any relevant information by the employer,
+11 any excess insurer, any third party administrator, or any issuer of any irrevocable
+12 letter of credit, issuer of any surety bond, or custodian of any security necessary for
+13 the commissioner to carry out the commissioner's obligations under this chapter,
+14 and the commissioner shall provide this information to the guaranty fund as
+15 necessary to carry out its obligations.
+16 (8) The payment of benefits by a guaranty fund does not release any person or entity
+17 from any liability to the individual guaranty fund for full reimbursement.
+18 (9) (a) As used in this subsection:
+19 1. "Annual special fund assessment" means the assessment imposed
+20 upon a member fund pursuant to KRS 342.122(1)(b);
+21 2. "Division" means the Division of Workers' Compensation Funds in
+22 the Department of Workers' Claims;
+23 3. "Group fund" means the Kentucky group self-insurance fund
+24 established pursuant to KRS 342.906(2); and
+25 4. "Member fund" means a member or former member of the Kentucky
+26 group self-insurance fund that is assessed under subsection (4) of this
+27 section on or after January 1, 2026, for liabilities incurred while a
+Page 43 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
+
+UNOFFICIAL COPY 26 RS HB 568/EN
+1 member.
+2 (b) Notwithstanding any provision of KRS 342.122 to the contrary, or any other
+3 provision of this chapter or other law, for calendar years beginning January
+4 1, 2027, and January 1, 2028:
+5 1. The amount of the annual special fund assessment imposed upon a
+6 member fund shall be retained by the member fund and paid to the
+7 credit of the group fund for the purpose of satisfying the group fund's
+8 outstanding workers' compensation claims; and
+9 2. A member fund shall pay the amounts of its annual special fund
+10 assessment to the group fund on the schedule set forth in KRS
+11 342.122(2)(a) and (b) and shall provide the division with notice of the
+12 assessments paid.
+13 (c) This subsection shall not apply to any special fund assessment for any
+14 calendar year beginning after December 31, 2028.
+15 Section 14. Sections 4 to 7 of this Act apply to contracts entered into on or after
+16 the effective date of Sections 4 to 7 of this Act.
+17 Section 15. Whereas ensuring adequate licensing requirements for public
+18 adjusters is crucial for the protection of consumers, and it is critical to ensure that the
+19 Department of Corrections is able to provide the care and capacity necessary for the
+20 inmate population, an emergency is declared to exist, and Sections 1, 2, 3, 10, 11, and 12
+21 of this Act take effect upon its passage and approval by the Governor or upon its
+22 otherwise becoming a law.
+Page 44 of 44
+HB056820.100 - 473 - XXXX 4/2/2026 12:15 AM Engrossed
